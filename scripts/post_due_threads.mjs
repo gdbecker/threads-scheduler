@@ -5,8 +5,11 @@ import { glob } from "glob";
 const GRAPH_VERSION = "v23.0";
 const GRAPH_BASE = `https://graph.threads.net/${GRAPH_VERSION}`;
 
+const REPO = process.env.GITHUB_REPOSITORY;
+const BRANCH = process.env.GITHUB_REF_NAME || "main";
+
 const ACCOUNTS = {
-  garretts_dev_desk: {
+  community_desk: {
     userId: process.env.THREADS_GARRETTS_DEV_DESK_USER_ID,
     accessToken: process.env.THREADS_GARRETTS_DEV_DESK_ACCESS_TOKEN
   },
@@ -16,63 +19,184 @@ const ACCOUNTS = {
   }
 };
 
-function requireEnv(value, name) {
-  if (!value) throw new Error(`Missing required environment variable: ${name}`);
+function requireValue(value, name) {
+  if (!value) throw new Error(`Missing required value: ${name}`);
   return value;
+}
+
+function publicMediaUrl(mediaItem) {
+  if (mediaItem.url) return mediaItem.url;
+
+  if (!mediaItem.path) {
+    throw new Error(`Media item must include either "url" or "path".`);
+  }
+
+  requireValue(REPO, "GITHUB_REPOSITORY");
+
+  return `https://raw.githubusercontent.com/${REPO}/${BRANCH}/${mediaItem.path}`;
 }
 
 function validatePost(post, filePath) {
   if (!post.id) throw new Error(`Missing id in ${filePath}`);
   if (!post.account) throw new Error(`Missing account in ${filePath} for ${post.id}`);
   if (!post.scheduled_at) throw new Error(`Missing scheduled_at in ${filePath} for ${post.id}`);
-  if (!post.text) throw new Error(`Missing text in ${filePath} for ${post.id}`);
-
-  if (post.text.length > 500) {
-    throw new Error(`Post ${post.id} is ${post.text.length} characters. Threads text posts must be 500 characters or fewer.`);
+  if (!post.text && (!post.media || post.media.length === 0)) {
+    throw new Error(`Post ${post.id} needs text or media.`);
   }
 
-  if (post.media?.length) {
-    throw new Error(`Post ${post.id} has media. This v1 scheduler is text-only.`);
+  if (post.text && post.text.length > 500) {
+    throw new Error(`Post ${post.id} is ${post.text.length} characters. Threads posts must be 500 characters or fewer.`);
   }
 
   if (!ACCOUNTS[post.account]) {
     throw new Error(`Unknown account "${post.account}" in ${filePath} for ${post.id}`);
   }
+
+  if (!Array.isArray(post.media)) {
+    throw new Error(`Post ${post.id} media must be an array.`);
+  }
+
+  if (post.media.length > 10) {
+    throw new Error(`Post ${post.id} has ${post.media.length} media items. Keep carousels to 10 or fewer.`);
+  }
+
+  for (const item of post.media) {
+    if (!["image", "video"].includes(item.type)) {
+      throw new Error(`Post ${post.id} has invalid media type "${item.type}". Use "image" or "video".`);
+    }
+  }
 }
 
-async function createTextContainer({ userId, accessToken, text }) {
-  const url = new URL(`${GRAPH_BASE}/${userId}/threads`);
-  url.searchParams.set("media_type", "TEXT");
-  url.searchParams.set("text", text);
-  url.searchParams.set("access_token", accessToken);
+async function graphPost(endpoint, params) {
+  const url = new URL(`${GRAPH_BASE}/${endpoint}`);
+
+  for (const [key, value] of Object.entries(params)) {
+    if (value !== undefined && value !== null && value !== "") {
+      url.searchParams.set(key, value);
+    }
+  }
 
   const response = await fetch(url, { method: "POST" });
   const data = await response.json();
 
   if (!response.ok) {
-    throw new Error(`Create container failed: ${JSON.stringify(data)}`);
+    throw new Error(`Threads API error: ${JSON.stringify(data)}`);
   }
 
-  if (!data.id) {
-    throw new Error(`Create container response missing id: ${JSON.stringify(data)}`);
+  return data;
+}
+
+async function createTextContainer({ userId, accessToken, text }) {
+  const data = await graphPost(`${userId}/threads`, {
+    media_type: "TEXT",
+    text,
+    access_token: accessToken
+  });
+
+  return data.id;
+}
+
+async function createSingleMediaContainer({ userId, accessToken, text, mediaItem }) {
+  const mediaType = mediaItem.type === "image" ? "IMAGE" : "VIDEO";
+  const mediaUrl = publicMediaUrl(mediaItem);
+
+  const params = {
+    media_type: mediaType,
+    text,
+    access_token: accessToken,
+    alt_text: mediaItem.alt
+  };
+
+  if (mediaItem.type === "image") {
+    params.image_url = mediaUrl;
+  } else {
+    params.video_url = mediaUrl;
   }
+
+  const data = await graphPost(`${userId}/threads`, params);
+  return data.id;
+}
+
+async function createCarouselItem({ userId, accessToken, mediaItem }) {
+  const mediaType = mediaItem.type === "image" ? "IMAGE" : "VIDEO";
+  const mediaUrl = publicMediaUrl(mediaItem);
+
+  const params = {
+    media_type: mediaType,
+    is_carousel_item: "true",
+    access_token: accessToken,
+    alt_text: mediaItem.alt
+  };
+
+  if (mediaItem.type === "image") {
+    params.image_url = mediaUrl;
+  } else {
+    params.video_url = mediaUrl;
+  }
+
+  const data = await graphPost(`${userId}/threads`, params);
+  return data.id;
+}
+
+async function createCarouselContainer({ userId, accessToken, text, childIds }) {
+  const data = await graphPost(`${userId}/threads`, {
+    media_type: "CAROUSEL",
+    children: childIds.join(","),
+    text,
+    access_token: accessToken
+  });
 
   return data.id;
 }
 
 async function publishContainer({ userId, accessToken, creationId }) {
-  const url = new URL(`${GRAPH_BASE}/${userId}/threads_publish`);
-  url.searchParams.set("creation_id", creationId);
-  url.searchParams.set("access_token", accessToken);
+  return graphPost(`${userId}/threads_publish`, {
+    creation_id: creationId,
+    access_token: accessToken
+  });
+}
 
-  const response = await fetch(url, { method: "POST" });
-  const data = await response.json();
+async function sleep(ms) {
+  return new Promise((resolve) => setTimeout(resolve, ms));
+}
 
-  if (!response.ok) {
-    throw new Error(`Publish failed: ${JSON.stringify(data)}`);
+async function createContainerForPost({ userId, accessToken, post }) {
+  if (post.media.length === 0) {
+    return createTextContainer({
+      userId,
+      accessToken,
+      text: post.text
+    });
   }
 
-  return data;
+  if (post.media.length === 1) {
+    return createSingleMediaContainer({
+      userId,
+      accessToken,
+      text: post.text,
+      mediaItem: post.media[0]
+    });
+  }
+
+  const childIds = [];
+
+  for (const mediaItem of post.media) {
+    const childId = await createCarouselItem({
+      userId,
+      accessToken,
+      mediaItem
+    });
+
+    childIds.push(childId);
+    await sleep(3000);
+  }
+
+  return createCarouselContainer({
+    userId,
+    accessToken,
+    text: post.text,
+    childIds
+  });
 }
 
 async function main() {
@@ -98,39 +222,48 @@ async function main() {
       if (post.status !== "queued") continue;
 
       const scheduledAt = new Date(post.scheduled_at);
-      if (Number.isNaN(scheduledAt.getTime())) {
-        throw new Error(`Invalid scheduled_at for post ${post.id}: ${post.scheduled_at}`);
-      }
-
       if (scheduledAt > now) continue;
 
       const account = ACCOUNTS[post.account];
-      const userId = requireEnv(account.userId, `${post.account} user id`);
-      const accessToken = requireEnv(account.accessToken, `${post.account} access token`);
+      const userId = requireValue(account.userId, `${post.account} user id`);
+      const accessToken = requireValue(account.accessToken, `${post.account} access token`);
 
       console.log(`Posting ${post.id} to ${post.account}...`);
 
-      const creationId = await createTextContainer({
-        userId,
-        accessToken,
-        text: post.text
-      });
+      try {
+        const creationId = await createContainerForPost({
+          userId,
+          accessToken,
+          post
+        });
 
-      const publishResult = await publishContainer({
-        userId,
-        accessToken,
-        creationId
-      });
+        await sleep(post.media.length > 0 ? 30000 : 3000);
 
-      post.status = "posted";
-      post.posted_at = new Date().toISOString();
-      post.threads_creation_id = creationId;
-      post.threads_post_id = publishResult.id ?? null;
+        const publishResult = await publishContainer({
+          userId,
+          accessToken,
+          creationId
+        });
 
-      changed = true;
-      postedCount += 1;
+        post.status = "posted";
+        post.posted_at = new Date().toISOString();
+        post.threads_creation_id = creationId;
+        post.threads_post_id = publishResult.id ?? null;
+        post.error = null;
 
-      console.log(`Posted ${post.id}`);
+        changed = true;
+        postedCount += 1;
+
+        console.log(`Posted ${post.id}`);
+      } catch (error) {
+        post.status = "error";
+        post.error_at = new Date().toISOString();
+        post.error = error.message;
+
+        changed = true;
+
+        console.error(`Failed ${post.id}:`, error);
+      }
     }
 
     if (changed) {

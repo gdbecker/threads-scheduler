@@ -35,8 +35,8 @@ jobs:
       - name: Post due Threads posts
         run: npm run post:due
 
-      - name: Commit posted status updates
+      - name: Commit post status updates
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Mark Threads posts as posted"
+          commit_message: "Update Threads post statuses"
           file_pattern: posts/**/*.json
