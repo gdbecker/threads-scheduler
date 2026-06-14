@@ -1,0 +1,13 @@
+{
+  "name": "threads-scheduler",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "post:due": "node scripts/post_due_threads.mjs",
+    "tokens:refresh": "node scripts/refresh_threads_tokens.mjs"
+  },
+  "dependencies": {
+    "glob": "^11.0.0"
+  }
+}

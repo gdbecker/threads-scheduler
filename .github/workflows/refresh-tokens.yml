@@ -1,0 +1,29 @@
+name: Refresh Threads Tokens
+
+on:
+  schedule:
+    - cron: "0 10 1 * *"
+  workflow_dispatch:
+
+jobs:
+  refresh-threads-tokens:
+    runs-on: ubuntu-latest
+
+    env:
+      THREADS_GARRETTS_DEV_DESK_ACCESS_TOKEN: ${{ secrets.THREADS_GARRETTS_DEV_DESK_ACCESS_TOKEN }}
+      THREADS_EDGE_STUDIO_ACCESS_TOKEN: ${{ secrets.THREADS_EDGE_STUDIO_ACCESS_TOKEN }}
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Refresh Threads tokens
+        run: npm run tokens:refresh
