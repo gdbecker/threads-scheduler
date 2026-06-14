@@ -6,6 +6,8 @@
     "text": "Curiosity is not extra.\n\nIt is one of the ways students learn how to stay interested long enough to think deeply.",
     "media": [],
     "alt": [],
-    "status": "queued"
+    "status": "error",
+    "error_at": "2026-06-14T21:51:46.462Z",
+    "error": "Threads API error: {\"error\":{\"message\":\"Unknown path components: /threads\",\"type\":\"THApiException\",\"code\":2500,\"fbtrace_id\":\"AQ5aoUfPkqcC6wA_s37qCrV\"}}"
   }
 ]
