@@ -6,7 +6,10 @@
     "text": "Field note:\n\nThe hardest part of many notices is not writing them.\n\nIt is remembering everything that has to happen before and after the notice is sent.",
     "media": [],
     "alt": [],
-    "status": "queued",
-    "error": null
+    "status": "posted",
+    "error": null,
+    "posted_at": "2026-06-14T22:27:12.639Z",
+    "threads_creation_id": "18108487966792961",
+    "threads_post_id": "18552662263068932"
   }
 ]
