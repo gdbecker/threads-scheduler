@@ -2,7 +2,7 @@ import fs from "node:fs/promises";
 import path from "node:path";
 import { glob } from "glob";
 
-const GRAPH_VERSION = "v23.0";
+const GRAPH_VERSION = "v1.0";
 const GRAPH_BASE = `https://graph.threads.net/${GRAPH_VERSION}`;
 
 const REPO = process.env.GITHUB_REPOSITORY;

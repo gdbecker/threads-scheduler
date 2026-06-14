@@ -6,8 +6,7 @@
     "text": "Field note:\n\nThe hardest part of many notices is not writing them.\n\nIt is remembering everything that has to happen before and after the notice is sent.",
     "media": [],
     "alt": [],
-    "status": "error",
-    "error_at": "2026-06-14T21:51:46.387Z",
-    "error": "Threads API error: {\"error\":{\"message\":\"Unknown path components: /threads\",\"type\":\"THApiException\",\"code\":2500,\"fbtrace_id\":\"ACSygnqw2YfmFMAxTBlB42s\"}}"
+    "status": "queued",
+    "error": null
   }
 ]

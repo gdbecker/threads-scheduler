@@ -1,4 +1,4 @@
-const GRAPH_VERSION = "v23.0";
+const GRAPH_VERSION = "v1.0";
 const GRAPH_BASE = `https://graph.threads.net/${GRAPH_VERSION}`;
 
 const TOKENS = {
