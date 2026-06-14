@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "type": "module",
   "private": true,
+  "engines": {
+    "node": ">=18"
+  },
   "scripts": {
     "post:due": "node scripts/post_due_threads.mjs",
     "tokens:get": "node scripts/get_threads_token.mjs",

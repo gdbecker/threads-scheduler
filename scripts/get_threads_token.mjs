@@ -6,23 +6,24 @@ const {
   THREADS_SHORT_LIVED_TOKEN
 } = process.env;
 
-const GRAPH_VERSION = "v23.0";
-const GRAPH_BASE = `https://graph.threads.net/${GRAPH_VERSION}`;
-
 function requireValue(value, name) {
   if (!value) throw new Error(`Missing ${name}`);
   return value;
 }
 
 async function exchangeCodeForShortLivedToken() {
-  const url = new URL(`${GRAPH_BASE}/oauth/access_token`);
-  url.searchParams.set("client_id", requireValue(THREADS_APP_ID, "THREADS_APP_ID"));
-  url.searchParams.set("client_secret", requireValue(THREADS_APP_SECRET, "THREADS_APP_SECRET"));
-  url.searchParams.set("grant_type", "authorization_code");
-  url.searchParams.set("redirect_uri", requireValue(THREADS_REDIRECT_URI, "THREADS_REDIRECT_URI"));
-  url.searchParams.set("code", requireValue(THREADS_AUTH_CODE, "THREADS_AUTH_CODE"));
+  const form = new FormData();
+  form.append("client_id", requireValue(THREADS_APP_ID, "THREADS_APP_ID"));
+  form.append("client_secret", requireValue(THREADS_APP_SECRET, "THREADS_APP_SECRET"));
+  form.append("grant_type", "authorization_code");
+  form.append("redirect_uri", requireValue(THREADS_REDIRECT_URI, "THREADS_REDIRECT_URI"));
+  form.append("code", requireValue(THREADS_AUTH_CODE, "THREADS_AUTH_CODE"));
 
-  const response = await fetch(url, { method: "POST" });
+  const response = await fetch("https://graph.threads.net/oauth/access_token", {
+    method: "POST",
+    body: form
+  });
+
   const data = await response.json();
 
   if (!response.ok) {
@@ -34,7 +35,7 @@ async function exchangeCodeForShortLivedToken() {
 }
 
 async function exchangeShortForLongLivedToken() {
-  const url = new URL(`${GRAPH_BASE}/access_token`);
+  const url = new URL("https://graph.threads.net/access_token");
   url.searchParams.set("grant_type", "th_exchange_token");
   url.searchParams.set("client_secret", requireValue(THREADS_APP_SECRET, "THREADS_APP_SECRET"));
   url.searchParams.set("access_token", requireValue(THREADS_SHORT_LIVED_TOKEN, "THREADS_SHORT_LIVED_TOKEN"));
