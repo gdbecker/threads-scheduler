@@ -9,7 +9,7 @@ const REPO = process.env.GITHUB_REPOSITORY;
 const BRANCH = process.env.GITHUB_REF_NAME || "main";
 
 const ACCOUNTS = {
-  community_desk: {
+  garretts_dev_desk: {
     userId: process.env.THREADS_GARRETTS_DEV_DESK_USER_ID,
     accessToken: process.env.THREADS_GARRETTS_DEV_DESK_ACCESS_TOKEN
   },
