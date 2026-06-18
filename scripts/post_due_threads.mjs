@@ -11,17 +11,24 @@ const BRANCH = process.env.GITHUB_REF_NAME || "main";
 const ACCOUNTS = {
   garretts_dev_desk: {
     userId: process.env.THREADS_GARRETTS_DEV_DESK_USER_ID,
-    accessToken: process.env.THREADS_GARRETTS_DEV_DESK_ACCESS_TOKEN
+    accessToken: process.env.THREADS_GARRETTS_DEV_DESK_ACCESS_TOKEN,
   },
   edge_studio: {
     userId: process.env.THREADS_EDGE_STUDIO_USER_ID,
-    accessToken: process.env.THREADS_EDGE_STUDIO_ACCESS_TOKEN
-  }
+    accessToken: process.env.THREADS_EDGE_STUDIO_ACCESS_TOKEN,
+  },
 };
 
 function requireValue(value, name) {
   if (!value) throw new Error(`Missing required value: ${name}`);
   return value;
+}
+
+function getPostTexts(post) {
+  if (!Array.isArray(post.posts)) return [];
+  return post.posts.filter(
+    (item) => typeof item === "string" && item.trim().length > 0,
+  );
 }
 
 function publicMediaUrl(mediaItem) {
@@ -38,31 +45,54 @@ function publicMediaUrl(mediaItem) {
 
 function validatePost(post, filePath) {
   if (!post.id) throw new Error(`Missing id in ${filePath}`);
-  if (!post.account) throw new Error(`Missing account in ${filePath} for ${post.id}`);
-  if (!post.scheduled_at) throw new Error(`Missing scheduled_at in ${filePath} for ${post.id}`);
-  if (!post.text && (!post.media || post.media.length === 0)) {
-    throw new Error(`Post ${post.id} needs text or media.`);
-  }
-
-  if (post.text && post.text.length > 500) {
-    throw new Error(`Post ${post.id} is ${post.text.length} characters. Threads posts must be 500 characters or fewer.`);
-  }
-
-  if (!ACCOUNTS[post.account]) {
-    throw new Error(`Unknown account "${post.account}" in ${filePath} for ${post.id}`);
-  }
+  if (!post.account)
+    throw new Error(`Missing account in ${filePath} for ${post.id}`);
+  if (!post.scheduled_at)
+    throw new Error(`Missing scheduled_at in ${filePath} for ${post.id}`);
 
   if (!Array.isArray(post.media)) {
     throw new Error(`Post ${post.id} media must be an array.`);
   }
 
+  const postTexts = getPostTexts(post);
+
+  if (postTexts.length === 0 && post.media.length === 0) {
+    throw new Error(
+      `Post ${post.id} needs at least one posts[] string or media.`,
+    );
+  }
+
+  for (const [index, text] of postTexts.entries()) {
+    if (text.length > 500) {
+      throw new Error(
+        `Post ${post.id} posts[${index}] is ${text.length} characters. Threads posts must be 500 characters or fewer.`,
+      );
+    }
+  }
+
+  if (post.media.length > 0 && postTexts.length > 1) {
+    throw new Error(
+      `Post ${post.id} has media and multiple posts[] strings. For v1, media posts can only use one posts[] string.`,
+    );
+  }
+
+  if (!ACCOUNTS[post.account]) {
+    throw new Error(
+      `Unknown account "${post.account}" in ${filePath} for ${post.id}`,
+    );
+  }
+
   if (post.media.length > 10) {
-    throw new Error(`Post ${post.id} has ${post.media.length} media items. Keep carousels to 10 or fewer.`);
+    throw new Error(
+      `Post ${post.id} has ${post.media.length} media items. Keep carousels to 10 or fewer.`,
+    );
   }
 
   for (const item of post.media) {
     if (!["image", "video"].includes(item.type)) {
-      throw new Error(`Post ${post.id} has invalid media type "${item.type}". Use "image" or "video".`);
+      throw new Error(
+        `Post ${post.id} has invalid media type "${item.type}". Use "image" or "video".`,
+      );
     }
   }
 }
@@ -90,13 +120,18 @@ async function createTextContainer({ userId, accessToken, text }) {
   const data = await graphPost(`${userId}/threads`, {
     media_type: "TEXT",
     text,
-    access_token: accessToken
+    access_token: accessToken,
   });
 
   return data.id;
 }
 
-async function createSingleMediaContainer({ userId, accessToken, text, mediaItem }) {
+async function createSingleMediaContainer({
+  userId,
+  accessToken,
+  text,
+  mediaItem,
+}) {
   const mediaType = mediaItem.type === "image" ? "IMAGE" : "VIDEO";
   const mediaUrl = publicMediaUrl(mediaItem);
 
@@ -104,7 +139,7 @@ async function createSingleMediaContainer({ userId, accessToken, text, mediaItem
     media_type: mediaType,
     text,
     access_token: accessToken,
-    alt_text: mediaItem.alt
+    alt_text: mediaItem.alt,
   };
 
   if (mediaItem.type === "image") {
@@ -125,7 +160,7 @@ async function createCarouselItem({ userId, accessToken, mediaItem }) {
     media_type: mediaType,
     is_carousel_item: "true",
     access_token: accessToken,
-    alt_text: mediaItem.alt
+    alt_text: mediaItem.alt,
   };
 
   if (mediaItem.type === "image") {
@@ -138,12 +173,17 @@ async function createCarouselItem({ userId, accessToken, mediaItem }) {
   return data.id;
 }
 
-async function createCarouselContainer({ userId, accessToken, text, childIds }) {
+async function createCarouselContainer({
+  userId,
+  accessToken,
+  text,
+  childIds,
+}) {
   const data = await graphPost(`${userId}/threads`, {
     media_type: "CAROUSEL",
     children: childIds.join(","),
     text,
-    access_token: accessToken
+    access_token: accessToken,
   });
 
   return data.id;
@@ -152,7 +192,7 @@ async function createCarouselContainer({ userId, accessToken, text, childIds }) 
 async function publishContainer({ userId, accessToken, creationId }) {
   return graphPost(`${userId}/threads_publish`, {
     creation_id: creationId,
-    access_token: accessToken
+    access_token: accessToken,
   });
 }
 
@@ -160,31 +200,31 @@ async function sleep(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
 }
 
-async function createContainerForPost({ userId, accessToken, post }) {
-  if (post.media.length === 0) {
+async function createContainerForPost({ userId, accessToken, text, media }) {
+  if (media.length === 0) {
     return createTextContainer({
       userId,
       accessToken,
-      text: post.text
+      text,
     });
   }
 
-  if (post.media.length === 1) {
+  if (media.length === 1) {
     return createSingleMediaContainer({
       userId,
       accessToken,
-      text: post.text,
-      mediaItem: post.media[0]
+      text,
+      mediaItem: media[0],
     });
   }
 
   const childIds = [];
 
-  for (const mediaItem of post.media) {
+  for (const mediaItem of media) {
     const childId = await createCarouselItem({
       userId,
       accessToken,
-      mediaItem
+      mediaItem,
     });
 
     childIds.push(childId);
@@ -194,8 +234,8 @@ async function createContainerForPost({ userId, accessToken, post }) {
   return createCarouselContainer({
     userId,
     accessToken,
-    text: post.text,
-    childIds
+    text,
+    childIds,
   });
 }
 
@@ -226,33 +266,80 @@ async function main() {
 
       const account = ACCOUNTS[post.account];
       const userId = requireValue(account.userId, `${post.account} user id`);
-      const accessToken = requireValue(account.accessToken, `${post.account} access token`);
+      const accessToken = requireValue(
+        account.accessToken,
+        `${post.account} access token`,
+      );
+      const postTexts = getPostTexts(post);
 
       console.log(`Posting ${post.id} to ${post.account}...`);
 
       try {
-        const creationId = await createContainerForPost({
-          userId,
-          accessToken,
-          post
-        });
+        const publishedPosts = [];
 
-        await sleep(post.media.length > 0 ? 30000 : 3000);
+        if (post.media.length > 0) {
+          const text = postTexts[0] || "";
 
-        const publishResult = await publishContainer({
-          userId,
-          accessToken,
-          creationId
-        });
+          const creationId = await createContainerForPost({
+            userId,
+            accessToken,
+            text,
+            media: post.media,
+          });
+
+          await sleep(30000);
+
+          const publishResult = await publishContainer({
+            userId,
+            accessToken,
+            creationId,
+          });
+
+          publishedPosts.push({
+            text,
+            threads_creation_id: creationId,
+            threads_post_id: publishResult.id ?? null,
+            posted_at: new Date().toISOString(),
+          });
+
+          postedCount += 1;
+        } else {
+          for (const [index, text] of postTexts.entries()) {
+            const creationId = await createContainerForPost({
+              userId,
+              accessToken,
+              text,
+              media: [],
+            });
+
+            await sleep(3000);
+
+            const publishResult = await publishContainer({
+              userId,
+              accessToken,
+              creationId,
+            });
+
+            publishedPosts.push({
+              index,
+              text,
+              threads_creation_id: creationId,
+              threads_post_id: publishResult.id ?? null,
+              posted_at: new Date().toISOString(),
+            });
+
+            postedCount += 1;
+
+            await sleep(3000);
+          }
+        }
 
         post.status = "posted";
         post.posted_at = new Date().toISOString();
-        post.threads_creation_id = creationId;
-        post.threads_post_id = publishResult.id ?? null;
+        post.threads_posts = publishedPosts;
         post.error = null;
 
         changed = true;
-        postedCount += 1;
 
         console.log(`Posted ${post.id}`);
       } catch (error) {
