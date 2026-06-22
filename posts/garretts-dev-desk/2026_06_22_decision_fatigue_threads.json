@@ -34,7 +34,18 @@
     ],
     "media": [],
     "alt": [],
-    "status": "queued"
+    "status": "posted",
+    "posted_at": "2026-06-22T17:53:40.031Z",
+    "threads_posts": [
+      {
+        "index": 0,
+        "text": "One pattern showing up repeatedly in decision fatigue research: People rarely say they have too much work.\n\nThey often say they have too many things competing for attention.\n\nThe challenge isn't always doing the work. Sometimes it's deciding which piece of work deserves attention first.",
+        "threads_creation_id": "18110816737792961",
+        "threads_post_id": "17895200106498355",
+        "posted_at": "2026-06-22T17:53:37.028Z"
+      }
+    ],
+    "error": null
   },
   {
     "id": "decision-fatigue-2026-06-22-003",
