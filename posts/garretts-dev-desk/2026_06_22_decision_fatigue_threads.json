@@ -10,7 +10,18 @@
     ],
     "media": [],
     "alt": [],
-    "status": "queued"
+    "status": "posted",
+    "posted_at": "2026-06-22T13:06:38.206Z",
+    "threads_posts": [
+      {
+        "index": 0,
+        "text": "Field note: The more research I read, the more I think many people aren't running out of time.\n\nThey're running out of energy to make decisions.\n\nBy the end of a busy day, even small choices can start to feel surprisingly heavy.",
+        "threads_creation_id": "18110732281792961",
+        "threads_post_id": "17923997097147420",
+        "posted_at": "2026-06-22T13:06:35.203Z"
+      }
+    ],
+    "error": null
   },
   {
     "id": "decision-fatigue-2026-06-22-002",
