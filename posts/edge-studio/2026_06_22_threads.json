@@ -10,7 +10,18 @@
     ],
     "media": [],
     "alt": [],
-    "status": "queued"
+    "status": "posted",
+    "posted_at": "2026-06-23T18:08:42.933Z",
+    "threads_posts": [
+      {
+        "index": 0,
+        "text": "One thing I've been thinking about lately: People often compare AI to a search engine.\n\nBut some of the most interesting uses feel closer to having an exploration guide.\n\nA search engine helps you find what you're looking for. A guide helps you discover things you didn't know to look for.",
+        "threads_creation_id": "18098306540001926",
+        "threads_post_id": "17869893333625454",
+        "posted_at": "2026-06-23T18:08:39.931Z"
+      }
+    ],
+    "error": null
   },
   {
     "id": "edge-studio-2026-06-22-002",
@@ -23,7 +34,18 @@
     ],
     "media": [],
     "alt": [],
-    "status": "queued"
+    "status": "posted",
+    "posted_at": "2026-06-23T18:08:54.031Z",
+    "threads_posts": [
+      {
+        "index": 0,
+        "text": "Tiny curiosity exercise: Pick a topic you already enjoy.\n\nThen ask AI: 'What is something surprising about this subject that most beginners never think to ask?'\n\nI've found that one question often leads to a far more interesting conversation than asking for facts. Sometimes the best discoveries begin with a question you didn't know existed.",
+        "threads_creation_id": "18098306549001926",
+        "threads_post_id": "17978438427029402",
+        "posted_at": "2026-06-23T18:08:51.031Z"
+      }
+    ],
+    "error": null
   },
   {
     "id": "edge-studio-2026-06-23-001",
@@ -36,7 +58,18 @@
     ],
     "media": [],
     "alt": [],
-    "status": "queued"
+    "status": "posted",
+    "posted_at": "2026-06-23T18:09:05.487Z",
+    "threads_posts": [
+      {
+        "index": 0,
+        "text": "A small shift I've been experimenting with: Instead of asking AI, 'Teach me this topic,' try asking, 'What are three directions I could explore if I become curious about this subject?'\n\nOne approach delivers information. The other creates a map.\n\nMaps tend to lead to better adventures.",
+        "threads_creation_id": "18098306558001926",
+        "threads_post_id": "18089597276571966",
+        "posted_at": "2026-06-23T18:09:02.485Z"
+      }
+    ],
+    "error": null
   },
   {
     "id": "edge-studio-2026-06-23-002",
@@ -49,7 +82,18 @@
     ],
     "media": [],
     "alt": [],
-    "status": "queued"
+    "status": "posted",
+    "posted_at": "2026-06-23T18:09:16.832Z",
+    "threads_posts": [
+      {
+        "index": 0,
+        "text": "Prompt lab note: I compared two versions of the same question.\n\nVersion A: 'Explain black holes.'\n\nVersion B: 'What is the strangest thing about black holes, and what question should I investigate next?'\n\nThe second conversation was far more memorable. Sometimes curiosity needs a doorway more than an explanation.",
+        "threads_creation_id": "18098306570001926",
+        "threads_post_id": "18113425421302982",
+        "posted_at": "2026-06-23T18:09:13.830Z"
+      }
+    ],
+    "error": null
   },
   {
     "id": "edge-studio-2026-06-24-001",
