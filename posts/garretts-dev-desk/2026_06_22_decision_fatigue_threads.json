@@ -82,7 +82,18 @@
     ],
     "media": [],
     "alt": [],
-    "status": "queued"
+    "status": "posted",
+    "posted_at": "2026-06-23T12:46:13.770Z",
+    "threads_posts": [
+      {
+        "index": 0,
+        "text": "Field note: A surprising amount of organization is really pre-deciding.",
+        "threads_creation_id": "18111064090792961",
+        "threads_post_id": "18356921053245548",
+        "posted_at": "2026-06-23T12:46:10.768Z"
+      }
+    ],
+    "error": null
   },
   {
     "id": "decision-fatigue-2026-06-23-005",
