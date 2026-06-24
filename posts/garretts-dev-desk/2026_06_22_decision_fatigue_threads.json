@@ -178,7 +178,18 @@
     ],
     "media": [],
     "alt": [],
-    "status": "queued"
+    "status": "posted",
+    "posted_at": "2026-06-24T19:16:25.246Z",
+    "threads_posts": [
+      {
+        "index": 0,
+        "text": "One of the strongest findings from this week's research: People regularly create artificial limits for themselves.\n\nNot because they enjoy restrictions, but because choosing between twenty possibilities is mentally expensive.\n\nChoosing between three is often much easier.",
+        "threads_creation_id": "18111472834792961",
+        "threads_post_id": "18093398693201541",
+        "posted_at": "2026-06-24T19:16:22.243Z"
+      }
+    ],
+    "error": null
   },
   {
     "id": "decision-fatigue-2026-06-24-009",
