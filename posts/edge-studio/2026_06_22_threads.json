@@ -130,7 +130,18 @@
     ],
     "media": [],
     "alt": [],
-    "status": "queued"
+    "status": "posted",
+    "posted_at": "2026-06-24T17:29:50.606Z",
+    "threads_posts": [
+      {
+        "index": 0,
+        "text": "A question I've been thinking about: If AI can help us find information faster, what kinds of questions become more valuable?\n\nMy guess: Questions that compare ideas.\n\nQuestions that explore tradeoffs. Questions that begin with 'why' or 'what if.' Those seem harder to outsource.",
+        "threads_creation_id": "18098460017001926",
+        "threads_post_id": "18113412550907320",
+        "posted_at": "2026-06-24T17:29:47.605Z"
+      }
+    ],
+    "error": null
   },
   {
     "id": "edge-studio-2026-06-25-001",
