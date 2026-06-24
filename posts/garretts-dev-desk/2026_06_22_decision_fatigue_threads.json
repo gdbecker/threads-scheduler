@@ -154,7 +154,18 @@
     ],
     "media": [],
     "alt": [],
-    "status": "queued"
+    "status": "posted",
+    "posted_at": "2026-06-24T12:27:13.920Z",
+    "threads_posts": [
+      {
+        "index": 0,
+        "text": "Field note: People usually ask for better options. What they often need is fewer options.",
+        "threads_creation_id": "18111372061792961",
+        "threads_post_id": "18055038368512617",
+        "posted_at": "2026-06-24T12:27:10.919Z"
+      }
+    ],
+    "error": null
   },
   {
     "id": "decision-fatigue-2026-06-24-008",
