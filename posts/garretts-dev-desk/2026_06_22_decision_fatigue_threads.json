@@ -250,7 +250,18 @@
     ],
     "media": [],
     "alt": [],
-    "status": "queued"
+    "status": "posted",
+    "posted_at": "2026-06-25T18:23:37.857Z",
+    "threads_posts": [
+      {
+        "index": 0,
+        "text": "A lot of conversations about productivity focus on execution.\n\nResearch keeps pointing me toward something else.\n\nRemembering. Prioritizing. Choosing. Following up.\n\nThose activities consume a surprising amount of energy before any work actually begins.",
+        "threads_creation_id": "18111705244792961",
+        "threads_post_id": "18099503047937058",
+        "posted_at": "2026-06-25T18:23:34.854Z"
+      }
+    ],
+    "error": null
   },
   {
     "id": "decision-fatigue-2026-06-25-012",

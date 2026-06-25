@@ -178,7 +178,18 @@
     ],
     "media": [],
     "alt": [],
-    "status": "queued"
+    "status": "posted",
+    "posted_at": "2026-06-25T18:23:49.661Z",
+    "threads_posts": [
+      {
+        "index": 0,
+        "text": "One practical use for AI that I don't think gets enough attention: Asking it to challenge your assumptions.\n\n'What might I be overlooking?'\n\n'What would someone disagree with here?'\n\n'What's another way to interpret this?'\n\nExploration becomes much more interesting when the path isn't one-directional.",
+        "threads_creation_id": "18098625662001926",
+        "threads_post_id": "17909932215241471",
+        "posted_at": "2026-06-25T18:23:46.658Z"
+      }
+    ],
+    "error": null
   },
   {
     "id": "edge-studio-2026-06-26-001",
