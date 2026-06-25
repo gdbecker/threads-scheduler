@@ -226,7 +226,18 @@
     ],
     "media": [],
     "alt": [],
-    "status": "queued"
+    "status": "posted",
+    "posted_at": "2026-06-25T13:38:31.819Z",
+    "threads_posts": [
+      {
+        "index": 0,
+        "text": "Field note: Mental load often looks invisible because so much of it happens inside someone's head.",
+        "threads_creation_id": "18111647386792961",
+        "threads_post_id": "17853990336693941",
+        "posted_at": "2026-06-25T13:38:28.817Z"
+      }
+    ],
+    "error": null
   },
   {
     "id": "decision-fatigue-2026-06-25-011",
