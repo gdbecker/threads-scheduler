@@ -202,7 +202,18 @@
     ],
     "media": [],
     "alt": [],
-    "status": "queued"
+    "status": "posted",
+    "posted_at": "2026-06-25T00:20:26.334Z",
+    "threads_posts": [
+      {
+        "index": 0,
+        "text": "I've started paying attention to how often people simplify their own lives through defaults.\n\nThe default lunch.\nThe default workout.\nThe default grocery list.\n\nDefaults don't remove freedom. They remove unnecessary negotiation.",
+        "threads_creation_id": "18111516505792961",
+        "threads_post_id": "17892292254377233",
+        "posted_at": "2026-06-25T00:20:23.332Z"
+      }
+    ],
+    "error": null
   },
   {
     "id": "decision-fatigue-2026-06-25-010",
