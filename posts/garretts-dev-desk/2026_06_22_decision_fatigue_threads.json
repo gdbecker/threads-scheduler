@@ -274,7 +274,18 @@
     ],
     "media": [],
     "alt": [],
-    "status": "queued"
+    "status": "posted",
+    "posted_at": "2026-06-25T23:42:29.238Z",
+    "threads_posts": [
+      {
+        "index": 0,
+        "text": "Many people carry a quiet question throughout the day: 'What should I be working on right now?'\n\nThe work itself may be manageable. Answering that question over and over can become exhausting.",
+        "threads_creation_id": "18111743956792961",
+        "threads_post_id": "18099675278184261",
+        "posted_at": "2026-06-25T23:42:26.235Z"
+      }
+    ],
+    "error": null
   },
   {
     "id": "decision-fatigue-2026-06-26-013",
