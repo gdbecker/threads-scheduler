@@ -202,7 +202,18 @@
     ],
     "media": [],
     "alt": [],
-    "status": "queued"
+    "status": "posted",
+    "posted_at": "2026-06-26T13:34:58.295Z",
+    "threads_posts": [
+      {
+        "index": 0,
+        "text": "Counterintuitive thing I've learned: The fastest route to an answer is not always the fastest route to understanding.\n\nSometimes taking a detour through questions, examples, and experiments creates learning that actually sticks. Exploration can look inefficient from the outside. That's often where the value is.",
+        "threads_creation_id": "18098750447001926",
+        "threads_post_id": "18129222094722293",
+        "posted_at": "2026-06-26T13:34:55.293Z"
+      }
+    ],
+    "error": null
   },
   {
     "id": "edge-studio-2026-06-26-002",
