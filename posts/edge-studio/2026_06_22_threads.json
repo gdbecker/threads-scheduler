@@ -226,7 +226,18 @@
     ],
     "media": [],
     "alt": [],
-    "status": "queued"
+    "status": "posted",
+    "posted_at": "2026-06-26T18:01:46.158Z",
+    "threads_posts": [
+      {
+        "index": 0,
+        "text": "What's a question you've gone down a rabbit hole researching recently?\n\nNot because you had to. Just because you wanted to understand it better.\n\nThose are often the most interesting learning stories.",
+        "threads_creation_id": "18098789237001926",
+        "threads_post_id": "18071030630356711",
+        "posted_at": "2026-06-26T18:01:43.156Z"
+      }
+    ],
+    "error": null
   },
   {
     "id": "edge-studio-2026-06-27-001",

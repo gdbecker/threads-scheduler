@@ -322,7 +322,18 @@
     ],
     "media": [],
     "alt": [],
-    "status": "queued"
+    "status": "posted",
+    "posted_at": "2026-06-26T18:01:35.228Z",
+    "threads_posts": [
+      {
+        "index": 0,
+        "text": "Meal planning communities turned out to be unexpectedly interesting research.\n\nMany meal plans aren't really about food.\n\nThey're about avoiding a daily decision.\n\nThe same pattern seems to appear in many other parts of life.",
+        "threads_creation_id": "18111951142792961",
+        "threads_post_id": "18411636082151217",
+        "posted_at": "2026-06-26T18:01:32.226Z"
+      }
+    ],
+    "error": null
   },
   {
     "id": "decision-fatigue-2026-06-26-015",
