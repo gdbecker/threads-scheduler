@@ -346,7 +346,18 @@
     ],
     "media": [],
     "alt": [],
-    "status": "queued"
+    "status": "posted",
+    "posted_at": "2026-06-26T22:48:29.362Z",
+    "threads_posts": [
+      {
+        "index": 0,
+        "text": "A useful question: If a choice repeats every day, every week, or every month, does it really need to be made from scratch each time? Sometimes calm comes from deciding once instead of repeatedly.",
+        "threads_creation_id": "18111993784792961",
+        "threads_post_id": "18102864797030778",
+        "posted_at": "2026-06-26T22:48:26.360Z"
+      }
+    ],
+    "error": null
   },
   {
     "id": "decision-fatigue-2026-06-27-016",
