@@ -394,7 +394,18 @@
     ],
     "media": [],
     "alt": [],
-    "status": "queued"
+    "status": "posted",
+    "posted_at": "2026-06-27T19:54:58.735Z",
+    "threads_posts": [
+      {
+        "index": 0,
+        "text": "Something that keeps appearing across different communities: People trust routines.\n\nNot because routines are exciting, but because routines remove uncertainty.\n\nThere's comfort in not having to renegotiate the same decision every day.",
+        "threads_creation_id": "18112205371792961",
+        "threads_post_id": "18067602257433881",
+        "posted_at": "2026-06-27T19:54:55.732Z"
+      }
+    ],
+    "error": null
   },
   {
     "id": "decision-fatigue-2026-06-27-018",
