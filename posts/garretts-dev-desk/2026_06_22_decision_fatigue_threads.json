@@ -370,7 +370,18 @@
     ],
     "media": [],
     "alt": [],
-    "status": "queued"
+    "status": "posted",
+    "posted_at": "2026-06-27T14:03:24.462Z",
+    "threads_posts": [
+      {
+        "index": 0,
+        "text": "Field note: Overwhelm isn't always caused by having too much to do. Sometimes it's caused by having too many possible directions to go.",
+        "threads_creation_id": "18112137418792961",
+        "threads_post_id": "17955855521982976",
+        "posted_at": "2026-06-27T14:03:21.459Z"
+      }
+    ],
+    "error": null
   },
   {
     "id": "decision-fatigue-2026-06-27-017",
