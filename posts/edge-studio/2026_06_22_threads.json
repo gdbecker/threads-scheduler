@@ -274,7 +274,18 @@
     ],
     "media": [],
     "alt": [],
-    "status": "queued"
+    "status": "posted",
+    "posted_at": "2026-06-27T18:14:59.758Z",
+    "threads_posts": [
+      {
+        "index": 0,
+        "text": "Try this prompt sometime: 'Act like a museum guide for this topic. Show me the three exhibits I shouldn't miss and let me choose where to go next.'\n\nIt's a surprisingly fun way to learn something new. The conversation feels more like exploring than studying.",
+        "threads_creation_id": "18098992895001926",
+        "threads_post_id": "18078326222653771",
+        "posted_at": "2026-06-27T18:14:56.756Z"
+      }
+    ],
+    "error": null
   },
   {
     "id": "edge-studio-2026-06-28-001",
