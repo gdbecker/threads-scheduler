@@ -298,7 +298,18 @@
     ],
     "media": [],
     "alt": [],
-    "status": "queued"
+    "status": "posted",
+    "posted_at": "2026-06-28T14:10:41.069Z",
+    "threads_posts": [
+      {
+        "index": 0,
+        "text": "The AI conversations I remember most are rarely the ones that delivered the best answer.\n\nThey're usually the ones that left me with a better question. That's the part of AI-assisted learning that keeps interesting me.",
+        "threads_creation_id": "18099123890001926",
+        "threads_post_id": "18134180164582012",
+        "posted_at": "2026-06-28T14:10:38.067Z"
+      }
+    ],
+    "error": null
   },
   {
     "id": "edge-studio-2026-06-28-002",

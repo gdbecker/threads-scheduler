@@ -442,7 +442,18 @@
     ],
     "media": [],
     "alt": [],
-    "status": "queued"
+    "status": "posted",
+    "posted_at": "2026-06-28T14:10:29.820Z",
+    "threads_posts": [
+      {
+        "index": 0,
+        "text": "Field note: The problem isn't always the task. Sometimes it's deciding that the task is the right thing to do next.",
+        "threads_creation_id": "18112371724792961",
+        "threads_post_id": "18103716814866551",
+        "posted_at": "2026-06-28T14:10:26.817Z"
+      }
+    ],
+    "error": null
   },
   {
     "id": "decision-fatigue-2026-06-28-020",
