@@ -10,7 +10,18 @@
     ],
     "media": [],
     "alt": [],
-    "status": "queued"
+    "status": "posted",
+    "posted_at": "2026-06-29T14:17:05.682Z",
+    "threads_posts": [
+      {
+        "index": 0,
+        "text": "Field note: I've been noticing that overwhelm often isn't caused by one big task. It grows from dozens of tiny decisions that quietly stack up throughout the day.\n\nEventually, even simple choices start feeling heavier than they should.",
+        "threads_creation_id": "18112596742792961",
+        "threads_post_id": "18010781900730588",
+        "posted_at": "2026-06-29T14:17:02.680Z"
+      }
+    ],
+    "error": null
   },
   {
     "id": "overwhelm-2026-06-29-002",
@@ -83,7 +94,9 @@
     "theme": "Overwhelm",
     "series": "Week 2 - Problem Analysis",
     "scheduled_at": "2026-07-01T07:36:00-04:00",
-    "posts": ["Field note: Fragmentation quietly becomes mental overhead."],
+    "posts": [
+      "Field note: Fragmentation quietly becomes mental overhead."
+    ],
     "media": [],
     "alt": [],
     "status": "queued"
@@ -237,7 +250,9 @@
     "theme": "Overwhelm",
     "series": "Week 2 - Problem Analysis",
     "scheduled_at": "2026-07-05T08:18:00-04:00",
-    "posts": ["Field note: Clarity isn't just helpful. It's restful."],
+    "posts": [
+      "Field note: Clarity isn't just helpful. It's restful."
+    ],
     "media": [],
     "alt": [],
     "status": "queued"
