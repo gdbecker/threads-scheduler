@@ -34,7 +34,18 @@
     ],
     "media": [],
     "alt": [],
-    "status": "queued"
+    "status": "posted",
+    "posted_at": "2026-06-29T17:18:22.503Z",
+    "threads_posts": [
+      {
+        "index": 0,
+        "text": "Something that kept appearing in this week's research surprised me. People weren't asking for more features. They were asking for fewer moving pieces.\n\nWhen work is spread across too many apps, documents, and conversations, keeping track of everything becomes work of its own.",
+        "threads_creation_id": "18112634083792961",
+        "threads_post_id": "18116522599890964",
+        "posted_at": "2026-06-29T17:18:19.501Z"
+      }
+    ],
+    "error": null
   },
   {
     "id": "overwhelm-2026-06-29-003",
