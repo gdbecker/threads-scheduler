@@ -58,7 +58,18 @@
     ],
     "media": [],
     "alt": [],
-    "status": "queued"
+    "status": "posted",
+    "posted_at": "2026-06-29T23:39:09.187Z",
+    "threads_posts": [
+      {
+        "index": 0,
+        "text": "A small example: Imagine needing one piece of information before you can start your next task. If you have to remember whether it's in your notes, your email, a chat, or a document, you've already spent energy before the work even begins. That hidden effort adds up.",
+        "threads_creation_id": "18112685584792961",
+        "threads_post_id": "18409569121146079",
+        "posted_at": "2026-06-29T23:39:06.185Z"
+      }
+    ],
+    "error": null
   },
   {
     "id": "overwhelm-2026-06-30-004",
