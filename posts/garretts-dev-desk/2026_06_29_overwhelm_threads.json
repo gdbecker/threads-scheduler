@@ -154,7 +154,18 @@
     ],
     "media": [],
     "alt": [],
-    "status": "queued"
+    "status": "posted",
+    "posted_at": "2026-07-01T12:16:03.754Z",
+    "threads_posts": [
+      {
+        "index": 0,
+        "text": "Field note: Fragmentation quietly becomes mental overhead.",
+        "threads_creation_id": "18113030857792961",
+        "threads_post_id": "18107284286513769",
+        "posted_at": "2026-07-01T12:16:00.753Z"
+      }
+    ],
+    "error": null
   },
   {
     "id": "overwhelm-2026-07-01-008",
