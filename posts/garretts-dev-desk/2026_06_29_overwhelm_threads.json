@@ -202,7 +202,18 @@
     ],
     "media": [],
     "alt": [],
-    "status": "queued"
+    "status": "posted",
+    "posted_at": "2026-07-02T04:17:21.703Z",
+    "threads_posts": [
+      {
+        "index": 0,
+        "text": "The best workflow improvements don't always remove work. Sometimes they simply remove uncertainty. And uncertainty can be surprisingly exhausting.",
+        "threads_creation_id": "18113176672792961",
+        "threads_post_id": "18083908517561408",
+        "posted_at": "2026-07-02T04:17:18.702Z"
+      }
+    ],
+    "error": null
   },
   {
     "id": "overwhelm-2026-07-02-010",
