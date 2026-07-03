@@ -346,7 +346,18 @@
     ],
     "media": [],
     "alt": [],
-    "status": "queued"
+    "status": "posted",
+    "posted_at": "2026-07-03T23:39:38.251Z",
+    "threads_posts": [
+      {
+        "index": 0,
+        "text": "I've been thinking about the phrase 'mental load.' A lot of it isn't carrying information. It's carrying unfinished decisions. That's a much quieter kind of weight, but it's still weight.",
+        "threads_creation_id": "18113542771792961",
+        "threads_post_id": "17951613639078278",
+        "posted_at": "2026-07-03T23:39:35.249Z"
+      }
+    ],
+    "error": null
   },
   {
     "id": "overwhelm-2026-07-04-016",
