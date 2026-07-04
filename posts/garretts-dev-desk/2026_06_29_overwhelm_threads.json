@@ -394,7 +394,18 @@
     ],
     "media": [],
     "alt": [],
-    "status": "queued"
+    "status": "posted",
+    "posted_at": "2026-07-04T18:37:16.134Z",
+    "threads_posts": [
+      {
+        "index": 0,
+        "text": "One thing that stands out across different communities is that people rarely ask for more complexity. They usually hope everyday tasks feel a little lighter. That's a worthwhile goal.",
+        "threads_creation_id": "18113710933792961",
+        "threads_post_id": "18107499229954603",
+        "posted_at": "2026-07-04T18:37:13.133Z"
+      }
+    ],
+    "error": null
   },
   {
     "id": "overwhelm-2026-07-04-018",
