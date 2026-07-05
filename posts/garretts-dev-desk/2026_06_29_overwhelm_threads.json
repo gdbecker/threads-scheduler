@@ -442,7 +442,18 @@
     ],
     "media": [],
     "alt": [],
-    "status": "queued"
+    "status": "posted",
+    "posted_at": "2026-07-05T12:51:14.438Z",
+    "threads_posts": [
+      {
+        "index": 0,
+        "text": "Field note: Clarity isn't just helpful. It's restful.",
+        "threads_creation_id": "18113845690792961",
+        "threads_post_id": "18116453918492270",
+        "posted_at": "2026-07-05T12:51:11.435Z"
+      }
+    ],
+    "error": null
   },
   {
     "id": "overwhelm-2026-07-05-020",
