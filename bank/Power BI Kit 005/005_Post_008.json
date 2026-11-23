@@ -1,0 +1,80 @@
+[
+  {
+    "id": "pbi-bd-work-behind-win-01",
+    "account": "garretts_dev_desk",
+    "theme": "recognizing_business_development_work_beyond_headline_pipeline_numbers",
+    "series": "pbi_business_development_work_behind_the_win",
+    "scheduled_at": "2028-11-06T09:15:00-05:00",
+    "posts": [
+      "Some of your team's most valuable business development work never appears in the headline numbers.\n\nSomeone builds a relationship, someone makes an introduction, and another person helps turn an opportunity into business. A pipeline total rarely captures all that effort.\n\nMy Business Development Performance Power BI Kit includes a dedicated view of team contributions and goals: https://garrettsdevdesk.etsy.com/listing/4595453904/power-bi-business-development-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-bd-work-behind-win-02",
+    "account": "garretts_dev_desk",
+    "theme": "identifying_referrals_introductions_and_supporting_contributions",
+    "series": "pbi_business_development_work_behind_the_win",
+    "scheduled_at": "2028-11-06T15:30:00-05:00",
+    "posts": [
+      "The person who closes a deal isn't always the only person who helped create it.\n\nAn introduction might open the door, a referral might establish trust, and several colleagues may contribute expertise along the way. Those contributions can be easy to overlook when reporting focuses on opportunity ownership.\n\nTry reviewing your last five won opportunities. Identify who led each one, who referred it, and who made meaningful supporting contributions."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-bd-work-behind-win-03",
+    "account": "garretts_dev_desk",
+    "theme": "making_business_development_team_contributions_visible_for_recognition",
+    "series": "pbi_business_development_work_behind_the_win",
+    "scheduled_at": "2028-11-07T09:15:00-05:00",
+    "posts": [
+      "It's difficult to recognize contributions that your reporting doesn't make visible.\n\nPipeline totals and opportunity ownership matter, but they may leave out referrals and supporting work that helped move business forward. A broader view can support more thoughtful conversations about team performance.\n\nMy Business Development Performance Power BI Kit includes lead, referral, and contributor reporting: https://garrettsdevdesk.etsy.com/listing/4595453904/power-bi-business-development-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-bd-work-behind-win-04",
+    "account": "garretts_dev_desk",
+    "theme": "comparing_opportunity_lead_referral_and_contributor_activity",
+    "series": "pbi_business_development_work_behind_the_win",
+    "scheduled_at": "2028-11-07T15:30:00-05:00",
+    "posts": [
+      "Business development participation can look very different from person to person.\n\nSome team members lead opportunities, others generate referrals, and others contribute specialized knowledge. Looking at those roles separately helps reveal involvement that a single activity total might hide.\n\nTry building a simple contribution summary with three categories: lead, referral, and contributor. Compare participation across the team without treating overlapping credits as separate revenue."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-bd-work-behind-win-05",
+    "account": "garretts_dev_desk",
+    "theme": "connecting_business_development_recognition_with_contribution_and_goal_progress",
+    "series": "pbi_business_development_work_behind_the_win",
+    "scheduled_at": "2028-11-08T09:15:00-05:00",
+    "posts": [
+      "Good business development reporting can help make more of the team's work visible.\n\nComparing opportunity leadership, referrals, contributor activity, and progress toward goals creates room for better conversations about recognition and development. It also helps explain how people support shared results.\n\nMy Business Development Performance Power BI Kit includes a Team Contribution & Goals dashboard: https://garrettsdevdesk.etsy.com/listing/4595453904/power-bi-business-development-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-bd-work-behind-win-06",
+    "account": "garretts_dev_desk",
+    "theme": "discussing_recognition_for_less_visible_business_development_contributions",
+    "series": "pbi_business_development_work_behind_the_win",
+    "scheduled_at": "2028-11-08T15:30:00-05:00",
+    "posts": [
+      "A successful business development opportunity often has more people behind it than the final report suggests.\n\nRelationships, referrals, introductions, and specialized contributions can all help move an opportunity forward. Making that work visible can support fairer recognition and more meaningful performance conversations.\n\nFor business development teams, what's one valuable contribution that tends to go unnoticed in your reporting?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

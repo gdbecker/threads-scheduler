@@ -1,0 +1,80 @@
+[
+  {
+    "id": "budget-snapshot-budget-simplicity-01",
+    "account": "garretts_dev_desk",
+    "theme": "hoa_budget_communication",
+    "series": "budget_snapshot_budget_simplicity",
+    "scheduled_at": "2027-02-08T09:15:00-05:00",
+    "posts": [
+      "Homeowners shouldn't need a calculator and an accounting background just to understand their HOA's annual budget.\n\nThe financial details can be complex behind the scenes while the overall picture remains approachable. A clear explanation of dues, major expenses, reserves, and important changes can go a long way.\n\nThat's the thinking behind Budget Snapshot: https://budgetsnapshot.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "budget-snapshot-budget-simplicity-02",
+    "account": "garretts_dev_desk",
+    "theme": "financial_transparency",
+    "series": "budget_snapshot_budget_simplicity",
+    "scheduled_at": "2027-02-08T15:30:00-05:00",
+    "posts": [
+      "An HOA budget spreadsheet and a homeowner-friendly summary can serve two different purposes.\n\nThe spreadsheet holds the detailed financial information. The summary helps people understand what those numbers mean for their community.\n\nWhen preparing your next budget presentation, consider giving homeowners both. They can start with the explanation and explore the details when they're ready."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "budget-snapshot-budget-simplicity-03",
+    "account": "garretts_dev_desk",
+    "theme": "homeowner_communication",
+    "series": "budget_snapshot_budget_simplicity",
+    "scheduled_at": "2027-02-09T09:15:00-05:00",
+    "posts": [
+      "A useful HOA budget summary should answer a few basic questions before getting into the line items.\n\nWhat are the dues? Where does most of the money go? What changed from last year? What are reserves preparing for?\n\nThose answers give homeowners a starting point for understanding the larger financial picture.\n\nExplore Budget Snapshot: https://budgetsnapshot.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "budget-snapshot-budget-simplicity-04",
+    "account": "garretts_dev_desk",
+    "theme": "budget_explanations",
+    "series": "budget_snapshot_budget_simplicity",
+    "scheduled_at": "2027-02-09T15:30:00-05:00",
+    "posts": [
+      "The people preparing an HOA budget know a lot of context that never appears in the finished spreadsheet.\n\nThey remember the insurance renewals, vendor proposals, maintenance discussions, and decisions that shaped the final numbers. Homeowners may only see the result.\n\nA helpful budget summary shares some of that missing context so the financial decisions make more sense."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "budget-snapshot-budget-simplicity-05",
+    "account": "garretts_dev_desk",
+    "theme": "community_financial_communication",
+    "series": "budget_snapshot_budget_simplicity",
+    "scheduled_at": "2027-02-10T09:15:00-05:00",
+    "posts": [
+      "Making an HOA budget easier to understand doesn't require hiding the financial details.\n\nGive homeowners a clear summary of the important numbers and decisions, then keep the complete budget available for anyone who wants to examine it more closely.\n\nClear communication and transparency can work together.\n\nBudget Snapshot was built with that goal in mind: https://budgetsnapshot.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "budget-snapshot-budget-simplicity-06",
+    "account": "garretts_dev_desk",
+    "theme": "hoa_financial_literacy",
+    "series": "budget_snapshot_budget_simplicity",
+    "scheduled_at": "2027-02-10T15:30:00-05:00",
+    "posts": [
+      "HOA finances can be complicated, but homeowners shouldn't have to decode every number on their own.\n\nA thoughtful budget explanation helps people understand what their money supports, what changed, and what the association is preparing for next.\n\nIf you've ever reviewed a community budget, what would have made the information easier for you to understand?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

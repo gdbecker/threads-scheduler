@@ -1,0 +1,80 @@
+[
+  {
+    "id": "pbi-useful-dashboards-01",
+    "account": "garretts_dev_desk",
+    "theme": "designing_dashboards_people_actually_use",
+    "series": "pbi_practical_dashboard_design",
+    "scheduled_at": "2028-03-09T09:15:00-05:00",
+    "posts": [
+      "The best dashboard isn't necessarily the one you spent the longest building.\n\nIt's the one someone actually opens when they need to understand what's happening. A report can be technically impressive and still struggle to become part of someone's regular workflow.\n\nI built my Customer Support Performance Power BI Kit to provide a practical reporting starting point: https://garrettsdevdesk.etsy.com/listing/4593960875/power-bi-customer-support-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-useful-dashboards-02",
+    "account": "garretts_dev_desk",
+    "theme": "avoiding_unnecessary_complexity_in_dashboard_design",
+    "series": "pbi_practical_dashboard_design",
+    "scheduled_at": "2028-03-09T15:30:00-05:00",
+    "posts": [
+      "It's surprisingly easy to make a dashboard less useful by adding more information.\n\nAnother KPI, another chart, another page. Each addition might seem reasonable on its own, but eventually the important questions become harder to answer because there's so much competing for attention.\n\nTry reviewing an existing report and identifying the three visuals people use most often. Could anything else be simplified, moved, or removed to make those visuals easier to find?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-useful-dashboards-03",
+    "account": "garretts_dev_desk",
+    "theme": "starting_dashboard_design_with_business_questions",
+    "series": "pbi_practical_dashboard_design",
+    "scheduled_at": "2028-03-10T09:15:00-05:00",
+    "posts": [
+      "Most people don't open a support dashboard because they want to admire the charts.\n\nThey have questions. Are customers waiting longer? Is SLA slipping? Which issues are increasing? A useful report helps them move from those questions toward evidence they can examine.\n\nMy Customer Support Performance Power BI Kit brings key support measures into one customizable report: https://garrettsdevdesk.etsy.com/listing/4593960875/power-bi-customer-support-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-useful-dashboards-04",
+    "account": "garretts_dev_desk",
+    "theme": "organizing_dashboard_information_for_clearer_analysis",
+    "series": "pbi_practical_dashboard_design",
+    "scheduled_at": "2028-03-10T15:30:00-05:00",
+    "posts": [
+      "A good dashboard should make it easy to move from the big picture into the details.\n\nStart with a few headline measures, show how performance changes over time, and provide useful breakdowns for investigation. People should be able to follow a question without getting lost in the report.\n\nTry tracing one real business question through your dashboard. How many clicks or visual jumps does it take to find a useful answer?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-useful-dashboards-05",
+    "account": "garretts_dev_desk",
+    "theme": "creating_a_practical_customer_support_reporting_foundation",
+    "series": "pbi_practical_dashboard_design",
+    "scheduled_at": "2028-03-11T09:15:00-05:00",
+    "posts": [
+      "A dashboard becomes valuable when it helps people do their work more effectively.\n\nFor customer support, that means making ticket trends, service levels, response times, satisfaction, and team performance easier to explore. The goal is a report people can return to when new questions arise.\n\nMy Customer Support Performance Power BI Kit includes an editable dashboard and guides to help you customize it: https://garrettsdevdesk.etsy.com/listing/4593960875/power-bi-customer-support-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-useful-dashboards-06",
+    "account": "garretts_dev_desk",
+    "theme": "measuring_dashboard_success_through_real_world_use",
+    "series": "pbi_practical_dashboard_design",
+    "scheduled_at": "2028-03-11T15:30:00-05:00",
+    "posts": [
+      "Finishing a dashboard is satisfying. Seeing someone use it to answer a real question is even better.\n\nIt's easy to measure progress by how many visuals you've built or how polished the report looks. But the more meaningful test comes when someone needs information and knows exactly where to find it.\n\nFor those who build or use dashboards, what makes you return to a report regularly instead of letting it sit unopened?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

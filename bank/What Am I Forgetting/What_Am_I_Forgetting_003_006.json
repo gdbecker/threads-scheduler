@@ -1,0 +1,80 @@
+[
+  {
+    "id": "waf-finishing-review-01",
+    "account": "garretts_dev_desk",
+    "theme": "knowing_when_to_finish_a_checklist_review",
+    "series": "waf_finishing_review",
+    "scheduled_at": "2028-01-31T09:15:00-05:00",
+    "posts": [
+      "The most important part of a final review might be finishing it.\n\nA checklist should reduce the number of details you're carrying around in your head. If completing it only makes you wonder whether you need to check everything again, something has gone wrong with the process.\n\nWhat Am I Forgetting? is designed to help you give everyday plans one useful second look: https://whatamiforgetting.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-finishing-review-02",
+    "account": "garretts_dev_desk",
+    "theme": "creating_a_deliberate_end_to_preparation",
+    "series": "waf_finishing_review",
+    "scheduled_at": "2028-01-31T15:30:00-05:00",
+    "posts": [
+      "Try creating one deliberate pause between \"I think I'm finished\" and moving on.\n\nWhile the details are still fresh, take a brief look for anything that might have slipped through. Address what you find, then let the review end. You don't need to restart the entire planning process.\n\nFor your next appointment, trip, or project, try treating that closing pause as a defined final step rather than an invitation to keep checking."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-finishing-review-03",
+    "account": "garretts_dev_desk",
+    "theme": "reviewing_practical_loose_ends_without_starting_over",
+    "series": "waf_finishing_review",
+    "scheduled_at": "2028-02-01T09:15:00-05:00",
+    "posts": [
+      "A final review doesn't need to rebuild your entire plan.\n\nA few questions can be enough. Does everyone know what they need to know? Is the timing confirmed? Is anyone waiting on you? Does anything still need to be brought, sent, saved, attached, or prepared?\n\nI built What Am I Forgetting? around this kind of practical second look: https://whatamiforgetting.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-finishing-review-04",
+    "account": "garretts_dev_desk",
+    "theme": "accepting_an_empty_final_review",
+    "series": "waf_finishing_review",
+    "scheduled_at": "2028-02-01T15:30:00-05:00",
+    "posts": [
+      "Here's something worth remembering about checklists: finding nothing during your final review is a perfectly acceptable result.\n\nNo system can guarantee you'll never overlook another detail. The purpose is to improve your preparation without making you feel obligated to keep searching for something wrong.\n\nTry giving your next checklist one focused review. If nothing needs attention, consider that a reason to close it and move on."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-finishing-review-05",
+    "account": "garretts_dev_desk",
+    "theme": "designing_tools_that_help_people_move_on",
+    "series": "waf_finishing_review",
+    "scheduled_at": "2028-02-02T09:15:00-05:00",
+    "posts": [
+      "I like the idea of a tool that becomes unnecessary once it's done its job.\n\nYou open it, think through a few details, make any needed adjustments, and return to your day. There's value in software that helps you finish something without asking for more of your attention afterward.\n\nThat's part of the philosophy behind What Am I Forgetting?, one of my Garrett's Dev Desk tools: https://whatamiforgetting.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-finishing-review-06",
+    "account": "garretts_dev_desk",
+    "theme": "closing_the_list_and_moving_forward",
+    "series": "waf_finishing_review",
+    "scheduled_at": "2028-02-02T15:30:00-05:00",
+    "posts": [
+      "Give the edges one calm final look. Then get on with your day.\n\nClose the list, leave the house, send the project, or finish the meeting. The whole point of preparing was to reach the moment when you could stop preparing and actually move forward.\n\nDo you have a clear stopping point for your checklists and planning routines, or do you sometimes find yourself checking things long after you're ready?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

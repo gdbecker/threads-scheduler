@@ -1,0 +1,80 @@
+[
+  {
+    "id": "budget-snapshot-financial-focus-01",
+    "account": "garretts_dev_desk",
+    "theme": "hoa_budget_presentations",
+    "series": "budget_snapshot_financial_focus",
+    "scheduled_at": "2027-02-15T09:15:00-05:00",
+    "posts": [
+      "Not every number deserves equal time in an HOA budget presentation.\n\nWhen you try to explain every line item, the changes that genuinely matter can get lost in the details. A useful presentation helps homeowners understand where their attention belongs.\n\nThat's one of the reasons I built Budget Snapshot: https://budgetsnapshot.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "budget-snapshot-financial-focus-02",
+    "account": "garretts_dev_desk",
+    "theme": "financial_communication",
+    "series": "budget_snapshot_financial_focus",
+    "scheduled_at": "2027-02-15T15:30:00-05:00",
+    "posts": [
+      "A detailed HOA budget should account for every expense. A budget presentation needs to prioritize what people should understand.\n\nA $200 change and a $20,000 change both belong in the financial records, but they probably don't deserve the same amount of meeting time.\n\nTry identifying the five most meaningful changes before preparing your next presentation."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "budget-snapshot-financial-focus-03",
+    "account": "garretts_dev_desk",
+    "theme": "budget_analysis",
+    "series": "budget_snapshot_financial_focus",
+    "scheduled_at": "2027-02-16T09:15:00-05:00",
+    "posts": [
+      "A 40% increase in a small HOA expense category might have less impact than an 8% increase in a major service contract.\n\nPercentages help explain how much something changed relative to its starting point. Dollar amounts help show the actual financial impact.\n\nBoth deserve a place in a useful budget explanation.\n\nExplore Budget Snapshot: https://budgetsnapshot.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "budget-snapshot-financial-focus-04",
+    "account": "garretts_dev_desk",
+    "theme": "budget_explanations",
+    "series": "budget_snapshot_financial_focus",
+    "scheduled_at": "2027-02-16T15:30:00-05:00",
+    "posts": [
+      "A budget variance tells you what changed. A short explanation can tell you why.\n\nMaybe an insurance policy renewed at a higher rate, a repair was scheduled for this year, or a new vendor contract reduced costs.\n\nWhen presenting major financial changes, add one sentence of context. Homeowners shouldn't have to guess what happened behind the numbers."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "budget-snapshot-financial-focus-05",
+    "account": "garretts_dev_desk",
+    "theme": "hoa_financial_planning",
+    "series": "budget_snapshot_financial_focus",
+    "scheduled_at": "2027-02-17T09:15:00-05:00",
+    "posts": [
+      "An $8,000 repair and an $8,000 annual contract increase can affect an HOA's future budgets very differently.\n\nThe repair may be a one-time expense. The higher contract cost may continue year after year.\n\nExplaining that difference helps homeowners understand the longer-term financial picture.\n\nBudget Snapshot can help organize those discussions: https://budgetsnapshot.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "budget-snapshot-financial-focus-06",
+    "account": "garretts_dev_desk",
+    "theme": "financial_transparency",
+    "series": "budget_snapshot_financial_focus",
+    "scheduled_at": "2027-02-17T15:30:00-05:00",
+    "posts": [
+      "Financial transparency doesn't require giving every budget line item equal attention during a meeting.\n\nKeep the complete budget available, but use the presentation to explain the changes, expenses, and decisions that matter most to the community.\n\nWhen you attend a financial presentation, do you prefer a high-level summary first or a detailed walkthrough of the numbers?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

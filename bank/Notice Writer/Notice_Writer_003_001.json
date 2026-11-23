@@ -1,0 +1,80 @@
+[
+  {
+    "id": "notice-writer-proportionate-tone-01",
+    "account": "garretts_dev_desk",
+    "theme": "avoiding_unnecessary_escalation",
+    "series": "notice_writer_proportionate_tone",
+    "scheduled_at": "2027-09-09T09:15:00-04:00",
+    "posts": [
+      "Not every HOA issue needs to start at maximum volume.\n\nAn ordinary community concern doesn't need to sound like the resident has already ignored three warnings. When the situation calls for a routine reminder, clear and respectful language can communicate the expectation without creating unnecessary tension.\n\nNotice Writer helps community volunteers prepare professional notices: https://noticewriter.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "notice-writer-proportionate-tone-02",
+    "account": "garretts_dev_desk",
+    "theme": "matching_tone_to_process_stage",
+    "series": "notice_writer_proportionate_tone",
+    "scheduled_at": "2027-09-09T15:30:00-04:00",
+    "posts": [
+      "Before writing an HOA notice, ask two questions: What stage is this issue actually in, and what tone fits that stage?\n\nThe association's procedures determine where the matter stands. Your wording should reflect that position accurately rather than making the situation sound more advanced than it is.\n\nTry reviewing a recent notice. Does its tone match the documented history and applicable process, or does it suggest an escalation that hasn't happened?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "notice-writer-proportionate-tone-03",
+    "account": "garretts_dev_desk",
+    "theme": "respectful_first_reminders",
+    "series": "notice_writer_proportionate_tone",
+    "scheduled_at": "2027-09-10T09:15:00-04:00",
+    "posts": [
+      "A first HOA reminder doesn't have to assume the resident is being difficult.\n\nA straightforward message can explain what was observed, identify the applicable expectation, and provide a clear next step. There's usually no need to speculate about someone's intentions when the facts already explain the concern.\n\nPrepare clear, respectful community notices with Notice Writer: https://noticewriter.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "notice-writer-proportionate-tone-04",
+    "account": "garretts_dev_desk",
+    "theme": "fact_based_follow_up_tone",
+    "series": "notice_writer_proportionate_tone",
+    "scheduled_at": "2027-09-10T15:30:00-04:00",
+    "posts": [
+      "When a community issue continues after an earlier notice, the facts may justify a firmer follow-up.\n\nThere might now be a documented reminder, an earlier deadline, and an unresolved concern. Those details can explain why the next communication is different without relying on angry or accusatory language.\n\nTry writing a follow-up using only verified facts and the applicable procedure. Can the seriousness come through without adding unnecessary intensity?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "notice-writer-proportionate-tone-05",
+    "account": "garretts_dev_desk",
+    "theme": "reserving_formal_warning_language",
+    "series": "notice_writer_proportionate_tone",
+    "scheduled_at": "2027-09-11T09:15:00-04:00",
+    "posts": [
+      "Final-warning language belongs at the appropriate stage of a community enforcement process.\n\nUsing it too early can make a routine issue sound unnecessarily severe. When a matter genuinely reaches a formal stage, the notice should accurately reflect the governing documents, procedures, and documented circumstances.\n\nNotice Writer helps volunteers organize notices for different situations: https://noticewriter.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "notice-writer-proportionate-tone-06",
+    "account": "garretts_dev_desk",
+    "theme": "giving_routine_issues_room_to_resolve",
+    "series": "notice_writer_proportionate_tone",
+    "scheduled_at": "2027-09-11T15:30:00-04:00",
+    "posts": [
+      "There's nothing weak about giving an ordinary community issue the chance to remain ordinary.\n\nA routine reminder can sound routine while still communicating clear expectations. If the circumstances change, the next communication can reflect those changes through accurate facts and appropriate procedures.\n\nFor anyone involved in community management, what helps you decide when a friendly reminder needs to become a more formal notice?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

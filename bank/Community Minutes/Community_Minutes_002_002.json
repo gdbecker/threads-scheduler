@@ -1,0 +1,80 @@
+[
+  {
+    "id": "community-minutes-conversation-outcomes-01",
+    "account": "garretts_dev_desk",
+    "theme": "meeting_note_taking",
+    "series": "community_minutes_conversation_outcomes",
+    "scheduled_at": "2027-04-19T09:15:00-04:00",
+    "posts": [
+      "When taking meeting minutes, try asking yourself a different question: Where did the conversation land?\n\nYou don't need to preserve every sentence spoken during a meeting. You need enough context to understand what happened, where the group left the issue, and what comes next.\n\nI built Community Minutes to help organize those important details: https://communityminutes.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "community-minutes-conversation-outcomes-02",
+    "account": "garretts_dev_desk",
+    "theme": "concise_meeting_records",
+    "series": "community_minutes_conversation_outcomes",
+    "scheduled_at": "2027-04-19T15:30:00-04:00",
+    "posts": [
+      "A 20-minute discussion during a board meeting might only need two sentences in the finished minutes.\n\nThe conversation may involve several opinions, questions, and possible approaches. Once the group reaches an outcome, the written record can focus on the essential context and conclusion.\n\nThe goal is to help someone understand what happened without making them revisit the entire discussion."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "community-minutes-conversation-outcomes-03",
+    "account": "garretts_dev_desk",
+    "theme": "recording_motions_and_votes",
+    "series": "community_minutes_conversation_outcomes",
+    "scheduled_at": "2027-04-20T09:15:00-04:00",
+    "posts": [
+      "When a motion or vote happens during a meeting, that's a good moment to slow down and take careful notes.\n\nCapture what was proposed, the outcome of the vote, and any other details required for the organization's official record. Those facts are easier to verify while everyone is still present.\n\nCommunity Minutes helps keep motions and decisions organized: https://communityminutes.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "community-minutes-conversation-outcomes-04",
+    "account": "garretts_dev_desk",
+    "theme": "informal_meeting_outcomes",
+    "series": "community_minutes_conversation_outcomes",
+    "scheduled_at": "2027-04-20T15:30:00-04:00",
+    "posts": [
+      "Not every meaningful outcome in a meeting comes with a formal vote.\n\nA committee might agree that more information is needed, decide to revisit a proposal next month, or move an event to another date.\n\nThose outcomes can be worth documenting even when no final approval happens. They help everyone understand where the issue stands and why it may appear on a future agenda."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "community-minutes-conversation-outcomes-05",
+    "account": "garretts_dev_desk",
+    "theme": "meeting_followup_responsibilities",
+    "series": "community_minutes_conversation_outcomes",
+    "scheduled_at": "2027-04-21T09:15:00-04:00",
+    "posts": [
+      "Sometimes the most useful part of a meeting record is explaining what needs to happen before the group can make a decision.\n\nIf an HOA board wants three contractor estimates before approving a project, record that requirement and who agreed to collect them.\n\nThat gives the next meeting a clear starting point.\n\nTry Community Minutes: https://communityminutes.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "community-minutes-conversation-outcomes-06",
+    "account": "garretts_dev_desk",
+    "theme": "meeting_record_continuity",
+    "series": "community_minutes_conversation_outcomes",
+    "scheduled_at": "2027-04-21T15:30:00-04:00",
+    "posts": [
+      "Good meeting minutes give people the journey without making them walk every step again.\n\nPreserve why the topic mattered, where the discussion landed, and what needs to happen next. Months later, those details help someone understand the outcome without reconstructing the entire conversation.\n\nWhen reading meeting minutes, do you prefer a concise record of outcomes or more background about the discussion?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

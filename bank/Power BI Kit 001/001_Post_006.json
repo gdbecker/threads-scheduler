@@ -1,0 +1,80 @@
+[
+  {
+    "id": "pbi-cash-forecasting-01",
+    "account": "garretts_dev_desk",
+    "theme": "identifying_potential_cash_shortages_before_they_happen",
+    "series": "pbi_thirteen_week_cash_forecasting",
+    "scheduled_at": "2028-05-15T09:15:00-04:00",
+    "posts": [
+      "The worst time to discover a cash shortage is when it happens.\n\nA business can appear financially healthy today while facing a very different cash position a few weeks from now. Looking ahead at expected inflows and outflows can help identify potential pressure before it becomes urgent.\n\nMy Financial Performance & Cash Flow Power BI Kit includes a 13-week cash forecast: https://garrettsdevdesk.etsy.com/listing/4595413257/power-bi-financial-dashboard-template-13"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-cash-forecasting-02",
+    "account": "garretts_dev_desk",
+    "theme": "understanding_how_payment_timing_affects_cash_availability",
+    "series": "pbi_thirteen_week_cash_forecasting",
+    "scheduled_at": "2028-05-15T15:30:00-04:00",
+    "posts": [
+      "Revenue earned and cash received don't always happen at the same time.\n\nCustomer payments may arrive weeks after an invoice is issued, while payroll, vendor bills, and other obligations still need to be paid. Those timing differences can create cash pressure even when the business is profitable.\n\nTry mapping your expected customer receipts and major payments across the next thirteen weeks. Are there weeks when the timing creates a potential shortfall?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-cash-forecasting-03",
+    "account": "garretts_dev_desk",
+    "theme": "using_a_rolling_thirteen_week_forecast_for_cash_planning",
+    "series": "pbi_thirteen_week_cash_forecasting",
+    "scheduled_at": "2028-05-16T09:15:00-04:00",
+    "posts": [
+      "Thirteen weeks can be a useful planning window for understanding near-term cash needs.\n\nA rolling weekly forecast helps show when expected receipts and payments may affect available balances. Updating it regularly gives you a clearer view of the weeks ahead as circumstances change.\n\nThe Cash Forecast page in my Financial Performance & Cash Flow Power BI Kit supports this kind of analysis: https://garrettsdevdesk.etsy.com/listing/4595413257/power-bi-financial-dashboard-template-13"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-cash-forecasting-04",
+    "account": "garretts_dev_desk",
+    "theme": "comparing_projected_cash_balances_with_minimum_targets",
+    "series": "pbi_thirteen_week_cash_forecasting",
+    "scheduled_at": "2028-05-16T15:30:00-04:00",
+    "posts": [
+      "A projected ending cash balance becomes more useful when you compare it with a minimum cash target.\n\nThat comparison helps reveal which weeks may need closer attention. A forecasted balance below the target doesn't guarantee a shortage, but it creates a reason to investigate the assumptions and available options.\n\nTry reviewing your projected weekly balances against a minimum operating cash threshold. Which weeks would you want to discuss first?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-cash-forecasting-05",
+    "account": "garretts_dev_desk",
+    "theme": "using_cash_forecasts_to_prepare_for_liquidity_challenges",
+    "series": "pbi_thirteen_week_cash_forecasting",
+    "scheduled_at": "2028-05-17T09:15:00-04:00",
+    "posts": [
+      "A cash forecast is valuable because it gives you time to prepare for possible challenges.\n\nIf projected balances approach a minimum target, you can review payment timing, spending plans, and financing options before the situation becomes urgent. The forecast gives those conversations a practical starting point.\n\nMy Financial Performance & Cash Flow Power BI Kit includes a customizable 13-week cash forecast: https://garrettsdevdesk.etsy.com/listing/4595413257/power-bi-financial-dashboard-template-13"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-cash-forecasting-06",
+    "account": "garretts_dev_desk",
+    "theme": "discussing_the_value_of_proactive_cash_flow_planning",
+    "series": "pbi_thirteen_week_cash_forecasting",
+    "scheduled_at": "2028-05-17T15:30:00-04:00",
+    "posts": [
+      "Cash forecasting can change the timing of an important business conversation.\n\nInstead of discovering a potential shortfall when a payment comes due, a weekly forecast can bring that concern into view earlier. It gives the team more time to examine assumptions and consider practical responses.\n\nFor anyone involved in cash planning, what's been the biggest challenge with maintaining a reliable short-term cash forecast?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

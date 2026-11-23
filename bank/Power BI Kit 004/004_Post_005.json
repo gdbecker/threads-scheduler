@@ -1,0 +1,80 @@
+[
+  {
+    "id": "pbi-field-kpi-direction-01",
+    "account": "garretts_dev_desk",
+    "theme": "understanding_why_not_every_kpi_should_increase",
+    "series": "pbi_field_kpi_direction_and_targets",
+    "scheduled_at": "2028-09-14T09:15:00-04:00",
+    "posts": [
+      "Not every KPI should be going up.\n\nA rising completion rate might be encouraging, while an increasing service repeat rate could signal a problem. Understanding whether higher or lower values represent better performance is essential for interpreting operational results.\n\nMy Field Team Performance Power BI Kit includes metric targets and performance status indicators: https://garrettsdevdesk.etsy.com/listing/4595448076/power-bi-field-team-performance"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-field-kpi-direction-02",
+    "account": "garretts_dev_desk",
+    "theme": "identifying_higher_is_better_field_performance_metrics",
+    "series": "pbi_field_kpi_direction_and_targets",
+    "scheduled_at": "2028-09-14T15:30:00-04:00",
+    "posts": [
+      "Some field performance measures improve when their values increase.\n\nCompletion rates, output per eight labor hours, and customer commitment performance can all provide useful signals when compared with appropriate targets. The direction of improvement should be clear to anyone reading the report.\n\nTry reviewing your operational KPIs and marking which ones are higher-is-better. Check whether your charts, targets, and status labels communicate that consistently."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-field-kpi-direction-03",
+    "account": "garretts_dev_desk",
+    "theme": "interpreting_lower_is_better_service_reliability_metrics",
+    "series": "pbi_field_kpi_direction_and_targets",
+    "scheduled_at": "2028-09-15T09:15:00-04:00",
+    "posts": [
+      "Sometimes a downward trend is exactly what you want to see.\n\nLower service repeat rates, fewer recurring trouble issues, and shorter restoration times can indicate improving field service reliability. These measures need a different interpretation from completion or productivity rates.\n\nMy Field Team Performance Power BI Kit includes service-quality measures and target comparisons: https://garrettsdevdesk.etsy.com/listing/4595448076/power-bi-field-team-performance"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-field-kpi-direction-04",
+    "account": "garretts_dev_desk",
+    "theme": "setting_kpi_targets_with_the_correct_performance_direction",
+    "series": "pbi_field_kpi_direction_and_targets",
+    "scheduled_at": "2028-09-15T15:30:00-04:00",
+    "posts": [
+      "A KPI target becomes much more useful when you understand what meeting it actually means.\n\nFor completion rates, higher results may be desirable. For service repeats, lower results are usually better. Applying the same comparison logic to both can create misleading performance signals.\n\nTry adding a direction field to your KPI reference table: Higher Is Better or Lower Is Better. Then review how each measure is evaluated against its target."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-field-kpi-direction-05",
+    "account": "garretts_dev_desk",
+    "theme": "turning_field_performance_metrics_into_clear_status_indicators",
+    "series": "pbi_field_kpi_direction_and_targets",
+    "scheduled_at": "2028-09-16T09:15:00-04:00",
+    "posts": [
+      "A good performance indicator should help someone understand what deserves attention.\n\nOn Target, Watch, and Needs Attention statuses can make operational reports easier to interpret when they're based on appropriate targets and KPI directions. Clear signals help managers prioritize questions.\n\nMy Field Team Performance Power BI Kit includes four editable dashboards with performance targets and status indicators: https://garrettsdevdesk.etsy.com/listing/4595448076/power-bi-field-team-performance"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-field-kpi-direction-06",
+    "account": "garretts_dev_desk",
+    "theme": "discussing_how_to_communicate_kpi_performance_direction",
+    "series": "pbi_field_kpi_direction_and_targets",
+    "scheduled_at": "2028-09-16T15:30:00-04:00",
+    "posts": [
+      "A rising number can represent good news or a warning, depending on the metric.\n\nCompletion rates, service repeats, restoration time, and productivity each need their own interpretation. Clear targets and status indicators help prevent confusion when managers review operational performance.\n\nFor Power BI developers and analysts, how do you make higher-is-better and lower-is-better KPIs immediately understandable in your dashboards?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

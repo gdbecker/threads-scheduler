@@ -1,0 +1,80 @@
+[
+  {
+    "id": "pbi-sales-data-accuracy-01",
+    "account": "garretts_dev_desk",
+    "theme": "understanding_why_dashboard_metrics_can_differ",
+    "series": "pbi_sales_data_accuracy",
+    "scheduled_at": "2028-06-19T09:15:00-04:00",
+    "posts": [
+      "Two dashboards can show different numbers and both be correct.\n\nBefore assuming there's a reporting error, check whether the measures use the same source data, reporting period, and calculation. Different definitions can produce different results, even when each calculation is working as intended.\n\nMy Sales Performance & Commercial Operations Power BI Kit includes documented measures to help you explore these distinctions: https://garrettsdevdesk.etsy.com/listing/4595438858/power-bi-sales-dashboard-template-sales"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-sales-data-accuracy-02",
+    "account": "garretts_dev_desk",
+    "theme": "distinguishing_sales_transactions_and_purchasing_data",
+    "series": "pbi_sales_data_accuracy",
+    "scheduled_at": "2028-06-19T15:30:00-04:00",
+    "posts": [
+      "Not every table in a business reporting model measures the same activity.\n\nSales lines describe products sold, journal entries record accounting activity, and supplier invoices represent purchasing obligations. Each has its own purpose and level of detail.\n\nTry selecting three tables in your reporting model and writing a one-sentence definition of what each row represents. That simple exercise can prevent a surprising number of reporting misunderstandings."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-sales-data-accuracy-03",
+    "account": "garretts_dev_desk",
+    "theme": "checking_reporting_periods_before_comparing_metrics",
+    "series": "pbi_sales_data_accuracy",
+    "scheduled_at": "2028-06-20T09:15:00-04:00",
+    "posts": [
+      "Sometimes the difference between two financial or sales reports comes down to the date filter.\n\nA sales total and a posted transaction total may cover different reporting windows or use different date fields. Understanding those choices matters before comparing results.\n\nMy Sales Performance & Commercial Operations Power BI Kit provides editable reporting views and documented DAX measures: https://garrettsdevdesk.etsy.com/listing/4595438858/power-bi-sales-dashboard-template-sales"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-sales-data-accuracy-04",
+    "account": "garretts_dev_desk",
+    "theme": "avoiding_order_count_errors_from_sales_line_items",
+    "series": "pbi_sales_data_accuracy",
+    "scheduled_at": "2028-06-20T15:30:00-04:00",
+    "posts": [
+      "One order doesn't necessarily mean one row in your sales dataset.\n\nAn order containing three products might appear as three line items. If you count those rows as orders, your reported order volume could be overstated. The distinction matters for metrics like average order value.\n\nTry checking how your dashboard calculates order count. Does it count distinct order IDs, or simply count rows in the sales table?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-sales-data-accuracy-05",
+    "account": "garretts_dev_desk",
+    "theme": "designing_dashboards_with_clear_metric_definitions",
+    "series": "pbi_sales_data_accuracy",
+    "scheduled_at": "2028-06-21T09:15:00-04:00",
+    "posts": [
+      "Good dashboard design starts with knowing exactly what each metric represents.\n\nClear definitions, appropriate calculations, and thoughtful filters help people interpret results consistently. They're especially important when a report combines sales, transaction, and purchasing information.\n\nMy Sales Performance & Commercial Operations Power BI Kit includes four editable pages and documented DAX measures: https://garrettsdevdesk.etsy.com/listing/4595438858/power-bi-sales-dashboard-template-sales"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-sales-data-accuracy-06",
+    "account": "garretts_dev_desk",
+    "theme": "discussing_common_causes_of_reporting_discrepancies",
+    "series": "pbi_sales_data_accuracy",
+    "scheduled_at": "2028-06-21T15:30:00-04:00",
+    "posts": [
+      "A reporting discrepancy can sometimes reveal something important about how the data is organized.\n\nDifferent date fields, inconsistent KPI definitions, duplicate records, and confusion between orders and line items can all affect the numbers people see. Understanding the source is often the first step toward explaining the difference.\n\nFor anyone who works with Power BI or business reporting, what's the most common cause of unexpected metric differences you've encountered?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "pbi-sales-analysis-value-01",
+    "account": "garretts_dev_desk",
+    "theme": "helping_stakeholders_understand_the_value_of_analysis",
+    "series": "pbi_sales_analysis_communication",
+    "scheduled_at": "2028-07-06T09:15:00-04:00",
+    "posts": [
+      "You put hours into the analysis. Then someone asks, \"So what?\"\n\nIt's frustrating when you've worked hard to prepare the numbers but the audience struggles to see why they matter. Clear reporting can help people recognize useful findings and ask better questions.\n\nMy Sales Performance & Commercial Operations Power BI Kit provides four editable reporting views to build upon: https://garrettsdevdesk.etsy.com/listing/4595438858/power-bi-sales-dashboard-template-sales"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-sales-analysis-value-02",
+    "account": "garretts_dev_desk",
+    "theme": "making_business_analysis_easier_to_explain",
+    "series": "pbi_sales_analysis_communication",
+    "scheduled_at": "2028-07-06T15:30:00-04:00",
+    "posts": [
+      "Sometimes the hardest part of reporting is explaining why the information matters.\n\nRevenue totals, product rankings, transaction records, and supplier invoices can contain useful findings. Presenting those details clearly takes thought about what the audience needs to understand.\n\nTry reviewing your latest report from a stakeholder's perspective. Can you identify the three most useful findings and explain why each deserves attention?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-sales-analysis-value-03",
+    "account": "garretts_dev_desk",
+    "theme": "turning_sales_analysis_into_meaningful_conversations",
+    "series": "pbi_sales_analysis_communication",
+    "scheduled_at": "2028-07-07T09:15:00-04:00",
+    "posts": [
+      "One of the best moments in analysis is when someone finally sees what you've been trying to explain.\n\nA clear sales trend, a standout product, or an overdue invoice can turn complicated data into a useful conversation. Thoughtful reporting makes those details easier to explore.\n\nMy Sales Performance & Commercial Operations Power BI Kit gives you a customizable foundation for presenting commercial data: https://garrettsdevdesk.etsy.com/listing/4595438858/power-bi-sales-dashboard-template-sales"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-sales-analysis-value-04",
+    "account": "garretts_dev_desk",
+    "theme": "presenting_analytical_findings_with_clear_visuals",
+    "series": "pbi_sales_analysis_communication",
+    "scheduled_at": "2028-07-07T15:30:00-04:00",
+    "posts": [
+      "A thoughtful dashboard can help your analysis speak more clearly to the people who need it.\n\nA few well-chosen KPIs establish context. Product comparisons reveal differences, while transaction and purchasing views make supporting details accessible. The goal is to help someone follow your reasoning.\n\nTry choosing one important finding from your latest analysis. What visual would make that finding easiest for someone unfamiliar with the data to understand?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-sales-analysis-value-05",
+    "account": "garretts_dev_desk",
+    "theme": "giving_analysts_more_room_to_focus_on_meaningful_work",
+    "series": "pbi_sales_analysis_communication",
+    "scheduled_at": "2028-07-08T09:15:00-04:00",
+    "posts": [
+      "Your time is valuable, especially when people are depending on your analysis.\n\nStarting with an editable reporting foundation can leave more room for exploring patterns, refining findings, and preparing useful explanations. You still bring the judgment and business context that make the work meaningful.\n\nMy Sales Performance & Commercial Operations Power BI Kit includes four customizable pages, sample data, and guides: https://garrettsdevdesk.etsy.com/listing/4595438858/power-bi-sales-dashboard-template-sales"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-sales-analysis-value-06",
+    "account": "garretts_dev_desk",
+    "theme": "discussing_the_satisfaction_of_communicating_analysis",
+    "series": "pbi_sales_analysis_communication",
+    "scheduled_at": "2028-07-08T15:30:00-04:00",
+    "posts": [
+      "There's a particular satisfaction in watching someone understand the value of your analysis.\n\nYou may have spent hours preparing the data, checking calculations, and refining the presentation. Then a stakeholder notices something important, asks a thoughtful question, or recognizes a decision worth exploring. Those moments make the effort meaningful.\n\nFor analysts and consultants, what's been your most rewarding moment presenting your work to someone else?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

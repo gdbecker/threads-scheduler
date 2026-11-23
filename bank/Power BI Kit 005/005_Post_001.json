@@ -1,0 +1,54 @@
+[
+  {
+    "id": "pbi-bd-pipeline-03",
+    "account": "garretts_dev_desk",
+    "theme": "comparing_business_development_activity_with_goal_attainment",
+    "series": "pbi_business_development_pipeline_overview",
+    "scheduled_at": "2028-10-13T09:15:00-04:00",
+    "posts": [
+      "A busy business development team isn't necessarily a team that's meeting its goals.\n\nActivity totals can show effort, but contributions, targets, and attainment help explain the results. Reviewing those measures together gives managers a clearer view of where the team stands.\n\nMy Business Development Performance Power BI Kit includes a dedicated team performance view: https://garrettsdevdesk.etsy.com/listing/4595453904/power-bi-business-development-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-bd-pipeline-04",
+    "account": "garretts_dev_desk",
+    "theme": "analyzing_opportunity_size_probability_and_service_line_mix",
+    "series": "pbi_business_development_pipeline_overview",
+    "scheduled_at": "2028-10-13T15:30:00-04:00",
+    "posts": [
+      "Two business development pipelines with the same total value can look very different underneath.\n\nOne may depend on a few large, uncertain opportunities. Another may contain smaller opportunities with stronger win probabilities across several service lines. Both deserve a closer look.\n\nTry reviewing your five largest open opportunities. Compare their values, probabilities, service lines, and client relationships to understand what is driving your pipeline."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-bd-pipeline-05",
+    "account": "garretts_dev_desk",
+    "theme": "connecting_pipeline_team_and_opportunity_reporting",
+    "series": "pbi_business_development_pipeline_overview",
+    "scheduled_at": "2028-10-14T09:15:00-04:00",
+    "posts": [
+      "Business development performance becomes easier to understand when you can see the pipeline, the people, and the opportunities together.\n\nPipeline health provides the overall picture. Team attainment shows contributions against goals. Opportunity analysis helps explain what's behind the totals.\n\nMy Business Development Performance Power BI Kit brings these into three editable report pages: https://garrettsdevdesk.etsy.com/listing/4595453904/power-bi-business-development-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-bd-pipeline-06",
+    "account": "garretts_dev_desk",
+    "theme": "discussing_which_metrics_best_explain_business_development_pipeline_health",
+    "series": "pbi_business_development_pipeline_overview",
+    "scheduled_at": "2028-10-14T15:30:00-04:00",
+    "posts": [
+      "A large pipeline can be reassuring until someone asks how much of it is likely to become actual business.\n\nTotal value, weighted value, stage distribution, and won business each reveal something different. Reviewing them together can help teams understand whether the pipeline supports their goals.\n\nFor business development managers and analysts, which metric do you find most useful when assessing pipeline health?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

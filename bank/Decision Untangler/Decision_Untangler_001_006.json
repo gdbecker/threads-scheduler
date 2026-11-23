@@ -1,0 +1,80 @@
+[
+  {
+    "id": "decision-untangler-clarity-not-certainty-01",
+    "account": "garretts_dev_desk",
+    "theme": "decision_uncertainty",
+    "series": "decision_untangler_clarity_not_certainty",
+    "scheduled_at": "2027-06-14T09:15:00-04:00",
+    "posts": [
+      "You don't need complete certainty before making a meaningful decision.\n\nSometimes you've researched the options, considered the risks, and learned everything you reasonably can. The future still won't tell you exactly how things will turn out.\n\nDecision Untangler helps you work through what you know, what matters, and what's keeping you stuck: https://decisionuntangler.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "decision-untangler-clarity-not-certainty-02",
+    "account": "garretts_dev_desk",
+    "theme": "learning_through_choices",
+    "series": "decision_untangler_clarity_not_certainty",
+    "scheduled_at": "2027-06-14T15:30:00-04:00",
+    "posts": [
+      "Some things about a decision can only be learned after you've made it.\n\nYou can research a new city, visit neighborhoods, and talk to people who live there. But you can't know exactly what an ordinary Wednesday in that future life will feel like until you're living it.\n\nPreparation matters, but there are limits to what research can reveal. Recognizing those limits can help you decide when you've learned enough to move forward."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "decision-untangler-clarity-not-certainty-03",
+    "account": "garretts_dev_desk",
+    "theme": "clarity_vs_certainty",
+    "series": "decision_untangler_clarity_not_certainty",
+    "scheduled_at": "2027-06-15T09:15:00-04:00",
+    "posts": [
+      "Certainty and clarity are two different things when you're making a decision.\n\nCertainty says, \"I know this will turn out well.\" Clarity says, \"I understand why I'm choosing this.\"\n\nYou may never reach the first standard, especially with major life choices. The second is something you can work toward. Decision Untangler helps you explore your reasoning: https://decisionuntangler.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "decision-untangler-clarity-not-certainty-04",
+    "account": "garretts_dev_desk",
+    "theme": "thoughtful_decision_standards",
+    "series": "decision_untangler_clarity_not_certainty",
+    "scheduled_at": "2027-06-15T15:30:00-04:00",
+    "posts": [
+      "Here's a more useful standard for a difficult decision than knowing everything will work out.\n\nCan you explain what matters most to you, which risks you've considered, what you're giving up, and why the tradeoffs make sense for your circumstances?\n\nTry writing those answers down before making your choice. You may discover that you understand your decision more clearly than you realized."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "decision-untangler-clarity-not-certainty-05",
+    "account": "garretts_dev_desk",
+    "theme": "decision_hindsight",
+    "series": "decision_untangler_clarity_not_certainty",
+    "scheduled_at": "2027-06-16T09:15:00-04:00",
+    "posts": [
+      "A thoughtful decision doesn't guarantee a good outcome, and an unexpected outcome doesn't automatically mean you chose poorly.\n\nYou make decisions using the information, priorities, and circumstances available at the time. Hindsight can reveal things you couldn't reasonably have known beforehand.\n\nDecision Untangler helps you examine the reasoning behind a choice rather than trying to predict the future: https://decisionuntangler.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "decision-untangler-clarity-not-certainty-06",
+    "account": "garretts_dev_desk",
+    "theme": "moving_forward_with_uncertainty",
+    "series": "decision_untangler_clarity_not_certainty",
+    "scheduled_at": "2027-06-16T15:30:00-04:00",
+    "posts": [
+      "Eventually, some decisions reach a point where thinking has done what it can and choosing has to begin.\n\nYou may not know exactly where the path leads, but you can understand why you're taking it. That understanding can be valuable even when the outcome remains uncertain.\n\nHave you ever made an important decision without feeling completely sure, but still felt confident in your reasons for choosing?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

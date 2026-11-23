@@ -1,0 +1,80 @@
+[
+  {
+    "id": "notice-writer-recipient-proofreading-01",
+    "account": "garretts_dev_desk",
+    "theme": "proofreading_without_assumptions",
+    "series": "notice_writer_recipient_proofreading",
+    "scheduled_at": "2027-09-02T09:15:00-04:00",
+    "posts": [
+      "The best way to proofread an HOA notice might be to forget everything you already know about the situation.\n\nWhen you've discussed an issue for weeks, your brain fills in details that may never appear in the letter. The resident receiving it doesn't have that background. The notice needs to make sense on its own.\n\nNotice Writer helps volunteers prepare clearer community communications: https://noticewriter.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "notice-writer-recipient-proofreading-02",
+    "account": "garretts_dev_desk",
+    "theme": "reading_from_resident_perspective",
+    "series": "notice_writer_recipient_proofreading",
+    "scheduled_at": "2027-09-02T15:30:00-04:00",
+    "posts": [
+      "Imagine opening a community notice at home with no knowledge of the conversations that led to it.\n\nYou haven't attended the board meetings, reviewed the internal notes, or heard the sender explain what they meant. All you have is the document in front of you.\n\nTry reading your next notice with that perspective. Does it explain the situation clearly, or are you relying on background knowledge the resident doesn't have?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "notice-writer-recipient-proofreading-03",
+    "account": "garretts_dev_desk",
+    "theme": "providing_complete_notice_context",
+    "series": "notice_writer_recipient_proofreading",
+    "scheduled_at": "2027-09-03T09:15:00-04:00",
+    "posts": [
+      "A rule citation and a property address don't automatically make an HOA notice understandable.\n\nResidents also need enough context to recognize the concern and understand how the applicable requirement relates to it. Missing explanations can leave people guessing even when every technical detail is correct.\n\nNotice Writer helps community volunteers organize clearer, more complete notices: https://noticewriter.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "notice-writer-recipient-proofreading-04",
+    "account": "garretts_dev_desk",
+    "theme": "clarifying_requested_actions",
+    "series": "notice_writer_recipient_proofreading",
+    "scheduled_at": "2027-09-03T15:30:00-04:00",
+    "posts": [
+      "\"Correct the condition\" might seem perfectly clear when you're the person who wrote the notice.\n\nFor someone receiving it without additional context, that phrase may leave important questions unanswered. What needs to change? What would a successful resolution look like? Is there a deadline?\n\nTry finding the action sentence in your next notice. Would someone unfamiliar with the situation know exactly what to do?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "notice-writer-recipient-proofreading-05",
+    "account": "garretts_dev_desk",
+    "theme": "proofreading_beyond_spelling",
+    "series": "notice_writer_recipient_proofreading",
+    "scheduled_at": "2027-09-04T09:15:00-04:00",
+    "posts": [
+      "Spellcheck won't tell you that \"this matter\" makes no sense to the person receiving your notice.\n\nGood proofreading also catches missing context, buried instructions, confusing deadlines, unnecessarily irritated language, and unclear contact information. Those problems can matter more than a small typo.\n\nNotice Writer helps volunteers prepare professional community notices: https://noticewriter.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "notice-writer-recipient-proofreading-06",
+    "account": "garretts_dev_desk",
+    "theme": "standalone_notice_clarity",
+    "series": "notice_writer_recipient_proofreading",
+    "scheduled_at": "2027-09-04T15:30:00-04:00",
+    "posts": [
+      "A community notice should be understandable without a separate explanation from the person who wrote it.\n\nThe reader needs enough information to recognize the issue, understand the expectation, and know what to do next. If the sender's background knowledge is filling in important gaps, the document probably needs another review.\n\nWhat's one thing you wish more organizations would check before sending official notices or letters?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "thinking-lens-productive-avoidance-01",
+    "account": "garretts_dev_desk",
+    "theme": "distinguishing_activity_from_progress",
+    "series": "thinking_lens_productive_avoidance",
+    "scheduled_at": "2027-11-22T09:15:00-05:00",
+    "posts": [
+      "Being busy around a problem isn't the same as making progress on it.\n\nYou can organize your notes, refine your plans, and complete plenty of small tasks while the actual obstacle remains untouched. Sometimes the most satisfying work is also the work that lets us avoid what's difficult.\n\nThe Thinking Lens helps you examine what's keeping you stuck and find a useful next step: https://thethinkinglens.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "thinking-lens-productive-avoidance-02",
+    "account": "garretts_dev_desk",
+    "theme": "evaluating_meaningful_progress",
+    "series": "thinking_lens_productive_avoidance",
+    "scheduled_at": "2027-11-22T15:30:00-05:00",
+    "posts": [
+      "Before adding another task to your list, ask whether completing it will leave the situation meaningfully different.\n\nWill you learn something new, remove an obstacle, or make the next step clearer? Those are useful signs that an action could move the problem forward.\n\nTry reviewing three tasks you've planned for today. Which one would actually change your understanding or circumstances, rather than simply make you feel more organized?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "thinking-lens-productive-avoidance-03",
+    "account": "garretts_dev_desk",
+    "theme": "recognizing_productive_procrastination",
+    "series": "thinking_lens_productive_avoidance",
+    "scheduled_at": "2027-11-23T09:15:00-05:00",
+    "posts": [
+      "Sometimes we're just rearranging the furniture around the problem.\n\nEverything looks tidier. The notes are organized, the checklist is updated, and the workspace is ready. But the conversation, decision, or uncomfortable question we've been avoiding is still waiting for us.\n\nExplore the problem from another angle with The Thinking Lens: https://thethinkinglens.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "thinking-lens-productive-avoidance-04",
+    "account": "garretts_dev_desk",
+    "theme": "choosing_actions_that_create_real_feedback",
+    "series": "thinking_lens_productive_avoidance",
+    "scheduled_at": "2027-11-23T15:30:00-05:00",
+    "posts": [
+      "The step that would help most is sometimes the one that's a little uncomfortable.\n\nSending the email could get you an answer. Sharing the rough idea could reveal what needs improvement. Checking the numbers could replace a vague concern with something concrete.\n\nThink about a problem you've been working around. What's one action that would bring new information into the situation? Give yourself a reasonable deadline to try it."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "thinking-lens-productive-avoidance-05",
+    "account": "garretts_dev_desk",
+    "theme": "making_small_steps_genuinely_useful",
+    "series": "thinking_lens_productive_avoidance",
+    "scheduled_at": "2027-11-24T09:15:00-05:00",
+    "posts": [
+      "The smallest next step still needs to be useful.\n\nBreaking a difficult task into smaller pieces can make it easier to begin. But if every tiny action helps you avoid the question that matters, you may be making the checklist longer without getting closer to an answer.\n\nThe Thinking Lens helps you look beyond the busywork and consider what might actually help: https://thethinkinglens.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "thinking-lens-productive-avoidance-06",
+    "account": "garretts_dev_desk",
+    "theme": "recognizing_the_work_we_avoid",
+    "series": "thinking_lens_productive_avoidance",
+    "scheduled_at": "2027-11-24T15:30:00-05:00",
+    "posts": [
+      "A useful next step should leave something meaningfully different afterward.\n\nMaybe you've learned what someone actually thinks, tested an assumption, or removed an obstacle. Progress doesn't always look impressive, and it isn't necessarily the task that feels most satisfying to complete.\n\nHave you ever caught yourself doing a dozen productive-looking things to avoid the one task that would actually move a project forward?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

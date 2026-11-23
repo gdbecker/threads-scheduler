@@ -1,0 +1,80 @@
+[
+  {
+    "id": "decision-untangler-hidden-tradeoffs-01",
+    "account": "garretts_dev_desk",
+    "theme": "decision_indecision",
+    "series": "decision_untangler_hidden_tradeoffs",
+    "scheduled_at": "2027-05-27T09:15:00-04:00",
+    "posts": [
+      "Ever feel like you've made the same decision five times without actually deciding?\n\nOption A feels right on Monday. Option B looks better on Tuesday. By Wednesday, you're researching everything again and wondering why you can't settle on an answer.\n\nSometimes it helps to look underneath the options. Decision Untangler is designed for that kind of reflection: https://decisionuntangler.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "decision-untangler-hidden-tradeoffs-02",
+    "account": "garretts_dev_desk",
+    "theme": "overthinking_decisions",
+    "series": "decision_untangler_hidden_tradeoffs",
+    "scheduled_at": "2027-05-27T15:30:00-04:00",
+    "posts": [
+      "Going back and forth on a decision doesn't always mean you need more information.\n\nSometimes you've already considered the practical details several times. Another round of research may bring you back to the same unanswered questions.\n\nTry writing down what you genuinely don't know yet. If the list is short, the difficulty may have more to do with the tradeoffs than the available facts."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "decision-untangler-hidden-tradeoffs-03",
+    "account": "garretts_dev_desk",
+    "theme": "decision_reflection_questions",
+    "series": "decision_untangler_hidden_tradeoffs",
+    "scheduled_at": "2027-05-28T09:15:00-04:00",
+    "posts": [
+      "Two options can look equally reasonable on paper and still leave you feeling stuck.\n\nMaybe the difficulty isn't figuring out which one has the better features, salary, location, or timeline. Maybe each option represents something important that you don't want to give up.\n\nTry asking, \"What does each choice represent to me?\" That question can reveal more than another pros-and-cons list."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "decision-untangler-hidden-tradeoffs-04",
+    "account": "garretts_dev_desk",
+    "theme": "values_and_tradeoffs",
+    "series": "decision_untangler_hidden_tradeoffs",
+    "scheduled_at": "2027-05-28T15:30:00-04:00",
+    "posts": [
+      "Choosing between two jobs might really mean weighing stability against possibility.\n\nMoving somewhere new might bring up familiarity versus a fresh start. Starting a project might involve safety, curiosity, or the fear of missing an opportunity.\n\nTry naming what each option represents before comparing the practical details again. Decision Untangler can help you explore those questions: https://decisionuntangler.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "decision-untangler-hidden-tradeoffs-05",
+    "account": "garretts_dev_desk",
+    "theme": "emotional_cost_of_choices",
+    "series": "decision_untangler_hidden_tradeoffs",
+    "scheduled_at": "2027-05-29T09:15:00-04:00",
+    "posts": [
+      "A good decision can still come with a sense of loss.\n\nYou might be excited about a new opportunity while feeling sad about leaving something familiar. You might choose stability while wondering what could have happened if you'd taken a bigger risk.\n\nThose feelings don't automatically mean you made the wrong choice. Sometimes they simply reflect that both possibilities mattered to you."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "decision-untangler-hidden-tradeoffs-06",
+    "account": "garretts_dev_desk",
+    "theme": "understanding_difficult_choices",
+    "series": "decision_untangler_hidden_tradeoffs",
+    "scheduled_at": "2027-05-29T15:30:00-04:00",
+    "posts": [
+      "When you're stuck between two reasonable options, try changing the question.\n\nInstead of asking which option is better, ask what you're actually choosing between. You may discover that the real tension involves values, priorities, or things you care about more deeply than you first realized.\n\nHave you ever struggled with a decision because both options offered something you genuinely wanted?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "budget-snapshot-hoa-clarity-01",
+    "account": "garretts_dev_desk",
+    "theme": "hoa_budget_communication",
+    "series": "budget_snapshot_hoa_clarity",
+    "scheduled_at": "2027-01-21T09:15:00-05:00",
+    "posts": [
+      "An HOA budget can be completely accurate and still leave homeowners confused.\n\nBalancing the numbers is important, but so is helping people understand what their dues support, why expenses are changing, and how the community is preparing for future needs.\n\nI built Budget Snapshot to help make those conversations clearer: https://budgetsnapshot.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "budget-snapshot-hoa-clarity-02",
+    "account": "garretts_dev_desk",
+    "theme": "homeowner_communication",
+    "series": "budget_snapshot_hoa_clarity",
+    "scheduled_at": "2027-01-21T15:30:00-05:00",
+    "posts": [
+      "Most homeowners aren't looking for an accounting lesson when they review their HOA's annual budget.\n\nThey're wondering why dues changed, where their money goes, and whether the association is preparing for future expenses.\n\nA useful budget summary should answer those questions in everyday language.\n\nWhich question do you think HOA boards hear most often about their budgets?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "budget-snapshot-hoa-clarity-03",
+    "account": "garretts_dev_desk",
+    "theme": "financial_transparency",
+    "series": "budget_snapshot_hoa_clarity",
+    "scheduled_at": "2027-01-22T09:15:00-05:00",
+    "posts": [
+      "Before asking homeowners to work through pages of budget line items, give them the big picture.\n\nStart with annual dues, major expenses, reserve contributions, and the biggest changes from last year. That context makes the detailed numbers easier to understand.\n\nBudget Snapshot helps organize community financial information into a clearer presentation: https://budgetsnapshot.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "budget-snapshot-hoa-clarity-04",
+    "account": "garretts_dev_desk",
+    "theme": "budget_explanations",
+    "series": "budget_snapshot_hoa_clarity",
+    "scheduled_at": "2027-01-22T15:30:00-05:00",
+    "posts": [
+      "Not every line item deserves the same amount of attention in an HOA budget presentation.\n\nIf insurance costs increased substantially while office supplies barely changed, homeowners probably need more explanation about insurance.\n\nTry identifying the three expenses driving the biggest changes before writing your next budget summary. Those are often good places to start the conversation."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "budget-snapshot-hoa-clarity-05",
+    "account": "garretts_dev_desk",
+    "theme": "hoa_reserve_planning",
+    "series": "budget_snapshot_hoa_clarity",
+    "scheduled_at": "2027-01-23T09:15:00-05:00",
+    "posts": [
+      "Reserve contributions can feel like an abstract budget expense until homeowners understand what they're preparing for.\n\nPavement repairs, roofing, fencing, painting, and equipment replacement all have future costs. Connecting reserve contributions to those responsibilities helps explain why planning matters.\n\nExplore Budget Snapshot: https://budgetsnapshot.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "budget-snapshot-hoa-clarity-06",
+    "account": "garretts_dev_desk",
+    "theme": "community_financial_communication",
+    "series": "budget_snapshot_hoa_clarity",
+    "scheduled_at": "2027-01-23T15:30:00-05:00",
+    "posts": [
+      "A good HOA budget presentation gives homeowners a doorway into the numbers.\n\nExplain what changed, what their money supports, and what the association is preparing for. Then make the detailed budget available for anyone who wants to explore further.\n\nThat's the kind of communication I want Budget Snapshot to support: https://budgetsnapshot.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

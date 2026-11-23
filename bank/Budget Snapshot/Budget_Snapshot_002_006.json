@@ -1,0 +1,80 @@
+[
+  {
+    "id": "budget-snapshot-better-questions-01",
+    "account": "garretts_dev_desk",
+    "theme": "hoa_budget_communication",
+    "series": "budget_snapshot_better_questions",
+    "scheduled_at": "2027-03-01T09:15:00-05:00",
+    "posts": [
+      "The goal of an HOA budget presentation isn't to eliminate questions.\n\nIt's to give homeowners enough context to ask better ones. When people understand the numbers, they can have more useful conversations about priorities, tradeoffs, and future needs.\n\nThat's the kind of communication I built Budget Snapshot to support: https://budgetsnapshot.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "budget-snapshot-better-questions-02",
+    "account": "garretts_dev_desk",
+    "theme": "homeowner_engagement",
+    "series": "budget_snapshot_better_questions",
+    "scheduled_at": "2027-03-01T15:30:00-05:00",
+    "posts": [
+      "There's a meaningful difference between asking \"Why is our HOA budget higher?\" and \"Is this increase expected to continue next year?\"\n\nThe second question suggests someone understands the change and is thinking about its longer-term implications.\n\nA clear budget presentation helps homeowners move beyond the basics toward more thoughtful questions about the community's finances."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "budget-snapshot-better-questions-03",
+    "account": "garretts_dev_desk",
+    "theme": "budget_meeting_preparation",
+    "series": "budget_snapshot_better_questions",
+    "scheduled_at": "2027-03-02T09:15:00-05:00",
+    "posts": [
+      "Before your next HOA budget meeting, write down the five questions homeowners are most likely to ask.\n\nWhy did dues change? Which expenses increased most? What are reserves preparing for? Are any costs temporary?\n\nAnswering those questions early can give everyone a stronger starting point for the discussion.\n\nExplore Budget Snapshot: https://budgetsnapshot.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "budget-snapshot-better-questions-04",
+    "account": "garretts_dev_desk",
+    "theme": "financial_accuracy",
+    "series": "budget_snapshot_better_questions",
+    "scheduled_at": "2027-03-02T15:30:00-05:00",
+    "posts": [
+      "\"I need to check that number and get back to you\" can be a perfectly reasonable answer during a budget meeting.\n\nFinancial questions sometimes require reviewing the source data, checking an assumption, or confirming a calculation. A careful follow-up is more useful than a confident guess.\n\nAccuracy and transparency matter more than having every answer immediately."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "budget-snapshot-better-questions-05",
+    "account": "garretts_dev_desk",
+    "theme": "community_financial_discussions",
+    "series": "budget_snapshot_better_questions",
+    "scheduled_at": "2027-03-03T09:15:00-05:00",
+    "posts": [
+      "A homeowner questioning an HOA budget priority doesn't necessarily mean the presentation went poorly.\n\nIf they understand the financial tradeoffs well enough to discuss whether a project should move forward or reserves should receive more funding, the conversation has reached something meaningful.\n\nBudget Snapshot helps make the financial picture easier to discuss: https://budgetsnapshot.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "budget-snapshot-better-questions-06",
+    "account": "garretts_dev_desk",
+    "theme": "community_engagement",
+    "series": "budget_snapshot_better_questions",
+    "scheduled_at": "2027-03-03T15:30:00-05:00",
+    "posts": [
+      "A successful HOA budget meeting isn't necessarily one where nobody raises a hand.\n\nIt's one where homeowners have enough information to ask thoughtful questions about spending, priorities, reserves, and what happens next.\n\nGood communication creates room for those conversations.\n\nWhat's one question you think every HOA board should be prepared to answer about its annual budget?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "briefly-reader-purpose-01",
+    "account": "garretts_dev_desk",
+    "theme": "clear_communication",
+    "series": "briefly_reader_purpose",
+    "scheduled_at": "2026-11-23T09:15:00-05:00",
+    "posts": [
+      "The same set of project notes could become a status update, an executive brief, or a decision memo. Each serves a different reader.\n\nBefore opening a template, think about who's reading and what they need to understand.\n\nBriefly helps you build around that purpose: https://briefly.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-reader-purpose-02",
+    "account": "garretts_dev_desk",
+    "theme": "business_writing",
+    "series": "briefly_reader_purpose",
+    "scheduled_at": "2026-11-23T15:30:00-05:00",
+    "posts": [
+      "Here's a useful question before writing your next work update: What should someone understand after reading this?\n\nOnce you have an answer, it's easier to decide which details deserve space and which can stay in your notes.\n\nThat's the thinking behind Briefly: https://briefly.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-reader-purpose-03",
+    "account": "garretts_dev_desk",
+    "theme": "project_communication",
+    "series": "briefly_reader_purpose",
+    "scheduled_at": "2026-11-24T09:15:00-05:00",
+    "posts": [
+      "A project status update and a decision brief might use exactly the same information, but they shouldn't read the same way.\n\nOne tells people where things stand. The other helps them evaluate a choice.\n\nBriefly lets you choose the type of brief that fits the job: https://briefly.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-reader-purpose-04",
+    "account": "garretts_dev_desk",
+    "theme": "writing_workflows",
+    "series": "briefly_reader_purpose",
+    "scheduled_at": "2026-11-24T15:30:00-05:00",
+    "posts": [
+      "Staring at a blank document? Try answering three smaller questions first.\n\nWhat changed? What matters? What happens next?\n\nThose answers can give you the foundation for a useful update without having to write everything perfectly on the first try.\n\nTry Briefly: https://briefly.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-reader-purpose-05",
+    "account": "garretts_dev_desk",
+    "theme": "document_templates",
+    "series": "briefly_reader_purpose",
+    "scheduled_at": "2026-11-25T09:15:00-05:00",
+    "posts": [
+      "Ever found yourself filling in a section of a work template just because the heading is there?\n\nA good template should make communication easier. You should be able to adjust the structure when the information calls for it.\n\nThat's one reason I made Briefly flexible: https://briefly.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-reader-purpose-06",
+    "account": "garretts_dev_desk",
+    "theme": "workplace_productivity",
+    "series": "briefly_reader_purpose",
+    "scheduled_at": "2026-11-25T15:30:00-05:00",
+    "posts": [
+      "There probably isn't one perfect template for every project update, client recap, or leadership brief.\n\nThe useful structure is the one that helps your reader find what matters without digging through everything else.\n\nI built Briefly with that idea in mind: https://briefly.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

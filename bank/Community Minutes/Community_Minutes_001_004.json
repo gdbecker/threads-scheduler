@@ -1,0 +1,80 @@
+[
+  {
+    "id": "community-minutes-action-items-01",
+    "account": "garretts_dev_desk",
+    "theme": "meeting_action_item_tracking",
+    "series": "community_minutes_action_items",
+    "scheduled_at": "2027-04-05T09:15:00-04:00",
+    "posts": [
+      "Action items are surprisingly easy to lose after a meeting.\n\n\"I'll call the vendor tomorrow\" sounds memorable when everyone is sitting around the table. A month later, nobody may remember who volunteered or whether the call happened.\n\nI built Community Minutes to help volunteer boards and committees keep those commitments organized: https://communityminutes.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "community-minutes-action-items-02",
+    "account": "garretts_dev_desk",
+    "theme": "informal_meeting_commitments",
+    "series": "community_minutes_action_items",
+    "scheduled_at": "2027-04-05T15:30:00-04:00",
+    "posts": [
+      "Some of the most important moments in a board or committee meeting happen without a formal motion.\n\nSomeone offers to research a question, contact a vendor, send an update, or bring additional information to the next meeting.\n\nThose quiet commitments deserve a place in the record. Otherwise, useful work can disappear between meetings simply because nobody wrote down who agreed to do it."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "community-minutes-action-items-03",
+    "account": "garretts_dev_desk",
+    "theme": "action_item_documentation",
+    "series": "community_minutes_action_items",
+    "scheduled_at": "2027-04-06T09:15:00-04:00",
+    "posts": [
+      "A useful meeting action item answers three questions: What needs to happen? Who is responsible? When is it expected?\n\n\"Follow up on landscaping\" leaves plenty of room for confusion. \"Sarah will request the revised landscaping quote before the May meeting\" gives everyone something concrete to reference.\n\nTry organizing your next meeting's follow-ups with Community Minutes: https://communityminutes.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "community-minutes-action-items-04",
+    "account": "garretts_dev_desk",
+    "theme": "meeting_decisions_and_followups",
+    "series": "community_minutes_action_items",
+    "scheduled_at": "2027-04-06T15:30:00-04:00",
+    "posts": [
+      "A decision and an action item answer different questions in meeting minutes.\n\nThe decision records where the group landed. The action item explains what needs to happen next and who will handle it.\n\nFor example, a board might decide to seek another roof estimate. Recording who will contact contractors and when the estimates are needed makes that decision easier to act on."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "community-minutes-action-items-05",
+    "account": "garretts_dev_desk",
+    "theme": "accurate_meeting_records",
+    "series": "community_minutes_action_items",
+    "scheduled_at": "2027-04-07T09:15:00-04:00",
+    "posts": [
+      "A question mark in your draft meeting minutes can be more responsible than a polished guess.\n\nIf you aren't sure who volunteered for a task or whether a deadline was agreed upon, flag that detail for verification. A confident-looking sentence won't make uncertain information accurate.\n\nCommunity Minutes includes a workflow for reviewing and organizing meeting records: https://communityminutes.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "community-minutes-action-items-06",
+    "account": "garretts_dev_desk",
+    "theme": "meeting_continuity",
+    "series": "community_minutes_action_items",
+    "scheduled_at": "2027-04-07T15:30:00-04:00",
+    "posts": [
+      "Good meeting minutes help carry the work from one meeting to the next.\n\nWhen decisions, assignments, and deferred issues are clearly recorded, a volunteer board or committee can pick up where it left off without reconstructing the previous conversation from memory.\n\nFor those who regularly attend meetings, what's more frustrating: unclear action items or discovering that nobody followed up on them?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

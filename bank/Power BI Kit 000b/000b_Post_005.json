@@ -1,0 +1,80 @@
+[
+  {
+    "id": "pbi-plan-mix-01",
+    "account": "garretts_dev_desk",
+    "theme": "understanding_revenue_distribution_across_subscription_plans",
+    "series": "pbi_subscription_plan_mix",
+    "scheduled_at": "2028-03-30T09:15:00-04:00",
+    "posts": [
+      "Two subscription businesses can each have $100,000 in MRR and look very different underneath.\n\nOne might earn most of its revenue from hundreds of smaller subscriptions. Another might depend on a handful of higher-priced plans. The total is identical, but the revenue structure deserves different questions.\n\nMy Subscription Health Power BI Kit helps explore MRR by plan: https://garrettsdevdesk.etsy.com/listing/4595420792/power-bi-subscription-dashboard-template"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-plan-mix-02",
+    "account": "garretts_dev_desk",
+    "theme": "breaking_down_monthly_recurring_revenue_by_plan",
+    "series": "pbi_subscription_plan_mix",
+    "scheduled_at": "2028-03-30T15:30:00-04:00",
+    "posts": [
+      "Total MRR tells you how much recurring revenue your subscription business generates. Plan mix helps explain where it comes from.\n\nBreaking revenue down by subscription tier can reveal which plans contribute the most and how dependent the business is on each one.\n\nTry calculating each plan's share of total MRR. Does one tier account for most of your recurring revenue, or is revenue spread relatively evenly across the customer base?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-plan-mix-03",
+    "account": "garretts_dev_desk",
+    "theme": "comparing_subscription_customer_counts_with_revenue_contributions",
+    "series": "pbi_subscription_plan_mix",
+    "scheduled_at": "2028-03-31T09:15:00-04:00",
+    "posts": [
+      "Your most popular subscription plan might not be your biggest source of recurring revenue.\n\nA lower-priced tier could have hundreds of customers while a higher-priced tier generates more MRR with far fewer accounts. Comparing customer count with revenue contribution helps explain that difference.\n\nMy Subscription Health Power BI Kit connects plan mix with MRR and customer metrics: https://garrettsdevdesk.etsy.com/listing/4595420792/power-bi-subscription-dashboard-template"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-plan-mix-04",
+    "account": "garretts_dev_desk",
+    "theme": "evaluating_subscription_revenue_concentration",
+    "series": "pbi_subscription_plan_mix",
+    "scheduled_at": "2028-03-31T15:30:00-04:00",
+    "posts": [
+      "If one subscription tier generates 45% of your MRR, changes in that tier deserve attention.\n\nRevenue concentration can make a business more sensitive to changes in a particular plan's pricing, customer retention, or demand. The percentage alone doesn't establish risk, but it helps identify where to investigate.\n\nTry reviewing revenue concentration alongside churn for each plan. Which tiers contribute the most revenue, and how stable is their customer base?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-plan-mix-05",
+    "account": "garretts_dev_desk",
+    "theme": "monitoring_changes_in_subscription_plan_mix_over_time",
+    "series": "pbi_subscription_plan_mix",
+    "scheduled_at": "2028-04-01T09:15:00-04:00",
+    "posts": [
+      "Subscription plan mix becomes especially interesting when you compare it over time.\n\nAre more customers choosing higher-priced tiers? Is a once-popular plan shrinking? Are changes in plan mix helping explain movements in ARPU and MRR? These shifts can reveal how the subscription base is evolving.\n\nMy Subscription Health Power BI Kit brings plan mix into the broader reporting picture: https://garrettsdevdesk.etsy.com/listing/4595420792/power-bi-subscription-dashboard-template"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-plan-mix-06",
+    "account": "garretts_dev_desk",
+    "theme": "asking_better_questions_about_subscription_revenue_structure",
+    "series": "pbi_subscription_plan_mix",
+    "scheduled_at": "2028-04-01T15:30:00-04:00",
+    "posts": [
+      "A subscription business's revenue structure can tell you things that total MRR cannot.\n\nKnowing which plans generate revenue, how many customers each tier serves, and how the mix changes over time gives you a clearer view of the business. It also helps identify where retention or pricing changes could have a meaningful impact.\n\nWould you rather see subscription revenue spread across many smaller customers or concentrated in fewer higher-value accounts? What would influence your answer?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "thinking-lens-problem-vs-pressure-01",
+    "account": "garretts_dev_desk",
+    "theme": "separating_problems_from_pressure",
+    "series": "thinking_lens_problem_vs_pressure",
+    "scheduled_at": "2027-10-04T09:15:00-04:00",
+    "posts": [
+      "Sometimes one problem feels like five because we've wrapped it in everything that might happen.\n\nThe actual situation may be manageable, but imagined outcomes, other people's reactions, and worries about regret can make it feel much larger. Separating those concerns can help you see what really needs attention.\n\nExplore your thinking with The Thinking Lens: https://thethinkinglens.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "thinking-lens-problem-vs-pressure-02",
+    "account": "garretts_dev_desk",
+    "theme": "defining_the_actual_problem",
+    "series": "thinking_lens_problem_vs_pressure",
+    "scheduled_at": "2027-10-04T15:30:00-04:00",
+    "posts": [
+      "Before trying to solve a complicated problem, see whether you can describe it in two sentences.\n\nLeave out the possible consequences, imagined reactions, and everything that might go wrong later. Focus on what is actually happening and what needs your attention now.\n\nTry writing those two sentences on paper. You may discover that the situation itself is smaller and more specific than the worries surrounding it."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "thinking-lens-problem-vs-pressure-03",
+    "account": "garretts_dev_desk",
+    "theme": "recognizing_added_worries",
+    "series": "thinking_lens_problem_vs_pressure",
+    "scheduled_at": "2027-10-05T09:15:00-04:00",
+    "posts": [
+      "A difficult decision can become exhausting when every possible outcome starts demanding attention.\n\nWhat if it goes wrong? What will people think? What if you regret it? Those questions may be worth considering, but they don't all need answers at once.\n\nThe Thinking Lens helps you examine situations from different perspectives and find a clearer way forward: https://thethinkinglens.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "thinking-lens-problem-vs-pressure-04",
+    "account": "garretts_dev_desk",
+    "theme": "distinguishing_facts_from_assumptions",
+    "series": "thinking_lens_problem_vs_pressure",
+    "scheduled_at": "2027-10-05T15:30:00-04:00",
+    "posts": [
+      "One useful way to untangle a problem is to separate what you know from what you're assuming.\n\nA fact might be that someone hasn't responded to your message. An assumption might be that they're upset with you. Both can affect how you feel, but only one is established.\n\nTry making two columns for a situation you're facing: \"What I know\" and \"What I'm assuming.\" Which assumptions could you check before acting on them?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "thinking-lens-problem-vs-pressure-05",
+    "account": "garretts_dev_desk",
+    "theme": "focusing_on_the_next_real_step",
+    "series": "thinking_lens_problem_vs_pressure",
+    "scheduled_at": "2027-10-06T09:15:00-04:00",
+    "posts": [
+      "You don't have to solve every possible version of your future before taking the next step.\n\nSometimes the useful thing to do is much smaller: ask a question, gather one missing detail, take a break, or have the conversation you've been avoiding. A real next step can provide information that speculation cannot.\n\nExplore your next step with The Thinking Lens: https://thethinkinglens.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "thinking-lens-problem-vs-pressure-06",
+    "account": "garretts_dev_desk",
+    "theme": "clearing_mental_clutter",
+    "series": "thinking_lens_problem_vs_pressure",
+    "scheduled_at": "2027-10-06T15:30:00-04:00",
+    "posts": [
+      "Sometimes clearer thinking starts with getting the actual problem back onto the table.\n\nWorries about the future, imagined conversations, and untested assumptions can take up so much room that the original concern becomes difficult to see. Giving each thought its proper place can make the next decision easier to approach.\n\nWhen a problem starts feeling bigger than it really is, what helps you separate the situation from the pressure around it?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

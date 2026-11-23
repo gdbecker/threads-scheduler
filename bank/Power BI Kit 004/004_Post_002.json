@@ -1,0 +1,80 @@
+[
+  {
+    "id": "pbi-field-averages-01",
+    "account": "garretts_dev_desk",
+    "theme": "understanding_how_team_averages_hide_performance_gaps",
+    "series": "pbi_field_team_average_visibility",
+    "scheduled_at": "2028-09-04T09:15:00-04:00",
+    "posts": [
+      "Your field team is hitting its targets. But is everyone?\n\nA strong team average can hide employees who are struggling, inconsistent results, or service issues that deserve attention. Looking beyond the overall number helps managers understand what's happening across the team.\n\nMy Field Team Performance Power BI Kit includes four editable dashboards for exploring these differences: https://garrettsdevdesk.etsy.com/listing/4595448076/power-bi-field-team-performance"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-field-averages-02",
+    "account": "garretts_dev_desk",
+    "theme": "reviewing_field_team_completion_productivity_and_service_signals",
+    "series": "pbi_field_team_average_visibility",
+    "scheduled_at": "2028-09-04T15:30:00-04:00",
+    "posts": [
+      "A team can look successful overall while important performance signals tell a different story.\n\nCompletion rates, productivity, repeat work, and target attainment each reveal something useful. Reviewing them together helps you decide where to investigate further.\n\nTry creating a weekly scorecard with these four measures. Look for situations where strong completion results coincide with weaker quality or productivity indicators."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-field-averages-03",
+    "account": "garretts_dev_desk",
+    "theme": "comparing_individual_field_employee_results_with_team_benchmarks",
+    "series": "pbi_field_team_average_visibility",
+    "scheduled_at": "2028-09-05T09:15:00-04:00",
+    "posts": [
+      "The team average might look healthy while individual results vary considerably.\n\nComparing employees with relevant benchmarks and reviewing trends over time can help identify who is improving, who needs support, and where consistency deserves attention.\n\nMy Field Team Performance Power BI Kit includes a dedicated Employee Performance dashboard for exploring these comparisons: https://garrettsdevdesk.etsy.com/listing/4595448076/power-bi-field-team-performance"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-field-averages-04",
+    "account": "garretts_dev_desk",
+    "theme": "identifying_service_quality_issues_behind_strong_completion_results",
+    "series": "pbi_field_team_average_visibility",
+    "scheduled_at": "2028-09-05T15:30:00-04:00",
+    "posts": [
+      "High job completion numbers can feel reassuring until repeat visits start increasing.\n\nField service quality deserves attention alongside output. Repeat work, restoration time, and customer commitments can help reveal problems that completion totals don't capture.\n\nTry comparing completion trends with repeat visits over the same period. If both are increasing, investigate whether the additional output is creating quality concerns or reflecting changes in the work being assigned."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-field-averages-05",
+    "account": "garretts_dev_desk",
+    "theme": "understanding_billable_field_output_relative_to_labor_hours",
+    "series": "pbi_field_team_average_visibility",
+    "scheduled_at": "2028-09-06T09:15:00-04:00",
+    "posts": [
+      "More labor hours don't automatically translate into more productive field work.\n\nBillable output per hour can help show how effectively time contributes to measurable results. Reviewing that alongside field activities and quality measures adds useful context.\n\nMy Field Team Performance Power BI Kit includes a Field Activity & Productivity dashboard for examining these relationships: https://garrettsdevdesk.etsy.com/listing/4595448076/power-bi-field-team-performance"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-field-averages-06",
+    "account": "garretts_dev_desk",
+    "theme": "discussing_team_averages_and_individual_field_performance",
+    "series": "pbi_field_team_average_visibility",
+    "scheduled_at": "2028-09-06T15:30:00-04:00",
+    "posts": [
+      "Team averages are useful, but they can make very different employee experiences look the same.\n\nOne person may consistently exceed expectations while another needs additional support. Productivity and service-quality differences can also disappear inside an overall number. Good reporting helps managers see those distinctions without jumping to conclusions.\n\nFor field operations managers, which individual performance measure do you find most useful alongside the team average?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

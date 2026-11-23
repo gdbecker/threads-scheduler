@@ -1,0 +1,80 @@
+[
+  {
+    "id": "pbi-bd-growth-planning-01",
+    "account": "garretts_dev_desk",
+    "theme": "planning_future_business_growth_with_uncertain_pipeline_outcomes",
+    "series": "pbi_business_development_growth_planning",
+    "scheduled_at": "2028-11-09T09:15:00-05:00",
+    "posts": [
+      "You're being asked to plan for growth that hasn't happened yet.\n\nThe pipeline looks promising, but decisions about resources, priorities, and future goals can't always wait until every opportunity closes. Understanding what's behind the numbers matters.\n\nMy Business Development Performance Power BI Kit helps you examine pipeline health and opportunity details: https://garrettsdevdesk.etsy.com/listing/4595453904/power-bi-business-development-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-bd-growth-planning-02",
+    "account": "garretts_dev_desk",
+    "theme": "evaluating_open_and_weighted_pipeline_for_growth_planning",
+    "series": "pbi_business_development_growth_planning",
+    "scheduled_at": "2028-11-09T15:30:00-05:00",
+    "posts": [
+      "A strong business development pipeline can still leave plenty of uncertainty about future growth.\n\nTotal open value shows potential business, while weighted pipeline adds estimated win probabilities. Neither guarantees what will actually close, but the comparison can help clarify the assumptions behind a plan.\n\nTry reviewing both values before your next planning meeting. Identify the opportunities contributing most to the difference."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-bd-growth-planning-03",
+    "account": "garretts_dev_desk",
+    "theme": "supporting_resource_and_priority_discussions_with_pipeline_reporting",
+    "series": "pbi_business_development_growth_planning",
+    "scheduled_at": "2028-11-10T09:15:00-05:00",
+    "posts": [
+      "Growth planning often requires decisions before the outcomes are known.\n\nLeaders may need to discuss staffing, priorities, and resources while important opportunities are still open. A clearer understanding of pipeline stages, probability, and opportunity mix can make those conversations more informed.\n\nMy Business Development Performance Power BI Kit provides three editable reporting views: https://garrettsdevdesk.etsy.com/listing/4595453904/power-bi-business-development-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-bd-growth-planning-04",
+    "account": "garretts_dev_desk",
+    "theme": "examining_pipeline_assumptions_before_business_growth_decisions",
+    "series": "pbi_business_development_growth_planning",
+    "scheduled_at": "2028-11-10T15:30:00-05:00",
+    "posts": [
+      "Before making plans around future business, it's worth examining the assumptions behind your pipeline.\n\nA large opportunity may have a low win probability, an uncertain close date, or dependencies that deserve attention. Those details can change how confidently you interpret the total.\n\nTry reviewing your five largest open opportunities. Record their stages, estimated probabilities, expected close dates, and the assumptions most worth validating."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-bd-growth-planning-05",
+    "account": "garretts_dev_desk",
+    "theme": "using_business_development_visibility_to_prepare_for_multiple_growth_outcomes",
+    "series": "pbi_business_development_growth_planning",
+    "scheduled_at": "2028-11-11T09:15:00-05:00",
+    "posts": [
+      "You don't need perfect predictions to make thoughtful business development decisions.\n\nUnderstanding pipeline value, win probability, opportunity stages, and team goals can help identify uncertainties worth discussing. That context supports planning for different possibilities without pretending the future is settled.\n\nExplore those perspectives with my Business Development Performance Power BI Kit: https://garrettsdevdesk.etsy.com/listing/4595453904/power-bi-business-development-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-bd-growth-planning-06",
+    "account": "garretts_dev_desk",
+    "theme": "discussing_uncertainty_in_business_development_growth_and_resource_planning",
+    "series": "pbi_business_development_growth_planning",
+    "scheduled_at": "2028-11-11T15:30:00-05:00",
+    "posts": [
+      "Planning for future growth can be uncomfortable when so much depends on opportunities that haven't closed.\n\nBusiness development leaders still have to consider resources, priorities, and goals while acknowledging uncertainty. Pipeline reporting can help clarify the assumptions, but judgment remains essential.\n\nFor business development leaders, what's the hardest uncertainty to account for when planning around your pipeline?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

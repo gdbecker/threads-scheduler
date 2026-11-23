@@ -1,0 +1,80 @@
+[
+  {
+    "id": "waf-interrupted-steps-01",
+    "account": "garretts_dev_desk",
+    "theme": "remembering_small_steps_after_interruptions",
+    "series": "waf_interrupted_steps",
+    "scheduled_at": "2028-01-27T09:15:00-05:00",
+    "posts": [
+      "Interruptions don't always make us forget the big thing.\n\nYou probably still remember that you're packing for a trip. What disappears is the tiny step you were in the middle of, like walking into another room to grab a charger. The larger plan survives, but one detail gets left behind.\n\nWhat Am I Forgetting? helps you give those overlooked details another look: https://whatamiforgetting.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-interrupted-steps-02",
+    "account": "garretts_dev_desk",
+    "theme": "recovering_unfinished_steps_inside_larger_tasks",
+    "series": "waf_interrupted_steps",
+    "scheduled_at": "2028-01-27T15:30:00-05:00",
+    "posts": [
+      "Ever walk into another room and completely forget what you went there to get?\n\nThe larger task is still clear. You know you're getting ready to leave, preparing dinner, or organizing paperwork. But the small action that brought you into the room has vanished.\n\nWhen that happens, try retracing the last few steps of the larger task. Sometimes remembering what you were doing immediately beforehand helps you recover the missing detail."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-interrupted-steps-03",
+    "account": "garretts_dev_desk",
+    "theme": "catching_missing_attachments_after_distractions",
+    "series": "waf_interrupted_steps",
+    "scheduled_at": "2028-01-28T09:15:00-05:00",
+    "posts": [
+      "You remembered to send the email. You just forgot why you opened that other tab.\n\nMaybe you were looking for an attachment when another message interrupted you. Five minutes later, you return to the email and send it without the file. The main task got finished, but one small step disappeared along the way.\n\nWhat Am I Forgetting? is built for catching practical oversights like these: https://whatamiforgetting.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-interrupted-steps-04",
+    "account": "garretts_dev_desk",
+    "theme": "checking_where_interruptions_leave_open_loops",
+    "series": "waf_interrupted_steps",
+    "scheduled_at": "2028-01-28T15:30:00-05:00",
+    "posts": [
+      "After an interruption, one useful question is: Is anything still waiting somewhere?\n\nIt might be a document in another room, an unfinished browser tab, or a person waiting for an answer. The missing step may still be sitting exactly where you left it.\n\nTry a quick scan of the places your attention moved between before finishing your next busy task. You may find an open loop that never made it back onto your mental checklist."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-interrupted-steps-05",
+    "account": "garretts_dev_desk",
+    "theme": "planning_for_everyday_interruptions",
+    "series": "waf_interrupted_steps",
+    "scheduled_at": "2028-01-29T09:15:00-05:00",
+    "posts": [
+      "Life is interruptible, even when you're organized.\n\nPeople ask questions, phones ring, dogs need attention, and one task leads unexpectedly into another. Those interruptions can leave small unfinished steps behind, even when your overall plan is perfectly reasonable.\n\nI built What Am I Forgetting? to make reviewing those everyday loose ends a little easier: https://whatamiforgetting.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-interrupted-steps-06",
+    "account": "garretts_dev_desk",
+    "theme": "using_a_final_question_to_recover_missing_details",
+    "series": "waf_interrupted_steps",
+    "scheduled_at": "2028-01-29T15:30:00-05:00",
+    "posts": [
+      "Sometimes a missing thought only needs one more invitation.\n\nBefore moving on from a busy task, ask whether anything is still waiting somewhere. A forgotten item, an unfinished message, or a half-completed step might come back to mind when you give it a moment of attention.\n\nWhat's the most common thing an interruption makes you forget? For me, the interesting part is often how small the missing step turns out to be."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

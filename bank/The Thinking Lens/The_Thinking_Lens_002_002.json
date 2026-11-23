@@ -1,0 +1,80 @@
+[
+  {
+    "id": "thinking-lens-facts-vs-predictions-01",
+    "account": "garretts_dev_desk",
+    "theme": "separating_knowledge_from_predictions",
+    "series": "thinking_lens_facts_vs_predictions",
+    "scheduled_at": "2027-10-25T09:15:00-04:00",
+    "posts": [
+      "A prediction can start feeling like a fact when you've repeated it to yourself enough times.\n\nYou imagine how a conversation will go, what someone might think, or how a decision could turn out. Eventually, those possibilities can feel like things you already know.\n\nThe Thinking Lens helps you examine assumptions and explore your thinking more clearly: https://thethinkinglens.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "thinking-lens-facts-vs-predictions-02",
+    "account": "garretts_dev_desk",
+    "theme": "using_precise_language_for_uncertainty",
+    "series": "thinking_lens_facts_vs_predictions",
+    "scheduled_at": "2027-10-25T15:30:00-04:00",
+    "posts": [
+      "There's a meaningful difference between saying \"This will happen\" and \"I think this might happen.\"\n\nThe second statement leaves room for uncertainty, missing information, and outcomes you haven't considered. That small change in wording can help you approach a situation more thoughtfully.\n\nTry noticing how often you describe predictions as certainties. Rewrite one of those statements to reflect what you actually know."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "thinking-lens-facts-vs-predictions-03",
+    "account": "garretts_dev_desk",
+    "theme": "evaluating_predictions_without_treating_them_as_facts",
+    "series": "thinking_lens_facts_vs_predictions",
+    "scheduled_at": "2027-10-26T09:15:00-04:00",
+    "posts": [
+      "Your prediction might be reasonable. It still deserves to be examined.\n\nPast experience and available evidence can help you anticipate what might happen, but a likely outcome isn't the same as a confirmed one. Recognizing that distinction gives you room to ask better questions.\n\nExplore different perspectives with The Thinking Lens: https://thethinkinglens.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "thinking-lens-facts-vs-predictions-04",
+    "account": "garretts_dev_desk",
+    "theme": "sorting_facts_and_assumptions",
+    "series": "thinking_lens_facts_vs_predictions",
+    "scheduled_at": "2027-10-26T15:30:00-04:00",
+    "posts": [
+      "One of the simplest ways to examine a difficult situation is to make two columns: \"What I know\" and \"What I'm assuming.\"\n\nYou may discover that the first column is shorter than expected. That's useful information because it shows where your understanding depends on something you haven't confirmed.\n\nTry this exercise with a decision you're facing. Then circle the assumptions that could realistically be checked."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "thinking-lens-facts-vs-predictions-05",
+    "account": "garretts_dev_desk",
+    "theme": "turning_assumptions_into_questions",
+    "series": "thinking_lens_facts_vs_predictions",
+    "scheduled_at": "2027-10-27T09:15:00-04:00",
+    "posts": [
+      "Sometimes the obstacle you're worried about is actually an unanswered question.\n\nYou assume something will cost too much, take too long, or receive a negative response. Before treating that possibility as a fixed boundary, consider whether you could ask, check, or test it.\n\nThe Thinking Lens helps you question assumptions and find useful next steps: https://thethinkinglens.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "thinking-lens-facts-vs-predictions-06",
+    "account": "garretts_dev_desk",
+    "theme": "learning_from_reality_instead_of_speculation",
+    "series": "thinking_lens_facts_vs_predictions",
+    "scheduled_at": "2027-10-27T15:30:00-04:00",
+    "posts": [
+      "I'd rather learn what's true from reality than from another conversation inside my own head.\n\nThinking through possibilities is useful, but sometimes a question, conversation, or small experiment can tell us more than another round of speculation. We don't need perfect certainty to recognize what remains unconfirmed.\n\nHave you ever spent a long time worrying about an outcome, only to discover that the reality was very different from what you expected?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "notice-writer-factual-followups-01",
+    "account": "garretts_dev_desk",
+    "theme": "followups_based_on_changed_circumstances",
+    "series": "notice_writer_factual_followups",
+    "scheduled_at": "2027-09-20T09:15:00-04:00",
+    "posts": [
+      "A second HOA notice shouldn't just be the first notice with angrier wording.\n\nBefore making a follow-up sound tougher, consider what's actually different. Was another observation made? Did a deadline pass? Has the association reached another procedural step? Those details provide a better foundation than frustration.\n\nNotice Writer helps volunteers prepare clear, professional community notices: https://noticewriter.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "notice-writer-factual-followups-02",
+    "account": "garretts_dev_desk",
+    "theme": "identifying_changes_before_followup",
+    "series": "notice_writer_factual_followups",
+    "scheduled_at": "2027-09-20T15:30:00-04:00",
+    "posts": [
+      "A useful question before drafting an HOA follow-up is simply: What changed since the last communication?\n\nPerhaps a previous notice was delivered, the requested deadline passed, or another inspection documented the same condition. Each development can help explain why a new message is necessary.\n\nTry listing the verified changes before writing. If nothing has changed, review whether another notice is appropriate under the association's procedures."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "notice-writer-factual-followups-03",
+    "account": "garretts_dev_desk",
+    "theme": "documenting_notice_history",
+    "series": "notice_writer_factual_followups",
+    "scheduled_at": "2027-09-21T09:15:00-04:00",
+    "posts": [
+      "A good HOA follow-up helps residents understand how the situation reached its current stage.\n\nReference the earlier notice, the requested action, the applicable deadline, and what was observed afterward. A clear sequence provides context and helps explain the next step without unnecessarily harsh language.\n\nNotice Writer helps community volunteers organize their communications: https://noticewriter.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "notice-writer-factual-followups-04",
+    "account": "garretts_dev_desk",
+    "theme": "avoiding_assumptions_about_intent",
+    "series": "notice_writer_factual_followups",
+    "scheduled_at": "2027-09-21T15:30:00-04:00",
+    "posts": [
+      "\"The condition remained unresolved after September 17\" communicates something different from \"The resident refused to comply.\"\n\nThe first statement describes an observable condition. The second assumes something about the person's intentions that may not be supported by the facts.\n\nTry reviewing a follow-up notice for words like \"refused\" or \"ignored.\" Could verified observations communicate the situation more accurately?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "notice-writer-factual-followups-05",
+    "account": "garretts_dev_desk",
+    "theme": "creating_clear_communication_records",
+    "series": "notice_writer_factual_followups",
+    "scheduled_at": "2027-09-22T09:15:00-04:00",
+    "posts": [
+      "A well-written HOA follow-up can help both the resident and the people reviewing the association's records later.\n\nWhen each notice accurately references previous communications and documented developments, the progression becomes easier to understand. That clarity matters when questions arise about what was requested and when.\n\nPrepare more organized community notices with Notice Writer: https://noticewriter.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "notice-writer-factual-followups-06",
+    "account": "garretts_dev_desk",
+    "theme": "justifying_firmer_communication",
+    "series": "notice_writer_factual_followups",
+    "scheduled_at": "2027-09-22T15:30:00-04:00",
+    "posts": [
+      "When a community notice becomes firmer, there should be a clear reason behind that change.\n\nA documented deadline, an unresolved condition, or an established procedural step can justify different wording. Personal frustration and intimidating template language shouldn't determine the tone.\n\nFor anyone involved in community management, what information do you find most important to include when sending a follow-up notice?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "briefly-compression-01",
+    "account": "garretts_dev_desk",
+    "theme": "executive_communication",
+    "series": "briefly_compression",
+    "scheduled_at": "2027-01-11T09:15:00-05:00",
+    "posts": [
+      "Writing an executive brief is a bit like solving a compression problem.\n\nYou might know twenty things about a project, but your reader may only need four of them. The challenge is figuring out which four will help them understand the situation without digging through everything else.\n\nThat's one reason I built Briefly: https://briefly.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-compression-02",
+    "account": "garretts_dev_desk",
+    "theme": "information_prioritization",
+    "series": "briefly_compression",
+    "scheduled_at": "2027-01-11T15:30:00-05:00",
+    "posts": [
+      "Leaving something out of a project brief doesn't automatically mean you're hiding information.\n\nSometimes you're doing the sorting work that your reader doesn't have time to do. The important part is keeping the facts, context, and risks they need to understand the situation accurately.\n\nTry reviewing your next brief with that distinction in mind."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-compression-03",
+    "account": "garretts_dev_desk",
+    "theme": "business_writing",
+    "series": "briefly_compression",
+    "scheduled_at": "2027-01-12T09:15:00-05:00",
+    "posts": [
+      "\"Customer response has declined\" is a short sentence, but it doesn't tell the reader much.\n\n\"Customer response fell from 42% to 29% over the last quarter\" takes a few more words and gives the change some meaning.\n\nGood business writing isn't always about using fewer words. It's about making the words count.\n\nhttps://briefly.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-compression-04",
+    "account": "garretts_dev_desk",
+    "theme": "clear_communication",
+    "series": "briefly_compression",
+    "scheduled_at": "2027-01-12T15:30:00-05:00",
+    "posts": [
+      "There's a point where making a project update shorter actually makes it harder to understand.\n\nIf someone needs three follow-up questions just to figure out what your sentence means, you may have removed too much context.\n\nA useful editing exercise: read your brief and look for places where you've assumed the reader already knows something important."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-compression-05",
+    "account": "garretts_dev_desk",
+    "theme": "professional_writing",
+    "series": "briefly_compression",
+    "scheduled_at": "2027-01-13T09:15:00-05:00",
+    "posts": [
+      "Here's a question worth asking before writing an executive brief: What does this person need to know without having to read everything else?\n\nIt works whether you're writing for a manager, client, committee member, or colleague joining a project halfway through.\n\nBriefly helps you organize the important pieces into a one-page brief: https://briefly.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-compression-06",
+    "account": "garretts_dev_desk",
+    "theme": "workplace_productivity",
+    "series": "briefly_compression",
+    "scheduled_at": "2027-01-13T15:30:00-05:00",
+    "posts": [
+      "A useful executive brief might contain four important points drawn from twenty pages of working notes.\n\nThe value comes from the judgment involved in choosing those points and explaining them clearly. A polished document won't help much if the reader still has to figure out what matters.\n\nWhat's harder for you: deciding what to include or deciding what to leave out?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

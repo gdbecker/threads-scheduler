@@ -1,0 +1,80 @@
+[
+  {
+    "id": "pbi-agent-context-01",
+    "account": "garretts_dev_desk",
+    "theme": "understanding_why_agent_leaderboards_can_mislead",
+    "series": "pbi_agent_performance_context",
+    "scheduled_at": "2028-02-21T09:15:00-05:00",
+    "posts": [
+      "Your highest-ranked support agent might simply be handling easier tickets.\n\nA leaderboard can make performance look straightforward, but ticket complexity, workload, and customer expectations all influence the results. Ranking people without that context can lead to misleading conclusions.\n\nMy Customer Support Performance Power BI Kit helps bring more of that context into view: https://garrettsdevdesk.etsy.com/listing/4593960875/power-bi-customer-support-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-agent-context-02",
+    "account": "garretts_dev_desk",
+    "theme": "evaluating_agents_across_multiple_performance_measures",
+    "series": "pbi_agent_performance_context",
+    "scheduled_at": "2028-02-21T15:30:00-05:00",
+    "posts": [
+      "There isn't one number that can tell you everything about a customer support agent's performance.\n\nTickets handled, response time, resolution time, SLA achievement, and customer satisfaction each describe a different part of the job. Someone can perform strongly in one area while facing challenges in another.\n\nTry reviewing at least three measures together before drawing conclusions about an agent. Look for patterns that deserve a conversation rather than immediately assigning a ranking."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-agent-context-03",
+    "account": "garretts_dev_desk",
+    "theme": "adding_ticket_volume_context_to_agent_comparisons",
+    "series": "pbi_agent_performance_context",
+    "scheduled_at": "2028-02-22T09:15:00-05:00",
+    "posts": [
+      "Comparing two support agents without checking their ticket volume can hide a major difference.\n\nAn agent handling 50 tickets and another handling 150 may face very different demands. Their resolution times and satisfaction scores deserve to be interpreted alongside that workload.\n\nMy Customer Support Performance Power BI Kit connects agent results with broader support metrics: https://garrettsdevdesk.etsy.com/listing/4593960875/power-bi-customer-support-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-agent-context-04",
+    "account": "garretts_dev_desk",
+    "theme": "accounting_for_ticket_complexity_in_agent_performance",
+    "series": "pbi_agent_performance_context",
+    "scheduled_at": "2028-02-22T15:30:00-05:00",
+    "posts": [
+      "Two support agents can close the same number of tickets and still have very different workloads.\n\nOne might handle routine account questions while the other works through complicated technical problems. Comparing their average resolution times without considering that difference can create an unfair picture.\n\nTry breaking agent performance down by ticket category. Compare people handling similar types of work before deciding whether a performance gap needs attention."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-agent-context-05",
+    "account": "garretts_dev_desk",
+    "theme": "using_agent_metrics_to_support_better_management",
+    "series": "pbi_agent_performance_context",
+    "scheduled_at": "2028-02-23T09:15:00-05:00",
+    "posts": [
+      "Agent performance dashboards should help managers ask better questions, not automatically decide who's doing a good job.\n\nAn unusual metric might point toward workload imbalances, coaching needs, or differences in the types of requests being handled. The numbers provide a starting point for understanding what's happening.\n\nI built a Customer Support Performance Power BI Kit with this kind of analysis in mind: https://garrettsdevdesk.etsy.com/listing/4593960875/power-bi-customer-support-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-agent-context-06",
+    "account": "garretts_dev_desk",
+    "theme": "balancing_fairness_and_accountability_in_support_reporting",
+    "series": "pbi_agent_performance_context",
+    "scheduled_at": "2028-02-23T15:30:00-05:00",
+    "posts": [
+      "A leaderboard ranks people. A thoughtful dashboard helps explain the differences.\n\nTicket counts, issue complexity, response times, service levels, and customer satisfaction all contribute to a fuller picture of support performance. Good analysis should make room for context before turning a number into a judgment.\n\nIf you were managing a support team, what information would you want to see before comparing two agents' performance?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

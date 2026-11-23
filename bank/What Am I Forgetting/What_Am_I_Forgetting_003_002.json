@@ -1,0 +1,80 @@
+[
+  {
+    "id": "waf-busy-not-disorganized-01",
+    "account": "garretts_dev_desk",
+    "theme": "recognizing_oversights_in_well_organized_plans",
+    "series": "waf_busy_not_disorganized",
+    "scheduled_at": "2028-01-17T09:15:00-05:00",
+    "posts": [
+      "Being busy doesn't always mean being disorganized.\n\nPlenty of forgotten details happen inside plans that were thoughtful and carefully prepared. You can have a perfectly reasonable system and still overlook one small thing when your attention moves to the next responsibility.\n\nThat's one reason I built What Am I Forgetting?, a simple tool for giving everyday plans a second look: https://whatamiforgetting.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-busy-not-disorganized-02",
+    "account": "garretts_dev_desk",
+    "theme": "identifying_the_gap_after_preparation",
+    "series": "waf_busy_not_disorganized",
+    "scheduled_at": "2028-01-17T15:30:00-05:00",
+    "posts": [
+      "Sometimes the planning worked perfectly, and you still forgot something.\n\nThe headphones were charging, the document was printed, and lunch was prepared the night before. You remembered everything early enough to get it ready, but the final step never happened.\n\nTry reviewing the things you've already prepared for tomorrow. Ask where each item is waiting and what needs to happen for it to actually leave with you."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-busy-not-disorganized-03",
+    "account": "garretts_dev_desk",
+    "theme": "remembering_what_still_needs_to_move",
+    "series": "waf_busy_not_disorganized",
+    "scheduled_at": "2028-01-18T09:15:00-05:00",
+    "posts": [
+      "Here's a useful question for the end of a busy task: What still needs to move?\n\nLunch needs to reach your bag. A package needs to reach the car. A finished file needs to reach someone's inbox. A decision needs to reach the people affected by it. These small transitions can be easy to miss.\n\nWhat Am I Forgetting? helps you think through practical loose ends before moving on: https://whatamiforgetting.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-busy-not-disorganized-04",
+    "account": "garretts_dev_desk",
+    "theme": "protecting_small_final_steps_from_interruptions",
+    "series": "waf_busy_not_disorganized",
+    "scheduled_at": "2028-01-18T15:30:00-05:00",
+    "posts": [
+      "Three hours of work can depend on one forgotten thirty-second step.\n\nThe main task gets most of your attention, while sending the result, confirming the details, or handing something off may happen right when another responsibility interrupts you.\n\nBefore marking your next big task complete, write down its final action separately. It might be \"send the file,\" \"confirm receipt,\" or \"put the package in the car.\""
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-busy-not-disorganized-05",
+    "account": "garretts_dev_desk",
+    "theme": "using_a_short_closing_review_instead_of_more_planning",
+    "series": "waf_busy_not_disorganized",
+    "scheduled_at": "2028-01-19T09:15:00-05:00",
+    "posts": [
+      "Forgetting one small detail doesn't necessarily mean you need a better organizational system.\n\nSometimes a short closing review is enough. What's still waiting somewhere? Is anyone waiting on you? Does anything need to be sent, brought, or confirmed? A few specific questions can help catch the loose ends.\n\nThat's the approach behind What Am I Forgetting?: https://whatamiforgetting.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-busy-not-disorganized-06",
+    "account": "garretts_dev_desk",
+    "theme": "noticing_when_attention_moves_ahead_of_completion",
+    "series": "waf_busy_not_disorganized",
+    "scheduled_at": "2028-01-19T15:30:00-05:00",
+    "posts": [
+      "Sometimes your attention moves on a few seconds before the task actually does.\n\nYou've finished the difficult work, mentally checked it off, and started thinking about what's next. Meanwhile, the final message, attachment, or handoff is still waiting. A brief closing review can help catch that gap.\n\nWhat's the small final step you find yourself forgetting most often? Sending an attachment, bringing something you prepared, or something else entirely?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

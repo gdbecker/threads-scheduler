@@ -1,0 +1,80 @@
+[
+  {
+    "id": "community-minutes-meaningful-outcomes-01",
+    "account": "garretts_dev_desk",
+    "theme": "meeting_note_taking",
+    "series": "community_minutes_meaningful_outcomes",
+    "scheduled_at": "2027-04-01T09:15:00-04:00",
+    "posts": [
+      "One of the most useful skills when taking meeting minutes is learning to listen for what changed.\n\nInstead of trying to capture every sentence, pay attention to where the discussion actually lands. What did the group decide, assign, postpone, or leave unresolved?\n\nI built Community Minutes to help organize those important details into a useful record: https://communityminutes.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "community-minutes-meaningful-outcomes-02",
+    "account": "garretts_dev_desk",
+    "theme": "meeting_discussion_outcomes",
+    "series": "community_minutes_meaningful_outcomes",
+    "scheduled_at": "2027-04-01T15:30:00-04:00",
+    "posts": [
+      "Here's a useful question to keep in mind when taking notes during a board or committee meeting: What changed because this topic was discussed?\n\nMaybe a proposal was approved, a decision was postponed, or someone agreed to gather more information.\n\nIdentifying that outcome helps you preserve the details that will matter when the meeting is over."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "community-minutes-meaningful-outcomes-03",
+    "account": "garretts_dev_desk",
+    "theme": "concise_meeting_minutes",
+    "series": "community_minutes_meaningful_outcomes",
+    "scheduled_at": "2027-04-02T09:15:00-04:00",
+    "posts": [
+      "A 15-minute discussion doesn't necessarily need several paragraphs in the finished meeting minutes.\n\nCapture enough detail while people talk to understand the conversation. Once the outcome is clear, organize the record around the important context and conclusion.\n\nCommunity Minutes helps make that transition from working notes to organized minutes: https://communityminutes.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "community-minutes-meaningful-outcomes-04",
+    "account": "garretts_dev_desk",
+    "theme": "meeting_decisions_and_actions",
+    "series": "community_minutes_meaningful_outcomes",
+    "scheduled_at": "2027-04-02T15:30:00-04:00",
+    "posts": [
+      "When writing meeting minutes, separate two questions: What did we decide, and what happens next?\n\nFor example, a committee might approve a landscaping proposal and assign someone to coordinate the schedule with the vendor.\n\nThe approval belongs in the decision record. The scheduling responsibility belongs in the action items. Keeping both clear makes follow-up easier."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "community-minutes-meaningful-outcomes-05",
+    "account": "garretts_dev_desk",
+    "theme": "unresolved_meeting_items",
+    "series": "community_minutes_meaningful_outcomes",
+    "scheduled_at": "2027-04-03T09:15:00-04:00",
+    "posts": [
+      "Not every meeting discussion ends with a decision, and that's perfectly reasonable.\n\nIf an HOA board needs another estimate before approving a project, record that the decision was deferred and identify the information still needed.\n\nA clear record of unfinished business gives the group something useful to return to.\n\nTry Community Minutes: https://communityminutes.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "community-minutes-meaningful-outcomes-06",
+    "account": "garretts_dev_desk",
+    "theme": "meeting_record_clarity",
+    "series": "community_minutes_meaningful_outcomes",
+    "scheduled_at": "2027-04-03T15:30:00-04:00",
+    "posts": [
+      "Hundreds of sentences spoken during a meeting can become a handful of things worth remembering.\n\nThe decisions, assigned responsibilities, and unresolved questions are often what people need to understand months later. A useful set of minutes preserves those details without recreating every conversation.\n\nWhen you're reviewing meeting minutes, what information do you usually look for first?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

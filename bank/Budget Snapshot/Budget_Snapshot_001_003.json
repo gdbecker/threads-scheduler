@@ -1,0 +1,80 @@
+[
+  {
+    "id": "budget-snapshot-change-context-01",
+    "account": "garretts_dev_desk",
+    "theme": "hoa_budget_communication",
+    "series": "budget_snapshot_change_context",
+    "scheduled_at": "2027-01-28T09:15:00-05:00",
+    "posts": [
+      "An HOA budget report might say insurance increased 12% or landscaping decreased 8%. But what do those percentages actually mean for the community?\n\nHomeowners need enough context to understand the dollar impact, the reason for the change, and whether it's likely to continue.\n\nThat's the kind of financial communication Budget Snapshot is designed to support: https://budgetsnapshot.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "budget-snapshot-change-context-02",
+    "account": "garretts_dev_desk",
+    "theme": "financial_literacy",
+    "series": "budget_snapshot_change_context",
+    "scheduled_at": "2027-01-28T15:30:00-05:00",
+    "posts": [
+      "A 35% budget increase can have less financial impact than a 10% increase.\n\nGoing from $1,000 to $1,350 adds $350. Going from $100,000 to $110,000 adds $10,000.\n\nBoth percentages are accurate, but the dollar amounts tell a different story about what matters to the overall budget.\n\nWhen reviewing financial changes, look at both."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "budget-snapshot-change-context-03",
+    "account": "garretts_dev_desk",
+    "theme": "budget_analysis",
+    "series": "budget_snapshot_change_context",
+    "scheduled_at": "2027-01-29T09:15:00-05:00",
+    "posts": [
+      "When reviewing an HOA budget, don't stop at asking which expenses changed the most.\n\nAsk which changes meaningfully affected the overall financial picture. A small percentage change in a large expense category might deserve more attention than a dramatic increase in a minor one.\n\nBudget Snapshot helps organize those financial details for clearer discussions: https://budgetsnapshot.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "budget-snapshot-change-context-04",
+    "account": "garretts_dev_desk",
+    "theme": "financial_transparency",
+    "series": "budget_snapshot_change_context",
+    "scheduled_at": "2027-01-29T15:30:00-05:00",
+    "posts": [
+      "Sometimes one sentence can make a budget change much easier to understand.\n\nInsurance renewed at a higher premium. Utility rates increased. A new vendor contract reduced maintenance costs. Planned repairs raised this year's expenses.\n\nWhen preparing a budget summary, try adding a short explanation beside each major change. Give homeowners the reason along with the number."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "budget-snapshot-change-context-05",
+    "account": "garretts_dev_desk",
+    "theme": "hoa_financial_planning",
+    "series": "budget_snapshot_change_context",
+    "scheduled_at": "2027-01-30T09:15:00-05:00",
+    "posts": [
+      "Two HOA expenses might each increase by $8,000, but their long-term implications could be very different.\n\nAn annual service contract increase may continue into future budgets. A one-time repair might disappear once the work is complete.\n\nThat distinction matters when explaining changes to homeowners.\n\nExplore Budget Snapshot: https://budgetsnapshot.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "budget-snapshot-change-context-06",
+    "account": "garretts_dev_desk",
+    "theme": "community_financial_communication",
+    "series": "budget_snapshot_change_context",
+    "scheduled_at": "2027-01-30T15:30:00-05:00",
+    "posts": [
+      "A spreadsheet can calculate exactly how much an HOA budget changed. Explaining why that change matters still takes some human judgment.\n\nLook at the percentage, dollar impact, underlying reason, and whether the expense is recurring or temporary. Together, those details give homeowners a fairer picture.\n\nWhich do you find more helpful in a budget explanation: percentages or actual dollar amounts?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

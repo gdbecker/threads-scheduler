@@ -1,0 +1,80 @@
+[
+  {
+    "id": "budget-snapshot-reserve-clarity-01",
+    "account": "garretts_dev_desk",
+    "theme": "reserve_financial_communication",
+    "series": "budget_snapshot_reserve_clarity",
+    "scheduled_at": "2027-03-22T09:15:00-04:00",
+    "posts": [
+      "Good HOA reserve communication doesn't always need a verdict.\n\nA label like \"healthy\" or \"underfunded\" might be easy to scan, but it can leave out important context about future expenses, planning assumptions, and recent financial decisions.\n\nSometimes showing the numbers clearly is the more useful starting point.\n\nThat's the approach behind Budget Snapshot: https://budgetsnapshot.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "budget-snapshot-reserve-clarity-02",
+    "account": "garretts_dev_desk",
+    "theme": "reserve_reporting",
+    "series": "budget_snapshot_reserve_clarity",
+    "scheduled_at": "2027-03-22T15:30:00-04:00",
+    "posts": [
+      "Before describing an HOA's reserves as good or bad, give homeowners the information they need to understand the situation.\n\nStart with the current balance, planning target, annual contribution, and major projects the fund is preparing for.\n\nThese details provide a much stronger foundation for discussion than a single percentage or color-coded label."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "budget-snapshot-reserve-clarity-03",
+    "account": "garretts_dev_desk",
+    "theme": "reserve_planning_assumptions",
+    "series": "budget_snapshot_reserve_clarity",
+    "scheduled_at": "2027-03-23T09:15:00-04:00",
+    "posts": [
+      "An HOA reserve planning target becomes more meaningful when homeowners understand where it came from.\n\nWas it informed by a professional reserve study? Which future projects and estimated costs were considered? When were those assumptions last reviewed?\n\nA useful financial presentation makes the source of the numbers visible.\n\nExplore Budget Snapshot: https://budgetsnapshot.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "budget-snapshot-reserve-clarity-04",
+    "account": "garretts_dev_desk",
+    "theme": "reserve_balance_context",
+    "series": "budget_snapshot_reserve_clarity",
+    "scheduled_at": "2027-03-23T15:30:00-04:00",
+    "posts": [
+      "An HOA has $425,000 in reserves against a $500,000 planning target. What does that tell you?\n\nIt establishes a $75,000 difference, but it doesn't explain why the gap exists. Maybe a major project was recently completed, or the association is rebuilding reserves after planned work.\n\nBefore drawing conclusions, look at the history and responsibilities behind the numbers."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "budget-snapshot-reserve-clarity-05",
+    "account": "garretts_dev_desk",
+    "theme": "responsible_financial_tools",
+    "series": "budget_snapshot_reserve_clarity",
+    "scheduled_at": "2027-03-24T09:15:00-04:00",
+    "posts": [
+      "Financial software can calculate an HOA's reserve balance against a planning target. That doesn't mean it should automatically declare the association financially healthy or unhealthy.\n\nA useful tool organizes the information and makes comparisons easier to understand. Context and professional judgment still matter.\n\nThat's a principle I follow with Budget Snapshot: https://budgetsnapshot.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "budget-snapshot-reserve-clarity-06",
+    "account": "garretts_dev_desk",
+    "theme": "financial_transparency",
+    "series": "budget_snapshot_reserve_clarity",
+    "scheduled_at": "2027-03-24T15:30:00-04:00",
+    "posts": [
+      "Sometimes clarity is enough.\n\nShow homeowners what the association has in reserves, what it's preparing for, and which figures depend on estimates. Make the assumptions visible and leave room for thoughtful discussion about what happens next.\n\nWould you rather see a simple reserve status label or the underlying numbers and explanations that help you form your own understanding?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

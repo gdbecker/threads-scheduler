@@ -1,0 +1,80 @@
+[
+  {
+    "id": "pbi-sales-difficult-conversations-01",
+    "account": "garretts_dev_desk",
+    "theme": "explaining_disappointing_business_performance",
+    "series": "pbi_sales_performance_conversations",
+    "scheduled_at": "2028-07-13T09:15:00-04:00",
+    "posts": [
+      "The hardest numbers to explain are often the ones nobody wants to see.\n\nWhen sales slow or performance changes unexpectedly, people naturally want answers. Clear reporting helps you understand what the data shows and identify which questions deserve further investigation.\n\nMy Sales Performance & Commercial Operations Power BI Kit provides four customizable views for exploring business activity: https://garrettsdevdesk.etsy.com/listing/4595438858/power-bi-sales-dashboard-template-sales"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-sales-difficult-conversations-02",
+    "account": "garretts_dev_desk",
+    "theme": "investigating_declining_sales_performance",
+    "series": "pbi_sales_performance_conversations",
+    "scheduled_at": "2028-07-13T15:30:00-04:00",
+    "posts": [
+      "A disappointing sales result usually leads to questions that a revenue total can't answer.\n\nDid order volume decline? Did average order value change? Were fewer units sold? Comparing these measures can help narrow down what happened before anyone starts drawing conclusions.\n\nTry taking a period when revenue declined and reviewing orders, units sold, and average order value alongside it. Which measure helps explain the change most clearly?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-sales-difficult-conversations-03",
+    "account": "garretts_dev_desk",
+    "theme": "using_product_performance_to_prepare_for_business_reviews",
+    "series": "pbi_sales_performance_conversations",
+    "scheduled_at": "2028-07-14T09:15:00-04:00",
+    "posts": [
+      "Walking into a difficult performance meeting feels different when you've had time to explore the details.\n\nProduct rankings, category comparisons, and sales trends can help you identify where changes occurred. They may not explain every cause, but they give the conversation a more useful starting point.\n\nMy Sales Performance & Commercial Operations Power BI Kit includes dedicated sales and product reporting views: https://garrettsdevdesk.etsy.com/listing/4595438858/power-bi-sales-dashboard-template-sales"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-sales-difficult-conversations-04",
+    "account": "garretts_dev_desk",
+    "theme": "reviewing_operational_details_during_performance_changes",
+    "series": "pbi_sales_performance_conversations",
+    "scheduled_at": "2028-07-14T15:30:00-04:00",
+    "posts": [
+      "When business performance changes, the questions sometimes extend beyond sales.\n\nTransaction activity, vendor spending, purchasing trends, and overdue invoices can provide additional operational context. Reviewing these areas helps you recognize which issues deserve attention.\n\nBefore your next business review, try identifying one important change in sales and one in purchasing. What additional information would help you understand each?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-sales-difficult-conversations-05",
+    "account": "garretts_dev_desk",
+    "theme": "communicating_business_results_with_clarity_and_context",
+    "series": "pbi_sales_performance_conversations",
+    "scheduled_at": "2028-07-15T09:15:00-04:00",
+    "posts": [
+      "You don't need every answer to lead a useful conversation about disappointing results.\n\nBeing able to explain what changed, show the supporting details, and acknowledge what still needs investigation can help a team move forward thoughtfully. Organized reporting supports that preparation.\n\nMy Sales Performance & Commercial Operations Power BI Kit offers four editable dashboards to customize: https://garrettsdevdesk.etsy.com/listing/4595438858/power-bi-sales-dashboard-template-sales"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-sales-difficult-conversations-06",
+    "account": "garretts_dev_desk",
+    "theme": "discussing_how_to_present_difficult_business_results",
+    "series": "pbi_sales_performance_conversations",
+    "scheduled_at": "2028-07-15T15:30:00-04:00",
+    "posts": [
+      "Presenting strong business results is usually straightforward. Explaining disappointing results requires more preparation.\n\nPeople want to understand what changed, why it might have happened, and what deserves attention next. Sometimes the most responsible answer is to explain what the data supports while being clear about what remains uncertain.\n\nFor analysts, managers, and business owners, how do you prepare for a meeting when the numbers aren't encouraging?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

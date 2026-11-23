@@ -1,0 +1,80 @@
+[
+  {
+    "id": "pbi-financial-clarity-01",
+    "account": "garretts_dev_desk",
+    "theme": "finding_clarity_in_financial_dashboards",
+    "series": "pbi_financial_reporting_clarity",
+    "scheduled_at": "2028-05-08T09:15:00-04:00",
+    "posts": [
+      "A dashboard full of numbers can still leave everyone wondering what they mean.\n\nMore charts and KPIs don't automatically create a clearer financial picture. It helps to connect the measures so people can understand performance, investigate differences, and discuss what deserves attention.\n\nThat's what I designed my Financial Performance & Cash Flow Power BI Kit to support: https://garrettsdevdesk.etsy.com/listing/4595413257/power-bi-financial-dashboard-template-13"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-financial-clarity-02",
+    "account": "garretts_dev_desk",
+    "theme": "moving_from_financial_results_to_useful_questions",
+    "series": "pbi_financial_reporting_clarity",
+    "scheduled_at": "2028-05-08T15:30:00-04:00",
+    "posts": [
+      "A financial report becomes more useful when it helps people investigate the results.\n\nWhat changed? Where did the change happen? What might explain it? Those questions can turn a routine reporting meeting into a more productive conversation about the business.\n\nTry reviewing your latest financial dashboard with those three questions in mind. Which answers are already visible, and which ones require you to open another spreadsheet?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-financial-clarity-03",
+    "account": "garretts_dev_desk",
+    "theme": "adding_historical_context_to_financial_performance_metrics",
+    "series": "pbi_financial_reporting_clarity",
+    "scheduled_at": "2028-05-09T09:15:00-04:00",
+    "posts": [
+      "A financial metric becomes more meaningful when you can see how it's changing over time.\n\nTrailing-twelve-month revenue, adjusted EBITDA, and margin trends help put the latest results into a broader context. That perspective makes it easier to recognize changes worth investigating.\n\nMy Financial Performance & Cash Flow Power BI Kit includes a consolidated Performance Overview: https://garrettsdevdesk.etsy.com/listing/4595413257/power-bi-financial-dashboard-template-13"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-financial-clarity-04",
+    "account": "garretts_dev_desk",
+    "theme": "using_entity_comparisons_to_explain_financial_results",
+    "series": "pbi_financial_reporting_clarity",
+    "scheduled_at": "2028-05-09T15:30:00-04:00",
+    "posts": [
+      "When consolidated financial performance changes, the next question is often where that change came from.\n\nOne operating entity may be improving its margins while another faces higher expenses. Comparing them can reveal differences that are difficult to see in the overall totals.\n\nTry reviewing entity-level revenue and adjusted EBITDA margins side by side. Which entities are driving the consolidated result, and where would you investigate further?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-financial-clarity-05",
+    "account": "garretts_dev_desk",
+    "theme": "bringing_forward_looking_cash_forecasts_into_financial_discussions",
+    "series": "pbi_financial_reporting_clarity",
+    "scheduled_at": "2028-05-10T09:15:00-04:00",
+    "posts": [
+      "A good financial conversation should make room for what's coming next.\n\nHistorical revenue and profitability explain past performance, while a 13-week cash forecast adds visibility into expected inflows, outflows, and projected balances. Together, they support more informed planning discussions.\n\nMy Financial Performance & Cash Flow Power BI Kit brings these views into three editable report pages: https://garrettsdevdesk.etsy.com/listing/4595413257/power-bi-financial-dashboard-template-13"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-financial-clarity-06",
+    "account": "garretts_dev_desk",
+    "theme": "discussing_what_makes_financial_reporting_actionable",
+    "series": "pbi_financial_reporting_clarity",
+    "scheduled_at": "2028-05-10T15:30:00-04:00",
+    "posts": [
+      "Some financial reports are packed with information but still leave people unsure what to discuss next.\n\nThe most useful reporting conversations often start with a change in performance, explore where it happened, and consider what it might mean for the business. Having the right context available can make that process much easier.\n\nWhat's one thing you've seen in a financial dashboard that made the information genuinely easier to understand or act on?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

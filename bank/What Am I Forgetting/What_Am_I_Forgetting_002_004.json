@@ -1,0 +1,80 @@
+[
+  {
+    "id": "waf-clear-reminders-01",
+    "account": "garretts_dev_desk",
+    "theme": "writing_reminders_that_make_sense_later",
+    "series": "waf_clear_reminders",
+    "scheduled_at": "2028-01-03T09:15:00-05:00",
+    "posts": [
+      "Future You shouldn't need to decode your checklist.\n\n\"Email.\" \"Hotel.\" \"Presentation.\" These reminders made perfect sense when you wrote them, but six hours later you might have no idea what you intended to do. A few extra words can save you from having to reconstruct your own thoughts.\n\nWhat Am I Forgetting? helps you organize the details worth remembering: https://whatamiforgetting.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-clear-reminders-02",
+    "account": "garretts_dev_desk",
+    "theme": "preserving_context_in_written_checklists",
+    "series": "waf_clear_reminders",
+    "scheduled_at": "2028-01-03T15:30:00-05:00",
+    "posts": [
+      "The context in your head right now might be gone by Thursday morning.\n\nThat's why a useful checklist item should make sense even when you've forgotten the conversation, situation, or thought that inspired it. You shouldn't need to remember what you were thinking in order to understand your reminder.\n\nTry reviewing a few items on your current to-do list. Would each one make sense to you a week from now? If not, add just enough detail to make it clear."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-clear-reminders-03",
+    "account": "garretts_dev_desk",
+    "theme": "turning_vague_topics_into_specific_actions",
+    "series": "waf_clear_reminders",
+    "scheduled_at": "2028-01-04T09:15:00-05:00",
+    "posts": [
+      "\"Presentation\" tells you what you're thinking about, but it doesn't tell you what to do.\n\nDo you need to finish the slides, rehearse, print handouts, send the file, or save an offline copy? Those are different tasks, and the distinction matters when you return to your checklist later.\n\nWhat Am I Forgetting? is built for giving everyday plans a clearer second look: https://whatamiforgetting.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-clear-reminders-04",
+    "account": "garretts_dev_desk",
+    "theme": "improving_reminders_with_verbs_and_context",
+    "series": "waf_clear_reminders",
+    "scheduled_at": "2028-01-04T15:30:00-05:00",
+    "posts": [
+      "A few extra words can make a checklist dramatically more useful.\n\nInstead of writing \"Email,\" try \"Email volunteer schedule to Sarah.\" Instead of \"Hotel,\" write \"Confirm hotel check-in time.\" A clear action and a little context can preserve the meaning without turning every reminder into a paragraph.\n\nTry rewriting three vague items on your current list using a verb and a specific detail. Future You will probably appreciate the clarity."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-clear-reminders-05",
+    "account": "garretts_dev_desk",
+    "theme": "treating_checklists_as_messages_to_your_future_self",
+    "series": "waf_clear_reminders",
+    "scheduled_at": "2028-01-05T09:15:00-05:00",
+    "posts": [
+      "Think of your checklist as a message from Current You to Future You.\n\nThe person reading it later shouldn't need a detective story to understand what the person writing it meant. A good reminder carries enough information to make the next action obvious, even after the original context has faded.\n\nThat's the kind of practical clarity I want to encourage with What Am I Forgetting?: https://whatamiforgetting.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-clear-reminders-06",
+    "account": "garretts_dev_desk",
+    "theme": "balancing_brief_and_clear_checklist_items",
+    "series": "waf_clear_reminders",
+    "scheduled_at": "2028-01-05T15:30:00-05:00",
+    "posts": [
+      "Your checklist doesn't need to sound elegant. Nobody is grading it.\n\nIt just needs to tell you what to do when you come back later and wonder what on earth you meant by \"Email.\" A few specific words can make the difference between a useful reminder and another puzzle to solve.\n\nWhat's the vaguest reminder you've ever written to yourself? Have you ever found an old note and had absolutely no idea what you meant?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

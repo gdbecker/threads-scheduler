@@ -1,0 +1,80 @@
+[
+  {
+    "id": "thinking-lens-enough-clarity-01",
+    "account": "garretts_dev_desk",
+    "theme": "moving_forward_with_uncertainty",
+    "series": "thinking_lens_enough_clarity",
+    "scheduled_at": "2027-10-18T09:15:00-04:00",
+    "posts": [
+      "You don't need complete clarity to make a thoughtful decision.\n\nEven good decisions can carry uncertainty. Sometimes the important question is whether you understand enough to take a reasonable next step, rather than whether you've eliminated every possible unknown.\n\nThe Thinking Lens helps you explore your options and find a clearer way forward: https://thethinkinglens.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "thinking-lens-enough-clarity-02",
+    "account": "garretts_dev_desk",
+    "theme": "recognizing_the_certainty_trap",
+    "series": "thinking_lens_enough_clarity",
+    "scheduled_at": "2027-10-18T15:30:00-04:00",
+    "posts": [
+      "Sometimes we're waiting for a level of certainty that a decision simply cannot provide.\n\nYou can research, compare, and consider possibilities for hours, but some unknowns will remain until you actually move forward. More thinking isn't always the missing ingredient.\n\nTry listing what you know, what remains uncertain, and which unknowns could genuinely change your decision. That last category deserves the most attention."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "thinking-lens-enough-clarity-03",
+    "account": "garretts_dev_desk",
+    "theme": "finding_sufficient_clarity",
+    "series": "thinking_lens_enough_clarity",
+    "scheduled_at": "2027-10-19T09:15:00-04:00",
+    "posts": [
+      "A useful question when you're stuck: What would give me enough clarity to take one thoughtful step?\n\nThat might mean confirming a detail, understanding a risk, or identifying an option you haven't considered. You can make progress without having the entire future mapped out.\n\nExplore questions like this with The Thinking Lens, a free tool from Garrett's Dev Desk: https://thethinkinglens.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "thinking-lens-enough-clarity-04",
+    "account": "garretts_dev_desk",
+    "theme": "focusing_on_the_next_seven_days",
+    "series": "thinking_lens_enough_clarity",
+    "scheduled_at": "2027-10-19T15:30:00-04:00",
+    "posts": [
+      "Sometimes the next seven days are plenty of road to see at once.\n\nWhen a long-term decision feels overwhelming, it can help to narrow your attention to what matters this week. You may not know exactly where you'll be in twelve months, but you can still identify something useful to do now.\n\nTry asking yourself what you could accomplish or learn in the next seven days that would make the larger decision easier."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "thinking-lens-enough-clarity-05",
+    "account": "garretts_dev_desk",
+    "theme": "choosing_steps_that_move_or_teach",
+    "series": "thinking_lens_enough_clarity",
+    "scheduled_at": "2027-10-20T09:15:00-04:00",
+    "posts": [
+      "A useful next step often does one of two things: it moves something forward, or it teaches you something important.\n\nYou might complete a small task, test an assumption, or ask a question that helps you understand your options. Each can create progress without requiring a perfect plan.\n\nThe Thinking Lens helps you work through decisions one perspective at a time: https://thethinkinglens.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "thinking-lens-enough-clarity-06",
+    "account": "garretts_dev_desk",
+    "theme": "taking_the_next_thoughtful_step",
+    "series": "thinking_lens_enough_clarity",
+    "scheduled_at": "2027-10-20T15:30:00-04:00",
+    "posts": [
+      "You may only need to see the next few feet clearly enough to take one thoughtful step.\n\nSome decisions become easier as you move, gather information, and adjust your understanding. Knowing every detail of the destination isn't always necessary to begin making meaningful progress.\n\nWhen you're facing an uncertain decision, how do you recognize that you have enough information to take the next step?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

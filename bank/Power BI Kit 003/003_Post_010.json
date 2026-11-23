@@ -1,0 +1,80 @@
+[
+  {
+    "id": "pbi-workforce-reporting-value-01",
+    "account": "garretts_dev_desk",
+    "theme": "creating_power_bi_reports_people_actually_use",
+    "series": "pbi_workforce_reporting_value",
+    "scheduled_at": "2028-08-21T09:15:00-04:00",
+    "posts": [
+      "You spent hours building the report. Did anyone actually use it?\n\nIt's frustrating when thoughtful analysis becomes another file that rarely gets opened. Reports are more useful when they help people explore questions they genuinely need answered.\n\nMy Workforce Performance & Sales Activity Power BI Kit provides three editable reporting views built around team and sales performance: https://garrettsdevdesk.etsy.com/listing/4595444828/power-bi-sales-performance-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-workforce-reporting-value-02",
+    "account": "garretts_dev_desk",
+    "theme": "connecting_dashboard_metrics_to_business_questions",
+    "series": "pbi_workforce_reporting_value",
+    "scheduled_at": "2028-08-21T15:30:00-04:00",
+    "posts": [
+      "A dashboard becomes more valuable when someone knows what they can learn from it.\n\nA manager might need to identify a struggling location. A team lead might want to understand employee target attainment. Each question suggests different metrics and comparisons.\n\nTry writing down three decisions your audience regularly makes. Then review your dashboard and ask whether the information on each page helps support those decisions."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-workforce-reporting-value-03",
+    "account": "garretts_dev_desk",
+    "theme": "designing_performance_dashboards_for_repeat_use",
+    "series": "pbi_workforce_reporting_value",
+    "scheduled_at": "2028-08-22T09:15:00-04:00",
+    "posts": [
+      "People need a reason to return to a dashboard after the first presentation.\n\nRelevant metrics, useful comparisons, and clear business questions make reporting worth revisiting. Employee results, sales targets, and location performance can support recurring conversations when presented thoughtfully.\n\nMy Workforce Performance & Sales Activity Power BI Kit offers a customizable starting point: https://garrettsdevdesk.etsy.com/listing/4595444828/power-bi-sales-performance-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-workforce-reporting-value-04",
+    "account": "garretts_dev_desk",
+    "theme": "turning_performance_reporting_into_useful_conversations",
+    "series": "pbi_workforce_reporting_value",
+    "scheduled_at": "2028-08-22T15:30:00-04:00",
+    "posts": [
+      "A useful performance dashboard can give a team better questions to discuss.\n\nWhere are sales improving? Who might need additional support? Which products or locations deserve investigation? Those conversations become more productive when the supporting metrics are easy to examine.\n\nTry choosing one dashboard page and identifying three questions it should help answer. If those questions aren't clear, consider simplifying the page or changing the comparisons."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-workforce-reporting-value-05",
+    "account": "garretts_dev_desk",
+    "theme": "building_purposeful_workforce_and_sales_performance_reports",
+    "series": "pbi_workforce_reporting_value",
+    "scheduled_at": "2028-08-23T09:15:00-04:00",
+    "posts": [
+      "There's something satisfying about building a report that people find genuinely useful.\n\nA clear view of workforce performance, employee results, and product and location activity can help teams prepare for meaningful discussions. Thoughtful reporting starts with understanding what the audience needs.\n\nMy Workforce Performance & Sales Activity Power BI Kit includes three editable pages, sample data, and documentation: https://garrettsdevdesk.etsy.com/listing/4595444828/power-bi-sales-performance-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-workforce-reporting-value-06",
+    "account": "garretts_dev_desk",
+    "theme": "discussing_what_makes_business_dashboards_worth_using",
+    "series": "pbi_workforce_reporting_value",
+    "scheduled_at": "2028-08-23T15:30:00-04:00",
+    "posts": [
+      "Building a dashboard takes time, and it's discouraging when the finished report rarely gets used.\n\nSometimes the challenge is choosing the right metrics. Other times, the audience needs clearer explanations or more relevant comparisons. Understanding how people actually use the report can help guide improvements.\n\nFor analysts and Power BI developers, what's one change you've made that helped people engage with a dashboard more regularly?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

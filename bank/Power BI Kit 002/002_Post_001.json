@@ -1,0 +1,54 @@
+[
+  {
+    "id": "pbi-sales-operations-03",
+    "account": "garretts_dev_desk",
+    "theme": "analyzing_product_brand_and_category_sales_performance",
+    "series": "pbi_sales_commercial_operations",
+    "scheduled_at": "2028-06-09T09:15:00-04:00",
+    "posts": [
+      "Not every product contributes equally to a business's sales performance.\n\nComparing revenue across products, brands, and categories helps reveal where sales are concentrated. Adding inventory context can make those comparisons even more useful for commercial planning.\n\nMy Sales Performance & Commercial Operations Power BI Kit includes a dedicated Product Performance dashboard: https://garrettsdevdesk.etsy.com/listing/4595438858/power-bi-sales-dashboard-template-sales"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-sales-operations-04",
+    "account": "garretts_dev_desk",
+    "theme": "reviewing_sales_transactions_payments_and_posting_activity",
+    "series": "pbi_sales_commercial_operations",
+    "scheduled_at": "2028-06-09T15:30:00-04:00",
+    "posts": [
+      "A sales total is the result of many individual transactions, and those details can tell their own story.\n\nTransaction values, taxes, payment methods, and posting activity provide context for how sales appear in the underlying records. Reviewing them can help explain differences between summary figures and transaction-level activity.\n\nTry selecting one reporting period and comparing its sales summary with the transaction records. What questions become easier to answer?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-sales-operations-05",
+    "account": "garretts_dev_desk",
+    "theme": "connecting_sales_reporting_with_purchasing_and_vendor_activity",
+    "series": "pbi_sales_commercial_operations",
+    "scheduled_at": "2028-06-10T09:15:00-04:00",
+    "posts": [
+      "Sales reporting tells you what's coming in. Purchasing activity adds another important perspective.\n\nVendor spending, purchasing trends, invoice status, and overdue amounts help explain another side of commercial operations. Bringing those measures into the reporting process supports more informed discussions.\n\nMy Sales Performance & Commercial Operations Power BI Kit includes a Purchasing & Vendor Activity page: https://garrettsdevdesk.etsy.com/listing/4595438858/power-bi-sales-dashboard-template-sales"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-sales-operations-06",
+    "account": "garretts_dev_desk",
+    "theme": "discussing_what_makes_commercial_reporting_useful",
+    "series": "pbi_sales_commercial_operations",
+    "scheduled_at": "2028-06-10T15:30:00-04:00",
+    "posts": [
+      "A useful commercial dashboard should help people understand more than how much revenue the business generated.\n\nProduct performance, transaction details, payment activity, and purchasing trends each add context to the overall picture. Together, they can support better questions about how the business operates.\n\nFor anyone who works with sales or commercial reporting, which metric or reporting view do you find most useful beyond total revenue?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

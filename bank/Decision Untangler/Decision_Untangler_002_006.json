@@ -1,0 +1,80 @@
+[
+  {
+    "id": "decision-untangler-close-the-tabs-01",
+    "account": "garretts_dev_desk",
+    "theme": "ending_excessive_research",
+    "series": "decision_untangler_close_the_tabs",
+    "scheduled_at": "2027-07-05T09:15:00-04:00",
+    "posts": [
+      "You are allowed to close the tabs.\n\nBeing thoughtful about a decision doesn't mean researching until there's nothing left on the internet to read. You can spend hours gathering information and still feel uncertain about which direction to take.\n\nDecision Untangler helps you move from collecting information to reflecting on what matters: https://decisionuntangler.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "decision-untangler-close-the-tabs-02",
+    "account": "garretts_dev_desk",
+    "theme": "setting_research_boundaries",
+    "series": "decision_untangler_close_the_tabs",
+    "scheduled_at": "2027-07-05T15:30:00-04:00",
+    "posts": [
+      "Research becomes much more manageable when you give it a finish line.\n\nBefore comparing options, identify the facts that could genuinely change your choice. Maybe it's the total cost, a schedule requirement, or a risk you haven't investigated.\n\nOnce those questions have reasonable answers, you can stop searching for every possible detail. Being informed enough is a more practical goal than knowing everything."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "decision-untangler-close-the-tabs-03",
+    "account": "garretts_dev_desk",
+    "theme": "recognizing_research_motives",
+    "series": "decision_untangler_close_the_tabs",
+    "scheduled_at": "2027-07-06T09:15:00-04:00",
+    "posts": [
+      "Before reading another review or asking for another opinion, consider why you're still searching.\n\nAre you missing information that could meaningfully change your decision? Or are you hoping someone will finally make one option feel completely safe?\n\nThat distinction matters. Decision Untangler helps you explore the concerns behind your uncertainty: https://decisionuntangler.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "decision-untangler-close-the-tabs-04",
+    "account": "garretts_dev_desk",
+    "theme": "reducing_outside_influence",
+    "series": "decision_untangler_close_the_tabs",
+    "scheduled_at": "2027-07-06T15:30:00-04:00",
+    "posts": [
+      "Sometimes closing your browser is a useful part of making a decision.\n\nWhen you're constantly reading other people's opinions, it can become difficult to recognize which concerns are actually yours. The loudest perspective isn't necessarily the most relevant to your life.\n\nTry stepping away from outside input for a little while. Write down the thoughts that keep returning when nobody else is offering an answer."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "decision-untangler-close-the-tabs-05",
+    "account": "garretts_dev_desk",
+    "theme": "cost_of_unresolved_decisions",
+    "series": "decision_untangler_close_the_tabs",
+    "scheduled_at": "2027-07-07T09:15:00-04:00",
+    "posts": [
+      "Keeping every option open can have a cost of its own.\n\nAn unresolved decision may follow you through your workday, interrupt your evenings, and occupy weeks of mental energy. Sometimes the tradeoffs of choosing feel more intimidating than the ongoing cost of remaining undecided.\n\nDecision Untangler helps you examine those tradeoffs and consider what moving forward might look like: https://decisionuntangler.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "decision-untangler-close-the-tabs-06",
+    "account": "garretts_dev_desk",
+    "theme": "quiet_decision_reflection",
+    "series": "decision_untangler_close_the_tabs",
+    "scheduled_at": "2027-07-07T15:30:00-04:00",
+    "posts": [
+      "Close the fifteen browser tabs. Make another cup of coffee. Give yourself a little room to think.\n\nYou may already know the important facts about your options. What you haven't had is enough quiet to consider what those facts mean for your priorities, responsibilities, and hopes.\n\nWhen you're facing a difficult choice, does more research usually help you feel clearer, or does it sometimes make the decision harder?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

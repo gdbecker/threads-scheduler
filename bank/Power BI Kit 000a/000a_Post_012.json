@@ -1,0 +1,80 @@
+[
+  {
+    "id": "pbi-dashboard-person-01",
+    "account": "garretts_dev_desk",
+    "theme": "becoming_the_unexpected_dashboard_builder",
+    "series": "pbi_dashboard_responsibility",
+    "scheduled_at": "2028-03-13T09:15:00-04:00",
+    "posts": [
+      "Somehow, you became the person responsible for building the dashboard.\n\nMaybe you're comfortable with Excel, know a little Power BI, or understand the data better than everyone else. Now the team needs a report, and you're the one figuring out how to build it.\n\nI made my Customer Support Performance Power BI Kit for situations like this, when a working starting point would help: https://garrettsdevdesk.etsy.com/listing/4593960875/power-bi-customer-support-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-dashboard-person-02",
+    "account": "garretts_dev_desk",
+    "theme": "turning_a_simple_dashboard_request_into_a_clear_plan",
+    "series": "pbi_dashboard_responsibility",
+    "scheduled_at": "2028-03-13T15:30:00-04:00",
+    "posts": [
+      "\"Can we get a dashboard for customer support?\" sounds like a straightforward request.\n\nThen come the questions about KPIs, data structure, filters, visuals, and how people will use the finished report. A small request can quickly become a substantial project.\n\nBefore opening Power BI, ask who will use the dashboard and what decisions they need to make. Those answers can help you avoid building something impressive that misses the actual need."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-dashboard-person-03",
+    "account": "garretts_dev_desk",
+    "theme": "reducing_the_work_of_building_power_bi_from_scratch",
+    "series": "pbi_dashboard_responsibility",
+    "scheduled_at": "2028-03-14T09:15:00-04:00",
+    "posts": [
+      "You might have the skills to build a Power BI report from scratch. That doesn't mean you have unlimited time to do it.\n\nData modeling, DAX, layout, formatting, testing, and documentation all require attention. A customizable starting point can reduce the number of decisions you need to make before getting to useful reporting.\n\nMy Customer Support Performance Power BI Kit includes an editable report and guides: https://garrettsdevdesk.etsy.com/listing/4593960875/power-bi-customer-support-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-dashboard-person-04",
+    "account": "garretts_dev_desk",
+    "theme": "adapting_an_existing_dashboard_to_business_needs",
+    "series": "pbi_dashboard_responsibility",
+    "scheduled_at": "2028-03-14T15:30:00-04:00",
+    "posts": [
+      "Starting with an existing dashboard can be useful, but it still needs to fit the people who will use it.\n\nReview the measures, inspect the data model, and understand how the visuals respond to filters. Then decide what needs to change for your team's reporting questions.\n\nTry creating a short customization checklist before replacing any sample data. Include field mappings, measure definitions, filters, and the questions the finished report must answer."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-dashboard-person-05",
+    "account": "garretts_dev_desk",
+    "theme": "providing_a_working_customer_support_dashboard_starting_point",
+    "series": "pbi_dashboard_responsibility",
+    "scheduled_at": "2028-03-15T09:15:00-04:00",
+    "posts": [
+      "For the person who just became \"the Power BI person\" at work, a head start can make a real difference.\n\nInstead of beginning with an empty report, you can explore an existing dashboard, understand its measures, and adapt it to your needs. You still control the final result without making every decision from zero.\n\nMy Customer Support Performance Power BI Kit includes sample data, documented DAX, and customization guides: https://garrettsdevdesk.etsy.com/listing/4593960875/power-bi-customer-support-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-dashboard-person-06",
+    "account": "garretts_dev_desk",
+    "theme": "navigating_unexpected_business_reporting_responsibilities",
+    "series": "pbi_dashboard_responsibility",
+    "scheduled_at": "2028-03-15T15:30:00-04:00",
+    "posts": [
+      "A lot of reporting responsibilities begin with someone saying, \"You're good with spreadsheets, right?\"\n\nBefore long, that person is building dashboards, maintaining data models, answering metric questions, and becoming the unofficial reporting resource for the team. It can be rewarding work, but the responsibilities add up.\n\nHave you ever become the go-to data or dashboard person at work without that originally being part of your job?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

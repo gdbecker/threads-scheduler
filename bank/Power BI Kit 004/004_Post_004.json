@@ -1,0 +1,80 @@
+[
+  {
+    "id": "pbi-field-productivity-01",
+    "account": "garretts_dev_desk",
+    "theme": "understanding_differences_in_technician_productivity",
+    "series": "pbi_field_productivity_context",
+    "scheduled_at": "2028-09-11T09:15:00-04:00",
+    "posts": [
+      "Two technicians. Same hours. Very different results.\n\nLabor hours tell you how much time was recorded, but they don't explain the work completed during that time. Comparing activity, billable output, and service quality can provide a more useful picture of productivity.\n\nMy Field Team Performance Power BI Kit includes a dedicated Field Activity & Productivity dashboard: https://garrettsdevdesk.etsy.com/listing/4595448076/power-bi-field-team-performance"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-field-productivity-02",
+    "account": "garretts_dev_desk",
+    "theme": "calculating_billable_field_output_per_labor_hour",
+    "series": "pbi_field_productivity_context",
+    "scheduled_at": "2028-09-11T15:30:00-04:00",
+    "posts": [
+      "Hours worked are only one piece of the field productivity puzzle.\n\nComparing labor hours with completed activities and billable quantity can help explain how time translates into output. Billable output per hour is one useful measure, although different work types may require different levels of effort.\n\nTry calculating billable quantity divided by labor hours for a recent reporting period. Then compare the result across similar activities rather than treating every job as equivalent."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-field-productivity-03",
+    "account": "garretts_dev_desk",
+    "theme": "analyzing_field_work_mix_by_activity_area_and_time_code",
+    "series": "pbi_field_productivity_context",
+    "scheduled_at": "2028-09-12T09:15:00-04:00",
+    "posts": [
+      "Not every field activity requires the same amount of effort.\n\nA technician handling complex service work may record fewer completed activities than someone assigned simpler tasks. Reviewing activity types, work areas, and time codes helps explain those differences before drawing conclusions.\n\nMy Field Team Performance Power BI Kit includes activity and labor reporting for exploring work patterns: https://garrettsdevdesk.etsy.com/listing/4595448076/power-bi-field-team-performance"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-field-productivity-04",
+    "account": "garretts_dev_desk",
+    "theme": "balancing_field_productivity_with_service_quality",
+    "series": "pbi_field_productivity_context",
+    "scheduled_at": "2028-09-12T15:30:00-04:00",
+    "posts": [
+      "Faster field work isn't automatically better field work.\n\nA productivity increase deserves a closer look when repeat visits or quality issues are also rising. Output and service reliability provide different perspectives on how effectively a team is operating.\n\nTry reviewing activities per labor hour alongside repeat-work rates over several periods. Look for changes that move together, then investigate what might be contributing to those patterns."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-field-productivity-05",
+    "account": "garretts_dev_desk",
+    "theme": "comparing_field_productivity_across_teams_and_locations",
+    "series": "pbi_field_productivity_context",
+    "scheduled_at": "2028-09-13T09:15:00-04:00",
+    "posts": [
+      "The most useful productivity insights often come from comparing patterns across teams.\n\nLabor hours, completed activities, and billable output can vary by supervisor, location, and workload. Looking at these differences together helps identify questions worth investigating.\n\nMy Field Team Performance Power BI Kit includes four editable dashboards with sample data and documentation: https://garrettsdevdesk.etsy.com/listing/4595448076/power-bi-field-team-performance"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-field-productivity-06",
+    "account": "garretts_dev_desk",
+    "theme": "discussing_fair_and_meaningful_field_productivity_measurement",
+    "series": "pbi_field_productivity_context",
+    "scheduled_at": "2028-09-13T15:30:00-04:00",
+    "posts": [
+      "Productivity reporting becomes more useful when you understand the work behind the numbers.\n\nTwo technicians might record identical labor hours while handling very different assignments. Activity type, billable output, complexity, and service quality all matter when interpreting their results.\n\nFor field operations managers and analysts, how do you account for differences in job complexity when comparing technician productivity?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

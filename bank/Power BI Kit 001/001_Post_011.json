@@ -1,0 +1,80 @@
+[
+  {
+    "id": "pbi-reporting-longevity-01",
+    "account": "garretts_dev_desk",
+    "theme": "creating_financial_reports_that_remain_useful_beyond_one_meeting",
+    "series": "pbi_reusable_financial_reporting",
+    "scheduled_at": "2028-06-01T09:15:00-04:00",
+    "posts": [
+      "You put too much work into your financial reports for them to be used just once.\n\nHours of preparation, analysis, and careful decisions can go into a single reporting meeting. A reusable reporting foundation helps that work remain useful as new financial periods arrive.\n\nI built my Financial Performance & Cash Flow Power BI Kit to provide a customizable starting point: https://garrettsdevdesk.etsy.com/listing/4595413257/power-bi-financial-dashboard-template-13"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-reporting-longevity-02",
+    "account": "garretts_dev_desk",
+    "theme": "reducing_repeated_work_across_financial_reporting_cycles",
+    "series": "pbi_reusable_financial_reporting",
+    "scheduled_at": "2028-06-01T15:30:00-04:00",
+    "posts": [
+      "A new reporting period shouldn't automatically mean rebuilding the same financial report.\n\nWhen every dashboard is treated as a one-time project, familiar layouts, calculations, and formatting often have to be recreated. A consistent structure makes future reporting cycles easier to approach.\n\nTry reviewing your last three monthly reports. Which sections, metrics, and visuals appear every time? Those recurring elements may be good candidates for a reusable template."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-reporting-longevity-03",
+    "account": "garretts_dev_desk",
+    "theme": "building_consistent_financial_reporting_frameworks",
+    "series": "pbi_reusable_financial_reporting",
+    "scheduled_at": "2028-06-02T09:15:00-04:00",
+    "posts": [
+      "There's something satisfying about building a financial reporting system you can return to.\n\nConsistent layouts, familiar metrics, and organized reporting pages help make future analysis more approachable. They also give stakeholders a structure they can learn over time.\n\nMy Financial Performance & Cash Flow Power BI Kit includes three editable pages for performance, entity comparisons, and cash forecasting: https://garrettsdevdesk.etsy.com/listing/4595413257/power-bi-financial-dashboard-template-13"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-reporting-longevity-04",
+    "account": "garretts_dev_desk",
+    "theme": "designing_financial_dashboards_for_future_updates",
+    "series": "pbi_reusable_financial_reporting",
+    "scheduled_at": "2028-06-02T15:30:00-04:00",
+    "posts": [
+      "A useful financial dashboard should be designed with the next reporting cycle in mind.\n\nThink about how new data will be added, which calculations need to remain consistent, and how someone else might understand the report later. Those decisions can make a reporting framework easier to maintain.\n\nTry opening a dashboard you built several months ago. Could you update it and explain its structure without having to reconstruct how everything works?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-reporting-longevity-05",
+    "account": "garretts_dev_desk",
+    "theme": "creating_financial_reporting_resources_that_teams_can_reuse",
+    "series": "pbi_reusable_financial_reporting",
+    "scheduled_at": "2028-06-03T09:15:00-04:00",
+    "posts": [
+      "One of the most rewarding outcomes of a reporting project is knowing someone else can continue using what you've built.\n\nA well-organized financial report can support recurring reviews, shared understanding, and more consistent discussions over time. Documentation and editable structures help make that possible.\n\nMy Financial Performance & Cash Flow Power BI Kit includes both: https://garrettsdevdesk.etsy.com/listing/4595413257/power-bi-financial-dashboard-template-13"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-reporting-longevity-06",
+    "account": "garretts_dev_desk",
+    "theme": "discussing_what_makes_financial_reports_sustainable",
+    "series": "pbi_reusable_financial_reporting",
+    "scheduled_at": "2028-06-03T15:30:00-04:00",
+    "posts": [
+      "A financial report can be valuable long after the meeting it was originally prepared for.\n\nWhen the structure is understandable and the information can be updated consistently, the work becomes something a team can build on. That kind of continuity is worth considering during the initial design.\n\nFor anyone who builds dashboards or recurring reports, what's one design decision that's made your work easier to maintain over time?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

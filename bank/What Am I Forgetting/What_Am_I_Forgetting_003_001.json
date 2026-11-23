@@ -1,0 +1,80 @@
+[
+  {
+    "id": "waf-almost-done-01",
+    "account": "garretts_dev_desk",
+    "theme": "noticing_details_near_task_completion",
+    "series": "waf_almost_done",
+    "scheduled_at": "2028-01-13T09:15:00-05:00",
+    "posts": [
+      "Almost done is where small things get lost.\n\nThe hard part is finished, your attention has already moved toward what's next, and the final details become surprisingly easy to overlook. You can spend hours preparing something and still forget the thirty-second step that makes it useful.\n\nWhat Am I Forgetting? helps you give those last details another look: https://whatamiforgetting.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-almost-done-02",
+    "account": "garretts_dev_desk",
+    "theme": "catching_prepared_items_before_departure",
+    "series": "waf_almost_done",
+    "scheduled_at": "2028-01-13T15:30:00-05:00",
+    "posts": [
+      "There's something particularly frustrating about forgetting an item you already went out of your way to prepare.\n\nLunch is packed but still refrigerated. The paperwork is printed but sitting beside the printer. Your headphones are fully charged but still plugged into the wall.\n\nBefore your next departure, try checking the places where prepared things wait. A quick scan of the refrigerator, outlets, and workspace might save you a return trip."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-almost-done-03",
+    "account": "garretts_dev_desk",
+    "theme": "remembering_final_handoffs_after_preparation",
+    "series": "waf_almost_done",
+    "scheduled_at": "2028-01-14T09:15:00-05:00",
+    "posts": [
+      "Sometimes the thing you forgot was the handoff.\n\nPrepared doesn't automatically mean packed. Finished doesn't mean sent. Decided doesn't mean communicated. And completed doesn't always mean delivered. Those final transitions can be easy to miss when the main work is already behind you.\n\nWhat Am I Forgetting? is designed to help catch practical oversights like these: https://whatamiforgetting.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-almost-done-04",
+    "account": "garretts_dev_desk",
+    "theme": "checking_small_final_steps_in_workflows",
+    "series": "waf_almost_done",
+    "scheduled_at": "2028-01-14T15:30:00-05:00",
+    "posts": [
+      "The smallest step in a project can be the easiest one to overlook.\n\nSending a finished report might take thirty seconds, especially compared with the hours spent creating it. But that little step is what gets the work into someone else's hands.\n\nTry looking at one task you're nearly finished with. Ask what needs to happen after the main work is complete, and make that final action explicit before you move on."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-almost-done-05",
+    "account": "garretts_dev_desk",
+    "theme": "reviewing_loose_ends_before_moving_on",
+    "series": "waf_almost_done",
+    "scheduled_at": "2028-01-15T09:15:00-05:00",
+    "posts": [
+      "Before mentally closing out a task, give its loose ends one more look.\n\nIs someone waiting for an update? Is anything still sitting where you prepared it? Has the timing been confirmed? Do you know what happens next? These questions can reveal small gaps that aren't obvious from the main checklist.\n\nThat's the kind of final review I built What Am I Forgetting? to support: https://whatamiforgetting.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-almost-done-06",
+    "account": "garretts_dev_desk",
+    "theme": "creating_a_brief_pause_before_finishing",
+    "series": "waf_almost_done",
+    "scheduled_at": "2028-01-15T15:30:00-05:00",
+    "posts": [
+      "Leave thirty quiet seconds between almost done and actually done.\n\nYou don't need another elaborate process. Sometimes a brief pause is enough to remember the attachment you haven't added, the message you haven't sent, or the item you haven't packed. Then you can move on with a little more confidence.\n\nDo you have a habit or routine that helps you catch those last-minute details before finishing something?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

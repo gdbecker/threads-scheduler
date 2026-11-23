@@ -1,0 +1,80 @@
+[
+  {
+    "id": "pbi-bd-stalled-opportunities-01",
+    "account": "garretts_dev_desk",
+    "theme": "recognizing_when_promising_business_development_opportunities_stall",
+    "series": "pbi_business_development_stalled_opportunities",
+    "scheduled_at": "2028-11-16T09:15:00-05:00",
+    "posts": [
+      "That opportunity everyone was excited about? It's still sitting in the pipeline.\n\nWeeks have passed, the conversations have slowed, and the next step isn't clear. It's frustrating when a promising relationship seems to lose momentum after so much work.\n\nMy Business Development Performance Power BI Kit helps you examine pipeline stages and individual opportunity details: https://garrettsdevdesk.etsy.com/listing/4595453904/power-bi-business-development-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-bd-stalled-opportunities-02",
+    "account": "garretts_dev_desk",
+    "theme": "reassessing_opportunity_value_and_win_probability",
+    "series": "pbi_business_development_stalled_opportunities",
+    "scheduled_at": "2028-11-16T15:30:00-05:00",
+    "posts": [
+      "It's difficult to know when confidence in an opportunity needs another look.\n\nA large deal can remain in your pipeline even when conversations slow down or the expected close date keeps moving. Its estimated win probability should reflect what the team currently knows.\n\nTry reviewing opportunities with approaching or overdue close dates. Ask whether their stages and probabilities still match the latest client conversations."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-bd-stalled-opportunities-03",
+    "account": "garretts_dev_desk",
+    "theme": "acknowledging_the_work_behind_stalled_business_development_opportunities",
+    "series": "pbi_business_development_stalled_opportunities",
+    "scheduled_at": "2028-11-17T09:15:00-05:00",
+    "posts": [
+      "A stalled business development opportunity represents more than an unfinished deal.\n\nSomeone may have spent months building the relationship, arranging introductions, and preparing proposals. When progress slows, that investment of time deserves a thoughtful reassessment.\n\nMy Business Development Performance Power BI Kit provides opportunity-level details to support those reviews: https://garrettsdevdesk.etsy.com/listing/4595453904/power-bi-business-development-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-bd-stalled-opportunities-04",
+    "account": "garretts_dev_desk",
+    "theme": "reviewing_stalled_opportunities_using_stage_close_date_and_probability",
+    "series": "pbi_business_development_stalled_opportunities",
+    "scheduled_at": "2028-11-17T15:30:00-05:00",
+    "posts": [
+      "Sometimes the best next step for a stalled opportunity is a better question.\n\nBefore scheduling another follow-up, review its current stage, expected close date, estimated win probability, and relationship history. Those details can help reveal whether the opportunity needs renewed attention or a revised outlook.\n\nTry selecting three opportunities that haven't progressed as expected. Write down what has changed and what information you still need."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-bd-stalled-opportunities-05",
+    "account": "garretts_dev_desk",
+    "theme": "prioritizing_follow_up_reassessment_and_deprioritization",
+    "series": "pbi_business_development_stalled_opportunities",
+    "scheduled_at": "2028-11-18T09:15:00-05:00",
+    "posts": [
+      "Not every stalled opportunity deserves the same response.\n\nSome need a thoughtful follow-up, others need revised assumptions, and some may no longer warrant the same priority. Understanding the details behind each opportunity helps teams make those distinctions.\n\nMy Business Development Performance Power BI Kit includes pipeline and opportunity analysis to support that process: https://garrettsdevdesk.etsy.com/listing/4595453904/power-bi-business-development-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-bd-stalled-opportunities-06",
+    "account": "garretts_dev_desk",
+    "theme": "discussing_when_to_stop_pursuing_stalled_business_development_opportunities",
+    "series": "pbi_business_development_stalled_opportunities",
+    "scheduled_at": "2028-11-18T15:30:00-05:00",
+    "posts": [
+      "One of the harder business development decisions is knowing when to stop pursuing an opportunity that once looked promising.\n\nThe relationship may still matter, and considerable effort may already have gone into the pursuit. But changing circumstances can make it necessary to reconsider the priority.\n\nFor business development professionals, what signals tell you an opportunity needs another follow-up versus a serious reassessment?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

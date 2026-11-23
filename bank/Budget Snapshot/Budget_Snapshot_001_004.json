@@ -1,0 +1,80 @@
+[
+  {
+    "id": "budget-snapshot-reserve-purpose-01",
+    "account": "garretts_dev_desk",
+    "theme": "hoa_reserve_planning",
+    "series": "budget_snapshot_reserve_purpose",
+    "scheduled_at": "2027-02-01T09:15:00-05:00",
+    "posts": [
+      "HOA reserves make a lot more sense when homeowners understand the future work they're meant to support.\n\nInstead of beginning with the account balance, explain the roofs, pavement, buildings, and equipment the community will eventually need to repair or replace.\n\nI built Budget Snapshot to help make financial conversations like these clearer: https://budgetsnapshot.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "budget-snapshot-reserve-purpose-02",
+    "account": "garretts_dev_desk",
+    "theme": "community_maintenance",
+    "series": "budget_snapshot_reserve_purpose",
+    "scheduled_at": "2027-02-01T15:30:00-05:00",
+    "posts": [
+      "The fact that your HOA doesn't need a new roof this year doesn't mean the future replacement will be free.\n\nRoads wear down, roofs age, and shared equipment eventually needs major work. Those responsibilities exist even when they aren't part of this year's maintenance schedule.\n\nWhen explaining reserves, start with the physical things the community will need to take care of."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "budget-snapshot-reserve-purpose-03",
+    "account": "garretts_dev_desk",
+    "theme": "financial_transparency",
+    "series": "budget_snapshot_reserve_purpose",
+    "scheduled_at": "2027-02-02T09:15:00-05:00",
+    "posts": [
+      "\"We're contributing $90,000 to reserves this year\" is useful information, but it only tells part of the story.\n\nHomeowners also deserve to understand what those contributions are preparing for and how they fit into the community's longer-term maintenance responsibilities.\n\nBudget Snapshot helps organize that financial picture: https://budgetsnapshot.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "budget-snapshot-reserve-purpose-04",
+    "account": "garretts_dev_desk",
+    "theme": "hoa_financial_planning",
+    "series": "budget_snapshot_reserve_purpose",
+    "scheduled_at": "2027-02-02T15:30:00-05:00",
+    "posts": [
+      "$500,000 in HOA reserves might sound like a lot of money until you consider the work those funds may need to support.\n\nA major paving project, roof replacements, or exterior repairs can change how that balance should be understood.\n\nTry presenting reserve balances alongside upcoming projects and estimated costs. It gives homeowners a more useful picture than the balance alone."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "budget-snapshot-reserve-purpose-05",
+    "account": "garretts_dev_desk",
+    "theme": "reserve_fund_communication",
+    "series": "budget_snapshot_reserve_purpose",
+    "scheduled_at": "2027-02-03T09:15:00-05:00",
+    "posts": [
+      "It's tempting to describe an HOA's reserve position with a single percentage and call it healthy or unhealthy.\n\nBut that number depends on the community's assets, their condition, planned projects, and the assumptions behind the reserve study.\n\nA useful explanation gives homeowners the context to understand the number without treating it like a final verdict.\n\nhttps://budgetsnapshot.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "budget-snapshot-reserve-purpose-06",
+    "account": "garretts_dev_desk",
+    "theme": "homeowner_communication",
+    "series": "budget_snapshot_reserve_purpose",
+    "scheduled_at": "2027-02-03T15:30:00-05:00",
+    "posts": [
+      "A helpful shift in HOA reserve conversations is moving from \"Why are we collecting this money?\" to \"What are we preparing to take care of?\"\n\nWhen homeowners can connect today's contributions to tomorrow's shared responsibilities, the financial picture becomes easier to understand.\n\nWhat do you think HOA boards could do to make reserve planning clearer for homeowners?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

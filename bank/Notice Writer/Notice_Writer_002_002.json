@@ -1,0 +1,80 @@
+[
+  {
+    "id": "notice-writer-template-review-01",
+    "account": "garretts_dev_desk",
+    "theme": "templates_can_preserve_mistakes",
+    "series": "notice_writer_template_review",
+    "scheduled_at": "2027-08-23T09:15:00-04:00",
+    "posts": [
+      "Templates save time. They can also preserve mistakes.\n\nAn outdated address, last month's deadline, or an old rule reference can easily survive when today's HOA notice begins with yesterday's document. Reusing a familiar format is helpful, but the details still deserve a fresh review.\n\nNotice Writer helps community volunteers prepare clearer, more organized notices: https://noticewriter.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "notice-writer-template-review-02",
+    "account": "garretts_dev_desk",
+    "theme": "reuse_structure_review_details",
+    "series": "notice_writer_template_review",
+    "scheduled_at": "2027-08-23T15:30:00-04:00",
+    "posts": [
+      "A good notice template should save you from rebuilding the document, not from thinking about its contents.\n\nThe structure might be reusable, but each resident, situation, deadline, and applicable requirement needs its own review. That's where a little attention can prevent unnecessary confusion.\n\nTry separating your template into two categories: information that stays consistent and details that must be verified every time."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "notice-writer-template-review-03",
+    "account": "garretts_dev_desk",
+    "theme": "notice_accuracy_checklist",
+    "series": "notice_writer_template_review",
+    "scheduled_at": "2027-08-24T09:15:00-04:00",
+    "posts": [
+      "Before sending an HOA notice based on a template, check the details most likely to be carried over incorrectly.\n\nNames and addresses. Dates and deadlines. Rule references. Requested actions. Previous communications. A quick review of these fields can catch mistakes that are easy to overlook in familiar wording.\n\nNotice Writer helps make community notice preparation more manageable: https://noticewriter.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "notice-writer-template-review-04",
+    "account": "garretts_dev_desk",
+    "theme": "verifying_copied_deadlines",
+    "series": "notice_writer_template_review",
+    "scheduled_at": "2027-08-24T15:30:00-04:00",
+    "posts": [
+      "One leftover date can change the meaning of an otherwise clear community notice.\n\nImagine sending a new reminder with a deadline copied from last month's letter. The resident may be left wondering whether the date is a mistake or whether they're already overdue.\n\nTry checking every date independently before sending, including the notice date, response deadline, and any references to earlier communication."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "notice-writer-template-review-05",
+    "account": "garretts_dev_desk",
+    "theme": "matching_template_tone_to_stage",
+    "series": "notice_writer_template_review",
+    "scheduled_at": "2027-08-25T09:15:00-04:00",
+    "posts": [
+      "Templates can quietly make tone decisions for you.\n\nA paragraph written for a final HOA notice may sound unnecessarily severe in a first reminder. The wording should reflect the current situation and the association's established process, even when you're starting from a familiar document.\n\nNotice Writer helps volunteers create professional community communications: https://noticewriter.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "notice-writer-template-review-06",
+    "account": "garretts_dev_desk",
+    "theme": "responsible_template_use",
+    "series": "notice_writer_template_review",
+    "scheduled_at": "2027-08-25T15:30:00-04:00",
+    "posts": [
+      "Good templates make repetitive administrative work easier without making it mindless.\n\nLet the template provide the structure, then give your attention to the details that matter for this particular resident and situation. Names, dates, requirements, requested actions, and tone all deserve a final look.\n\nFor anyone who regularly works with templates, what's the most common copy-and-paste mistake you've learned to watch for?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

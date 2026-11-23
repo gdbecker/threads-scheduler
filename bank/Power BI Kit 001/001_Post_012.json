@@ -1,0 +1,80 @@
+[
+  {
+    "id": "pbi-financial-warning-signs-01",
+    "account": "garretts_dev_desk",
+    "theme": "helping_stakeholders_recognize_financial_warning_signs",
+    "series": "pbi_financial_warning_signs",
+    "scheduled_at": "2028-06-05T09:15:00-04:00",
+    "posts": [
+      "You've spotted a concerning financial trend. Now comes the challenge of helping everyone else understand why it matters.\n\nA declining margin or weakening cash position can be easy to overlook when it's surrounded by dozens of other figures. Clear reporting helps bring those changes into focus.\n\nMy Financial Performance & Cash Flow Power BI Kit provides a framework for exploring those trends: https://garrettsdevdesk.etsy.com/listing/4595413257/power-bi-financial-dashboard-template-13"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-financial-warning-signs-02",
+    "account": "garretts_dev_desk",
+    "theme": "identifying_important_changes_hidden_in_financial_reports",
+    "series": "pbi_financial_warning_signs",
+    "scheduled_at": "2028-06-05T15:30:00-04:00",
+    "posts": [
+      "Important financial changes don't always announce themselves with a dramatic number.\n\nA gradual decline in margins or a small but persistent increase in expenses can be easy to miss in a crowded report. Those patterns may deserve attention even when the overall results appear stable.\n\nTry reviewing your latest financial dashboard and identifying one trend that could be overlooked. How would you make that change easier for someone else to recognize?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-financial-warning-signs-03",
+    "account": "garretts_dev_desk",
+    "theme": "visualizing_financial_trends_that_deserve_attention",
+    "series": "pbi_financial_warning_signs",
+    "scheduled_at": "2028-06-06T09:15:00-04:00",
+    "posts": [
+      "Sometimes a financial trend becomes much easier to explain when people can actually see it.\n\nRevenue, adjusted EBITDA, and margin trends help reveal how performance is changing over time. A clear visual gives everyone a shared starting point for asking questions and exploring possible causes.\n\nMy Financial Performance & Cash Flow Power BI Kit includes these reporting views: https://garrettsdevdesk.etsy.com/listing/4595413257/power-bi-financial-dashboard-template-13"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-financial-warning-signs-04",
+    "account": "garretts_dev_desk",
+    "theme": "finding_performance_issues_with_entity_level_comparisons",
+    "series": "pbi_financial_warning_signs",
+    "scheduled_at": "2028-06-06T15:30:00-04:00",
+    "posts": [
+      "A consolidated financial result can look perfectly reasonable while one operating entity is struggling.\n\nStrong performance elsewhere may offset declining profitability or rising expenses in another part of the business. Comparing entities helps reveal where the differences are coming from.\n\nTry reviewing revenue and adjusted EBITDA margins across your operating entities. Is there a change that deserves attention even though the consolidated result looks stable?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-financial-warning-signs-05",
+    "account": "garretts_dev_desk",
+    "theme": "recognizing_potential_liquidity_pressure_early",
+    "series": "pbi_financial_warning_signs",
+    "scheduled_at": "2028-06-07T09:15:00-04:00",
+    "posts": [
+      "Recognizing a potential cash problem early can create more room for thoughtful planning.\n\nA 13-week cash forecast helps show when projected balances may approach or fall below a minimum target. That visibility gives finance teams a reason to review assumptions and discuss possible responses.\n\nMy Financial Performance & Cash Flow Power BI Kit includes a customizable cash forecast: https://garrettsdevdesk.etsy.com/listing/4595413257/power-bi-financial-dashboard-template-13"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-financial-warning-signs-06",
+    "account": "garretts_dev_desk",
+    "theme": "discussing_how_to_communicate_financial_concerns",
+    "series": "pbi_financial_warning_signs",
+    "scheduled_at": "2028-06-07T15:30:00-04:00",
+    "posts": [
+      "One of the harder parts of financial analysis is recognizing a concern before everyone else understands its significance.\n\nYou might see a margin trend developing or notice potential cash pressure several weeks ahead. Explaining those findings clearly takes care, especially when the audience doesn't work with financial data every day.\n\nFor finance professionals, what's helped you communicate a concerning financial trend without making the conversation unnecessarily alarming?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

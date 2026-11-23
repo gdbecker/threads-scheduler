@@ -1,0 +1,80 @@
+[
+  {
+    "id": "thinking-lens-real-vs-assumed-constraints-01",
+    "account": "garretts_dev_desk",
+    "theme": "identifying_real_and_assumed_constraints",
+    "series": "thinking_lens_real_vs_assumed_constraints",
+    "scheduled_at": "2027-10-28T09:15:00-04:00",
+    "posts": [
+      "Some constraints are real. Others just sound real because we've repeated them to ourselves for so long.\n\nBefore trying to solve a problem within its boundaries, it's worth asking which limitations actually exist. You may discover that some of the restrictions shaping your decision are assumptions rather than requirements.\n\nExplore your thinking with The Thinking Lens: https://thethinkinglens.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "thinking-lens-real-vs-assumed-constraints-02",
+    "account": "garretts_dev_desk",
+    "theme": "respecting_legitimate_limitations",
+    "series": "thinking_lens_real_vs_assumed_constraints",
+    "scheduled_at": "2027-10-28T15:30:00-04:00",
+    "posts": [
+      "Questioning constraints doesn't mean pretending every limitation can disappear.\n\nDeadlines, budgets, commitments, and other people's needs can create genuine boundaries. Recognizing those realities helps you make decisions that are both thoughtful and practical.\n\nTry listing the constraints affecting a decision you're facing. Which ones are documented requirements, which involve responsibilities to others, and which still need to be verified?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "thinking-lens-real-vs-assumed-constraints-03",
+    "account": "garretts_dev_desk",
+    "theme": "questioning_absolute_language",
+    "series": "thinking_lens_real_vs_assumed_constraints",
+    "scheduled_at": "2027-10-29T09:15:00-04:00",
+    "posts": [
+      "Pay attention when your thinking starts using phrases like \"I have to,\" \"I can't,\" or \"This is the only way.\"\n\nThose statements might describe real limitations, but they can also hide assumptions you've never examined. One useful follow-up question is surprisingly simple: Says who?\n\nThe Thinking Lens helps you question assumptions and explore different perspectives: https://thethinkinglens.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "thinking-lens-real-vs-assumed-constraints-04",
+    "account": "garretts_dev_desk",
+    "theme": "verifying_the_source_of_constraints",
+    "series": "thinking_lens_real_vs_assumed_constraints",
+    "scheduled_at": "2027-10-29T15:30:00-04:00",
+    "posts": [
+      "Sometimes asking \"Says who?\" reveals a perfectly good reason for a constraint.\n\nA contract establishes the deadline. The available budget limits the purchase. Someone depends on a commitment you've made. Understanding the source helps you work realistically within those boundaries.\n\nChoose one limitation affecting your plans and trace it to its source. Is it a formal requirement, a practical necessity, or an expectation that could be discussed?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "thinking-lens-real-vs-assumed-constraints-05",
+    "account": "garretts_dev_desk",
+    "theme": "discovering_unnecessary_boundaries",
+    "series": "thinking_lens_real_vs_assumed_constraints",
+    "scheduled_at": "2027-10-30T09:15:00-04:00",
+    "posts": [
+      "Sometimes nobody actually made the rule you're following.\n\nYou assumed everything had to be finished by Friday, that only two options existed, or that changing direction would mean failure. Those assumptions can quietly narrow your choices until you question them.\n\nThe Thinking Lens helps you examine the boundaries surrounding a problem: https://thethinkinglens.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "thinking-lens-real-vs-assumed-constraints-06",
+    "account": "garretts_dev_desk",
+    "theme": "distinguishing_walls_from_self_imposed_limits",
+    "series": "thinking_lens_real_vs_assumed_constraints",
+    "scheduled_at": "2027-10-30T15:30:00-04:00",
+    "posts": [
+      "There's a difference between a wall and a line you drew on the floor.\n\nSome limitations deserve respect because they're real. Others may come from habits, expectations, or interpretations that can change. Understanding which is which can create more room to think and act.\n\nHave you ever discovered that something you thought you couldn't do was actually possible once you questioned the rules around it?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

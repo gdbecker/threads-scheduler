@@ -1,0 +1,80 @@
+[
+  {
+    "id": "waf-smaller-questions-01",
+    "account": "garretts_dev_desk",
+    "theme": "narrowing_the_search_for_forgotten_details",
+    "series": "waf_smaller_questions",
+    "scheduled_at": "2027-12-27T09:15:00-05:00",
+    "posts": [
+      "\"What am I forgetting?\" might be too big a question.\n\nThe answer could be a person, document, deadline, message, address, or something sitting in the refrigerator. Trying to search every possibility at once can leave you feeling more uncertain than when you started.\n\nI built What Am I Forgetting? to help make that mental search a little more manageable: https://whatamiforgetting.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-smaller-questions-02",
+    "account": "garretts_dev_desk",
+    "theme": "giving_memory_a_smaller_search_area",
+    "series": "waf_smaller_questions",
+    "scheduled_at": "2027-12-27T15:30:00-05:00",
+    "posts": [
+      "When you're trying to remember something, it can help to give your memory a smaller room to search.\n\nInstead of asking yourself to remember everything, focus on one part of the situation. Think about where you're going, what you'll be doing, and what you'll need when you arrive.\n\nTry this before your next appointment or outing. Pick one specific moment in the day and mentally walk through it. See whether a missing detail comes to mind."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-smaller-questions-03",
+    "account": "garretts_dev_desk",
+    "theme": "asking_specific_questions_to_surface_oversights",
+    "series": "waf_smaller_questions",
+    "scheduled_at": "2027-12-28T09:15:00-05:00",
+    "posts": [
+      "Sometimes remembering starts with asking a better question.\n\nWho is waiting on me? What needs confirming? Is there anything I need to bring, send, or finish before leaving? Each question gives your attention somewhere specific to go, making overlooked details easier to notice.\n\nThat's the thinking behind What Am I Forgetting?, a simple tool for reviewing everyday plans: https://whatamiforgetting.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-smaller-questions-04",
+    "account": "garretts_dev_desk",
+    "theme": "using_categories_as_memory_prompts",
+    "series": "waf_smaller_questions",
+    "scheduled_at": "2027-12-28T15:30:00-05:00",
+    "posts": [
+      "People. Information. Timing. Logistics. Decisions. Follow-up.\n\nThese categories can help you review a situation from different angles. You don't need to use every one of them, and they don't need to become another complicated checklist. Each simply gives you a different place to look for something you might have overlooked.\n\nTry choosing two or three categories before your next busy day. Ask what deserves your attention in each one."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-smaller-questions-05",
+    "account": "garretts_dev_desk",
+    "theme": "keeping_personal_context_at_the_center_of_checklists",
+    "series": "waf_smaller_questions",
+    "scheduled_at": "2027-12-29T09:15:00-05:00",
+    "posts": [
+      "A checklist can't know every detail of your day, and it shouldn't pretend to.\n\nIt can remind you to think about timing, people, paperwork, or transportation. But you're the one who knows which details matter for your particular meeting, trip, or appointment.\n\nWhat Am I Forgetting? is built to support that final review while leaving the decisions with you: https://whatamiforgetting.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-smaller-questions-06",
+    "account": "garretts_dev_desk",
+    "theme": "recognizing_the_value_of_better_memory_prompts",
+    "series": "waf_smaller_questions",
+    "scheduled_at": "2027-12-29T15:30:00-05:00",
+    "posts": [
+      "Remembering may have less to do with trying harder and more to do with knowing where to look.\n\nA broad question like \"What am I forgetting?\" can be difficult to answer. Smaller questions about people, timing, and practical details often give your mind something more useful to work with.\n\nWhen you have that nagging feeling you've forgotten something, what usually helps you remember? Do you retrace your steps, picture the day ahead, or use another trick?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

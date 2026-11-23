@@ -1,0 +1,80 @@
+[
+  {
+    "id": "briefly-different-lenses-01",
+    "account": "garretts_dev_desk",
+    "theme": "business_communication",
+    "series": "briefly_different_lenses",
+    "scheduled_at": "2027-01-07T09:15:00-05:00",
+    "posts": [
+      "One project can need three completely different briefs, and all three can be useful.\n\nYour manager might need a quick status update. Leadership might need the bigger picture. Someone making a decision might need the options and trade-offs.\n\nThe information comes from the same work, but the reader changes what matters.\n\nExplore the different formats in Briefly: https://briefly.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-different-lenses-02",
+    "account": "garretts_dev_desk",
+    "theme": "writing_workflows",
+    "series": "briefly_different_lenses",
+    "scheduled_at": "2027-01-07T15:30:00-05:00",
+    "posts": [
+      "Your working notes don't have to be polished or organized for a particular audience right away.\n\nCapture the testing results, deadlines, decisions, risks, and questions while they're fresh. You can sort through them later when you know who needs the information.\n\nTry separating the note-taking stage from the brief-writing stage. It can make both feel easier."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-different-lenses-03",
+    "account": "garretts_dev_desk",
+    "theme": "status_reporting",
+    "series": "briefly_different_lenses",
+    "scheduled_at": "2027-01-08T09:15:00-05:00",
+    "posts": [
+      "When your manager already knows the project, they probably don't need the entire backstory in every update.\n\nWhat changed since last time? What's at risk? What happens next?\n\nA focused status update can answer those questions without making someone revisit everything that happened along the way.\n\nBuild one with Briefly: https://briefly.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-different-lenses-04",
+    "account": "garretts_dev_desk",
+    "theme": "executive_communication",
+    "series": "briefly_different_lenses",
+    "scheduled_at": "2027-01-08T15:30:00-05:00",
+    "posts": [
+      "Imagine a leader joining a project conversation for the first time. They haven't seen the weekly updates or attended the working meetings.\n\nA useful executive brief gives them enough context to understand the purpose, current situation, important numbers, risks, and direction.\n\nWhat information would someone need to understand your current project in five minutes?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-different-lenses-05",
+    "account": "garretts_dev_desk",
+    "theme": "decision_making",
+    "series": "briefly_different_lenses",
+    "scheduled_at": "2027-01-09T09:15:00-05:00",
+    "posts": [
+      "When someone needs to make a decision, the structure of your brief should help them compare the choices.\n\nShow the realistic options, costs, trade-offs, risks, and your recommendation. Keep the history that matters, but don't bury the decision under every detail from the project.\n\nBriefly includes a decision brief format: https://briefly.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-different-lenses-06",
+    "account": "garretts_dev_desk",
+    "theme": "clear_communication",
+    "series": "briefly_different_lenses",
+    "scheduled_at": "2027-01-09T15:30:00-05:00",
+    "posts": [
+      "The same project notes can tell different stories depending on who's reading.\n\nA manager needs to know what's moving. Leadership needs to understand the bigger picture. A decision-maker needs to see the choices.\n\nBefore writing your next brief, decide which view your reader needs.\n\nI built Briefly to help with that process: https://briefly.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

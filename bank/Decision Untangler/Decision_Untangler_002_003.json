@@ -1,0 +1,80 @@
+[
+  {
+    "id": "decision-untangler-two-good-choices-01",
+    "account": "garretts_dev_desk",
+    "theme": "choosing_between_good_options",
+    "series": "decision_untangler_two_good_choices",
+    "scheduled_at": "2027-06-24T09:15:00-04:00",
+    "posts": [
+      "Sometimes a decision is difficult because both options are genuinely good.\n\nYou might have two promising job offers, two places you'd enjoy living, or two projects worth pursuing. More research won't necessarily reveal a hidden flaw that makes the choice obvious.\n\nDecision Untangler helps you explore what matters when neither option is clearly wrong: https://decisionuntangler.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "decision-untangler-two-good-choices-02",
+    "account": "garretts_dev_desk",
+    "theme": "waiting_for_an_obvious_answer",
+    "series": "decision_untangler_two_good_choices",
+    "scheduled_at": "2027-06-24T15:30:00-04:00",
+    "posts": [
+      "It would be convenient if one of your options would just become obviously bad.\n\nThen you wouldn't have to wrestle with the decision. The circumstances would narrow the possibilities for you, and choosing might feel much easier.\n\nBut sometimes both options remain appealing after you've done your research. If that's where you are, consider whether you're waiting for evidence that may never arrive."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "decision-untangler-two-good-choices-03",
+    "account": "garretts_dev_desk",
+    "theme": "different_kinds_of_value",
+    "series": "decision_untangler_two_good_choices",
+    "scheduled_at": "2027-06-25T09:15:00-04:00",
+    "posts": [
+      "Two good choices can offer very different kinds of value.\n\nOne might provide stability while another offers freedom. One could make more financial sense while the other gives you an experience you've wanted for years. Neither benefit becomes meaningless just because you can't have both.\n\nDecision Untangler helps you examine those competing priorities without pretending there's always one obvious answer: https://decisionuntangler.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "decision-untangler-two-good-choices-04",
+    "account": "garretts_dev_desk",
+    "theme": "current_life_priorities",
+    "series": "decision_untangler_two_good_choices",
+    "scheduled_at": "2027-06-25T15:30:00-04:00",
+    "posts": [
+      "When you're choosing between two good options, try asking which one fits your life as it is today.\n\nYour priorities may have changed over the years. Stability, flexibility, growth, relationships, and financial security can carry different weight depending on your circumstances.\n\nWrite down the three things that matter most in this season of life. Then consider how each option supports them."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "decision-untangler-two-good-choices-05",
+    "account": "garretts_dev_desk",
+    "theme": "accepting_unchosen_paths",
+    "series": "decision_untangler_two_good_choices",
+    "scheduled_at": "2027-06-26T09:15:00-04:00",
+    "posts": [
+      "You don't have to convince yourself that the other option was terrible just to feel comfortable with your decision.\n\nThe job you declined might still have been a great opportunity. The city you didn't move to might still be somewhere you'd love living. You can appreciate what you passed up while recognizing why you chose differently.\n\nExplore the tradeoffs behind your own decision with Decision Untangler: https://decisionuntangler.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "decision-untangler-two-good-choices-06",
+    "account": "garretts_dev_desk",
+    "theme": "moving_forward_with_good_options",
+    "series": "decision_untangler_two_good_choices",
+    "scheduled_at": "2027-06-26T15:30:00-04:00",
+    "posts": [
+      "You might be waiting for one good choice to become a bad one before you finally decide.\n\nSometimes that moment never comes. Both paths can remain worthwhile, with different opportunities and different tradeoffs. You can still make a thoughtful choice based on what matters most to you.\n\nHave you ever had to choose between two options you genuinely wanted, knowing you'd be giving up something good either way?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

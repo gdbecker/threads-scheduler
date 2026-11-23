@@ -1,0 +1,80 @@
+[
+  {
+    "id": "notice-writer-specificity-and-firmness-01",
+    "account": "garretts_dev_desk",
+    "theme": "firmness_through_specificity",
+    "series": "notice_writer_specificity_and_firmness",
+    "scheduled_at": "2027-09-16T09:15:00-04:00",
+    "posts": [
+      "Firmness in an HOA notice often comes from specificity, not stronger words.\n\nBefore making a message sound tougher, check whether the concern, requested action, and applicable deadline are clear. Accurate details can communicate expectations more effectively than intimidating language.\n\nNotice Writer helps community volunteers prepare clear, professional notices: https://noticewriter.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "notice-writer-specificity-and-firmness-02",
+    "account": "garretts_dev_desk",
+    "theme": "replacing_vague_requests",
+    "series": "notice_writer_specificity_and_firmness",
+    "scheduled_at": "2027-09-16T15:30:00-04:00",
+    "posts": [
+      "\"Please address this matter promptly\" sounds official, but it doesn't explain what resolution looks like.\n\nA sentence such as \"Please trim the vegetation along the front walkway by September 30\" gives the resident a specific action and date, provided those requirements actually apply.\n\nTry finding one vague instruction in a notice you've written. Could you replace it with a verified action that makes the next step unmistakable?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "notice-writer-specificity-and-firmness-03",
+    "account": "garretts_dev_desk",
+    "theme": "clear_actions_and_deadlines",
+    "series": "notice_writer_specificity_and_firmness",
+    "scheduled_at": "2027-09-17T09:15:00-04:00",
+    "posts": [
+      "A community notice can be firm without sounding aggressive.\n\nWhen residents know exactly what action is expected and when it needs to happen, there's less room for uncertainty. Clear instructions can communicate seriousness while keeping the message respectful and practical.\n\nNotice Writer helps HOA boards and volunteers create more actionable notices: https://noticewriter.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "notice-writer-specificity-and-firmness-04",
+    "account": "garretts_dev_desk",
+    "theme": "documented_timeline_in_followups",
+    "series": "notice_writer_specificity_and_firmness",
+    "scheduled_at": "2027-09-17T15:30:00-04:00",
+    "posts": [
+      "A follow-up HOA notice may not need stronger language when it has stronger facts.\n\nAn earlier notice, a documented deadline, and a later observation can establish why another communication is necessary. That history gives the message context without relying on frustration or accusations.\n\nTry reviewing a follow-up notice using only verified dates and events. Does the timeline explain the seriousness of the situation on its own?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "notice-writer-specificity-and-firmness-05",
+    "account": "garretts_dev_desk",
+    "theme": "documenting_facts_without_assumptions",
+    "series": "notice_writer_specificity_and_firmness",
+    "scheduled_at": "2027-09-18T09:15:00-04:00",
+    "posts": [
+      "You may know that an HOA issue remains unresolved. You may not know why.\n\nA notice should describe what can be verified rather than speculate about the resident's intentions. Documenting the actual condition and relevant history keeps the communication focused on the matter that needs attention.\n\nNotice Writer helps volunteers prepare factual, respectful community notices: https://noticewriter.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "notice-writer-specificity-and-firmness-06",
+    "account": "garretts_dev_desk",
+    "theme": "clarity_as_professional_authority",
+    "series": "notice_writer_specificity_and_firmness",
+    "scheduled_at": "2027-09-18T15:30:00-04:00",
+    "posts": [
+      "The firmest sentence in a community notice may simply be the one that leaves no confusion about what happens next.\n\nClear facts, applicable expectations, requested actions, and verified deadlines can carry authority without harsh wording. Residents should understand the situation and the path toward resolution.\n\nWhen you read an official notice, what makes it feel appropriately firm to you: the language, the details, or something else?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

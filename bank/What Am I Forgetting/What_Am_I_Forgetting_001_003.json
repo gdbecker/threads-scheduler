@@ -1,0 +1,80 @@
+[
+  {
+    "id": "waf-waiting-places-01",
+    "account": "garretts_dev_desk",
+    "theme": "remembering_items_left_in_familiar_places",
+    "series": "waf_waiting_places",
+    "scheduled_at": "2027-12-09T09:15:00-05:00",
+    "posts": [
+      "The refrigerator, the outlet, and the printer have earned my suspicion.\n\nThey're remarkably good at holding onto things I was absolutely certain I'd remember before leaving home. Lunch stays cold, headphones stay charged, and important paperwork stays neatly beside the printer.\n\nI built What Am I Forgetting? to help catch these little everyday oversights: https://whatamiforgetting.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-waiting-places-02",
+    "account": "garretts_dev_desk",
+    "theme": "connecting_preparation_with_departure",
+    "series": "waf_waiting_places",
+    "scheduled_at": "2027-12-09T15:30:00-05:00",
+    "posts": [
+      "There's a special kind of frustration in forgetting something you specifically prepared so you wouldn't forget it.\n\nYou packed lunch the night before, charged your headphones, and printed the paperwork. Everything was ready, but somehow none of it made it into your bag.\n\nTry adding one final step to your preparation routine: decide where each item will wait until departure. A consistent pickup spot can make the morning easier."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-waiting-places-03",
+    "account": "garretts_dev_desk",
+    "theme": "recognizing_the_gap_between_ready_and_packed",
+    "series": "waf_waiting_places",
+    "scheduled_at": "2027-12-10T09:15:00-05:00",
+    "posts": [
+      "Ready and remembered are two different things.\n\nAn item can be completely prepared and still disappear from your attention before you leave. There's often a gap between getting something ready and actually taking it with you, especially when you're juggling a busy morning.\n\nWhat Am I Forgetting? offers a simple way to think through what still needs your attention: https://whatamiforgetting.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-waiting-places-04",
+    "account": "garretts_dev_desk",
+    "theme": "checking_common_household_waiting_spots",
+    "series": "waf_waiting_places",
+    "scheduled_at": "2027-12-10T15:30:00-05:00",
+    "posts": [
+      "Before leaving home, check the places where prepared things tend to wait.\n\nThe refrigerator holds food. Outlets hold charging electronics. The printer holds documents. Countertops, entryway tables, and laundry rooms may have their own collection of things waiting to go somewhere.\n\nTry making a short list of your household's usual waiting places. A quick scan of those spots can be more helpful than trying to remember everything from scratch."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-waiting-places-05",
+    "account": "garretts_dev_desk",
+    "theme": "building_simple_departure_habits",
+    "series": "waf_waiting_places",
+    "scheduled_at": "2027-12-11T09:15:00-05:00",
+    "posts": [
+      "Leaving the house shouldn't require a complicated preflight inspection.\n\nA few useful habits can catch many of the things that slip through the cracks. Check your everyday essentials, then spend a moment thinking about anything you prepared specifically for today.\n\nThat's the kind of everyday organization I had in mind when building What Am I Forgetting?: https://whatamiforgetting.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-waiting-places-06",
+    "account": "garretts_dev_desk",
+    "theme": "remembering_the_less_obvious_essentials",
+    "series": "waf_waiting_places",
+    "scheduled_at": "2027-12-11T15:30:00-05:00",
+    "posts": [
+      "Phone. Wallet. Keys. And maybe give the refrigerator a little respect too.\n\nThe obvious essentials usually get checked automatically. It's the lunch you packed, the charger you unplugged, or the paperwork you printed that can quietly stay behind while you head out the door.\n\nWhat's the funniest or most frustrating thing you've ever forgotten at home after going out of your way to prepare it?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

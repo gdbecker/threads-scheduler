@@ -1,0 +1,80 @@
+[
+  {
+    "id": "pbi-arpu-growth-01",
+    "account": "garretts_dev_desk",
+    "theme": "understanding_customer_growth_vs_revenue_growth",
+    "series": "pbi_subscription_arpu_growth",
+    "scheduled_at": "2028-03-27T09:15:00-04:00",
+    "posts": [
+      "You added 12% more subscription customers, but MRR only grew 3%. What's happening?\n\nCustomer growth and revenue growth don't always move at the same pace. The difference can reveal changes in plan mix, pricing, or how much recurring revenue each customer contributes.\n\nMy Subscription Health Power BI Kit helps you examine these measures together: https://garrettsdevdesk.etsy.com/listing/4595420792/power-bi-subscription-dashboard-template"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-arpu-growth-02",
+    "account": "garretts_dev_desk",
+    "theme": "calculating_and_interpreting_subscription_arpu",
+    "series": "pbi_subscription_arpu_growth",
+    "scheduled_at": "2028-03-27T15:30:00-04:00",
+    "posts": [
+      "ARPU is a useful metric for understanding how much recurring revenue your average subscription customer represents.\n\nFor a monthly subscription snapshot, divide MRR by the number of active customers. Tracking the result over time can reveal changes that customer count and total revenue don't explain on their own.\n\nTry calculating ARPU for the last six months. Is it rising, falling, or staying stable as your customer base changes?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-arpu-growth-03",
+    "account": "garretts_dev_desk",
+    "theme": "understanding_how_subscription_plan_mix_affects_arpu",
+    "series": "pbi_subscription_arpu_growth",
+    "scheduled_at": "2028-03-28T09:15:00-04:00",
+    "posts": [
+      "More subscription customers can sometimes mean lower average revenue per customer.\n\nIf most new subscribers choose lower-priced plans, customer count may grow faster than MRR. That isn't automatically a problem, but it changes how you should interpret growth and customer value.\n\nMy Subscription Health Power BI Kit brings ARPU, plan mix, and customer growth into one report: https://garrettsdevdesk.etsy.com/listing/4595420792/power-bi-subscription-dashboard-template"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-arpu-growth-04",
+    "account": "garretts_dev_desk",
+    "theme": "examining_expansion_revenue_without_new_customer_growth",
+    "series": "pbi_subscription_arpu_growth",
+    "scheduled_at": "2028-03-28T15:30:00-04:00",
+    "posts": [
+      "A subscription business can grow recurring revenue without adding many new customers.\n\nExisting customers might upgrade to higher-priced plans, add seats, or purchase additional recurring services. Those changes can increase MRR even when the active customer count stays relatively flat.\n\nTry comparing expansion MRR with changes in ARPU. Are existing customers contributing more revenue over time, and is that growth concentrated in particular plans or segments?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-arpu-growth-05",
+    "account": "garretts_dev_desk",
+    "theme": "reading_mrr_customers_and_arpu_together",
+    "series": "pbi_subscription_arpu_growth",
+    "scheduled_at": "2028-03-29T09:15:00-04:00",
+    "posts": [
+      "MRR, active customers, and ARPU become much more informative when you read them together.\n\nIf MRR and customer count rise at similar rates, ARPU may stay relatively stable. If revenue grows faster than the customer base, ARPU may increase. Each pattern gives you a different question to investigate.\n\nMy Subscription Health Power BI Kit connects these measures in a customizable dashboard: https://garrettsdevdesk.etsy.com/listing/4595420792/power-bi-subscription-dashboard-template"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-arpu-growth-06",
+    "account": "garretts_dev_desk",
+    "theme": "evaluating_subscription_growth_through_customer_value",
+    "series": "pbi_subscription_arpu_growth",
+    "scheduled_at": "2028-03-29T15:30:00-04:00",
+    "posts": [
+      "Adding customers is exciting, but understanding how those customers contribute to recurring revenue is just as important.\n\nARPU adds another perspective to subscription reporting by showing how average revenue per customer changes as the business grows. Combined with MRR, churn, and plan mix, it can help explain the direction of the business.\n\nWhen evaluating subscription growth, would you pay closer attention to customer acquisition or increasing revenue from existing customers?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

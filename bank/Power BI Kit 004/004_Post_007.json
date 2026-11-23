@@ -1,0 +1,80 @@
+[
+  {
+    "id": "pbi-field-supervisor-support-01",
+    "account": "garretts_dev_desk",
+    "theme": "helping_supervisors_identify_where_employees_need_support",
+    "series": "pbi_field_supervisor_visibility_and_support",
+    "scheduled_at": "2028-09-21T09:15:00-04:00",
+    "posts": [
+      "You can't support your team if you can't see where they're struggling.\n\nSupervisors want their people to succeed, but identifying who needs help can be difficult when performance information is incomplete or scattered. Clear reporting gives them a better starting point for meaningful conversations.\n\nMy Field Team Performance Power BI Kit helps bring those results into focus: https://garrettsdevdesk.etsy.com/listing/4595448076/power-bi-field-team-performance"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-field-supervisor-support-02",
+    "account": "garretts_dev_desk",
+    "theme": "reducing_fragmented_field_performance_reporting",
+    "series": "pbi_field_supervisor_visibility_and_support",
+    "scheduled_at": "2028-09-21T15:30:00-04:00",
+    "posts": [
+      "The answers shouldn't be buried in five different reports.\n\nWhen employee results, productivity, and service quality live in separate spreadsheets, supervisors spend valuable time assembling the performance picture before they can act on it.\n\nTry listing the reports you currently review each week. Identify which measures you regularly need together, then consider whether a shared dashboard or scorecard could simplify that review."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-field-supervisor-support-03",
+    "account": "garretts_dev_desk",
+    "theme": "recognizing_employee_progress_and_identifying_coaching_needs",
+    "series": "pbi_field_supervisor_visibility_and_support",
+    "scheduled_at": "2028-09-22T09:15:00-04:00",
+    "posts": [
+      "Behind every employee performance metric is a person doing the work.\n\nSomeone may be making steady progress that deserves recognition. Someone else may be facing challenges that deserve support. Looking at trends and team benchmarks can help supervisors approach both situations with better context.\n\nMy Field Team Performance Power BI Kit includes editable employee scorecards and trends: https://garrettsdevdesk.etsy.com/listing/4595448076/power-bi-field-team-performance"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-field-supervisor-support-04",
+    "account": "garretts_dev_desk",
+    "theme": "using_field_performance_data_for_better_coaching_conversations",
+    "series": "pbi_field_supervisor_visibility_and_support",
+    "scheduled_at": "2028-09-22T15:30:00-04:00",
+    "posts": [
+      "Better performance conversations often begin with better questions.\n\nAn unexpected decline might reflect workload changes, difficult assignments, or a need for additional support. A dashboard can reveal the pattern, but understanding the circumstances requires a conversation.\n\nTry a simple three-step review: identify one meaningful trend, ask the employee what may be contributing to it, and agree on a practical next step together."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-field-supervisor-support-05",
+    "account": "garretts_dev_desk",
+    "theme": "bringing_field_team_employee_and_service_metrics_together",
+    "series": "pbi_field_supervisor_visibility_and_support",
+    "scheduled_at": "2028-09-23T09:15:00-04:00",
+    "posts": [
+      "Supervisors have enough responsibilities without spending hours piecing together performance reports.\n\nEmployee trends, productivity, and service reliability become more useful when they're easier to review together. Better visibility can help managers focus their attention where it matters.\n\nMy Field Team Performance Power BI Kit includes four editable dashboards for exploring these results: https://garrettsdevdesk.etsy.com/listing/4595448076/power-bi-field-team-performance"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-field-supervisor-support-06",
+    "account": "garretts_dev_desk",
+    "theme": "discussing_what_supervisors_need_from_employee_performance_reporting",
+    "series": "pbi_field_supervisor_visibility_and_support",
+    "scheduled_at": "2028-09-23T15:30:00-04:00",
+    "posts": [
+      "Your team deserves more than a spreadsheet full of numbers.\n\nGood performance reporting should help supervisors recognize progress, understand challenges, and have more informed conversations with the people doing the work. The numbers provide context, while leadership determines what happens next.\n\nFor supervisors and operations managers, what's the hardest part of getting the information you need to support your team?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

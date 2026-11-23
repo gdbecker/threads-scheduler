@@ -1,0 +1,80 @@
+[
+  {
+    "id": "pbi-customer-churn-01",
+    "account": "garretts_dev_desk",
+    "theme": "understanding_what_a_rising_churn_rate_means",
+    "series": "pbi_subscription_customer_churn",
+    "scheduled_at": "2028-03-23T09:15:00-04:00",
+    "posts": [
+      "Your subscription churn rate went up. Before drawing conclusions, find out what changed.\n\nThe headline percentage tells you customers are leaving at a different rate. It doesn't explain which customers left, where losses are concentrated, or how much recurring revenue disappeared.\n\nMy Subscription Health Power BI Kit helps connect churn with the broader subscription picture: https://garrettsdevdesk.etsy.com/listing/4595420792/power-bi-subscription-dashboard-template"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-customer-churn-02",
+    "account": "garretts_dev_desk",
+    "theme": "tracking_customer_churn_trends_over_time",
+    "series": "pbi_subscription_customer_churn",
+    "scheduled_at": "2028-03-23T15:30:00-04:00",
+    "posts": [
+      "One month of higher churn deserves attention. Several months of rising churn deserve a closer investigation.\n\nA single percentage can be influenced by timing, customer mix, or changes in the size of the subscriber base. Looking at the trend helps you understand whether the increase is isolated or becoming more consistent.\n\nTry charting monthly customer churn for the last 12 months. Where did the pattern begin changing, and what else happened around that time?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-customer-churn-03",
+    "account": "garretts_dev_desk",
+    "theme": "finding_customer_churn_concentrations_by_segment",
+    "series": "pbi_subscription_customer_churn",
+    "scheduled_at": "2028-03-24T09:15:00-04:00",
+    "posts": [
+      "An overall churn rate can hide a problem concentrated in one part of your subscription business.\n\nMaybe smaller customers are leaving more frequently while larger accounts remain stable. Without segment-level reporting, that difference can disappear inside the company-wide average.\n\nMy Subscription Health Power BI Kit includes segment performance reporting to help investigate these patterns: https://garrettsdevdesk.etsy.com/listing/4595420792/power-bi-subscription-dashboard-template"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-customer-churn-04",
+    "account": "garretts_dev_desk",
+    "theme": "distinguishing_customer_churn_from_churned_mrr",
+    "series": "pbi_subscription_customer_churn",
+    "scheduled_at": "2028-03-24T15:30:00-04:00",
+    "posts": [
+      "Losing ten subscription customers doesn't always mean losing the same amount of revenue.\n\nCustomer churn measures the customers who leave. Churned MRR measures the recurring revenue lost from those departures. Ten small accounts and ten large accounts can have very different financial effects.\n\nTry reviewing customer churn and churned MRR side by side for each month. Are customer losses and revenue losses moving together, or are they telling different stories?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-customer-churn-05",
+    "account": "garretts_dev_desk",
+    "theme": "using_churn_context_to_guide_retention_analysis",
+    "series": "pbi_subscription_customer_churn",
+    "scheduled_at": "2028-03-25T09:15:00-04:00",
+    "posts": [
+      "A rising churn rate should lead to better questions about customer retention.\n\nWhich segments are losing customers? How much MRR is disappearing? Are losses accelerating, or is the increase limited to one period? Understanding those details can help teams decide where to investigate first.\n\nMy Subscription Health Power BI Kit brings churn, MRR movement, customer growth, and segment performance together: https://garrettsdevdesk.etsy.com/listing/4595420792/power-bi-subscription-dashboard-template"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-customer-churn-06",
+    "account": "garretts_dev_desk",
+    "theme": "asking_better_questions_about_subscription_customer_retention",
+    "series": "pbi_subscription_customer_churn",
+    "scheduled_at": "2028-03-25T15:30:00-04:00",
+    "posts": [
+      "Churn becomes much more useful when you understand the customers and revenue behind the percentage.\n\nAn overall rate tells you where to begin. Segment breakdowns, churned MRR, and historical trends help you understand which losses matter most and where the business may need attention.\n\nIf you were reviewing a subscription company's retention performance, would you investigate the segments with the highest churn rates or those losing the most recurring revenue first?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

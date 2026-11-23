@@ -1,0 +1,80 @@
+[
+  {
+    "id": "decision-untangler-information-overload-01",
+    "account": "garretts_dev_desk",
+    "theme": "decision_information_overload",
+    "series": "decision_untangler_information_overload",
+    "scheduled_at": "2027-05-31T09:15:00-04:00",
+    "posts": [
+      "Sometimes more information stops helping you make a decision.\n\nAnother comparison, review, opinion, or open browser tab can feel productive without bringing you any closer to choosing. Eventually, all that research may leave you more overwhelmed than informed.\n\nDecision Untangler is designed to help you slow down and examine what's keeping you stuck: https://decisionuntangler.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "decision-untangler-information-overload-02",
+    "account": "garretts_dev_desk",
+    "theme": "purposeful_decision_research",
+    "series": "decision_untangler_information_overload",
+    "scheduled_at": "2027-05-31T15:30:00-04:00",
+    "posts": [
+      "Research is useful when it answers a question that actually matters to your decision.\n\nMaybe you need to confirm the salary, understand a return policy, compare a missing feature, or visit a neighborhood before moving there. Those are concrete unknowns worth investigating.\n\nTry writing down the specific facts you still need. A short, focused list can be much more helpful than another afternoon of general research."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "decision-untangler-information-overload-03",
+    "account": "garretts_dev_desk",
+    "theme": "decision_research_checkpoint",
+    "series": "decision_untangler_information_overload",
+    "scheduled_at": "2027-06-01T09:15:00-04:00",
+    "posts": [
+      "Before opening another tab to research a difficult choice, ask yourself one question.\n\n\"What important thing do I still need to learn before I can decide?\"\n\nIf you can name something specific, go find out. If you can't, consider whether you're looking for information or reassurance. Decision Untangler can help you explore that distinction: https://decisionuntangler.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "decision-untangler-information-overload-04",
+    "account": "garretts_dev_desk",
+    "theme": "research_vs_decision_making",
+    "series": "decision_untangler_information_overload",
+    "scheduled_at": "2027-06-01T15:30:00-04:00",
+    "posts": [
+      "There's a point in some decisions when another hour of research won't make the choice any easier.\n\nYou may understand both options, recognize their tradeoffs, and have enough information to move forward. The remaining difficulty is accepting that either path involves uncertainty.\n\nWhen that happens, it may be time to stop gathering facts and start thinking about which tradeoffs you're willing to make."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "decision-untangler-information-overload-05",
+    "account": "garretts_dev_desk",
+    "theme": "decision_uncertainty_reflection",
+    "series": "decision_untangler_information_overload",
+    "scheduled_at": "2027-06-02T09:15:00-04:00",
+    "posts": [
+      "You can know enough to make a decision without feeling completely certain about it.\n\nWhen the facts are already on the table, try asking what you're afraid of losing, which risk you're avoiding, or what you might regret never exploring.\n\nThose questions can reveal why a choice still feels difficult. Decision Untangler gives you a place to work through that thinking: https://decisionuntangler.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "decision-untangler-information-overload-06",
+    "account": "garretts_dev_desk",
+    "theme": "making_space_to_decide",
+    "series": "decision_untangler_information_overload",
+    "scheduled_at": "2027-06-02T15:30:00-04:00",
+    "posts": [
+      "Sometimes the most useful thing you can do for a difficult decision is close the browser and give yourself some room to think.\n\nYou've gathered the facts, compared the possibilities, and heard other people's opinions. Now you need space to consider what matters to you and what you're willing to choose.\n\nHave you ever reached a point where more research actually made a decision harder?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

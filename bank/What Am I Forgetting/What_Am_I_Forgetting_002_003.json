@@ -1,0 +1,80 @@
+[
+  {
+    "id": "waf-missing-handoffs-01",
+    "account": "garretts_dev_desk",
+    "theme": "remembering_the_handoff_after_completing_work",
+    "series": "waf_missing_handoffs",
+    "scheduled_at": "2027-12-30T09:15:00-05:00",
+    "posts": [
+      "Some of the easiest things to forget happen after you've already decided the task is finished.\n\nThe report is written, but it hasn't been sent. The food is prepared, but it's still in the refrigerator. The meeting time is decided, but nobody confirmed it with the group.\n\nWhat Am I Forgetting? helps you give those easily overlooked details another look: https://whatamiforgetting.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-missing-handoffs-02",
+    "account": "garretts_dev_desk",
+    "theme": "separating_task_completion_from_delivery",
+    "series": "waf_missing_handoffs",
+    "scheduled_at": "2027-12-30T15:30:00-05:00",
+    "posts": [
+      "Finishing something and getting it where it needs to go are often two separate steps.\n\nA completed document can sit in your downloads folder. A prepared gift can stay on the kitchen counter. A decision can remain unknown to the person who needs to act on it.\n\nTry reviewing your current to-do list for completed work that still needs to be sent, delivered, packed, or communicated. You might find a few unfinished handoffs."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-missing-handoffs-03",
+    "account": "garretts_dev_desk",
+    "theme": "catching_gaps_between_consecutive_steps",
+    "series": "waf_missing_handoffs",
+    "scheduled_at": "2027-12-31T09:15:00-05:00",
+    "posts": [
+      "Finished doesn't always mean sent. Prepared doesn't always mean packed. Decided doesn't always mean communicated.\n\nThose small transitions are easy to overlook because completing one step can make the whole task feel finished. Sometimes the most important reminder is the action that comes immediately afterward.\n\nThat's one reason I built What Am I Forgetting?: https://whatamiforgetting.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-missing-handoffs-04",
+    "account": "garretts_dev_desk",
+    "theme": "identifying_people_involved_in_task_handoffs",
+    "series": "waf_missing_handoffs",
+    "scheduled_at": "2027-12-31T15:30:00-05:00",
+    "posts": [
+      "Here's a useful question for reviewing any plan: Who else touches this?\n\nMaybe someone needs to approve the document, receive the information, bring the equipment, or confirm the arrangements. When another person is involved, there's often a handoff worth checking.\n\nTry tracing one upcoming task from beginning to end. Identify each person who needs something from you and make sure the next step is clear."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-missing-handoffs-05",
+    "account": "garretts_dev_desk",
+    "theme": "writing_checklists_around_responsibility_transitions",
+    "series": "waf_missing_handoffs",
+    "scheduled_at": "2028-01-01T09:15:00-05:00",
+    "posts": [
+      "A checklist can look complete while still missing the most important step.\n\n\"Finish report\" and \"send report to Maya\" may deserve separate reminders. One captures the work itself, while the other makes sure that work reaches the person who needs it. The same principle applies to appointments, events, errands, and shared plans.\n\nGive your next checklist a second look with What Am I Forgetting?: https://whatamiforgetting.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-missing-handoffs-06",
+    "account": "garretts_dev_desk",
+    "theme": "recognizing_overlooked_handoffs_in_everyday_plans",
+    "series": "waf_missing_handoffs",
+    "scheduled_at": "2028-01-01T15:30:00-05:00",
+    "posts": [
+      "Sometimes the missing checkbox sits between two things you thought were already finished.\n\nYou can have ten reminders for routine tasks and still miss the one handoff that matters. A quick confirmation, delivery, or message might be all that's standing between a completed task and a completed plan.\n\nHave you ever finished something important and then realized later that you forgot to send it, share it, or tell the person who needed to know?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

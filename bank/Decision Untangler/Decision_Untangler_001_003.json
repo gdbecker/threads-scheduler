@@ -1,0 +1,80 @@
+[
+  {
+    "id": "decision-untangler-imperfect-choices-01",
+    "account": "garretts_dev_desk",
+    "theme": "perfect_choice_mindset",
+    "series": "decision_untangler_imperfect_choices",
+    "scheduled_at": "2027-06-03T09:15:00-04:00",
+    "posts": [
+      "The perfect choice might be the very thing keeping you from making a good one.\n\nMost meaningful decisions involve real benefits and real costs. Waiting for an option that offers everything you want without asking you to give anything up can leave you stuck indefinitely.\n\nDecision Untangler helps you examine what matters most before choosing: https://decisionuntangler.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "decision-untangler-imperfect-choices-02",
+    "account": "garretts_dev_desk",
+    "theme": "meaningful_decision_tradeoffs",
+    "series": "decision_untangler_imperfect_choices",
+    "scheduled_at": "2027-06-03T15:30:00-04:00",
+    "posts": [
+      "Two good options can still leave you with a difficult decision.\n\nA new job might offer more growth but less stability. Moving somewhere new might bring exciting opportunities while taking you farther from familiar people and places.\n\nTry writing down what each option gives you and what it asks you to give up. Recognizing those tradeoffs can make the decision easier to understand."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "decision-untangler-imperfect-choices-03",
+    "account": "garretts_dev_desk",
+    "theme": "accepting_decision_tradeoffs",
+    "series": "decision_untangler_imperfect_choices",
+    "scheduled_at": "2027-06-04T09:15:00-04:00",
+    "posts": [
+      "Sometimes we keep revisiting a decision because we're hoping one of the tradeoffs will eventually disappear.\n\nWe want the exciting opportunity without the uncertainty, or the familiar routine without feeling like we're missing out. More thinking can't always give us both.\n\nDecision Untangler offers a place to explore the tradeoffs behind a difficult choice: https://decisionuntangler.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "decision-untangler-imperfect-choices-04",
+    "account": "garretts_dev_desk",
+    "theme": "decision_reflection_framework",
+    "series": "decision_untangler_imperfect_choices",
+    "scheduled_at": "2027-06-04T15:30:00-04:00",
+    "posts": [
+      "Here's a question worth asking when neither option feels quite right: Which set of tradeoffs would I rather live with?\n\nInstead of searching for a choice without drawbacks, consider which combination of benefits, responsibilities, and uncertainties fits your priorities right now.\n\nYou don't need to convince yourself that one option is flawless to recognize which direction makes more sense for you."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "decision-untangler-imperfect-choices-05",
+    "account": "garretts_dev_desk",
+    "theme": "unchosen_paths_and_regret",
+    "series": "decision_untangler_imperfect_choices",
+    "scheduled_at": "2027-06-05T09:15:00-04:00",
+    "posts": [
+      "You can be happy with a decision and still miss the path you didn't take.\n\nMaybe you chose a stable career but occasionally wonder about the creative opportunity. Maybe you moved somewhere wonderful but still miss your old neighborhood.\n\nThose feelings don't automatically mean the choice was wrong. Sometimes they simply reflect that both possibilities held something meaningful."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "decision-untangler-imperfect-choices-06",
+    "account": "garretts_dev_desk",
+    "theme": "clarity_through_tradeoffs",
+    "series": "decision_untangler_imperfect_choices",
+    "scheduled_at": "2027-06-05T15:30:00-04:00",
+    "posts": [
+      "Clarity doesn't always come from finding an option that gives you everything.\n\nSometimes it comes from understanding your priorities well enough to recognize which sacrifices you're more willing to make. A meaningful decision can still involve uncertainty, disappointment, or things you'll miss.\n\nHave you ever made a choice you felt good about while still wishing you could have kept something from the other option?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

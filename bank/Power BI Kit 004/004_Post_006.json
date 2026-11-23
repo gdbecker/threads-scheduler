@@ -1,0 +1,80 @@
+[
+  {
+    "id": "pbi-field-trends-01",
+    "account": "garretts_dev_desk",
+    "theme": "understanding_why_one_good_month_can_be_misleading",
+    "series": "pbi_field_employee_trends_and_consistency",
+    "scheduled_at": "2028-09-18T09:15:00-04:00",
+    "posts": [
+      "One good month doesn't necessarily mean performance is improving.\n\nA technician might deliver excellent results in the latest reporting period while their longer-term trend remains inconsistent. Looking at several months provides useful context before drawing conclusions.\n\nMy Field Team Performance Power BI Kit includes an Employee Performance dashboard with trends and scorecards: https://garrettsdevdesk.etsy.com/listing/4595448076/power-bi-field-team-performance"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-field-trends-02",
+    "account": "garretts_dev_desk",
+    "theme": "comparing_current_field_employee_results_with_prior_periods",
+    "series": "pbi_field_employee_trends_and_consistency",
+    "scheduled_at": "2028-09-18T15:30:00-04:00",
+    "posts": [
+      "Today's performance result becomes more meaningful when you understand what came before it.\n\nA strong completion rate or productivity figure might represent steady improvement, a temporary rebound, or an unusually good month. Historical comparisons help distinguish those possibilities.\n\nTry reviewing the last six months of results for one employee or team. Identify whether the latest month fits the broader pattern or stands out as an exception."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-field-trends-03",
+    "account": "garretts_dev_desk",
+    "theme": "using_three_and_six_month_averages_for_field_performance",
+    "series": "pbi_field_employee_trends_and_consistency",
+    "scheduled_at": "2028-09-19T09:15:00-04:00",
+    "posts": [
+      "A three-month average and a six-month average can tell different performance stories.\n\nShorter windows highlight recent changes, while longer windows provide a broader view of consistency. Comparing both can help managers recognize emerging improvements or declines without overreacting to one period.\n\nMy Field Team Performance Power BI Kit includes employee trends and performance comparisons: https://garrettsdevdesk.etsy.com/listing/4595448076/power-bi-field-team-performance"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-field-trends-04",
+    "account": "garretts_dev_desk",
+    "theme": "evaluating_employee_performance_consistency_over_time",
+    "series": "pbi_field_employee_trends_and_consistency",
+    "scheduled_at": "2028-09-19T15:30:00-04:00",
+    "posts": [
+      "Consistency deserves a place in field employee performance reviews.\n\nTwo technicians might have similar average results while one performs steadily and the other experiences large fluctuations. Understanding that difference can lead to better questions about workload, assignments, and support.\n\nTry plotting monthly performance for two employees with similar averages. Look at how much their results vary, then consider what circumstances might explain those patterns."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-field-trends-05",
+    "account": "garretts_dev_desk",
+    "theme": "using_employee_performance_trends_for_coaching_and_recognition",
+    "series": "pbi_field_employee_trends_and_consistency",
+    "scheduled_at": "2028-09-20T09:15:00-04:00",
+    "posts": [
+      "A performance trend can be the starting point for a more thoughtful employee conversation.\n\nSteady improvement deserves recognition. Unexpected declines or fluctuations may suggest questions about assignments, workload, or support. Historical context helps managers avoid judging someone by one month alone.\n\nMy Field Team Performance Power BI Kit includes editable employee scorecards and trends: https://garrettsdevdesk.etsy.com/listing/4595448076/power-bi-field-team-performance"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-field-trends-06",
+    "account": "garretts_dev_desk",
+    "theme": "discussing_how_to_interpret_field_employee_performance_trends",
+    "series": "pbi_field_employee_trends_and_consistency",
+    "scheduled_at": "2028-09-20T15:30:00-04:00",
+    "posts": [
+      "A snapshot tells you where performance stands. A trend helps you understand how it has changed.\n\nLooking at recent results, longer-term averages, and consistency can reveal patterns that a single monthly scorecard misses. That context is useful when deciding whether to recognize progress or investigate a concern.\n\nFor managers and analysts, how much historical performance do you typically review before drawing conclusions about an employee or team?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "community-minutes-future-records-01",
+    "account": "garretts_dev_desk",
+    "theme": "meeting_records_for_future_readers",
+    "series": "community_minutes_future_records",
+    "scheduled_at": "2027-05-03T09:15:00-04:00",
+    "posts": [
+      "Write meeting minutes for the person who wasn't there.\n\nSix months from now, a new board member or volunteer may need to understand a decision without having heard the original conversation. The record you leave behind could be their only reference.\n\nI built Community Minutes to help create clearer, more useful meeting records: https://communityminutes.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "community-minutes-future-records-02",
+    "account": "garretts_dev_desk",
+    "theme": "meeting_outcome_documentation",
+    "series": "community_minutes_future_records",
+    "scheduled_at": "2027-05-03T15:30:00-04:00",
+    "posts": [
+      "Imagine someone reviewing your board's meeting minutes months after a major repair was discussed.\n\nThey'll probably want to know whether the work was approved, which contractor was selected, how much was authorized, and who was responsible for the next step.\n\nWhen reviewing your minutes, ask whether those answers are easy to find without needing someone to explain the original conversation."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "community-minutes-future-records-03",
+    "account": "garretts_dev_desk",
+    "theme": "organized_meeting_minutes",
+    "series": "community_minutes_future_records",
+    "scheduled_at": "2027-05-04T09:15:00-04:00",
+    "posts": [
+      "Important meeting decisions shouldn't disappear inside pages of conversational detail.\n\nGive motions, votes, decisions, action items, and deferred issues a clear place in the finished record. That makes it easier for someone to find the information they need later.\n\nCommunity Minutes helps organize these details into a structured document: https://communityminutes.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "community-minutes-future-records-04",
+    "account": "garretts_dev_desk",
+    "theme": "concise_meeting_documentation",
+    "series": "community_minutes_future_records",
+    "scheduled_at": "2027-05-04T15:30:00-04:00",
+    "posts": [
+      "Two clear pages of meeting minutes can be more useful than six pages documenting everything everyone said.\n\nThe goal isn't simply to make the record shorter. It's to preserve the necessary information without burying decisions and responsibilities in unnecessary detail.\n\nTry reviewing an older set of minutes from your organization. Can you quickly identify what was decided and what needed to happen next?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "community-minutes-future-records-05",
+    "account": "garretts_dev_desk",
+    "theme": "unfinished_meeting_business",
+    "series": "community_minutes_future_records",
+    "scheduled_at": "2027-05-05T09:15:00-04:00",
+    "posts": [
+      "When a meeting ends without resolving an issue, the minutes can still leave a useful trail.\n\nRecord what information was missing, who agreed to obtain it, and whether the issue should return to a future agenda. That helps the next meeting continue without reconstructing the entire discussion.\n\nCommunity Minutes gives deferred items and follow-ups a clear place: https://communityminutes.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "community-minutes-future-records-06",
+    "account": "garretts_dev_desk",
+    "theme": "lasting_meeting_records",
+    "series": "community_minutes_future_records",
+    "scheduled_at": "2027-05-05T15:30:00-04:00",
+    "posts": [
+      "Good meeting minutes should still make sense long after the conversation has faded from everyone's memory.\n\nPreserve what mattered, what the group decided, what remained open, and what needs to happen next. A useful record helps future board members and volunteers understand the work they're continuing.\n\nWhat's one detail you wish organizations documented more consistently in their meeting minutes?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

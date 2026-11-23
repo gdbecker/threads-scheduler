@@ -1,0 +1,80 @@
+[
+  {
+    "id": "notice-writer-facts-over-judgment-01",
+    "account": "garretts_dev_desk",
+    "theme": "observation_before_judgment",
+    "series": "notice_writer_facts_over_judgment",
+    "scheduled_at": "2027-08-02T09:15:00-04:00",
+    "posts": [
+      "One of the simplest ways to improve an HOA notice is to separate what you observed from what you think about it.\n\nA description of the actual condition gives residents something specific to understand and address. Personal judgments can make the same message feel unnecessarily confrontational.\n\nNotice Writer helps community volunteers prepare clearer, more professional communications: https://noticewriter.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "notice-writer-facts-over-judgment-02",
+    "account": "garretts_dev_desk",
+    "theme": "replacing_subjective_language",
+    "series": "notice_writer_facts_over_judgment",
+    "scheduled_at": "2027-08-02T15:30:00-04:00",
+    "posts": [
+      "Calling someone's landscaping \"unsightly\" doesn't explain what needs to change.\n\nDescribing \"overgrown vegetation along the front planting bed\" gives the resident a much clearer picture of the concern. Specific observations are easier to understand, verify, and address.\n\nTry reviewing a notice you've written recently. Could you replace any subjective adjectives with concrete details about the condition?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "notice-writer-facts-over-judgment-03",
+    "account": "garretts_dev_desk",
+    "theme": "actionable_notice_details",
+    "series": "notice_writer_facts_over_judgment",
+    "scheduled_at": "2027-08-03T09:15:00-04:00",
+    "posts": [
+      "Adjectives can invite arguments. Specific details give people something to work with.\n\nAn effective community notice describes the observed condition, identifies the relevant requirement, and explains what action is expected. That structure keeps attention on resolving the issue instead of debating someone's choice of words.\n\nBuild clearer notices with Notice Writer: https://noticewriter.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "notice-writer-facts-over-judgment-04",
+    "account": "garretts_dev_desk",
+    "theme": "avoiding_assumptions_about_residents",
+    "series": "notice_writer_facts_over_judgment",
+    "scheduled_at": "2027-08-03T15:30:00-04:00",
+    "posts": [
+      "You may know what happened without knowing why it happened.\n\nAn HOA board might observe an unresolved maintenance issue without knowing whether a repair is already scheduled, a misunderstanding occurred, or another circumstance is involved. Assigning motives rarely makes the notice more useful.\n\nBefore sending a message, check whether you've described the facts or added assumptions about the resident's intentions."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "notice-writer-facts-over-judgment-05",
+    "account": "garretts_dev_desk",
+    "theme": "handling_repeated_violations",
+    "series": "notice_writer_facts_over_judgment",
+    "scheduled_at": "2027-08-04T09:15:00-04:00",
+    "posts": [
+      "Repeated HOA violations can be frustrating, especially for volunteers who have already spent time addressing the same concern.\n\nThat history may justify another step under the association's established procedures. It doesn't require the language to become personal or irritated. A clear record and a calm explanation are more useful.\n\nNotice Writer helps keep community messages organized and professional: https://noticewriter.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "notice-writer-facts-over-judgment-06",
+    "account": "garretts_dev_desk",
+    "theme": "clear_respectful_enforcement",
+    "series": "notice_writer_facts_over_judgment",
+    "scheduled_at": "2027-08-04T15:30:00-04:00",
+    "posts": [
+      "Fewer judgments, better facts, and a clearer path forward can make a real difference in community communication.\n\nA useful notice explains what was observed, identifies the expectation, and tells the resident what needs to happen next. The seriousness should come from the facts and established process rather than the tone.\n\nIf you've served on an HOA or volunteer board, what kinds of wording have you found most helpful when addressing difficult issues?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "waf-forgotten-handoffs-01",
+    "account": "garretts_dev_desk",
+    "theme": "recognizing_forgotten_handoffs",
+    "series": "waf_forgotten_handoffs",
+    "scheduled_at": "2028-01-20T09:15:00-05:00",
+    "posts": [
+      "A surprising number of forgotten things are actually unfinished handoffs.\n\nThe work is done, the item is prepared, and the decision has been made. But the result hasn't reached the place or person it needs to reach. That final transition can be easy to overlook when you're already thinking about what's next.\n\nWhat Am I Forgetting? helps you review those loose ends: https://whatamiforgetting.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-forgotten-handoffs-02",
+    "account": "garretts_dev_desk",
+    "theme": "checking_where_completed_items_are_waiting",
+    "series": "waf_forgotten_handoffs",
+    "scheduled_at": "2028-01-20T15:30:00-05:00",
+    "posts": [
+      "You can prepare something perfectly and still leave it behind.\n\nLunch is ready but sitting in the refrigerator. The document is finished but hasn't been emailed. The paperwork is printed but still in the printer tray. The preparation happened, but the final movement didn't.\n\nBefore your next busy morning, try asking where each prepared item is waiting and where it needs to end up. That small distinction can save a surprising amount of frustration."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-forgotten-handoffs-03",
+    "account": "garretts_dev_desk",
+    "theme": "remembering_small_steps_after_large_tasks",
+    "series": "waf_forgotten_handoffs",
+    "scheduled_at": "2028-01-21T09:15:00-05:00",
+    "posts": [
+      "It's frustrating how three hours of work can depend on one forgotten thirty-second step.\n\nYou spend the afternoon preparing a report, then get interrupted before sending it. The difficult part is finished, so your brain has already moved on. Meanwhile, the person waiting for the report still doesn't have it.\n\nWhat Am I Forgetting? is a simple way to give those final details another look: https://whatamiforgetting.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-forgotten-handoffs-04",
+    "account": "garretts_dev_desk",
+    "theme": "remembering_people_who_depend_on_handoffs",
+    "series": "waf_forgotten_handoffs",
+    "scheduled_at": "2028-01-21T15:30:00-05:00",
+    "posts": [
+      "One of the most useful questions at the end of a task is: Is anyone waiting on me?\n\nA meeting time doesn't help someone who never received it. A decision can't move forward if the next person doesn't know what was decided. Even a finished document may still need approval or delivery.\n\nTry adding a quick people-focused review to your next project. Who needs the result, and have they actually received what they need?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-forgotten-handoffs-05",
+    "account": "garretts_dev_desk",
+    "theme": "asking_what_still_needs_to_move",
+    "series": "waf_forgotten_handoffs",
+    "scheduled_at": "2028-01-22T09:15:00-05:00",
+    "posts": [
+      "When everything seems ready, ask one more question: Does anything still need to move?\n\nMaybe it's lunch from the fridge to your bag, paperwork from your desk to the car, or a file from your computer to someone's inbox. Sometimes it's information that needs to reach another person.\n\nWhat Am I Forgetting? helps you think through those easy-to-miss details: https://whatamiforgetting.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-forgotten-handoffs-06",
+    "account": "garretts_dev_desk",
+    "theme": "noticing_the_last_few_feet_of_a_task",
+    "series": "waf_forgotten_handoffs",
+    "scheduled_at": "2028-01-22T15:30:00-05:00",
+    "posts": [
+      "Sometimes we prepared everything perfectly. We just didn't complete the last six feet.\n\nOr the final thirty seconds. Or the one-sentence message that would have gotten the result where it needed to go. Those tiny steps deserve a little attention because they connect preparation with actually being finished.\n\nWhat's something you've forgotten even though you had already prepared it? I'm curious how often the missing piece was simply that final handoff."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

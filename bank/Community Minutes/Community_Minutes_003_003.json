@@ -1,0 +1,80 @@
+[
+  {
+    "id": "community-minutes-accurate-summaries-01",
+    "account": "garretts_dev_desk",
+    "theme": "community_summary_accuracy",
+    "series": "community_minutes_accurate_summaries",
+    "scheduled_at": "2027-05-13T09:15:00-04:00",
+    "posts": [
+      "Making a meeting summary more community-friendly shouldn't make it less accurate.\n\nSimpler language can help residents and members understand what happened, but it shouldn't turn uncertainty into confidence or discussion into approval.\n\nCommunity Minutes helps you prepare a separate, readable summary that you can review against the meeting record: https://communityminutes.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "community-minutes-accurate-summaries-02",
+    "account": "garretts_dev_desk",
+    "theme": "meeting_summary_editing",
+    "series": "community_minutes_accurate_summaries",
+    "scheduled_at": "2027-05-13T15:30:00-04:00",
+    "posts": [
+      "A small wording change in a meeting recap can create a much bigger misunderstanding.\n\nDuring editing, a discussion might start sounding like a decision, or a tentative plan might start sounding like a promise. The final version may read smoothly while giving people the wrong impression.\n\nBefore sharing a summary, compare its key statements with the actual meeting outcomes."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "community-minutes-accurate-summaries-03",
+    "account": "garretts_dev_desk",
+    "theme": "discussion_vs_approval",
+    "series": "community_minutes_accurate_summaries",
+    "scheduled_at": "2027-05-14T09:15:00-04:00",
+    "posts": [
+      "\"The board supports the idea\" and \"The board approved the proposal\" can mean very different things.\n\nIf the group expressed interest but still needs another estimate before taking formal action, the community update should preserve that distinction.\n\nCommunity Minutes helps you prepare meeting summaries while keeping the original record available for review: https://communityminutes.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "community-minutes-accurate-summaries-04",
+    "account": "garretts_dev_desk",
+    "theme": "tentative_project_timelines",
+    "series": "community_minutes_accurate_summaries",
+    "scheduled_at": "2027-05-14T15:30:00-04:00",
+    "posts": [
+      "\"We hope to begin in October\" creates a different expectation from \"Work begins in October.\"\n\nWhen sharing a community update, preserve whether a date is tentative, dependent on approval, or actually confirmed. Those few words can make a meaningful difference to residents planning around a project.\n\nClear expectations are more useful than confident wording that the facts don't support."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "community-minutes-accurate-summaries-05",
+    "account": "garretts_dev_desk",
+    "theme": "consistent_meeting_communication",
+    "series": "community_minutes_accurate_summaries",
+    "scheduled_at": "2027-05-15T09:15:00-04:00",
+    "posts": [
+      "The official minutes and a community-friendly recap can use different language while telling the same story.\n\nDecisions should remain decisions, deferred items should remain deferred, and tentative plans should stay tentative. The level of detail can change without changing the underlying facts.\n\nCommunity Minutes supports both documents in one workflow: https://communityminutes.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "community-minutes-accurate-summaries-06",
+    "account": "garretts_dev_desk",
+    "theme": "transparent_community_updates",
+    "series": "community_minutes_accurate_summaries",
+    "scheduled_at": "2027-05-15T15:30:00-04:00",
+    "posts": [
+      "Sometimes \"we don't know yet\" is the clearest and most respectful answer an organization can give its community.\n\nPeople can work with uncertainty when they understand what's still being decided, what information is missing, and when another update may be available.\n\nHave you ever seen a community announcement create confusion because it sounded more definite than the actual decision?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

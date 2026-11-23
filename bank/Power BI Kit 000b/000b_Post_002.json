@@ -1,0 +1,80 @@
+[
+  {
+    "id": "pbi-mrr-movement-01",
+    "account": "garretts_dev_desk",
+    "theme": "understanding_the_sources_of_mrr_growth",
+    "series": "pbi_subscription_mrr_movement",
+    "scheduled_at": "2028-03-20T09:15:00-04:00",
+    "posts": [
+      "Your subscription business grew MRR by $10,000 this month. Where did that growth actually come from?\n\nThe headline number tells you what changed, but it doesn't explain how. New customers, upgrades, downgrades, and cancellations can all contribute to the final result.\n\nMy Subscription Health Power BI Kit helps you explore those movements: https://garrettsdevdesk.etsy.com/listing/4595420792/power-bi-subscription-dashboard-template"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-mrr-movement-02",
+    "account": "garretts_dev_desk",
+    "theme": "distinguishing_new_mrr_from_expansion_mrr",
+    "series": "pbi_subscription_mrr_movement",
+    "scheduled_at": "2028-03-20T15:30:00-04:00",
+    "posts": [
+      "Not all recurring revenue growth comes from winning new customers.\n\nNew MRR comes from customers joining the subscription business. Expansion MRR comes from existing customers increasing their recurring spend, perhaps by upgrading plans or adding services.\n\nTry separating these two sources of growth in your next monthly review. Is the business primarily acquiring new customers, expanding existing relationships, or benefiting from both?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-mrr-movement-03",
+    "account": "garretts_dev_desk",
+    "theme": "understanding_contraction_and_churn_in_subscription_revenue",
+    "series": "pbi_subscription_mrr_movement",
+    "scheduled_at": "2028-03-21T09:15:00-04:00",
+    "posts": [
+      "Recurring revenue can disappear in two different ways, and the distinction matters.\n\nContraction happens when an existing customer reduces their recurring spend. Churn happens when a customer leaves and their recurring revenue is lost. Both reduce MRR, but they may point toward different problems.\n\nMy Subscription Health Power BI Kit includes MRR movement reporting to help examine these changes: https://garrettsdevdesk.etsy.com/listing/4595420792/power-bi-subscription-dashboard-template"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-mrr-movement-04",
+    "account": "garretts_dev_desk",
+    "theme": "calculating_and_explaining_net_mrr_change",
+    "series": "pbi_subscription_mrr_movement",
+    "scheduled_at": "2028-03-21T15:30:00-04:00",
+    "posts": [
+      "A useful subscription reporting habit is explaining the movement behind every monthly MRR change.\n\nStart with new MRR and expansion MRR, then subtract contraction and churn. The result is the net change in recurring revenue for the period, assuming those are the relevant movement categories.\n\nTry building a simple monthly bridge with these four components. You'll have a much clearer explanation than simply saying revenue increased or decreased."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-mrr-movement-05",
+    "account": "garretts_dev_desk",
+    "theme": "comparing_subscription_growth_quality_across_months",
+    "series": "pbi_subscription_mrr_movement",
+    "scheduled_at": "2028-03-22T09:15:00-04:00",
+    "posts": [
+      "Two months can show identical MRR growth while telling very different stories.\n\nOne month might be driven by new subscriptions with little churn. Another might depend on large expansions that offset substantial customer losses. The net result is the same, but the underlying dynamics deserve different questions.\n\nMy Subscription Health Power BI Kit includes an MRR movement view for exploring those differences: https://garrettsdevdesk.etsy.com/listing/4595420792/power-bi-subscription-dashboard-template"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-mrr-movement-06",
+    "account": "garretts_dev_desk",
+    "theme": "asking_better_questions_about_subscription_revenue_growth",
+    "series": "pbi_subscription_mrr_movement",
+    "scheduled_at": "2028-03-22T15:30:00-04:00",
+    "posts": [
+      "When someone says MRR increased, I want to know what happened underneath that total.\n\nDid the business win new customers? Did existing customers expand? Were upgrades offsetting cancellations or downgrades? Those details help explain the kind of growth taking place and where future attention may be needed.\n\nIf you were reviewing a subscription business, which would concern you more: rising customer churn or increasing revenue contraction among customers who stay?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

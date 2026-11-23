@@ -1,0 +1,80 @@
+[
+  {
+    "id": "pbi-support-averages-01",
+    "account": "garretts_dev_desk",
+    "theme": "understanding_what_support_averages_hide",
+    "series": "pbi_support_averages",
+    "scheduled_at": "2028-02-07T09:15:00-05:00",
+    "posts": [
+      "Your customer support average might be misleading you.\n\nNot because the calculation is wrong, but because one overall number can hide where the real problems are. An average resolution time of 8.4 hours might look reasonable while certain customers are waiting much longer.\n\nMy Customer Support Performance Power BI Kit helps you explore the details behind the KPIs: https://garrettsdevdesk.etsy.com/listing/4593960875/power-bi-customer-support-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-support-averages-02",
+    "account": "garretts_dev_desk",
+    "theme": "interpreting_average_resolution_time",
+    "series": "pbi_support_averages",
+    "scheduled_at": "2028-02-07T15:30:00-05:00",
+    "posts": [
+      "An average resolution time answers one useful question: How long does a typical ticket take to resolve, on average?\n\nBut it doesn't tell you which issues are taking longer, whether certain channels are struggling, or how much variation exists between tickets. Those details can matter more than the overall figure.\n\nTry taking your average resolution time and breaking it down by issue category. You may discover that one type of request deserves a closer look."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-support-averages-03",
+    "account": "garretts_dev_desk",
+    "theme": "comparing_resolution_times_by_issue_category",
+    "series": "pbi_support_averages",
+    "scheduled_at": "2028-02-08T09:15:00-05:00",
+    "posts": [
+      "The most useful question about an average is often: Where is it coming from?\n\nImagine technical support tickets taking significantly longer to resolve than billing or account questions. The overall average might conceal that difference, even though it points toward a specific operational challenge.\n\nMy Customer Support Performance Power BI Kit provides a starting point for investigating these patterns: https://garrettsdevdesk.etsy.com/listing/4593960875/power-bi-customer-support-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-support-averages-04",
+    "account": "garretts_dev_desk",
+    "theme": "interpreting_agent_performance_with_workload_context",
+    "series": "pbi_support_averages",
+    "scheduled_at": "2028-02-08T15:30:00-05:00",
+    "posts": [
+      "Comparing support agents by average resolution time can raise useful questions, but context matters.\n\nAn agent handling complex technical issues may naturally take longer than someone resolving routine account requests. Ticket volume, issue complexity, and customer satisfaction can help explain the difference.\n\nTry reviewing agent performance alongside the types of tickets each person handles. It may reveal workload imbalances or coaching opportunities that a simple ranking would miss."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-support-averages-05",
+    "account": "garretts_dev_desk",
+    "theme": "investigating_conflicting_support_metrics",
+    "series": "pbi_support_averages",
+    "scheduled_at": "2028-02-09T09:15:00-05:00",
+    "posts": [
+      "Some of the most interesting dashboard insights appear when two metrics disagree.\n\nResolution times improve, but customer satisfaction falls. SLA performance looks strong, yet certain customers still experience long waits. Those differences deserve investigation before anyone declares success.\n\nI built a Customer Support Performance Power BI Kit to help connect these measures: https://garrettsdevdesk.etsy.com/listing/4593960875/power-bi-customer-support-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-support-averages-06",
+    "account": "garretts_dev_desk",
+    "theme": "using_dashboards_to_ask_better_questions",
+    "series": "pbi_support_averages",
+    "scheduled_at": "2028-02-09T15:30:00-05:00",
+    "posts": [
+      "A useful dashboard should help you ask the next question.\n\nAn average tells you where performance stands overall. Breaking it down by category, agent, or channel helps reveal where the experience differs. Comparing those results with satisfaction and SLA performance can uncover patterns worth exploring.\n\nWhen you're reviewing a dashboard, do you prefer seeing a few headline KPIs first or jumping straight into the detailed breakdowns?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

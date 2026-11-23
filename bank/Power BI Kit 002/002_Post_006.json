@@ -1,0 +1,80 @@
+[
+  {
+    "id": "pbi-sales-decisions-01",
+    "account": "garretts_dev_desk",
+    "theme": "designing_sales_dashboards_that_support_decisions",
+    "series": "pbi_sales_decision_focused_reporting",
+    "scheduled_at": "2028-06-26T09:15:00-04:00",
+    "posts": [
+      "A beautiful dashboard isn't especially useful if nobody knows what to do with the information.\n\nClear reporting should help people understand performance, recognize areas worth investigating, and decide where to focus their attention. Good visuals are part of that process, but the questions they help answer matter just as much.\n\nMy Sales Performance & Commercial Operations Power BI Kit offers a customizable starting point: https://garrettsdevdesk.etsy.com/listing/4595438858/power-bi-sales-dashboard-template-sales"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-sales-decisions-02",
+    "account": "garretts_dev_desk",
+    "theme": "prioritizing_sales_metrics_for_decision_makers",
+    "series": "pbi_sales_decision_focused_reporting",
+    "scheduled_at": "2028-06-26T15:30:00-04:00",
+    "posts": [
+      "The first screen of a sales dashboard should help people get oriented quickly.\n\nRevenue, order count, and average order value provide a useful starting point for understanding commercial activity. Once those measures are clear, the audience can explore the details behind them.\n\nTry showing your dashboard to someone unfamiliar with it for thirty seconds. Can they identify the most important metrics and explain what changed?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-sales-decisions-03",
+    "account": "garretts_dev_desk",
+    "theme": "using_product_rankings_to_identify_business_priorities",
+    "series": "pbi_sales_decision_focused_reporting",
+    "scheduled_at": "2028-06-27T09:15:00-04:00",
+    "posts": [
+      "A product ranking becomes more valuable when it helps you decide what deserves a closer look.\n\nComparing products and categories can reveal revenue concentration, standout performers, and differences worth investigating. The ranking gives the conversation a starting point rather than a final answer.\n\nMy Sales Performance & Commercial Operations Power BI Kit includes a dedicated Product Performance dashboard: https://garrettsdevdesk.etsy.com/listing/4595438858/power-bi-sales-dashboard-template-sales"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-sales-decisions-04",
+    "account": "garretts_dev_desk",
+    "theme": "identifying_operational_exceptions_in_business_reporting",
+    "series": "pbi_sales_decision_focused_reporting",
+    "scheduled_at": "2028-06-27T15:30:00-04:00",
+    "posts": [
+      "Sometimes the most useful information in a dashboard is the exception that deserves attention.\n\nAn overdue supplier invoice, an unusual spending pattern, or limited inventory availability may raise questions that an overall average doesn't reveal. Making those details visible can help teams prioritize their review.\n\nTry examining your latest commercial report for three exceptions worth discussing. Are they easy to find, or do they disappear into the totals?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-sales-decisions-05",
+    "account": "garretts_dev_desk",
+    "theme": "connecting_commercial_reporting_to_practical_next_steps",
+    "series": "pbi_sales_decision_focused_reporting",
+    "scheduled_at": "2028-06-28T09:15:00-04:00",
+    "posts": [
+      "A useful dashboard should help move the conversation from numbers to next steps.\n\nStart with a metric, explore the supporting details, and identify what deserves further investigation. That simple progression can make sales and operations reporting more productive.\n\nMy Sales Performance & Commercial Operations Power BI Kit brings four editable reporting views together to support that process: https://garrettsdevdesk.etsy.com/listing/4595438858/power-bi-sales-dashboard-template-sales"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-sales-decisions-06",
+    "account": "garretts_dev_desk",
+    "theme": "discussing_what_makes_dashboards_actionable",
+    "series": "pbi_sales_decision_focused_reporting",
+    "scheduled_at": "2028-06-28T15:30:00-04:00",
+    "posts": [
+      "A dashboard can look polished and still leave people wondering what they're supposed to do next.\n\nThe most useful reports help people understand the situation, explore relevant context, and recognize questions worth pursuing. That connection between information and action deserves attention during dashboard design.\n\nFor anyone who builds or uses business dashboards, what's one feature or design choice that makes a report genuinely useful for decision-making?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

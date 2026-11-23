@@ -1,0 +1,80 @@
+[
+  {
+    "id": "briefly-clear-updates-01",
+    "account": "garretts_dev_desk",
+    "theme": "workplace_productivity",
+    "series": "briefly_clear_updates",
+    "scheduled_at": "2026-11-18T09:15:00-05:00",
+    "posts": [
+      "A project update that should take 15 minutes somehow takes an hour. Sound familiar?\n\nA lot of that time goes into figuring out what matters before you even start writing. Briefly helps you organize those scattered notes into a clear, useful brief.\n\nhttps://briefly.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-clear-updates-02",
+    "account": "garretts_dev_desk",
+    "theme": "project_communication",
+    "series": "briefly_clear_updates",
+    "scheduled_at": "2026-11-18T15:30:00-05:00",
+    "posts": [
+      "Your next project update is probably hiding in five different places: meeting notes, spreadsheets, messages, deadlines, and your own memory.\n\nGetting everything together is often the hardest part. Briefly gives you a place to turn those scattered details into something useful.\n\nhttps://briefly.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-clear-updates-03",
+    "account": "garretts_dev_desk",
+    "theme": "writing_workflows",
+    "series": "briefly_clear_updates",
+    "scheduled_at": "2026-11-19T09:15:00-05:00",
+    "posts": [
+      "One small change can make writing work updates easier: stop trying to organize and polish everything at once.\n\nCollect your rough notes first. Figure out the message second. Then worry about the wording.\n\nThat's the kind of workflow I built Briefly to support.\n\nhttps://briefly.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-clear-updates-04",
+    "account": "garretts_dev_desk",
+    "theme": "clear_communication",
+    "series": "briefly_clear_updates",
+    "scheduled_at": "2026-11-19T15:30:00-05:00",
+    "posts": [
+      "Before sending your next project update, ask four questions:\n\nWhat changed? What matters now? What's blocked? What happens next?\n\nAnswer those clearly and you've already done much of the important work. Briefly helps put those answers into a structured update.\n\nhttps://briefly.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-clear-updates-05",
+    "account": "garretts_dev_desk",
+    "theme": "executive_briefs",
+    "series": "briefly_clear_updates",
+    "scheduled_at": "2026-11-20T09:15:00-05:00",
+    "posts": [
+      "Not every detail from your meeting notes deserves a place in the final update.\n\nKeep the information that explains a decision, highlights a risk, provides useful context, or helps someone take action. The rest can stay in your working notes.\n\nBuild a more focused brief with Briefly: https://briefly.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-clear-updates-06",
+    "account": "garretts_dev_desk",
+    "theme": "workplace_productivity",
+    "series": "briefly_clear_updates",
+    "scheduled_at": "2026-11-20T15:30:00-05:00",
+    "posts": [
+      "A messy first draft is perfectly fine. Sometimes the best starting point is a pile of notes that barely resembles a finished document.\n\nGet everything down, sort through what matters, and shape it into something your reader can use.\n\nThat's why I built Briefly.\n\nhttps://briefly.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

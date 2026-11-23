@@ -1,0 +1,80 @@
+[
+  {
+    "id": "notice-writer-calm-authority-01",
+    "account": "garretts_dev_desk",
+    "theme": "authority_through_clear_communication",
+    "series": "notice_writer_calm_authority",
+    "scheduled_at": "2027-08-16T09:15:00-04:00",
+    "posts": [
+      "A calm HOA notice can still carry authority.\n\nThe seriousness of a message comes from accurate information, clear expectations, and the established process behind it. Stern adjectives and intimidating language rarely add anything useful. Residents need to understand what the concern is and what happens next.\n\nNotice Writer helps community volunteers prepare professional notices: https://noticewriter.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "notice-writer-calm-authority-02",
+    "account": "garretts_dev_desk",
+    "theme": "avoiding_unnecessary_formality",
+    "series": "notice_writer_calm_authority",
+    "scheduled_at": "2027-08-16T15:30:00-04:00",
+    "posts": [
+      "Trying to make an HOA notice sound more official can sometimes make it harder to understand.\n\nLong sentences, complicated terminology, and unnecessary warnings can bury the actual request. A resident shouldn't have to read the same paragraph three times to figure out what's expected.\n\nTry reviewing your next notice for language that sounds impressive but adds little information. Could you say the same thing more clearly?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "notice-writer-calm-authority-03",
+    "account": "garretts_dev_desk",
+    "theme": "structured_violation_communication",
+    "series": "notice_writer_calm_authority",
+    "scheduled_at": "2027-08-17T09:15:00-04:00",
+    "posts": [
+      "A clear violation notice doesn't need to raise its voice.\n\nDescribe the concern, identify the applicable requirement, explain the action needed, and include the relevant deadline. If another step may follow, communicate it according to the association's established procedures. A straightforward structure gives the message its seriousness.\n\nCreate clearer notices with Notice Writer: https://noticewriter.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "notice-writer-calm-authority-04",
+    "account": "garretts_dev_desk",
+    "theme": "reviewing_notices_for_completeness",
+    "series": "notice_writer_calm_authority",
+    "scheduled_at": "2027-08-17T15:30:00-04:00",
+    "posts": [
+      "Before sending an HOA notice, ask whether the resident has everything needed to understand and respond.\n\nThat question can reveal missing dates, vague descriptions, unclear instructions, or an important rule reference that's difficult to find. Those details matter far more than whether the message sounds sufficiently stern.\n\nTry making completeness and readability your final review criteria instead of judging the notice by how forceful it sounds."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "notice-writer-calm-authority-05",
+    "account": "garretts_dev_desk",
+    "theme": "matter_of_fact_enforcement",
+    "series": "notice_writer_calm_authority",
+    "scheduled_at": "2027-08-18T09:15:00-04:00",
+    "posts": [
+      "\"The issue remains unresolved\" can communicate more effectively than an angry paragraph.\n\nLater-stage HOA notices may require greater firmness, especially when previous communications haven't resolved the concern. But that seriousness can come from documented facts, accurate deadlines, and clear next steps rather than personal criticism.\n\nNotice Writer helps keep community communications professional: https://noticewriter.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "notice-writer-calm-authority-06",
+    "account": "garretts_dev_desk",
+    "theme": "professional_authority_without_aggression",
+    "series": "notice_writer_calm_authority",
+    "scheduled_at": "2027-08-18T15:30:00-04:00",
+    "posts": [
+      "Sometimes the clearest sign of authority is that the writing doesn't need to raise its voice.\n\nAn effective HOA notice can be accurate, understandable, appropriately firm, and grounded in the procedures that actually apply. A calm tone leaves more room for the recipient to focus on resolving the issue.\n\nFor anyone involved in HOA or community communications, what makes an official notice feel professional and credible to you?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "briefly-considerate-writing-01",
+    "account": "garretts_dev_desk",
+    "theme": "clear_communication",
+    "series": "briefly_considerate_writing",
+    "scheduled_at": "2026-11-26T09:15:00-05:00",
+    "posts": [
+      "Clear writing is a small way of respecting someone else's time.\n\nWhen you organize your thoughts, explain the context, and get to the point, your reader doesn't have to do that work for you.\n\nI built Briefly to make that process a little easier: https://briefly.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-considerate-writing-02",
+    "account": "garretts_dev_desk",
+    "theme": "business_writing",
+    "series": "briefly_considerate_writing",
+    "scheduled_at": "2026-11-26T15:30:00-05:00",
+    "posts": [
+      "Some work emails sound like they were written to impress a committee instead of communicate with a person.\n\nYou can be professional and still use ordinary language. Try reading your next project update aloud before sending it. Would you actually explain it that way to a colleague?\n\nWhat's one business phrase you'd happily retire?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-considerate-writing-03",
+    "account": "garretts_dev_desk",
+    "theme": "project_communication",
+    "series": "briefly_considerate_writing",
+    "scheduled_at": "2026-11-27T09:15:00-05:00",
+    "posts": [
+      "\"Timeline?? Vendor still waiting.\"\n\nPerfectly understandable in your personal notes. Pretty confusing in a project update.\n\nTry: \"The project timeline is still uncertain because we're waiting for the vendor to confirm delivery.\"\n\nA little context saves everyone a follow-up question.\n\nhttps://briefly.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-considerate-writing-04",
+    "account": "garretts_dev_desk",
+    "theme": "data_communication",
+    "series": "briefly_considerate_writing",
+    "scheduled_at": "2026-11-27T15:30:00-05:00",
+    "posts": [
+      "\"Average response time: 290ms.\"\n\nIs that good? Bad? Better than last month?\n\nNow try: \"Average response time improved from 420ms to 290ms.\"\n\nThe number hasn't changed, but the reader finally has something to compare it with.\n\nWhat's a metric you regularly see reported without enough context?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-considerate-writing-05",
+    "account": "garretts_dev_desk",
+    "theme": "writing_workflows",
+    "series": "briefly_considerate_writing",
+    "scheduled_at": "2026-11-28T09:15:00-05:00",
+    "posts": [
+      "Shorter writing isn't automatically clearer writing.\n\nSometimes removing one sentence saves the writer a few seconds but costs the reader several minutes of guessing.\n\nHere's a useful editing exercise: read your next update as if you missed the meeting. What context would you need to understand it?\n\nhttps://briefly.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-considerate-writing-06",
+    "account": "garretts_dev_desk",
+    "theme": "workplace_productivity",
+    "series": "briefly_considerate_writing",
+    "scheduled_at": "2026-11-28T15:30:00-05:00",
+    "posts": [
+      "I'd rather someone understand my project update in 30 seconds than spend five minutes admiring how professional it sounds.\n\nSay the important thing plainly. Include enough context. Make the next step obvious.\n\nThat's the approach behind Briefly, my free tool for building clearer work briefs.\n\nhttps://briefly.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "pbi-workforce-recognition-01",
+    "account": "garretts_dev_desk",
+    "theme": "recognizing_employee_contributions_beyond_sales_totals",
+    "series": "pbi_workforce_employee_recognition",
+    "scheduled_at": "2028-08-14T09:15:00-04:00",
+    "posts": [
+      "Someone on your team is doing great work. Are you noticing?\n\nWhen performance reviews focus on the same sales totals, meaningful contributions can be easy to overlook. Looking at employee results from several perspectives helps managers recognize different strengths.\n\nMy Workforce Performance & Sales Activity Power BI Kit includes employee comparisons, target attainment, and profitability reporting: https://garrettsdevdesk.etsy.com/listing/4595444828/power-bi-sales-performance-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-workforce-recognition-02",
+    "account": "garretts_dev_desk",
+    "theme": "identifying_different_employee_performance_strengths",
+    "series": "pbi_workforce_employee_recognition",
+    "scheduled_at": "2028-08-14T15:30:00-04:00",
+    "posts": [
+      "People contribute to a sales team's results in different ways.\n\nOne employee may lead in revenue, another consistently meets their targets, and someone else generates stronger gross margins. Each measure can reveal a different strength worth understanding.\n\nTry reviewing your team across revenue, target attainment, and gross profit. Which employees stand out in different categories? Those differences can be useful starting points for recognition and conversation."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-workforce-recognition-03",
+    "account": "garretts_dev_desk",
+    "theme": "avoiding_one_dimensional_employee_performance_rankings",
+    "series": "pbi_workforce_employee_recognition",
+    "scheduled_at": "2028-08-15T09:15:00-04:00",
+    "posts": [
+      "A single employee leaderboard can miss important parts of the story.\n\nRanking everyone by revenue may overlook strong target attainment or profitability. Considering multiple measures gives managers more context for understanding contributions without reducing performance to one number.\n\nMy Workforce Performance & Sales Activity Power BI Kit includes a dedicated Employee Performance dashboard: https://garrettsdevdesk.etsy.com/listing/4595444828/power-bi-sales-performance-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-workforce-recognition-04",
+    "account": "garretts_dev_desk",
+    "theme": "using_performance_reporting_to_support_employee_conversations",
+    "series": "pbi_workforce_employee_recognition",
+    "scheduled_at": "2028-08-15T15:30:00-04:00",
+    "posts": [
+      "Good performance conversations begin with understanding what someone is contributing.\n\nRevenue, target attainment, and gross profit can help managers recognize strengths and identify areas that deserve more attention. The numbers provide context, while conversations help explain the circumstances behind them.\n\nBefore your next team review, identify one measurable strength for each employee and one thoughtful question you'd like to ask about their work."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-workforce-recognition-05",
+    "account": "garretts_dev_desk",
+    "theme": "building_employee_reporting_that_supports_fair_recognition",
+    "series": "pbi_workforce_employee_recognition",
+    "scheduled_at": "2028-08-16T09:15:00-04:00",
+    "posts": [
+      "Good work deserves to be seen, especially when it doesn't show up at the top of a revenue ranking.\n\nEmployee contribution, target attainment, and profitability can help managers understand different strengths. Clear reporting supports more informed recognition and performance discussions.\n\nMy Workforce Performance & Sales Activity Power BI Kit provides three editable dashboards with sample data and documentation: https://garrettsdevdesk.etsy.com/listing/4595444828/power-bi-sales-performance-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-workforce-recognition-06",
+    "account": "garretts_dev_desk",
+    "theme": "discussing_fair_recognition_in_sales_performance_reporting",
+    "series": "pbi_workforce_employee_recognition",
+    "scheduled_at": "2028-08-16T15:30:00-04:00",
+    "posts": [
+      "Recognizing good work becomes harder when everyone is evaluated using the same single metric.\n\nSales teams include people with different responsibilities, targets, and opportunities. Revenue, profitability, and target attainment can help reveal different contributions, but managers still need to understand the context behind those numbers.\n\nFor anyone who manages a team, how do you make sure valuable contributions don't get overlooked during performance reviews?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

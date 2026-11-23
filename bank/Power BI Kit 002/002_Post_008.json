@@ -1,0 +1,80 @@
+[
+  {
+    "id": "pbi-sales-clarity-01",
+    "account": "garretts_dev_desk",
+    "theme": "making_business_decisions_with_incomplete_information",
+    "series": "pbi_sales_business_clarity",
+    "scheduled_at": "2028-07-03T09:15:00-04:00",
+    "posts": [
+      "It's difficult to make confident business decisions when you only see part of the picture.\n\nSales, products, transactions, and purchasing each reveal something different about how a business operates. When that information is scattered, understanding what deserves attention becomes harder.\n\nMy Sales Performance & Commercial Operations Power BI Kit provides four customizable reporting views: https://garrettsdevdesk.etsy.com/listing/4595438858/power-bi-sales-dashboard-template-sales"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-sales-clarity-02",
+    "account": "garretts_dev_desk",
+    "theme": "understanding_what_drives_sales_revenue",
+    "series": "pbi_sales_business_clarity",
+    "scheduled_at": "2028-07-03T15:30:00-04:00",
+    "posts": [
+      "Revenue tells you how much was sold, but it leaves some important questions unanswered.\n\nDid the business receive more orders? Did average order value increase? Are a handful of products responsible for most of the sales? Those details can change how you interpret the same revenue total.\n\nTry reviewing your latest sales results alongside order count, average order value, and product rankings. What becomes clearer when you see them together?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-sales-clarity-03",
+    "account": "garretts_dev_desk",
+    "theme": "identifying_product_inventory_and_purchasing_concerns",
+    "series": "pbi_sales_business_clarity",
+    "scheduled_at": "2028-07-04T09:15:00-04:00",
+    "posts": [
+      "Some of the most useful business questions begin with details that are easy to overlook.\n\nRevenue concentration, limited inventory availability, and overdue supplier invoices may all deserve attention. Bringing these measures into your reporting helps you recognize where a closer investigation could be valuable.\n\nMy Sales Performance & Commercial Operations Power BI Kit includes product and purchasing views: https://garrettsdevdesk.etsy.com/listing/4595438858/power-bi-sales-dashboard-template-sales"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-sales-clarity-04",
+    "account": "garretts_dev_desk",
+    "theme": "creating_a_clearer_starting_point_for_business_reviews",
+    "series": "pbi_sales_business_clarity",
+    "scheduled_at": "2028-07-04T15:30:00-04:00",
+    "posts": [
+      "Business reviews become more productive when everyone can start from a shared picture of what's happening.\n\nA clear overview of sales, products, transactions, and purchasing gives people a place to begin exploring questions. It also helps reduce the time spent searching through disconnected reports.\n\nTry preparing your next business review around three questions: What's happening? What deserves attention? What should we investigate next?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-sales-clarity-05",
+    "account": "garretts_dev_desk",
+    "theme": "using_organized_reporting_to_support_business_conversations",
+    "series": "pbi_sales_business_clarity",
+    "scheduled_at": "2028-07-05T09:15:00-04:00",
+    "posts": [
+      "A little more clarity can make a difficult business conversation easier.\n\nWhen sales metrics, product performance, transaction activity, and purchasing details are organized, people have more context for discussing what the numbers mean. That shared understanding can support better questions and more thoughtful decisions.\n\nMy Sales Performance & Commercial Operations Power BI Kit offers a reporting foundation to customize: https://garrettsdevdesk.etsy.com/listing/4595438858/power-bi-sales-dashboard-template-sales"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-sales-clarity-06",
+    "account": "garretts_dev_desk",
+    "theme": "discussing_uncertainty_in_sales_and_operations_decisions",
+    "series": "pbi_sales_business_clarity",
+    "scheduled_at": "2028-07-05T15:30:00-04:00",
+    "posts": [
+      "Making decisions about a business often means working with information that feels incomplete.\n\nYou may know the revenue total but still have questions about customer orders, product demand, inventory availability, or purchasing obligations. Having access to those details can help you decide what deserves further investigation.\n\nFor business owners and managers, which part of your operations do you most often wish you had a clearer picture of?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

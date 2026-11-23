@@ -1,0 +1,80 @@
+[
+  {
+    "id": "thinking-lens-decisions-and-regret-01",
+    "account": "garretts_dev_desk",
+    "theme": "accepting_the_possibility_of_regret",
+    "series": "thinking_lens_decisions_and_regret",
+    "scheduled_at": "2027-11-04T09:15:00-04:00",
+    "posts": [
+      "You don't have to eliminate every possibility of regret before making a decision.\n\nEven thoughtful choices can leave you wondering about the road you didn't take. That uncertainty doesn't automatically mean you overlooked something or made a mistake. Sometimes it's simply part of choosing between meaningful alternatives.\n\nExplore your decisions with The Thinking Lens: https://thethinkinglens.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "thinking-lens-decisions-and-regret-02",
+    "account": "garretts_dev_desk",
+    "theme": "avoiding_impossible_future_guarantees",
+    "series": "thinking_lens_decisions_and_regret",
+    "scheduled_at": "2027-11-04T15:30:00-04:00",
+    "posts": [
+      "It's a lot to ask of today's decision to guarantee how you'll feel five years from now.\n\nYou can research your options, consider your priorities, and think carefully about the future. But you can't inspect every possible outcome before choosing, and your circumstances may change along the way.\n\nTry asking what makes an option reasonable based on what you know today. That's a more useful standard than demanding a future without regret."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "thinking-lens-decisions-and-regret-03",
+    "account": "garretts_dev_desk",
+    "theme": "identifying_the_fear_behind_regret",
+    "series": "thinking_lens_decisions_and_regret",
+    "scheduled_at": "2027-11-05T09:15:00-04:00",
+    "posts": [
+      "Sometimes the fear of making the wrong choice is harder to examine than the choice itself.\n\nWhat are you actually afraid will happen? Losing money, disappointing someone, missing an opportunity, or having to start again? Naming the concern gives you something specific to evaluate instead of carrying a vague sense of dread.\n\nThe Thinking Lens helps you explore questions like these: https://thethinkinglens.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "thinking-lens-decisions-and-regret-04",
+    "account": "garretts_dev_desk",
+    "theme": "evaluating_possible_downsides",
+    "series": "thinking_lens_decisions_and_regret",
+    "scheduled_at": "2027-11-05T15:30:00-04:00",
+    "posts": [
+      "Not every disappointing outcome is a catastrophe, and not every risk deserves the same weight.\n\nWhen considering a decision, it helps to examine how likely an unwanted outcome is, how serious its consequences would be, and whether you could recover or change direction.\n\nTry choosing one outcome you're worried about and answering those three questions. A more specific understanding of the downside can make the decision easier to evaluate."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "thinking-lens-decisions-and-regret-05",
+    "account": "garretts_dev_desk",
+    "theme": "recognizing_worthwhile_tradeoffs",
+    "series": "thinking_lens_decisions_and_regret",
+    "scheduled_at": "2027-11-06T09:15:00-04:00",
+    "posts": [
+      "Sometimes two different paths both contain something worthwhile.\n\nChoosing one may mean giving up an opportunity, experience, or possibility you genuinely value. Feeling that loss doesn't necessarily make your decision wrong. It may simply reflect a meaningful tradeoff.\n\nThe Thinking Lens helps you consider different perspectives before choosing a direction: https://thethinkinglens.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "thinking-lens-decisions-and-regret-06",
+    "account": "garretts_dev_desk",
+    "theme": "understanding_regret_after_thoughtful_choices",
+    "series": "thinking_lens_decisions_and_regret",
+    "scheduled_at": "2027-11-06T15:30:00-04:00",
+    "posts": [
+      "Regret isn't automatically evidence that you made the wrong decision.\n\nYou can choose carefully with the information available, act according to your priorities, and still wonder about the alternative later. Looking back with new information doesn't mean you could have known everything at the time.\n\nHave you ever made a decision you still believe was reasonable, even though part of you occasionally wonders what the other path might have been like?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

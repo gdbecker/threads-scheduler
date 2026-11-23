@@ -1,0 +1,80 @@
+[
+  {
+    "id": "notice-writer-resolution-over-escalation-01",
+    "account": "garretts_dev_desk",
+    "theme": "resolution_as_the_primary_goal",
+    "series": "notice_writer_resolution_over_escalation",
+    "scheduled_at": "2027-09-27T09:15:00-04:00",
+    "posts": [
+      "The goal of an HOA notice process isn't to reach the final warning.\n\nWhen we picture enforcement as a ladder, it's easy to forget that many issues can be resolved before reaching a formal stage. Clear communication should help people understand the concern and what needs to happen next.\n\nNotice Writer helps community volunteers prepare clear, respectful notices: https://noticewriter.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "notice-writer-resolution-over-escalation-02",
+    "account": "garretts_dev_desk",
+    "theme": "early_resolution_through_reminders",
+    "series": "notice_writer_resolution_over_escalation",
+    "scheduled_at": "2027-09-27T15:30:00-04:00",
+    "posts": [
+      "Sometimes one clear HOA reminder is all it takes.\n\nA resident learns about an overlooked issue, understands what's expected, and makes the correction. When the applicable procedures allow it, the matter can end there without additional notices.\n\nTry reviewing your courtesy reminder template. Does it give residents enough information to resolve the concern immediately, or would they need to contact someone just to understand the request?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "notice-writer-resolution-over-escalation-03",
+    "account": "garretts_dev_desk",
+    "theme": "substantive_courtesy_reminders",
+    "series": "notice_writer_resolution_over_escalation",
+    "scheduled_at": "2027-09-28T09:15:00-04:00",
+    "posts": [
+      "A friendly HOA reminder can still be specific and useful.\n\nExplain the observed concern, connect it to the relevant community expectation, and describe the action needed. An approachable tone works best when the reader can also understand exactly what the message is asking them to do.\n\nPrepare clearer courtesy reminders and community notices with Notice Writer: https://noticewriter.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "notice-writer-resolution-over-escalation-04",
+    "account": "garretts_dev_desk",
+    "theme": "escalation_supported_by_documented_history",
+    "series": "notice_writer_resolution_over_escalation",
+    "scheduled_at": "2027-09-28T15:30:00-04:00",
+    "posts": [
+      "A follow-up community notice should reflect what has happened since the previous communication.\n\nAn unresolved deadline, another documented observation, or a new procedural step may justify a firmer message. The history should explain why the communication has changed.\n\nBefore drafting a follow-up, write down the verified developments since the last notice. Then use those details to determine what the next message actually needs to say."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "notice-writer-resolution-over-escalation-05",
+    "account": "garretts_dev_desk",
+    "theme": "fair_consistent_resolution",
+    "series": "notice_writer_resolution_over_escalation",
+    "scheduled_at": "2027-09-29T09:15:00-04:00",
+    "posts": [
+      "Every stage of an HOA notice process should serve a purpose. Reaching every stage isn't the objective.\n\nThe aim is to resolve concerns through fair, consistent communication that follows the association's actual requirements. Sometimes that means a reminder. Other situations may require a formal notice.\n\nNotice Writer helps volunteers prepare communications for different situations: https://noticewriter.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "notice-writer-resolution-over-escalation-06",
+    "account": "garretts_dev_desk",
+    "theme": "successful_notice_sequences_end_early",
+    "series": "notice_writer_resolution_over_escalation",
+    "scheduled_at": "2027-09-29T15:30:00-04:00",
+    "posts": [
+      "The most successful community notice sequence might be the one you never have to finish.\n\nIf a clear, calm first message helps resolve the concern, there's no reason to keep escalating simply to complete a sequence. The communication has already accomplished its purpose, assuming the applicable requirements have been met.\n\nFor HOA board members and community volunteers, what kinds of issues have you seen resolved with one straightforward reminder?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

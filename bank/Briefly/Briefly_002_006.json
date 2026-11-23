@@ -1,0 +1,80 @@
+[
+  {
+    "id": "briefly-outside-reader-01",
+    "account": "garretts_dev_desk",
+    "theme": "project_communication",
+    "series": "briefly_outside_reader",
+    "scheduled_at": "2026-12-28T09:15:00-05:00",
+    "posts": [
+      "When you've been working on a project for weeks, it's easy to forget how much context lives only in your head.\n\nSomeone reading your update for the first time doesn't have that background. Give them enough information to understand what changed, why it matters, and what comes next.\n\nThat's part of why I built Briefly: https://briefly.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-outside-reader-02",
+    "account": "garretts_dev_desk",
+    "theme": "business_writing",
+    "series": "briefly_outside_reader",
+    "scheduled_at": "2026-12-28T15:30:00-05:00",
+    "posts": [
+      "\"Vendor issue fixed. Sarah checking security. Launch maybe +1 week.\"\n\nThose notes might be perfectly useful to the person who wrote them. But imagine receiving them without attending any of the meetings.\n\nBefore sharing an update, try reading it as someone who knows nothing about the project. What would you need explained?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-outside-reader-03",
+    "account": "garretts_dev_desk",
+    "theme": "clear_communication",
+    "series": "briefly_outside_reader",
+    "scheduled_at": "2026-12-29T09:15:00-05:00",
+    "posts": [
+      "\"Performance improved\" sounds encouraging, but it doesn't give the reader much to work with.\n\n\"Response time dropped from 420ms to 290ms after the vendor change\" explains the improvement and provides useful context.\n\nA few extra details can make a project update much more informative.\n\nhttps://briefly.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-outside-reader-04",
+    "account": "garretts_dev_desk",
+    "theme": "documentation",
+    "series": "briefly_outside_reader",
+    "scheduled_at": "2026-12-29T15:30:00-05:00",
+    "posts": [
+      "A project update should still make sense a week or two after you write it.\n\n\"Waiting on Sarah\" might seem obvious today. \"Sarah is completing the final security review before launch approval\" gives future readers the context they'll need.\n\nDo you ever go back to old project notes and struggle to remember what you meant?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-outside-reader-05",
+    "account": "garretts_dev_desk",
+    "theme": "workplace_communication",
+    "series": "briefly_outside_reader",
+    "scheduled_at": "2026-12-30T09:15:00-05:00",
+    "posts": [
+      "The person you're writing a project update for might not be the last person who reads it.\n\nUpdates get forwarded to managers, shared with other teams, and reopened months later. A little context today can save a lot of confusion later.\n\nBriefly helps you organize those details into a clear, shareable brief: https://briefly.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-outside-reader-06",
+    "account": "garretts_dev_desk",
+    "theme": "status_reporting",
+    "series": "briefly_outside_reader",
+    "scheduled_at": "2026-12-30T15:30:00-05:00",
+    "posts": [
+      "Here's a useful test before sending your next project update: If someone forwarded this with no explanation, would the new reader understand where things stand?\n\nThey should be able to see what changed, what matters, what needs attention, and what happens next.\n\nTry building your next update with that reader in mind: https://briefly.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

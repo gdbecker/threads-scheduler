@@ -1,0 +1,54 @@
+[
+  {
+    "id": "pbi-workforce-performance-03",
+    "account": "garretts_dev_desk",
+    "theme": "comparing_employee_sales_performance_fairly",
+    "series": "pbi_workforce_sales_performance",
+    "scheduled_at": "2028-07-21T09:15:00-04:00",
+    "posts": [
+      "Two employees can generate similar revenue while contributing differently to overall performance.\n\nTarget attainment, gross profit, and productivity can reveal distinctions that revenue alone doesn't capture. Comparisons become more useful when you consider the context behind the numbers.\n\nMy Workforce Performance & Sales Activity Power BI Kit includes a dedicated Employee Performance dashboard: https://garrettsdevdesk.etsy.com/listing/4595444828/power-bi-sales-performance-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-workforce-performance-04",
+    "account": "garretts_dev_desk",
+    "theme": "identifying_product_and_location_sales_drivers",
+    "series": "pbi_workforce_sales_performance",
+    "scheduled_at": "2028-07-21T15:30:00-04:00",
+    "posts": [
+      "A strong sales result can look very different when you examine the products and locations behind it.\n\nOne location might generate more revenue while another produces stronger margins. Product mix and sales volume can also influence the overall picture.\n\nTry comparing your locations using revenue, gross margin, and product mix rather than ranking them on sales alone. What differences become visible?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-workforce-performance-05",
+    "account": "garretts_dev_desk",
+    "theme": "connecting_workforce_location_and_product_reporting",
+    "series": "pbi_workforce_sales_performance",
+    "scheduled_at": "2028-07-22T09:15:00-04:00",
+    "posts": [
+      "Good sales reporting should help you explore how different parts of the business contribute to results.\n\nA workforce overview establishes context, employee comparisons reveal individual contributions, and location and product analysis helps explain performance drivers.\n\nMy Workforce Performance & Sales Activity Power BI Kit organizes these areas into three editable pages with sample data and documentation: https://garrettsdevdesk.etsy.com/listing/4595444828/power-bi-sales-performance-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-workforce-performance-06",
+    "account": "garretts_dev_desk",
+    "theme": "discussing_what_drives_workforce_and_sales_results",
+    "series": "pbi_workforce_sales_performance",
+    "scheduled_at": "2028-07-22T15:30:00-04:00",
+    "posts": [
+      "Sales performance is shaped by more than the final revenue number.\n\nEmployees, targets, profitability, product mix, and location activity all contribute to the results a business reports. Looking at those dimensions together can make performance discussions more useful.\n\nFor anyone who manages sales teams or builds performance dashboards, which measure has helped you understand results that revenue alone couldn't explain?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

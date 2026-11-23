@@ -1,0 +1,80 @@
+[
+  {
+    "id": "community-minutes-purposeful-summaries-01",
+    "account": "garretts_dev_desk",
+    "theme": "when_meeting_summaries_are_needed",
+    "series": "community_minutes_purposeful_summaries",
+    "scheduled_at": "2027-05-20T09:15:00-04:00",
+    "posts": [
+      "Sometimes you really don't need a separate meeting summary.\n\nNot every board or committee meeting needs two documents afterward. If one accurate, well-organized set of minutes gives everyone the information they need, that may be enough.\n\nCommunity Minutes lets you prepare the formal record and create a community summary when it's actually useful: https://communityminutes.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "community-minutes-purposeful-summaries-02",
+    "account": "garretts_dev_desk",
+    "theme": "meeting_communication_audience",
+    "series": "community_minutes_purposeful_summaries",
+    "scheduled_at": "2027-05-20T15:30:00-04:00",
+    "posts": [
+      "Before creating another document after a meeting, ask who actually needs the information.\n\nIs there an audience that probably won't read the formal minutes but still needs to understand what happened? That might be a good reason to prepare a separate summary.\n\nStart with the reader and the communication need. The document format can follow from there."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "community-minutes-purposeful-summaries-03",
+    "account": "garretts_dev_desk",
+    "theme": "community_summary_value",
+    "series": "community_minutes_purposeful_summaries",
+    "scheduled_at": "2027-05-21T09:15:00-04:00",
+    "posts": [
+      "A meeting summary should have a clear reason to exist.\n\nResidents may need to understand an upcoming repair. Volunteers may need to know about a schedule change. Members may want a simple explanation of a new policy.\n\nWhen a broader audience needs that information, Community Minutes can help you prepare a readable summary alongside the official record: https://communityminutes.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "community-minutes-purposeful-summaries-04",
+    "account": "garretts_dev_desk",
+    "theme": "reducing_volunteer_administration",
+    "series": "community_minutes_purposeful_summaries",
+    "scheduled_at": "2027-05-21T15:30:00-04:00",
+    "posts": [
+      "There's no prize for producing the most paperwork after a Tuesday-night committee meeting.\n\nEvery additional document takes someone's time to prepare, review, and distribute. For volunteer organizations especially, that time is worth protecting.\n\nBefore adding another step to your meeting workflow, consider whether it solves a real communication problem or simply creates more administrative work."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "community-minutes-purposeful-summaries-05",
+    "account": "garretts_dev_desk",
+    "theme": "simple_meeting_workflows",
+    "series": "community_minutes_purposeful_summaries",
+    "scheduled_at": "2027-05-22T09:15:00-04:00",
+    "posts": [
+      "A useful feature doesn't need to become a mandatory step in every workflow.\n\nIf a meeting summary serves the same audience and answers the same questions as the minutes, creating both may add little value. Good systems should leave room for judgment.\n\nCommunity Minutes includes an optional community summary workflow, so you can use it when the situation calls for one: https://communityminutes.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "community-minutes-purposeful-summaries-06",
+    "account": "garretts_dev_desk",
+    "theme": "right_sized_meeting_communication",
+    "series": "community_minutes_purposeful_summaries",
+    "scheduled_at": "2027-05-22T15:30:00-04:00",
+    "posts": [
+      "The simplest meeting communication system is often the one that works best for the people using it.\n\nSometimes that means preparing accurate minutes and stopping there. Other times, a separate summary helps a broader audience understand what changed and what comes next.\n\nIf you help run a board, nonprofit, or volunteer group, how do you decide when a meeting needs a separate recap?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

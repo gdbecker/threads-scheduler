@@ -1,0 +1,80 @@
+[
+  {
+    "id": "budget-snapshot-homeowner-first-01",
+    "account": "garretts_dev_desk",
+    "theme": "hoa_budget_communication",
+    "series": "budget_snapshot_homeowner_first",
+    "scheduled_at": "2027-01-25T09:15:00-05:00",
+    "posts": [
+      "When homeowners receive a new HOA budget, one of their first questions is probably: \"What does this mean for my dues?\"\n\nThat's a much more useful place to begin the conversation than the first row of a spreadsheet. Start with what people want to understand, then help them explore the numbers behind it.\n\nThat's the thinking behind Budget Snapshot: https://budgetsnapshot.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "budget-snapshot-homeowner-first-02",
+    "account": "garretts_dev_desk",
+    "theme": "homeowner_communication",
+    "series": "budget_snapshot_homeowner_first",
+    "scheduled_at": "2027-01-25T15:30:00-05:00",
+    "posts": [
+      "If HOA dues are increasing, tell homeowners clearly and early in the budget explanation.\n\nFor example: \"Monthly dues are increasing from $300 to $318.\" Then explain the two or three biggest reasons for the change.\n\nPeople shouldn't have to search through a financial report just to understand how their monthly payment is changing."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "budget-snapshot-homeowner-first-03",
+    "account": "garretts_dev_desk",
+    "theme": "financial_transparency",
+    "series": "budget_snapshot_homeowner_first",
+    "scheduled_at": "2027-01-26T09:15:00-05:00",
+    "posts": [
+      "A list of HOA budget numbers becomes much easier to understand when someone explains what changed.\n\nInsurance costs increased. Landscaping expenses shifted. Reserve contributions grew to prepare for future projects.\n\nThat context gives homeowners a clearer picture before they examine the individual line items.\n\nExplore Budget Snapshot: https://budgetsnapshot.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "budget-snapshot-homeowner-first-04",
+    "account": "garretts_dev_desk",
+    "theme": "budget_explanations",
+    "series": "budget_snapshot_homeowner_first",
+    "scheduled_at": "2027-01-26T15:30:00-05:00",
+    "posts": [
+      "\"Landscaping: $65,000\" tells homeowners how much the association plans to spend, but it doesn't explain what they're getting.\n\nDoes that cover mowing, seasonal planting, tree maintenance, irrigation, or common-area upkeep?\n\nWhen presenting an HOA budget, try adding a short explanation to the largest expense categories. It helps connect the dollars to the community."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "budget-snapshot-homeowner-first-05",
+    "account": "garretts_dev_desk",
+    "theme": "community_financial_communication",
+    "series": "budget_snapshot_homeowner_first",
+    "scheduled_at": "2027-01-27T09:15:00-05:00",
+    "posts": [
+      "Making an HOA budget easier to understand doesn't mean removing the detailed financial information.\n\nProvide the full budget, but give homeowners a useful summary of dues, major expenses, reserves, and important changes. People can explore the details once they understand the big picture.\n\nBudget Snapshot was built to help with that: https://budgetsnapshot.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "budget-snapshot-homeowner-first-06",
+    "account": "garretts_dev_desk",
+    "theme": "hoa_community_engagement",
+    "series": "budget_snapshot_homeowner_first",
+    "scheduled_at": "2027-01-27T15:30:00-05:00",
+    "posts": [
+      "A good HOA budget presentation starts with the questions homeowners already have and gradually introduces the larger financial picture.\n\nExplain what dues support, why expenses changed, and what the association is preparing for. Then make the full details easy to access.\n\nIf you've ever reviewed an HOA budget, what information did you wish had been explained more clearly?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

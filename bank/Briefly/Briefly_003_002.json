@@ -1,0 +1,80 @@
+[
+  {
+    "id": "briefly-brief-types-01",
+    "account": "garretts_dev_desk",
+    "theme": "business_communication",
+    "series": "briefly_brief_types",
+    "scheduled_at": "2027-01-04T09:15:00-05:00",
+    "posts": [
+      "\"Where are we?\" and \"What should we do?\" are two very different questions.\n\nOne asks for an update on the current situation. The other asks for help making a decision. Even when the project is the same, the document should reflect what the reader needs.\n\nThat's why Briefly supports different brief types: https://briefly.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-brief-types-02",
+    "account": "garretts_dev_desk",
+    "theme": "status_reporting",
+    "series": "briefly_brief_types",
+    "scheduled_at": "2027-01-04T15:30:00-05:00",
+    "posts": [
+      "A good project status update should answer \"Where are we right now?\" without making someone read through an entire week of activity.\n\nFocus on what changed, what matters, what's blocked, and what happens next. Those four pieces give the reader a useful picture of the project's current position.\n\nTry that structure with your next weekly update."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-brief-types-03",
+    "account": "garretts_dev_desk",
+    "theme": "executive_communication",
+    "series": "briefly_brief_types",
+    "scheduled_at": "2027-01-05T09:15:00-05:00",
+    "posts": [
+      "When someone asks for an executive brief, they're usually looking for the important picture without having to reconstruct it from dozens of details.\n\nGive them the context, key facts, risks, and direction they need to understand the situation quickly.\n\nBriefly includes an executive brief format you can use: https://briefly.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-brief-types-04",
+    "account": "garretts_dev_desk",
+    "theme": "decision_making",
+    "series": "briefly_brief_types",
+    "scheduled_at": "2027-01-05T15:30:00-05:00",
+    "posts": [
+      "A decision brief should make the actual choice easy to understand.\n\nWhat are the realistic options? What are the trade-offs? What could go wrong? Which direction do you recommend, and why?\n\nIf you're preparing a document to help someone make a decision, try answering those questions before worrying about formatting."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-brief-types-05",
+    "account": "garretts_dev_desk",
+    "theme": "professional_writing",
+    "series": "briefly_brief_types",
+    "scheduled_at": "2027-01-06T09:15:00-05:00",
+    "posts": [
+      "The same project might need a status update, an executive brief, and a decision brief in the same week.\n\nThe underlying facts haven't changed. The audience and the purpose have.\n\nChoosing the right structure helps you present the information in a way that's useful to each reader.\n\nExplore the different formats in Briefly: https://briefly.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-brief-types-06",
+    "account": "garretts_dev_desk",
+    "theme": "clear_communication",
+    "series": "briefly_brief_types",
+    "scheduled_at": "2027-01-06T15:30:00-05:00",
+    "posts": [
+      "Before choosing a template for your next work update, ask what question the document needs to answer.\n\nWhere are we? What do I need to know? What should we do?\n\nOnce you understand the reader's question, choosing the right structure becomes much easier.\n\nWhich of those three documents do you find yourself writing most often?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

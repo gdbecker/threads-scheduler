@@ -1,0 +1,80 @@
+[
+  {
+    "id": "decision-untangler-research-procrastination-01",
+    "account": "garretts_dev_desk",
+    "theme": "research_as_procrastination",
+    "series": "decision_untangler_research_procrastination",
+    "scheduled_at": "2027-06-17T09:15:00-04:00",
+    "posts": [
+      "Research can be a surprisingly convincing form of procrastination.\n\nTwelve browser tabs, three comparison charts, a Reddit thread, and somehow you're still no closer to choosing. Gathering information feels productive, even when you've stopped learning anything that would change your decision.\n\nDecision Untangler helps you explore what's keeping you stuck: https://decisionuntangler.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "decision-untangler-research-procrastination-02",
+    "account": "garretts_dev_desk",
+    "theme": "useful_decision_research",
+    "series": "decision_untangler_research_procrastination",
+    "scheduled_at": "2027-06-17T15:30:00-04:00",
+    "posts": [
+      "Good research can make a difficult decision much easier.\n\nIf you're considering a new job, learning about the salary, commute, benefits, schedule, and financial implications can genuinely change which option makes sense.\n\nBefore researching further, write down the information you still need and why it matters. That gives your research a purpose and helps you recognize when you've answered the important questions."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "decision-untangler-research-procrastination-03",
+    "account": "garretts_dev_desk",
+    "theme": "knowing_when_to_stop_researching",
+    "series": "decision_untangler_research_procrastination",
+    "scheduled_at": "2027-06-18T09:15:00-04:00",
+    "posts": [
+      "Before opening another browser tab, ask yourself what you could learn that would actually change your decision.\n\nThere's almost always more information available. Another review, opinion, or comparison might be interesting without being useful to your choice.\n\nIf you can't identify a meaningful information gap, try stepping away from research. Decision Untangler can help you reflect on what you already know: https://decisionuntangler.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "decision-untangler-research-procrastination-04",
+    "account": "garretts_dev_desk",
+    "theme": "avoiding_difficult_choices",
+    "series": "decision_untangler_research_procrastination",
+    "scheduled_at": "2027-06-18T15:30:00-04:00",
+    "posts": [
+      "Sometimes opening another tab feels easier than closing one of the doors in front of you.\n\nAs long as you're researching, both possibilities remain open. You can tell yourself you're still gathering information rather than facing the tradeoffs that come with choosing.\n\nIf you've been revisiting the same options for weeks, consider whether you're still learning something useful or simply delaying an uncomfortable decision."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "decision-untangler-research-procrastination-05",
+    "account": "garretts_dev_desk",
+    "theme": "research_to_reflection",
+    "series": "decision_untangler_research_procrastination",
+    "scheduled_at": "2027-06-19T09:15:00-04:00",
+    "posts": [
+      "At some point, a difficult decision may need reflection more than additional research.\n\nWhich tradeoff can you live with? What concern keeps returning? What are you quietly hoping to choose? These questions can reveal things another comparison chart won't.\n\nTry exploring those questions with Decision Untangler, a tool built to help you think through difficult choices: https://decisionuntangler.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "decision-untangler-research-procrastination-06",
+    "account": "garretts_dev_desk",
+    "theme": "decision_information_overload",
+    "series": "decision_untangler_research_procrastination",
+    "scheduled_at": "2027-06-19T15:30:00-04:00",
+    "posts": [
+      "Sometimes another fifteen browser tabs aren't going to save you from making a decision.\n\nYou may already understand the options, know the important facts, and recognize the tradeoffs. What you need now might be a little quiet to consider what all that information means for your life.\n\nHave you ever caught yourself researching something long after you probably had enough information to choose?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

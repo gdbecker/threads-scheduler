@@ -1,0 +1,80 @@
+[
+  {
+    "id": "pbi-sla-analysis-01",
+    "account": "garretts_dev_desk",
+    "theme": "understanding_hidden_problems_in_sla_performance",
+    "series": "pbi_sla_analysis",
+    "scheduled_at": "2028-02-14T09:15:00-05:00",
+    "posts": [
+      "A 95% SLA achievement rate can still hide a customer support problem.\n\nThe headline number looks strong, but the remaining 5% deserves attention. Are those misses scattered across different requests, or are they concentrated in one category where customers consistently wait too long?\n\nMy Customer Support Performance Power BI Kit helps you explore SLA alongside other service metrics: https://garrettsdevdesk.etsy.com/listing/4593960875/power-bi-customer-support-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-sla-analysis-02",
+    "account": "garretts_dev_desk",
+    "theme": "breaking_down_sla_performance_by_issue_category",
+    "series": "pbi_sla_analysis",
+    "scheduled_at": "2028-02-14T15:30:00-05:00",
+    "posts": [
+      "An overall SLA percentage is a useful starting point, but it shouldn't be the last number you examine.\n\nImagine account requests meeting SLA 98% of the time while billing requests reach only 82%. The overall result might still look reassuring, even though one group of customers is having a noticeably different experience.\n\nTry breaking SLA performance down by issue category. Which areas consistently miss expectations, and how much do they contribute to the total?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-sla-analysis-03",
+    "account": "garretts_dev_desk",
+    "theme": "connecting_sla_percentages_with_ticket_counts",
+    "series": "pbi_sla_analysis",
+    "scheduled_at": "2028-02-15T09:15:00-05:00",
+    "posts": [
+      "Two support categories can have the same SLA percentage and very different operational problems.\n\nAn 80% achievement rate across 10 tickets means 2 misses. Across 500 tickets, it means 100. The percentage is identical, but the scale of the issue changes considerably.\n\nMy Customer Support Performance Power BI Kit helps bring workload and SLA reporting into the same view: https://garrettsdevdesk.etsy.com/listing/4593960875/power-bi-customer-support-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-sla-analysis-04",
+    "account": "garretts_dev_desk",
+    "theme": "investigating_causes_of_sla_misses",
+    "series": "pbi_sla_analysis",
+    "scheduled_at": "2028-02-15T15:30:00-05:00",
+    "posts": [
+      "When SLA performance drops, the next question should be where the misses are happening.\n\nLook at the affected categories, ticket priorities, and time periods. Then compare response times, resolution times, and workload to see what might be contributing to the problem.\n\nTry following that sequence the next time you review an SLA report. It can help you move from noticing a missed target toward identifying something your team can actually investigate."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-sla-analysis-05",
+    "account": "garretts_dev_desk",
+    "theme": "using_sla_metrics_as_a_starting_point_for_analysis",
+    "series": "pbi_sla_analysis",
+    "scheduled_at": "2028-02-16T09:15:00-05:00",
+    "posts": [
+      "A KPI should help start a useful conversation, not end it.\n\nKnowing that your support team met SLA 95% of the time is helpful. Understanding which requests missed their targets, how often it happened, and what else changed gives you a much stronger basis for improvement.\n\nI built a customizable Customer Support Performance Power BI Kit with that kind of analysis in mind: https://garrettsdevdesk.etsy.com/listing/4593960875/power-bi-customer-support-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-sla-analysis-06",
+    "account": "garretts_dev_desk",
+    "theme": "asking_better_questions_about_service_level_targets",
+    "series": "pbi_sla_analysis",
+    "scheduled_at": "2028-02-16T15:30:00-05:00",
+    "posts": [
+      "A strong overall SLA result can be encouraging, but it doesn't mean every customer is receiving the same level of service.\n\nSome ticket categories may consistently meet expectations while others struggle. Looking at the number of affected tickets, the timing of misses, and the surrounding workload helps put the headline percentage into perspective.\n\nWhen reviewing SLA performance, would you investigate the lowest-performing category first or the category with the most missed tickets?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

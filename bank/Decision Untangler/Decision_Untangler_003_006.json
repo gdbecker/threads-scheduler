@@ -1,0 +1,80 @@
+[
+  {
+    "id": "decision-untangler-conflicting-priorities-01",
+    "account": "garretts_dev_desk",
+    "theme": "conflicting_decision_signals",
+    "series": "decision_untangler_conflicting_priorities",
+    "scheduled_at": "2027-07-26T09:15:00-04:00",
+    "posts": [
+      "You probably don't need every answer to point toward the same choice.\n\nA thoughtful decision can leave you feeling pulled in two directions. One option might satisfy your practical needs while another speaks to something you've wanted for years. That tension doesn't mean you've failed to think clearly.\n\nDecision Untangler helps you explore the reasons behind those competing feelings: https://decisionuntangler.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "decision-untangler-conflicting-priorities-02",
+    "account": "garretts_dev_desk",
+    "theme": "limitations_of_decision_scoring",
+    "series": "decision_untangler_conflicting_priorities",
+    "scheduled_at": "2027-07-26T15:30:00-04:00",
+    "posts": [
+      "Five reasons to choose Option A and two reasons to choose Option B don't automatically make A the better choice.\n\nOne of those two reasons might represent something deeply important to you, while several of the others are relatively minor conveniences. Simply counting answers can hide that difference.\n\nTry reviewing your reasons individually. Which ones would genuinely affect your everyday life, and which ones are merely nice to have?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "decision-untangler-conflicting-priorities-03",
+    "account": "garretts_dev_desk",
+    "theme": "understanding_competing_values",
+    "series": "decision_untangler_conflicting_priorities",
+    "scheduled_at": "2027-07-27T09:15:00-04:00",
+    "posts": [
+      "Sometimes the most useful part of a decision is discovering why your answers disagree.\n\nMaybe one option keeps appearing when you think about stability, while the other comes up whenever you consider curiosity or personal growth. That pattern tells you something about what each choice represents.\n\nExplore those underlying priorities with Decision Untangler: https://decisionuntangler.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "decision-untangler-conflicting-priorities-04",
+    "account": "garretts_dev_desk",
+    "theme": "identifying_underlying_tradeoffs",
+    "series": "decision_untangler_conflicting_priorities",
+    "scheduled_at": "2027-07-27T15:30:00-04:00",
+    "posts": [
+      "The decision on the surface isn't always the decision you're really wrestling with.\n\nChoosing between two jobs might involve stability versus flexibility. Moving to a new city might involve independence versus belonging. Starting something new might involve security versus possibility.\n\nTry describing your decision without naming either option. What two important things are you actually weighing against each other?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "decision-untangler-conflicting-priorities-05",
+    "account": "garretts_dev_desk",
+    "theme": "clarity_through_tradeoffs",
+    "series": "decision_untangler_conflicting_priorities",
+    "scheduled_at": "2027-07-28T09:15:00-04:00",
+    "posts": [
+      "Feeling pulled in two directions can sometimes mean you're finally seeing the tradeoff clearly.\n\nMeaningful decisions often involve giving up something you genuinely value. You might want both the security of your current situation and the possibilities offered by a new opportunity. Neither desire has to disappear before you choose.\n\nDecision Untangler helps you examine those tradeoffs: https://decisionuntangler.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "decision-untangler-conflicting-priorities-06",
+    "account": "garretts_dev_desk",
+    "theme": "decision_clarity_without_consensus",
+    "series": "decision_untangler_conflicting_priorities",
+    "scheduled_at": "2027-07-28T15:30:00-04:00",
+    "posts": [
+      "Clarity doesn't always mean every consideration points toward the same answer.\n\nSometimes it means understanding exactly why two options are difficult to compare. You can recognize the value in both paths, acknowledge what you'd be giving up, and still make a thoughtful decision.\n\nHave you ever felt clearer about a choice once you understood the tradeoff, even though choosing still wasn't easy?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

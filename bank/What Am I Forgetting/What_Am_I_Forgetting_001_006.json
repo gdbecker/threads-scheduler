@@ -1,0 +1,80 @@
+[
+  {
+    "id": "waf-small-useful-software-01",
+    "account": "garretts_dev_desk",
+    "theme": "appreciating_software_for_small_everyday_problems",
+    "series": "waf_small_useful_software",
+    "scheduled_at": "2027-12-20T09:15:00-05:00",
+    "posts": [
+      "Software doesn't always need to solve a huge problem to be useful.\n\nSometimes the problem is simply that you're heading out the door and have a nagging feeling you've forgotten something. A little help at the right moment can make an ordinary day easier.\n\nThat's why I built What Am I Forgetting?, a simple tool for catching overlooked details before they become inconvenient: https://whatamiforgetting.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-small-useful-software-02",
+    "account": "garretts_dev_desk",
+    "theme": "keeping_everyday_preparation_simple",
+    "series": "waf_small_useful_software",
+    "scheduled_at": "2027-12-20T15:30:00-05:00",
+    "posts": [
+      "Not every everyday problem needs a new productivity system.\n\nIf you're worried about forgetting something before an appointment, trip, or errand, you probably don't want to spend twenty minutes organizing a dashboard. You just want a little help thinking through what matters.\n\nTry describing your next outing in one sentence. Then ask what you need to bring, confirm, or do beforehand. A quick review may be all the preparation you need."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-small-useful-software-03",
+    "account": "garretts_dev_desk",
+    "theme": "using_a_second_set_of_eyes_for_preparation",
+    "series": "waf_small_useful_software",
+    "scheduled_at": "2027-12-21T09:15:00-05:00",
+    "posts": [
+      "Sometimes all you want is a second set of eyes before heading out.\n\nYou know where you're going and what you're doing, but a quick review might remind you about the paperwork, charger, or small commitment that slipped your mind. The goal is to catch what you can and move on.\n\nWhat Am I Forgetting? was built around that simple idea. Give it a try: https://whatamiforgetting.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-small-useful-software-04",
+    "account": "garretts_dev_desk",
+    "theme": "reviewing_objects_people_and_logistics",
+    "series": "waf_small_useful_software",
+    "scheduled_at": "2027-12-21T15:30:00-05:00",
+    "posts": [
+      "A useful preparation checklist should consider more than what's going into your bag.\n\nYou might need to confirm a meeting time, send someone a message, check transportation arrangements, or follow up on something you promised. Those details can be just as important as remembering your keys.\n\nBefore your next outing, try reviewing three categories: things to bring, people to contact, and details to confirm. See what comes to mind."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-small-useful-software-05",
+    "account": "garretts_dev_desk",
+    "theme": "designing_tools_that_respect_peoples_time",
+    "series": "waf_small_useful_software",
+    "scheduled_at": "2027-12-22T09:15:00-05:00",
+    "posts": [
+      "One of my favorite ideas in software design is that a useful tool should eventually give you permission to close it.\n\nYou open it for a specific reason, get the help you need, and return to your day. There's value in software that doesn't demand another ongoing routine or complicated system to maintain.\n\nThat's the approach I took with What Am I Forgetting?: https://whatamiforgetting.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-small-useful-software-06",
+    "account": "garretts_dev_desk",
+    "theme": "recognizing_the_value_of_modest_software_tools",
+    "series": "waf_small_useful_software",
+    "scheduled_at": "2027-12-22T15:30:00-05:00",
+    "posts": [
+      "Useful software can be surprisingly modest.\n\nOne understandable job, a little help when you need it, and then you're free to get on with your day. Sometimes that's more valuable than having another elaborate system to manage. Especially if it helps you remember the lunch sitting in your refrigerator before you're ten miles down the road.\n\nWhat's a small, everyday annoyance you wish someone would build a simple tool to solve?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

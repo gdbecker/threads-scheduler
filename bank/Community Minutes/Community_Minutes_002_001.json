@@ -1,0 +1,80 @@
+[
+  {
+    "id": "community-minutes-less-is-more-01",
+    "account": "garretts_dev_desk",
+    "theme": "effective_meeting_notes",
+    "series": "community_minutes_less_is_more",
+    "scheduled_at": "2027-04-15T09:15:00-04:00",
+    "posts": [
+      "You probably don't need to write down as much as you think when preparing meeting minutes.\n\nMore notes don't automatically create a better record. Sometimes they make the decisions, responsibilities, and unresolved questions harder to find.\n\nI built Community Minutes to help organize those important details into a useful record: https://communityminutes.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "community-minutes-less-is-more-02",
+    "account": "garretts_dev_desk",
+    "theme": "meeting_discussion_vs_record",
+    "series": "community_minutes_less_is_more",
+    "scheduled_at": "2027-04-15T15:30:00-04:00",
+    "posts": [
+      "A meeting is a conversation. The minutes are a record of what happened.\n\nThe discussion helps people consider options, raise concerns, and work toward decisions. The finished minutes preserve the information people will need after everyone leaves the room.\n\nWhen reviewing your draft, consider whether each detail helps someone understand an important outcome or responsibility."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "community-minutes-less-is-more-03",
+    "account": "garretts_dev_desk",
+    "theme": "meeting_note_workflow",
+    "series": "community_minutes_less_is_more",
+    "scheduled_at": "2027-04-16T09:15:00-04:00",
+    "posts": [
+      "Your working meeting notes can be much more detailed than the finished minutes.\n\nWhile people are talking, you may not know which information will shape the eventual decision. Capture enough to follow the conversation, then organize and simplify once the outcome is clear.\n\nCommunity Minutes helps with that transition from rough notes to a structured record: https://communityminutes.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "community-minutes-less-is-more-04",
+    "account": "garretts_dev_desk",
+    "theme": "important_meeting_moments",
+    "series": "community_minutes_less_is_more",
+    "scheduled_at": "2027-04-16T15:30:00-04:00",
+    "posts": [
+      "When taking notes during a board or committee meeting, pay extra attention when the conversation turns into a decision.\n\nMotions, votes, approvals, assignments, and deferred issues deserve careful documentation because people may rely on those details later.\n\nYou can summarize much of the surrounding discussion, but the important outcomes should be recorded accurately."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "community-minutes-less-is-more-05",
+    "account": "garretts_dev_desk",
+    "theme": "capturing_meeting_action_items",
+    "series": "community_minutes_less_is_more",
+    "scheduled_at": "2027-04-17T09:15:00-04:00",
+    "posts": [
+      "Sometimes the most important sentence in a 15-minute meeting discussion is \"I can call the vendor tomorrow.\"\n\nThat small commitment creates a follow-up responsibility. If nobody records who volunteered or what they agreed to do, the task can disappear between meetings.\n\nKeep action items organized with Community Minutes: https://communityminutes.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "community-minutes-less-is-more-06",
+    "account": "garretts_dev_desk",
+    "theme": "meeting_record_priorities",
+    "series": "community_minutes_less_is_more",
+    "scheduled_at": "2027-04-17T15:30:00-04:00",
+    "posts": [
+      "The goal of meeting minutes is to preserve the information people will need after the meeting ends.\n\nCapture enough detail to understand the conversation, then carry forward the decisions, action items, and unresolved questions that matter for future work.\n\nIf you take meeting minutes regularly, do you find it harder to capture enough information during the meeting or decide what to leave out afterward?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

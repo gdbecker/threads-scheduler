@@ -1,0 +1,80 @@
+[
+  {
+    "id": "thinking-lens-one-missing-answer-01",
+    "account": "garretts_dev_desk",
+    "theme": "identifying_the_question_behind_the_problem",
+    "series": "thinking_lens_one_missing_answer",
+    "scheduled_at": "2027-11-15T09:15:00-05:00",
+    "posts": [
+      "Sometimes a problem feels enormous because one unanswered question is creating several possible futures.\n\nYou start planning for every outcome, preparing for different reactions, and imagining complications that may never happen. Finding the missing information could make the whole situation easier to understand.\n\nExplore your problem from a different perspective with The Thinking Lens: https://thethinkinglens.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "thinking-lens-one-missing-answer-02",
+    "account": "garretts_dev_desk",
+    "theme": "finding_the_key_unknown",
+    "series": "thinking_lens_one_missing_answer",
+    "scheduled_at": "2027-11-15T15:30:00-05:00",
+    "posts": [
+      "When you're struggling with a complicated decision, try asking: What am I waiting to find out?\n\nSometimes several concerns depend on one missing piece of information. You might need a price, a deadline, someone's availability, or an answer to a question you've been avoiding.\n\nWrite down the unknowns affecting your decision. Then identify which answer would have the greatest impact on what you do next."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "thinking-lens-one-missing-answer-03",
+    "account": "garretts_dev_desk",
+    "theme": "avoiding_unnecessary_hypothetical_planning",
+    "series": "thinking_lens_one_missing_answer",
+    "scheduled_at": "2027-11-16T09:15:00-05:00",
+    "posts": [
+      "You don't have to solve every possible version of a problem before you know which one you're actually facing.\n\nIt's easy to spend hours preparing for outcomes that depend on an unanswered question. Once you have the answer, some of those hypothetical problems may disappear entirely.\n\nThe Thinking Lens helps you separate what you know from what you're assuming: https://thethinkinglens.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "thinking-lens-one-missing-answer-04",
+    "account": "garretts_dev_desk",
+    "theme": "asking_questions_instead_of_making_assumptions",
+    "series": "thinking_lens_one_missing_answer",
+    "scheduled_at": "2027-11-16T15:30:00-05:00",
+    "posts": [
+      "Maybe you don't need another elaborate plan. Maybe you need to ask someone a question.\n\nA quick conversation could clarify the deadline, confirm a requirement, or reveal an option you didn't know existed. Sometimes the information we're missing is easier to obtain than we expect.\n\nTry identifying one assumption that's shaping your plans. Is there a person you could ask or a source you could check to find out what's actually true?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "thinking-lens-one-missing-answer-05",
+    "account": "garretts_dev_desk",
+    "theme": "making_research_purposeful",
+    "series": "thinking_lens_one_missing_answer",
+    "scheduled_at": "2027-11-17T09:15:00-05:00",
+    "posts": [
+      "More research isn't always the answer. Sometimes you need a clearer reason for researching.\n\nBefore opening another tab or reading another article, ask what specific information you're trying to find and how it would affect your next step. That gives your research a purpose and helps you recognize when you've learned enough.\n\nExplore better questions with The Thinking Lens: https://thethinkinglens.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "thinking-lens-one-missing-answer-06",
+    "account": "garretts_dev_desk",
+    "theme": "simplifying_problems_with_real_information",
+    "series": "thinking_lens_one_missing_answer",
+    "scheduled_at": "2027-11-17T15:30:00-05:00",
+    "posts": [
+      "One small piece of real information can make a complicated problem feel surprisingly manageable.\n\nYou may still have a difficult decision to make, but at least you're responding to what actually exists instead of preparing for every imagined possibility. Sometimes that shift alone can make the next step clearer.\n\nHave you ever spent days worrying through different scenarios, only to have one conversation or answer simplify the entire situation?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

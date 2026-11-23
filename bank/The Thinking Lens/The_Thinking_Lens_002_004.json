@@ -1,0 +1,80 @@
+[
+  {
+    "id": "thinking-lens-imagined-conversations-01",
+    "account": "garretts_dev_desk",
+    "theme": "recognizing_imagined_conversations",
+    "series": "thinking_lens_imagined_conversations",
+    "scheduled_at": "2027-11-01T09:15:00-04:00",
+    "posts": [
+      "Have you ever rehearsed a difficult conversation so many times that you started believing you knew exactly how the other person would respond?\n\nIt's easy to imagine someone's reaction so vividly that a possibility begins feeling like a fact. But the conversation hasn't actually happened yet.\n\nExplore assumptions like these with The Thinking Lens: https://thethinkinglens.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "thinking-lens-imagined-conversations-02",
+    "account": "garretts_dev_desk",
+    "theme": "distinguishing_empathy_from_prediction",
+    "series": "thinking_lens_imagined_conversations",
+    "scheduled_at": "2027-11-01T15:30:00-04:00",
+    "posts": [
+      "Considering someone else's perspective is useful. Assuming you already know their reaction can make things harder.\n\nThere's a meaningful difference between \"They might be disappointed\" and \"They will be disappointed.\" The first leaves room for uncertainty. The second can quietly become a conclusion.\n\nTry noticing when your thoughts shift from possibility to certainty. What evidence do you actually have about how that person feels?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "thinking-lens-imagined-conversations-03",
+    "account": "garretts_dev_desk",
+    "theme": "avoiding_hypothetical_problem_stacking",
+    "series": "thinking_lens_imagined_conversations",
+    "scheduled_at": "2027-11-02T09:15:00-04:00",
+    "posts": [
+      "One difficult decision can start feeling like five separate problems when you imagine every possible reaction.\n\nNow you're trying to solve the decision itself, someone's disappointment, an awkward conversation, and everything that might happen afterward. Much of that extra weight may come from outcomes you haven't confirmed.\n\nThe Thinking Lens helps you separate assumptions from what you know: https://thethinkinglens.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "thinking-lens-imagined-conversations-04",
+    "account": "garretts_dev_desk",
+    "theme": "acknowledging_limits_of_information",
+    "series": "thinking_lens_imagined_conversations",
+    "scheduled_at": "2027-11-02T15:30:00-04:00",
+    "posts": [
+      "\"I don't know how they'll react\" can be a surprisingly useful conclusion.\n\nIt acknowledges that you've considered another person's perspective while recognizing where your information ends. You can prepare thoughtfully without pretending to know their response in advance.\n\nTry writing down what you know about an upcoming conversation and what you're predicting. Which concerns could only be answered by speaking with the person?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "thinking-lens-imagined-conversations-05",
+    "account": "garretts_dev_desk",
+    "theme": "replacing_predictions_with_real_conversations",
+    "series": "thinking_lens_imagined_conversations",
+    "scheduled_at": "2027-11-03T09:15:00-04:00",
+    "posts": [
+      "Sometimes the most useful next step is having the conversation you've been rehearsing in your head.\n\nYou can spend hours predicting someone's response, but asking a thoughtful question and listening to their answer may reveal something you couldn't have known beforehand. Let the real person contribute their own perspective.\n\nExplore your thinking before that conversation with The Thinking Lens: https://thethinkinglens.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "thinking-lens-imagined-conversations-06",
+    "account": "garretts_dev_desk",
+    "theme": "making_room_for_other_peoples_perspectives",
+    "series": "thinking_lens_imagined_conversations",
+    "scheduled_at": "2027-11-03T15:30:00-04:00",
+    "posts": [
+      "You don't have to write both sides of a conversation before it happens.\n\nPreparing for a difficult discussion can be helpful, but the other person deserves room to express what they actually think and feel. Their response may be different from the one you've imagined, and listening is how you find out.\n\nHave you ever worried about how someone would react to a conversation, only to discover they saw the situation completely differently?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

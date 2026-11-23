@@ -1,0 +1,80 @@
+[
+  {
+    "id": "pbi-sales-questions-01",
+    "account": "garretts_dev_desk",
+    "theme": "asking_better_questions_about_sales_performance",
+    "series": "pbi_sales_performance_questions",
+    "scheduled_at": "2028-06-12T09:15:00-04:00",
+    "posts": [
+      "Strong sales numbers can hide important questions about how a business is actually performing.\n\nRevenue tells you how much was sold, but order activity, product contribution, transactions, and purchasing provide additional context. Looking beyond the headline number can lead to more useful conversations.\n\nMy Sales Performance & Commercial Operations Power BI Kit helps explore those questions: https://garrettsdevdesk.etsy.com/listing/4595438858/power-bi-sales-dashboard-template-sales"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-sales-questions-02",
+    "account": "garretts_dev_desk",
+    "theme": "understanding_revenue_growth_through_orders_and_order_value",
+    "series": "pbi_sales_performance_questions",
+    "scheduled_at": "2028-06-12T15:30:00-04:00",
+    "posts": [
+      "Revenue increased this month. That's encouraging, but what actually changed?\n\nMore orders and higher average order values can both contribute to growth, and they tell different stories about sales activity. Units sold can add another useful perspective.\n\nTry comparing revenue, order count, units sold, and average order value across two reporting periods. Which measure explains the largest part of the change?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-sales-questions-03",
+    "account": "garretts_dev_desk",
+    "theme": "identifying_products_that_drive_sales_revenue",
+    "series": "pbi_sales_performance_questions",
+    "scheduled_at": "2028-06-13T09:15:00-04:00",
+    "posts": [
+      "Which products are doing most of the heavy lifting in your sales results?\n\nA relatively small group of products may account for a substantial share of revenue. Comparing products, brands, and categories helps reveal where sales are concentrated and which areas deserve closer attention.\n\nMy Sales Performance & Commercial Operations Power BI Kit includes a dedicated Product Performance page: https://garrettsdevdesk.etsy.com/listing/4595438858/power-bi-sales-dashboard-template-sales"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-sales-questions-04",
+    "account": "garretts_dev_desk",
+    "theme": "examining_sales_transactions_and_payment_records",
+    "series": "pbi_sales_performance_questions",
+    "scheduled_at": "2028-06-13T15:30:00-04:00",
+    "posts": [
+      "A revenue total is useful, but the transactions behind it often raise worthwhile questions.\n\nPayment methods, taxes, transaction values, and posting activity help explain how recorded sales appear in the underlying data. Reviewing those details can make summary reports easier to interpret.\n\nTry choosing one reporting period and examining the transaction records behind its sales total. Are there patterns or differences worth investigating?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-sales-questions-05",
+    "account": "garretts_dev_desk",
+    "theme": "understanding_vendor_spending_and_purchasing_obligations",
+    "series": "pbi_sales_performance_questions",
+    "scheduled_at": "2028-06-14T09:15:00-04:00",
+    "posts": [
+      "How much attention does your commercial reporting give to what the business purchases?\n\nVendor spending, purchasing trends, invoice status, and overdue amounts provide important context alongside sales activity. These measures help teams understand another part of their operating picture.\n\nMy Sales Performance & Commercial Operations Power BI Kit includes a Purchasing & Vendor Activity dashboard: https://garrettsdevdesk.etsy.com/listing/4595438858/power-bi-sales-dashboard-template-sales"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-sales-questions-06",
+    "account": "garretts_dev_desk",
+    "theme": "discussing_the_most_useful_sales_reporting_questions",
+    "series": "pbi_sales_performance_questions",
+    "scheduled_at": "2028-06-14T15:30:00-04:00",
+    "posts": [
+      "A good sales dashboard should help people ask better questions about the business.\n\nRevenue trends are a starting point, but order volume, average order value, product concentration, transaction activity, and vendor spending can reveal different parts of the story. The most useful reporting often connects those perspectives.\n\nIf you could add just one question to your organization's regular sales reporting review, what would you want the dashboard to help answer?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

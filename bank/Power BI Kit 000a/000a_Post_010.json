@@ -1,0 +1,80 @@
+[
+  {
+    "id": "pbi-meeting-confidence-01",
+    "account": "garretts_dev_desk",
+    "theme": "feeling_prepared_to_discuss_support_performance",
+    "series": "pbi_meeting_confidence",
+    "scheduled_at": "2028-03-06T09:15:00-05:00",
+    "posts": [
+      "There's a certain confidence that comes from knowing your numbers before a meeting starts.\n\nSomeone asks how customer support is performing, and you already have a sense of what's changed, where the pressure is building, and what deserves attention. That preparation makes the conversation more useful.\n\nMy Customer Support Performance Power BI Kit provides a customizable reporting starting point: https://garrettsdevdesk.etsy.com/listing/4593960875/power-bi-customer-support-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-meeting-confidence-02",
+    "account": "garretts_dev_desk",
+    "theme": "preparing_for_support_performance_review_meetings",
+    "series": "pbi_meeting_confidence",
+    "scheduled_at": "2028-03-06T15:30:00-05:00",
+    "posts": [
+      "A little preparation can make a support performance meeting much more productive.\n\nBefore the meeting, review ticket volume, response times, SLA results, and customer satisfaction. Look for changes from the previous period and identify anything unusual enough to deserve a closer look.\n\nTry arriving with three observations and two questions rather than a long collection of disconnected metrics. It gives the conversation somewhere useful to begin."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-meeting-confidence-03",
+    "account": "garretts_dev_desk",
+    "theme": "investigating_support_metrics_beyond_headline_numbers",
+    "series": "pbi_meeting_confidence",
+    "scheduled_at": "2028-03-07T09:15:00-05:00",
+    "posts": [
+      "The first number in a performance review is rarely the last question.\n\nIf ticket volume increased, someone may ask which categories drove it. If SLA declined, they'll want to know where. Being able to explore those details makes reporting more useful than simply presenting a KPI.\n\nMy Customer Support Performance Power BI Kit brings these reporting dimensions together: https://garrettsdevdesk.etsy.com/listing/4593960875/power-bi-customer-support-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-meeting-confidence-04",
+    "account": "garretts_dev_desk",
+    "theme": "turning_support_metrics_into_productive_discussions",
+    "series": "pbi_meeting_confidence",
+    "scheduled_at": "2028-03-07T15:30:00-05:00",
+    "posts": [
+      "The most useful part of a reporting meeting often begins after everyone has seen the numbers.\n\nOnce the team understands what changed, the conversation can move toward possible causes, operational constraints, and next steps. That's where preparation starts paying off.\n\nTry organizing your next support update around three questions: What changed? Where did it happen? What should we investigate next? Leave room for uncertainty when the data doesn't explain everything."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-meeting-confidence-05",
+    "account": "garretts_dev_desk",
+    "theme": "starting_with_a_customizable_support_reporting_dashboard",
+    "series": "pbi_meeting_confidence",
+    "scheduled_at": "2028-03-08T09:15:00-05:00",
+    "posts": [
+      "You don't necessarily need another blank Power BI file. You may need a better starting point for the questions your team already asks.\n\nA customizable dashboard can help you review support trends, investigate performance changes, and prepare for discussions without designing every visual from scratch.\n\nMy Customer Support Performance Power BI Kit includes an editable report, sample data, documented DAX, and guides: https://garrettsdevdesk.etsy.com/listing/4593960875/power-bi-customer-support-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-meeting-confidence-06",
+    "account": "garretts_dev_desk",
+    "theme": "building_confidence_through_better_business_reporting",
+    "series": "pbi_meeting_confidence",
+    "scheduled_at": "2028-03-08T15:30:00-05:00",
+    "posts": [
+      "Good reporting can change how you feel walking into a meeting.\n\nWhen you understand the trends, know where to investigate, and can explain the limitations of the data, you're better prepared for the questions that follow. You don't need every answer in advance, but having a clear picture helps.\n\nFor those who regularly present dashboards or performance reports, what helps you feel most prepared before a meeting?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

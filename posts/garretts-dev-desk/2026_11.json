@@ -1,0 +1,226 @@
+[
+  {
+    "id": "pbi-support-metrics-01",
+    "account": "garretts_dev_desk",
+    "theme": "understanding_support_kpis_together",
+    "series": "pbi_customer_support_metrics",
+    "scheduled_at": "2026-11-24T09:15:00-05:00",
+    "posts": [
+      "A good customer support KPI can hide a frustrating customer experience.\n\nFast resolutions, strong SLA performance, and high satisfaction scores don't always tell the same story. A team might be meeting its targets while certain customers are still waiting too long or struggling to get useful answers.\n\nI built a free Customer Support Performance Power BI Kit to help connect these metrics: https://garrettsdevdesk.etsy.com/listing/4593960875/power-bi-customer-support-dashboard"
+    ],
+    "media": [
+      {
+        "type": "image",
+        "path": "media/garretts_dev_desk/power_bi/000a_cover.png",
+        "alt": "Preview of the Customer Support Performance Power BI Dashboard Kit"
+      }
+    ],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-support-metrics-02",
+    "account": "garretts_dev_desk",
+    "theme": "analyzing_ticket_volume_with_context",
+    "series": "pbi_customer_support_metrics",
+    "scheduled_at": "2026-11-24T15:30:00-05:00",
+    "posts": [
+      "Before judging a support team's performance, look at the workload it's handling.\n\nA rise in ticket volume might reflect a product issue, seasonal demand, or increased customer activity. The total alone won't explain what's happening.\n\nTry breaking ticket volume down by channel, category, and time period. Those comparisons can help you understand whether the team is facing a general increase in demand or a specific problem that needs attention."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-subscription-health-01",
+    "account": "garretts_dev_desk",
+    "theme": "understanding_why_mrr_growth_is_not_enough",
+    "series": "pbi_subscription_health_foundations",
+    "scheduled_at": "2026-11-25T09:15:00-04:00",
+    "posts": [
+      "MRR is growing. That doesn't automatically mean your subscription business is healthy.\n\nRecurring revenue can increase while customer churn, plan downgrades, or slowing customer growth create problems underneath the headline number. Understanding the full picture means looking beyond revenue alone.\n\nMy Subscription Health Power BI Kit brings these measures together: https://garrettsdevdesk.etsy.com/listing/4595420792/power-bi-subscription-dashboard-template"
+    ],
+    "media": [
+      {
+        "type": "image",
+        "path": "media/garretts_dev_desk/power_bi/000b_cover.png",
+        "alt": "Preview of the Subscription Health Power BI Dashboard Kit"
+      }
+    ],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-subscription-health-02",
+    "account": "garretts_dev_desk",
+    "theme": "tracking_monthly_recurring_revenue_trends",
+    "series": "pbi_subscription_health_foundations",
+    "scheduled_at": "2026-11-25T15:30:00-04:00",
+    "posts": [
+      "Monthly recurring revenue gives you a useful starting point for understanding a subscription business.\n\nTrack MRR over time to see whether the recurring revenue base is expanding, contracting, or staying relatively stable. Then look at the size and consistency of those changes rather than focusing only on the latest total.\n\nTry comparing the last six months of MRR. Is growth accelerating, slowing, or becoming more unpredictable?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-financial-perspectives-01",
+    "account": "garretts_dev_desk",
+    "theme": "understanding_the_difference_between_profitability_and_cash_flow",
+    "series": "pbi_financial_performance_perspectives",
+    "scheduled_at": "2026-11-26T09:15:00-04:00",
+    "posts": [
+      "A business can report strong profits and still face pressure on its cash flow.\n\nRevenue and profitability help explain financial performance, but they don't always show when money will actually arrive or leave the business. Understanding both perspectives matters when planning ahead.\n\nMy Financial Performance & Cash Flow Power BI Kit brings these views together: https://garrettsdevdesk.etsy.com/listing/4595413257/power-bi-financial-dashboard-template-13"
+    ],
+    "media": [
+      {
+        "type": "image",
+        "path": "media/garretts_dev_desk/power_bi/001_cover.png",
+        "alt": "Preview of the Financial Performance & Cash Flow Power BI Dashboard Kit"
+      }
+    ],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-financial-perspectives-02",
+    "account": "garretts_dev_desk",
+    "theme": "reading_revenue_margins_and_liquidity_together",
+    "series": "pbi_financial_performance_perspectives",
+    "scheduled_at": "2026-11-26T15:30:00-04:00",
+    "posts": [
+      "Revenue is growing, margins are holding steady, and cash balances are declining. What does that tell you?\n\nEach measure describes a different part of financial performance. The combination may point toward working capital needs, payment timing, or other factors worth investigating.\n\nTry reviewing revenue, profitability, and cash trends side by side for the same reporting periods. Where do the trends agree, and where do they tell different stories?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-sales-operations-01",
+    "account": "garretts_dev_desk",
+    "theme": "understanding_sales_performance_beyond_revenue",
+    "series": "pbi_sales_commercial_operations",
+    "scheduled_at": "2026-11-27T09:15:00-04:00",
+    "posts": [
+      "Your sales dashboard might only be telling half the story.\n\nRevenue is important, but understanding which products drive sales, how transactions are recorded, and what the business is purchasing adds valuable context. Those details help build a fuller picture of commercial performance.\n\nMy Sales Performance & Commercial Operations Power BI Kit brings these views together: https://garrettsdevdesk.etsy.com/listing/4595438858/power-bi-sales-dashboard-template-sales"
+    ],
+    "media": [
+      {
+        "type": "image",
+        "path": "media/garretts_dev_desk/power_bi/002_cover.png",
+        "alt": "Preview of the Sales Performance & Commercial Operations Power BI Dashboard Kit"
+      }
+    ],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-sales-operations-02",
+    "account": "garretts_dev_desk",
+    "theme": "evaluating_sales_revenue_orders_and_average_order_value",
+    "series": "pbi_sales_commercial_operations",
+    "scheduled_at": "2026-11-27T15:30:00-04:00",
+    "posts": [
+      "Revenue is a useful starting point for sales reporting, but it becomes more meaningful alongside other measures.\n\nOrder counts, units sold, and average order value help explain how sales activity is developing. Looking at these metrics over time can reveal changes that a single revenue figure might miss.\n\nTry comparing revenue growth with changes in order volume and average order value. Is growth coming from more orders, larger orders, or a combination of both?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-workforce-performance-01",
+    "account": "garretts_dev_desk",
+    "theme": "understanding_the_people_products_and_locations_behind_sales",
+    "series": "pbi_workforce_sales_performance",
+    "scheduled_at": "2026-11-28T09:15:00-04:00",
+    "posts": [
+      "Your sales numbers only tell half the story.\n\nRevenue shows what a business generated, but understanding employee contributions, product performance, and location results adds important context. Those details can help explain what's happening across the organization.\n\nMy Workforce Performance & Sales Activity Power BI Kit brings these perspectives together in three editable dashboard pages: https://garrettsdevdesk.etsy.com/listing/4595444828/power-bi-sales-performance-dashboard"
+    ],
+    "media": [
+      {
+        "type": "image",
+        "path": "media/garretts_dev_desk/power_bi/003_cover.png",
+        "alt": "Preview of the Workforce Performance & Sales Activity Power BI Dashboard Kit"
+      }
+    ],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-workforce-performance-02",
+    "account": "garretts_dev_desk",
+    "theme": "reviewing_sales_targets_profitability_and_employee_contribution",
+    "series": "pbi_workforce_sales_performance",
+    "scheduled_at": "2026-11-28T15:30:00-04:00",
+    "posts": [
+      "A revenue total becomes more useful when you can see what contributed to it.\n\nSales targets, gross profit, and employee activity provide additional perspectives on performance. Reviewing these measures together helps you understand results beyond the headline number.\n\nTry looking at your latest sales report and asking three questions: How are we performing against targets? What does profitability look like? Where are employees contributing most?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-field-performance-01",
+    "account": "garretts_dev_desk",
+    "theme": "understanding_field_team_activity_vs_performance",
+    "series": "pbi_field_team_performance_overview",
+    "scheduled_at": "2026-11-29T09:15:00-04:00",
+    "posts": [
+      "Your field team is busy. But is it performing?\n\nA full schedule can show how much work was assigned or completed, but it doesn't explain productivity, service quality, or repeat visits. Those details matter when you're trying to understand how the team is actually doing.\n\nMy Field Team Performance Power BI Kit includes four editable dashboards for exploring these questions: https://garrettsdevdesk.etsy.com/listing/4595448076/power-bi-field-team-performance"
+    ],
+    "media": [
+      {
+        "type": "image",
+        "path": "media/garretts_dev_desk/power_bi/004_cover.png",
+        "alt": "Preview of the Field Team Performance Power BI Dashboard Kit"
+      }
+    ],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-field-performance-02",
+    "account": "garretts_dev_desk",
+    "theme": "reviewing_field_team_completion_productivity_and_quality",
+    "series": "pbi_field_team_performance_overview",
+    "scheduled_at": "2026-11-29T15:30:00-04:00",
+    "posts": [
+      "Before digging into individual field jobs, it helps to understand the bigger picture.\n\nCompletion rates, productivity, repeat work, and performance against targets can reveal different aspects of how a field operation is running. Reviewing them together gives managers a more useful starting point.\n\nTry choosing four measures for a weekly field team overview. Make sure they cover output, efficiency, quality, and progress toward expectations."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-bd-pipeline-01",
+    "account": "garretts_dev_desk",
+    "theme": "understanding_pipeline_value_vs_pipeline_health",
+    "series": "pbi_business_development_pipeline_overview",
+    "scheduled_at": "2026-11-30T09:15:00-04:00",
+    "posts": [
+      "A full business development pipeline doesn't always mean a healthy pipeline.\n\nA large total opportunity value can look encouraging, but it doesn't explain how likely those opportunities are to close or how much business has actually been won. The details behind the total matter.\n\nMy Business Development Performance Power BI Kit helps explore that broader picture: https://garrettsdevdesk.etsy.com/listing/4595453904/power-bi-business-development-dashboard"
+    ],
+    "media": [
+      {
+        "type": "image",
+        "path": "media/garretts_dev_desk/power_bi/005_cover.png",
+        "alt": "Preview of the Business Development Performance Power BI Dashboard Kit"
+      }
+    ],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-bd-pipeline-02",
+    "account": "garretts_dev_desk",
+    "theme": "comparing_total_weighted_and_won_pipeline_value",
+    "series": "pbi_business_development_pipeline_overview",
+    "scheduled_at": "2026-11-30T15:30:00-04:00",
+    "posts": [
+      "Pipeline value becomes more useful when you add context.\n\nTotal opportunity value shows the size of potential business. Probability-weighted value provides another perspective, while won business shows what has actually converted. Looking at all three can help prevent overly optimistic interpretations.\n\nTry putting total pipeline, weighted pipeline, and won value side by side in your next review. Notice how each changes the conversation."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

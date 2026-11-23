@@ -1,0 +1,80 @@
+[
+  {
+    "id": "waf-forgotten-exceptions-01",
+    "account": "garretts_dev_desk",
+    "theme": "remembering_items_outside_daily_routines",
+    "series": "waf_forgotten_exceptions",
+    "scheduled_at": "2027-12-02T09:15:00-05:00",
+    "posts": [
+      "The things we forget aren't usually the obvious things.\n\nPhone, wallet, and keys have become part of our routine. It's the lunch waiting in the fridge, the paperwork beside the printer, or the gift sitting by the stairs that gets left behind.\n\nI built What Am I Forgetting? to help catch those everyday oversights before they become inconvenient surprises: https://whatamiforgetting.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-forgotten-exceptions-02",
+    "account": "garretts_dev_desk",
+    "theme": "noticing_temporary_items_before_leaving",
+    "series": "waf_forgotten_exceptions",
+    "scheduled_at": "2027-12-02T15:30:00-05:00",
+    "posts": [
+      "Our routines remember a surprising amount for us. The exceptions are where things get tricky.\n\nYou rarely forget your everyday bag, but you might forget the charger you borrowed, the library book you're returning, or the package that needs to go in the car.\n\nBefore leaving tomorrow, try asking yourself what you're taking that isn't part of your usual routine. That one question can be more useful than mentally reviewing everything you own."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-forgotten-exceptions-03",
+    "account": "garretts_dev_desk",
+    "theme": "asking_better_questions_to_prevent_forgetting",
+    "series": "waf_forgotten_exceptions",
+    "scheduled_at": "2027-12-03T09:15:00-05:00",
+    "posts": [
+      "Here's a question worth asking before you walk out the door: What do I need today that I don't normally carry?\n\nIt changes the way you think about getting ready. Instead of checking the familiar essentials again, you start looking for the unusual things that are easy to overlook.\n\nWhat Am I Forgetting? gives you a simple place to think through those details: https://whatamiforgetting.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-forgotten-exceptions-04",
+    "account": "garretts_dev_desk",
+    "theme": "using_physical_locations_as_memory_prompts",
+    "series": "waf_forgotten_exceptions",
+    "scheduled_at": "2027-12-03T15:30:00-05:00",
+    "posts": [
+      "Sometimes your house is a better checklist than your memory.\n\nThe fridge holds the lunch you packed. The outlet holds the charger you need. The printer holds the document you meant to bring. And the kitchen counter seems to collect everything else.\n\nBefore heading out, take thirty seconds to scan the places where temporary items tend to wait. It's a small habit that can save you an unnecessary trip back home."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-forgotten-exceptions-05",
+    "account": "garretts_dev_desk",
+    "theme": "keeping_checklists_simple_and_relevant",
+    "series": "waf_forgotten_exceptions",
+    "scheduled_at": "2027-12-04T09:15:00-05:00",
+    "posts": [
+      "A useful checklist doesn't need to contain every possession you own.\n\nFor everyday routines, the most valuable reminders may be the things that are different today. The extra bag, the appointment paperwork, or the item you promised someone you'd bring.\n\nThat's the idea behind What Am I Forgetting?, a simple tool for thinking through what you might overlook: https://whatamiforgetting.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-forgotten-exceptions-06",
+    "account": "garretts_dev_desk",
+    "theme": "appreciating_simple_predeparture_checks",
+    "series": "waf_forgotten_exceptions",
+    "scheduled_at": "2027-12-04T15:30:00-05:00",
+    "posts": [
+      "Sometimes thirty quiet seconds before leaving can save you twenty minutes of turning around later.\n\nYou remember the important appointment, pack your bag, and get out the door on time. Then you realize the water bottle, lunch, or paperwork is still sitting exactly where you left it.\n\nWhat's the one thing you seem to forget most often when you're heading out? I'm curious whether everyone has their own version of the forgotten water bottle."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

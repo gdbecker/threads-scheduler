@@ -1,0 +1,80 @@
+[
+  {
+    "id": "briefly-status-not-diary-01",
+    "account": "garretts_dev_desk",
+    "theme": "project_communication",
+    "series": "briefly_status_not_diary",
+    "scheduled_at": "2026-12-10T09:15:00-05:00",
+    "posts": [
+      "A project status update shouldn't read like a diary of everything your team did this week.\n\nMost readers want to know where things stand, what's changed, and what needs attention. They don't need a play-by-play of every meeting and task.\n\nThat's the thinking behind Briefly: https://briefly.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-status-not-diary-02",
+    "account": "garretts_dev_desk",
+    "theme": "status_reporting",
+    "series": "briefly_status_not_diary",
+    "scheduled_at": "2026-12-10T15:30:00-05:00",
+    "posts": [
+      "One question can make a project update much more useful.\n\nInstead of starting with \"What did we do this week?\" try \"What's different about the project now?\"\n\nThat shift helps you focus on actual progress, decisions, and changes rather than a long list of activities.\n\nHow does your team usually structure status updates?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-status-not-diary-03",
+    "account": "garretts_dev_desk",
+    "theme": "project_management",
+    "series": "briefly_status_not_diary",
+    "scheduled_at": "2026-12-11T09:15:00-05:00",
+    "posts": [
+      "\"We held three meetings, reviewed the design, and discussed testing.\"\n\nCompare that with: \"The design was approved, testing is complete, and the launch date moved to June 1.\"\n\nThe second version tells the reader what actually changed.\n\nTurn your project notes into a clearer update with Briefly: https://briefly.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-status-not-diary-04",
+    "account": "garretts_dev_desk",
+    "theme": "business_writing",
+    "series": "briefly_status_not_diary",
+    "scheduled_at": "2026-12-11T15:30:00-05:00",
+    "posts": [
+      "Here's a quick editing test for your next status update: remove one detail and ask whether the reader would understand the project's situation differently.\n\nIf the answer is no, that detail might belong in your working notes instead.\n\nA useful update makes the important information easier to find, not harder."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-status-not-diary-05",
+    "account": "garretts_dev_desk",
+    "theme": "workplace_productivity",
+    "series": "briefly_status_not_diary",
+    "scheduled_at": "2026-12-12T09:15:00-05:00",
+    "posts": [
+      "Ten pages of meeting notes don't need to become ten pages of project updates.\n\nSometimes a busy week comes down to three meaningful changes, one blocker, and a clear next step. That's enough to give someone a useful picture of where things stand.\n\nTry building a shorter update with Briefly: https://briefly.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-status-not-diary-06",
+    "account": "garretts_dev_desk",
+    "theme": "clear_communication",
+    "series": "briefly_status_not_diary",
+    "scheduled_at": "2026-12-12T15:30:00-05:00",
+    "posts": [
+      "A good project update doesn't need to prove how busy everyone was.\n\nIt needs to explain what changed, what deserves attention, and what happens next. Your detailed notes can preserve the rest.\n\nI built Briefly to help turn scattered project information into a useful one-page brief.\n\nhttps://briefly.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "community-minutes-focused-documents-01",
+    "account": "garretts_dev_desk",
+    "theme": "meeting_document_purpose",
+    "series": "community_minutes_focused_documents",
+    "scheduled_at": "2027-05-10T09:15:00-04:00",
+    "posts": [
+      "Meeting minutes don't have to become a newsletter.\n\nOne document shouldn't have to serve as the official record, project update, friendly recap, and announcement board all at once. Those responsibilities can make an otherwise useful document harder to navigate.\n\nCommunity Minutes helps you prepare both structured minutes and a separate community summary: https://communityminutes.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "community-minutes-focused-documents-02",
+    "account": "garretts_dev_desk",
+    "theme": "audience_focused_communication",
+    "series": "community_minutes_focused_documents",
+    "scheduled_at": "2027-05-10T15:30:00-04:00",
+    "posts": [
+      "One meeting document written for everyone can end up serving nobody particularly well.\n\nIt may become too conversational for someone who needs to verify an official decision and too procedural for a resident who simply wants an update.\n\nBefore adding more information to your meeting minutes, consider whether that information belongs in the formal record or would be more useful in a separate communication."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "community-minutes-focused-documents-03",
+    "account": "garretts_dev_desk",
+    "theme": "formal_meeting_records",
+    "series": "community_minutes_focused_documents",
+    "scheduled_at": "2027-05-11T09:15:00-04:00",
+    "posts": [
+      "A good set of meeting minutes should make it easy to understand what an organization actually did.\n\nMotions, votes, decisions, assignments, and deferred matters deserve clear places in the record. Readers shouldn't have to search through a lengthy recap to find them.\n\nCommunity Minutes helps organize those details into a document you can review and share: https://communityminutes.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "community-minutes-focused-documents-04",
+    "account": "garretts_dev_desk",
+    "theme": "community_meeting_updates",
+    "series": "community_minutes_focused_documents",
+    "scheduled_at": "2027-05-11T15:30:00-04:00",
+    "posts": [
+      "Residents reading an HOA meeting update may care more about what changes next than the procedural details behind every decision.\n\nIf a maintenance project was approved, a helpful summary might explain what work is planned, when it is expected, and whether residents need to do anything.\n\nThink about the questions your audience is likely to have, then write the update around those needs."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "community-minutes-focused-documents-05",
+    "account": "garretts_dev_desk",
+    "theme": "accurate_meeting_summaries",
+    "series": "community_minutes_focused_documents",
+    "scheduled_at": "2027-05-12T09:15:00-04:00",
+    "posts": [
+      "A friendlier meeting summary should never change what actually happened.\n\n\"The board discussed replacing the roof\" and \"The board approved replacing the roof\" describe two very different outcomes. Simpler language is useful, but accuracy still matters.\n\nCommunity Minutes includes a community summary workflow you can review for consistency with the official record: https://communityminutes.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "community-minutes-focused-documents-06",
+    "account": "garretts_dev_desk",
+    "theme": "meeting_communication_strategy",
+    "series": "community_minutes_focused_documents",
+    "scheduled_at": "2027-05-12T15:30:00-04:00",
+    "posts": [
+      "Sometimes clearer communication starts by letting one overloaded meeting document become two focused ones.\n\nThe minutes can preserve the official record, while a separate summary explains the important developments in everyday language. Both should remain grounded in the same facts.\n\nIf you're involved with an HOA, nonprofit, or volunteer board, does your organization prepare separate meeting summaries for members?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

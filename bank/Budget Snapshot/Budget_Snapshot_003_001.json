@@ -1,0 +1,80 @@
+[
+  {
+    "id": "budget-snapshot-reserve-responsibilities-01",
+    "account": "garretts_dev_desk",
+    "theme": "hoa_reserve_funds",
+    "series": "budget_snapshot_reserve_responsibilities",
+    "scheduled_at": "2027-03-04T09:15:00-05:00",
+    "posts": [
+      "Reserve funds make more sense when you start with what the money is actually for.\n\nAn HOA's reserve balance represents resources being set aside for future responsibilities, from shared roofs and roads to equipment and other major repairs.\n\nExplaining those responsibilities gives the balance meaning.\n\nI built Budget Snapshot to support clearer community financial conversations: https://budgetsnapshot.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "budget-snapshot-reserve-responsibilities-02",
+    "account": "garretts_dev_desk",
+    "theme": "long_term_maintenance",
+    "series": "budget_snapshot_reserve_responsibilities",
+    "scheduled_at": "2027-03-04T15:30:00-05:00",
+    "posts": [
+      "A community road doesn't suddenly become a financial responsibility when the pavement starts falling apart.\n\nThe responsibility exists throughout the years the HOA owns and maintains it, including the years when everything looks fine.\n\nThat's why reserve planning matters. It helps communities prepare for major work long before the bill arrives."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "budget-snapshot-reserve-responsibilities-03",
+    "account": "garretts_dev_desk",
+    "theme": "reserve_fund_planning",
+    "series": "budget_snapshot_reserve_responsibilities",
+    "scheduled_at": "2027-03-05T09:15:00-05:00",
+    "posts": [
+      "Roofs, pavement, fencing, and shared equipment won't last forever. Their eventual replacement shouldn't come as a complete surprise.\n\nReserve contributions help communities prepare gradually for larger expenses that may arrive years from now.\n\nWhen explaining an HOA's finances, connect today's contributions to the future work they're intended to support.\n\nBudget Snapshot: https://budgetsnapshot.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "budget-snapshot-reserve-responsibilities-04",
+    "account": "garretts_dev_desk",
+    "theme": "reserve_balance_context",
+    "series": "budget_snapshot_reserve_responsibilities",
+    "scheduled_at": "2027-03-05T15:30:00-05:00",
+    "posts": [
+      "An HOA with $400,000 in reserves might sound well prepared. But the balance alone doesn't tell the whole story.\n\nThat money could be intended for several major projects, each with different costs and timelines.\n\nTry presenting reserve balances alongside the planned responsibilities they're meant to cover. It gives homeowners a much better basis for understanding the financial picture."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "budget-snapshot-reserve-responsibilities-05",
+    "account": "garretts_dev_desk",
+    "theme": "financial_forecasting",
+    "series": "budget_snapshot_reserve_responsibilities",
+    "scheduled_at": "2027-03-06T09:15:00-05:00",
+    "posts": [
+      "A reserve plan is built around estimates, and estimates can change.\n\nConstruction costs rise, equipment lasts longer than expected, and maintenance needs sometimes appear earlier than planned. A useful reserve conversation acknowledges that uncertainty.\n\nShow the current plan, explain its assumptions, and revisit it as conditions change.\n\nExplore Budget Snapshot: https://budgetsnapshot.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "budget-snapshot-reserve-responsibilities-06",
+    "account": "garretts_dev_desk",
+    "theme": "community_financial_transparency",
+    "series": "budget_snapshot_reserve_responsibilities",
+    "scheduled_at": "2027-03-06T15:30:00-05:00",
+    "posts": [
+      "An HOA reserve fund connects today's financial resources with tomorrow's maintenance responsibilities.\n\nWhen homeowners understand which shared assets need care, what major projects may be coming, and how the association is preparing, the reserve balance becomes much more meaningful.\n\nWhen reviewing reserve information, would you rather see the current balance first or the upcoming projects it needs to support?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

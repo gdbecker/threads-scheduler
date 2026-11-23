@@ -1,0 +1,80 @@
+[
+  {
+    "id": "waf-second-set-of-eyes-01",
+    "account": "garretts_dev_desk",
+    "theme": "using_checklists_as_a_second_review",
+    "series": "waf_second_set_of_eyes",
+    "scheduled_at": "2027-12-23T09:15:00-05:00",
+    "posts": [
+      "A good checklist should feel like a second set of eyes.\n\nIt doesn't need to hold every detail of your life. Sometimes its most useful job is helping you notice the small thing you overlooked while preparing for an appointment, trip, or busy day.\n\nThat's the idea behind What Am I Forgetting?, a simple tool for giving your plans one more thoughtful look: https://whatamiforgetting.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-second-set-of-eyes-02",
+    "account": "garretts_dev_desk",
+    "theme": "choosing_reminders_that_improve_clarity",
+    "series": "waf_second_set_of_eyes",
+    "scheduled_at": "2027-12-23T15:30:00-05:00",
+    "posts": [
+      "A longer checklist isn't automatically a more useful checklist.\n\nWhen you keep adding reminders, the important details can get buried among things you already remember without help. The goal is to make your situation easier to review.\n\nNext time you're building a checklist, ask which reminders would genuinely help you catch something important. Keep those visible and consider removing the items that add little value."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-second-set-of-eyes-03",
+    "account": "garretts_dev_desk",
+    "theme": "using_specific_context_for_better_preparation",
+    "series": "waf_second_set_of_eyes",
+    "scheduled_at": "2027-12-24T09:15:00-05:00",
+    "posts": [
+      "\"Get ready for the trip\" doesn't give you much to work with.\n\nBut \"leave Friday, stay three nights, work remotely Monday, and return Monday evening\" immediately brings more useful details into view. The more clearly you describe what's happening, the easier it becomes to spot what you might need.\n\nTry thinking through your next outing with What Am I Forgetting?: https://whatamiforgetting.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-second-set-of-eyes-04",
+    "account": "garretts_dev_desk",
+    "theme": "reviewing_plans_from_multiple_categories",
+    "series": "waf_second_set_of_eyes",
+    "scheduled_at": "2027-12-24T15:30:00-05:00",
+    "posts": [
+      "Sometimes the detail you're missing appears when you change how you're looking at the situation.\n\nInstead of thinking only about what to pack, consider the people involved, information you need, timing, transportation, decisions, and follow-up tasks. Each category can reveal something different.\n\nTry reviewing an upcoming event through three of those categories. You may notice a detail that wouldn't have appeared on a traditional packing list."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-second-set-of-eyes-05",
+    "account": "garretts_dev_desk",
+    "theme": "keeping_checklists_focused_on_exceptions",
+    "series": "waf_second_set_of_eyes",
+    "scheduled_at": "2027-12-25T09:15:00-05:00",
+    "posts": [
+      "Your daily routine already remembers a lot for you.\n\nYou probably don't need an elaborate checklist to remember the things you carry every morning. The unusual items, important commitments, and details specific to today's plans often deserve more attention.\n\nWhat Am I Forgetting? is designed to help with that extra review without turning preparation into another complicated task: https://whatamiforgetting.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-second-set-of-eyes-06",
+    "account": "garretts_dev_desk",
+    "theme": "keeping_people_in_control_of_their_checklists",
+    "series": "waf_second_set_of_eyes",
+    "scheduled_at": "2027-12-25T15:30:00-05:00",
+    "posts": [
+      "Look once more. Notice what matters. Then get on with your day.\n\nA checklist can help you catch overlooked details, but you still decide what's important, what can wait, and when you're finished preparing. Sometimes the most helpful thing a tool can do is make that final review a little easier.\n\nDo you prefer checklists that cover every possible detail, or short ones that focus only on what you're most likely to forget?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

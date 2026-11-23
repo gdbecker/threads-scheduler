@@ -1,0 +1,80 @@
+[
+  {
+    "id": "thinking-lens-productive-vs-repetitive-thinking-01",
+    "account": "garretts_dev_desk",
+    "theme": "recognizing_repetitive_thinking",
+    "series": "thinking_lens_productive_vs_repetitive_thinking",
+    "scheduled_at": "2027-10-21T09:15:00-04:00",
+    "posts": [
+      "Overthinking can look surprisingly similar to productive thinking.\n\nYou consider every possibility, revisit the risks, and examine the same decision from every angle. It feels responsible, but sometimes you're simply replaying information you already have.\n\nThe Thinking Lens helps you explore fresh perspectives when your thoughts start going in circles: https://thethinkinglens.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "thinking-lens-productive-vs-repetitive-thinking-02",
+    "account": "garretts_dev_desk",
+    "theme": "checking_for_new_information",
+    "series": "thinking_lens_productive_vs_repetitive_thinking",
+    "scheduled_at": "2027-10-21T15:30:00-04:00",
+    "posts": [
+      "Here's a useful checkpoint when you've been thinking about the same decision for days: What has actually changed since the last time I considered this?\n\nMaybe you've learned something new, discovered another option, or received information that changes your understanding. If nothing has changed, another round of analysis may not help.\n\nTry writing down what's genuinely new before revisiting the decision. It can help you see whether further reflection has a purpose."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "thinking-lens-productive-vs-repetitive-thinking-03",
+    "account": "garretts_dev_desk",
+    "theme": "finding_fresh_perspectives",
+    "series": "thinking_lens_productive_vs_repetitive_thinking",
+    "scheduled_at": "2027-10-22T09:15:00-04:00",
+    "posts": [
+      "Useful reflection should give your thinking somewhere new to go.\n\nThat might mean discovering a missing detail, recognizing an assumption, or considering an option you previously overlooked. A fresh perspective can be valuable when the familiar questions have stopped producing useful answers.\n\nExplore different ways of approaching your problem with The Thinking Lens: https://thethinkinglens.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "thinking-lens-productive-vs-repetitive-thinking-04",
+    "account": "garretts_dev_desk",
+    "theme": "noticing_unproductive_thought_loops",
+    "series": "thinking_lens_productive_vs_repetitive_thinking",
+    "scheduled_at": "2027-10-22T15:30:00-04:00",
+    "posts": [
+      "Sometimes nothing has changed. You've just scheduled another meeting with yourself about the same problem.\n\nBy the third or fourth round, mental exhaustion can start feeling like thorough analysis. You've spent considerable energy without necessarily getting closer to a decision.\n\nTry setting a stopping point for your next thinking session. Before continuing, identify one specific question that still needs an answer."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "thinking-lens-productive-vs-repetitive-thinking-05",
+    "account": "garretts_dev_desk",
+    "theme": "turning_reflection_into_information_gathering",
+    "series": "thinking_lens_productive_vs_repetitive_thinking",
+    "scheduled_at": "2027-10-23T09:15:00-04:00",
+    "posts": [
+      "When you've thought about something for hours, another hour may not be what you need.\n\nPerhaps there's a question you could ask, an email you could send, or a conversation that would help you understand the situation better. Sometimes useful information comes from engaging with the world outside your own thoughts.\n\nThe Thinking Lens helps you find new questions worth exploring: https://thethinkinglens.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "thinking-lens-productive-vs-repetitive-thinking-06",
+    "account": "garretts_dev_desk",
+    "theme": "knowing_when_reflection_is_enough",
+    "series": "thinking_lens_productive_vs_repetitive_thinking",
+    "scheduled_at": "2027-10-23T15:30:00-04:00",
+    "posts": [
+      "Good thinking doesn't have to continue forever to be good thinking.\n\nOnce you've considered what matters, explored reasonable options, and gathered the information available to you, there may be value in setting the problem aside. More analysis isn't automatically better analysis.\n\nHow do you recognize when you've thought something through enough and it's time to either act or let the question rest?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

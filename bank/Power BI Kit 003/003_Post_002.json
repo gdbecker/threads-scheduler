@@ -1,0 +1,80 @@
+[
+  {
+    "id": "pbi-workforce-targets-01",
+    "account": "garretts_dev_desk",
+    "theme": "understanding_hidden_performance_gaps_behind_team_sales_targets",
+    "series": "pbi_workforce_target_attainment",
+    "scheduled_at": "2028-07-24T09:15:00-04:00",
+    "posts": [
+      "Your team hit its sales target. But how is everyone performing individually?\n\nA strong overall result can hide meaningful differences between employees. Some may exceed their targets while others fall behind, making individual context important when reviewing team performance.\n\nMy Workforce Performance & Sales Activity Power BI Kit includes dedicated employee and team reporting views: https://garrettsdevdesk.etsy.com/listing/4595444828/power-bi-sales-performance-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-workforce-targets-02",
+    "account": "garretts_dev_desk",
+    "theme": "identifying_performance_variation_behind_team_averages",
+    "series": "pbi_workforce_target_attainment",
+    "scheduled_at": "2028-07-24T15:30:00-04:00",
+    "posts": [
+      "A team average can look healthy even when individual results vary considerably.\n\nA few employees exceeding their targets may offset others who are struggling. Looking at the distribution of results helps managers understand where support, recognition, or further investigation may be appropriate.\n\nTry comparing each employee's target attainment alongside the overall team result. Does the team total reflect a consistent pattern or a wide range of outcomes?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-workforce-targets-03",
+    "account": "garretts_dev_desk",
+    "theme": "comparing_employee_revenue_with_target_attainment",
+    "series": "pbi_workforce_target_attainment",
+    "scheduled_at": "2028-07-25T09:15:00-04:00",
+    "posts": [
+      "The employee generating the most revenue isn't necessarily the one performing best against their target.\n\nRevenue and target attainment answer different questions. Comparing both helps you understand individual contributions without relying on a single ranking.\n\nMy Workforce Performance & Sales Activity Power BI Kit includes employee comparisons and target attainment reporting: https://garrettsdevdesk.etsy.com/listing/4595444828/power-bi-sales-performance-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-workforce-targets-04",
+    "account": "garretts_dev_desk",
+    "theme": "using_multiple_metrics_to_review_employee_sales_performance",
+    "series": "pbi_workforce_target_attainment",
+    "scheduled_at": "2028-07-25T15:30:00-04:00",
+    "posts": [
+      "Employee performance deserves more context than a simple leaderboard provides.\n\nRevenue contribution, target attainment, gross profit, and productivity can reveal different aspects of someone's work. Reviewing them together can help identify patterns worth understanding before making judgments.\n\nTry creating a compact employee scorecard with these four measures. Which employees look different when you move beyond revenue rankings?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-workforce-targets-05",
+    "account": "garretts_dev_desk",
+    "theme": "building_context_rich_workforce_performance_dashboards",
+    "series": "pbi_workforce_target_attainment",
+    "scheduled_at": "2028-07-26T09:15:00-04:00",
+    "posts": [
+      "A useful workforce dashboard should help explain the team result and the individual contributions behind it.\n\nComparing employee performance with sales targets, profitability, and productivity gives managers a clearer starting point for reviewing results. Those perspectives belong together in a thoughtful report.\n\nMy Workforce Performance & Sales Activity Power BI Kit provides three editable dashboard pages: https://garrettsdevdesk.etsy.com/listing/4595444828/power-bi-sales-performance-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-workforce-targets-06",
+    "account": "garretts_dev_desk",
+    "theme": "discussing_fair_and_useful_employee_sales_metrics",
+    "series": "pbi_workforce_target_attainment",
+    "scheduled_at": "2028-07-26T15:30:00-04:00",
+    "posts": [
+      "A sales team can reach its overall goal while individual employees experience very different results.\n\nRevenue, target attainment, profitability, and productivity each offer useful context. Understanding those differences can support more thoughtful conversations about performance and where people may need support.\n\nFor anyone who manages sales teams, which metric do you find most helpful when evaluating individual performance fairly?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

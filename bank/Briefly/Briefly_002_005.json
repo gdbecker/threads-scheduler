@@ -1,0 +1,80 @@
+[
+  {
+    "id": "briefly-four-questions-01",
+    "account": "garretts_dev_desk",
+    "theme": "project_communication",
+    "series": "briefly_four_questions",
+    "scheduled_at": "2026-12-24T09:15:00-05:00",
+    "posts": [
+      "A blank page can feel surprisingly intimidating when you have an entire week of project notes to turn into an update.\n\nOne thing that helps is answering a few smaller questions before trying to write the finished document. It gives all that information somewhere to go.\n\nThat's the thinking behind Briefly: https://briefly.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-four-questions-02",
+    "account": "garretts_dev_desk",
+    "theme": "writing_workflows",
+    "series": "briefly_four_questions",
+    "scheduled_at": "2026-12-24T15:30:00-05:00",
+    "posts": [
+      "If you're staring at messy project notes, try answering these four questions before writing anything formal:\n\n1. What changed?\n2. What matters?\n3. What's blocked or at risk?\n4. What happens next?\n\nYou might be surprised how much easier the update becomes once you've sorted the information."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-four-questions-03",
+    "account": "garretts_dev_desk",
+    "theme": "status_reporting",
+    "series": "briefly_four_questions",
+    "scheduled_at": "2026-12-25T09:15:00-05:00",
+    "posts": [
+      "One of the best starting points for a project update is a simple question: What's different since the last one?\n\nMaybe a milestone finished, a deadline moved, or an important decision was made. Those changes help the reader understand actual progress without needing a diary of every activity.\n\nOrganize your next update with Briefly: https://briefly.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-four-questions-04",
+    "account": "garretts_dev_desk",
+    "theme": "risk_communication",
+    "series": "briefly_four_questions",
+    "scheduled_at": "2026-12-25T15:30:00-05:00",
+    "posts": [
+      "A project update can contain plenty of information and still miss the details people actually need.\n\nBefore sending it, ask what deserves attention right now. Bring forward the important context, decisions, and blockers instead of making the reader search for them.\n\nWhat's the first thing you usually look for in a status update?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-four-questions-05",
+    "account": "garretts_dev_desk",
+    "theme": "action_items",
+    "series": "briefly_four_questions",
+    "scheduled_at": "2026-12-26T09:15:00-05:00",
+    "posts": [
+      "Before finishing a project update, ask one last question: What happens next?\n\nA few meaningful upcoming actions can tell the reader where the work is headed. Add an owner or expected date when it helps make the plan clearer.\n\nBriefly gives you a simple way to bring those pieces together: https://briefly.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-four-questions-06",
+    "account": "garretts_dev_desk",
+    "theme": "clear_communication",
+    "series": "briefly_four_questions",
+    "scheduled_at": "2026-12-26T15:30:00-05:00",
+    "posts": [
+      "A short project update can take more thought than a long one.\n\nSomeone has to decide what matters, what can stay in the working notes, and what the reader needs to understand. That sorting work is what makes the finished update useful.\n\nI built Briefly to make the process a little easier: https://briefly.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

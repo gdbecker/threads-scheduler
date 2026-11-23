@@ -1,0 +1,80 @@
+[
+  {
+    "id": "pbi-workforce-location-modeling-01",
+    "account": "garretts_dev_desk",
+    "theme": "understanding_accurate_data_with_misleading_interpretations",
+    "series": "pbi_workforce_location_modeling",
+    "scheduled_at": "2028-08-07T09:15:00-04:00",
+    "posts": [
+      "Your dashboard can be accurate and still tell the wrong story.\n\nA revenue figure might be calculated correctly while answering a different question than the audience expects. Understanding which relationships and fields drive the visual matters just as much as checking the arithmetic.\n\nMy Workforce Performance & Sales Activity Power BI Kit includes location and employee reporting with a documented data model: https://garrettsdevdesk.etsy.com/listing/4595444828/power-bi-sales-performance-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-workforce-location-modeling-02",
+    "account": "garretts_dev_desk",
+    "theme": "distinguishing_employee_home_location_from_sales_location",
+    "series": "pbi_workforce_location_modeling",
+    "scheduled_at": "2028-08-07T15:30:00-04:00",
+    "posts": [
+      "Where an employee works isn't necessarily where their sales happen.\n\nSomeone assigned to Location A might complete transactions at Location B. Grouping revenue by their home location produces a different result than grouping it by the location recorded on each sale.\n\nTry checking which location field your sales dashboard uses. Does it represent employee assignments or actual transaction locations? Make sure the visual's label matches the question being answered."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-workforce-location-modeling-03",
+    "account": "garretts_dev_desk",
+    "theme": "choosing_the_right_location_relationship_for_sales_reporting",
+    "series": "pbi_workforce_location_modeling",
+    "scheduled_at": "2028-08-08T09:15:00-04:00",
+    "posts": [
+      "Sales by employee home location and sales by transaction location answer different business questions.\n\nBoth can be useful, but confusing them may lead to misleading conclusions about where revenue was generated. The underlying data model needs to reflect the intended analysis.\n\nMy Workforce Performance & Sales Activity Power BI Kit connects employee, product, and location reporting: https://garrettsdevdesk.etsy.com/listing/4595444828/power-bi-sales-performance-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-workforce-location-modeling-04",
+    "account": "garretts_dev_desk",
+    "theme": "defining_business_questions_before_building_power_bi_visuals",
+    "series": "pbi_workforce_location_modeling",
+    "scheduled_at": "2028-08-08T15:30:00-04:00",
+    "posts": [
+      "A useful Power BI habit is defining the business question before choosing the fields for a visual.\n\nIf you're measuring where revenue was generated, the transaction location is usually the appropriate dimension. If you're reviewing sales credited to employees at their assigned locations, the home location may be relevant.\n\nTry writing the question above your next visual before building it. Then check whether the relationships and fields actually answer that question."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-workforce-location-modeling-05",
+    "account": "garretts_dev_desk",
+    "theme": "building_clearer_location_and_workforce_power_bi_reports",
+    "series": "pbi_workforce_location_modeling",
+    "scheduled_at": "2028-08-09T09:15:00-04:00",
+    "posts": [
+      "A thoughtful data model helps your dashboard answer the questions people actually ask.\n\nEmployee assignments, transaction locations, and product relationships each serve a purpose. Keeping those distinctions clear makes location and workforce reporting easier to interpret.\n\nMy Workforce Performance & Sales Activity Power BI Kit includes three editable dashboards, fictional sample data, and documentation: https://garrettsdevdesk.etsy.com/listing/4595444828/power-bi-sales-performance-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-workforce-location-modeling-06",
+    "account": "garretts_dev_desk",
+    "theme": "discussing_data_modeling_choices_that_change_business_interpretation",
+    "series": "pbi_workforce_location_modeling",
+    "scheduled_at": "2028-08-09T15:30:00-04:00",
+    "posts": [
+      "One of the trickiest reporting problems is discovering that a perfectly calculated metric answers the wrong question.\n\nA location field might describe where an employee is assigned or where a transaction occurred. Both can be valid, but choosing the wrong one changes how the audience interprets performance.\n\nFor Power BI developers and analysts, what's a modeling decision you've encountered that significantly changed the meaning of a report?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

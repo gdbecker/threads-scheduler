@@ -1,0 +1,80 @@
+[
+  {
+    "id": "decision-untangler-beyond-google-01",
+    "account": "garretts_dev_desk",
+    "theme": "limits_of_online_research",
+    "series": "decision_untangler_beyond_google",
+    "scheduled_at": "2027-07-01T09:15:00-04:00",
+    "posts": [
+      "Some questions Google cannot answer for you.\n\nYou can research two job offers, compare cities, read reviews, and ask for advice. Eventually, though, you may reach a question that depends on your own priorities rather than another piece of information.\n\nDecision Untangler helps you explore those personal questions when research alone isn't enough: https://decisionuntangler.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "decision-untangler-beyond-google-02",
+    "account": "garretts_dev_desk",
+    "theme": "factual_decision_research",
+    "series": "decision_untangler_beyond_google",
+    "scheduled_at": "2027-07-01T15:30:00-04:00",
+    "posts": [
+      "The internet can be incredibly useful when you're making a big decision.\n\nSalary ranges, housing costs, commute times, product reviews, and potential risks are all things you can investigate. Those facts may reveal important differences between your options.\n\nBefore researching, try listing the factual questions you need answered. Once you've addressed them, consider whether the remaining uncertainty is something more personal."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "decision-untangler-beyond-google-03",
+    "account": "garretts_dev_desk",
+    "theme": "personal_decision_questions",
+    "series": "decision_untangler_beyond_google",
+    "scheduled_at": "2027-07-02T09:15:00-04:00",
+    "posts": [
+      "Some of the most important questions in a difficult decision don't belong in a search bar.\n\nWhat would you regret never trying? How much do you value stability right now? What kind of everyday life are you hoping to build?\n\nYou can learn from other people's experiences, but those answers ultimately require your own reflection. Decision Untangler gives you a place to work through them: https://decisionuntangler.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "decision-untangler-beyond-google-04",
+    "account": "garretts_dev_desk",
+    "theme": "ordinary_day_visualization",
+    "series": "decision_untangler_beyond_google",
+    "scheduled_at": "2027-07-02T15:30:00-04:00",
+    "posts": [
+      "Here's a useful exercise when you're comparing two possible futures: Imagine an ordinary Tuesday six months after each choice.\n\nWhere do you wake up? What's your commute like? How does the workday feel? What energy do you have left in the evening?\n\nTry writing out both versions of that day. The ordinary routines can reveal considerations that are easy to overlook when you're focused on the big milestone."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "decision-untangler-beyond-google-05",
+    "account": "garretts_dev_desk",
+    "theme": "everyday_life_priorities",
+    "series": "decision_untangler_beyond_google",
+    "scheduled_at": "2027-07-03T09:15:00-04:00",
+    "posts": [
+      "Most of life happens after the exciting announcement, the big move, or the first day of something new.\n\nA choice can look impressive from the outside while creating an everyday routine that doesn't fit what matters to you. That's worth considering before you commit.\n\nDecision Untangler helps you think beyond the headline of a decision and examine what living with it might mean: https://decisionuntangler.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "decision-untangler-beyond-google-06",
+    "account": "garretts_dev_desk",
+    "theme": "research_vs_personal_reflection",
+    "series": "decision_untangler_beyond_google",
+    "scheduled_at": "2027-07-03T15:30:00-04:00",
+    "posts": [
+      "Sometimes you keep searching because you hope someone else has already figured out the answer to your decision.\n\nTheir experience may be helpful, but their priorities, circumstances, and hopes aren't necessarily yours. At some point, you have to decide what the information means for your own life.\n\nHave you ever spent hours researching something only to realize the remaining question was one only you could answer?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

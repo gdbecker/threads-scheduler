@@ -1,0 +1,80 @@
+[
+  {
+    "id": "pbi-bd-reporting-action-01",
+    "account": "garretts_dev_desk",
+    "theme": "turning_business_development_reports_into_useful_decisions",
+    "series": "pbi_business_development_reporting_to_action",
+    "scheduled_at": "2028-10-30T09:15:00-04:00",
+    "posts": [
+      "Your business development report shouldn't end with \"interesting.\"\n\nA dashboard can show pipeline value, opportunity counts, and performance against goals. The real value comes when those numbers help your team understand what's happening and decide what deserves attention.\n\nMy Business Development Performance Power BI Kit provides three editable dashboards to support those conversations: https://garrettsdevdesk.etsy.com/listing/4595453904/power-bi-business-development-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-bd-reporting-action-02",
+    "account": "garretts_dev_desk",
+    "theme": "connecting_business_development_kpis_with_management_questions",
+    "series": "pbi_business_development_reporting_to_action",
+    "scheduled_at": "2028-10-30T15:30:00-04:00",
+    "posts": [
+      "More business development metrics don't automatically create more clarity.\n\nPipeline value, opportunity count, and goal attainment can each be useful, but a crowded dashboard may leave people unsure what to investigate. Every important metric should help answer a meaningful question.\n\nTry reviewing your current report and writing one decision or question beside each KPI. If a measure has no clear purpose, reconsider how prominently it appears."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-bd-reporting-action-03",
+    "account": "garretts_dev_desk",
+    "theme": "investigating_changes_in_pipeline_stages_markets_and_service_lines",
+    "series": "pbi_business_development_reporting_to_action",
+    "scheduled_at": "2028-10-31T09:15:00-04:00",
+    "posts": [
+      "When your pipeline changes, the total value rarely explains the whole story.\n\nWhich stages gained or lost value? Did the change come from a particular market or service line? Looking beneath the headline number helps identify where the next conversation should begin.\n\nMy Business Development Performance Power BI Kit includes pipeline and opportunity analysis to support that investigation: https://garrettsdevdesk.etsy.com/listing/4595453904/power-bi-business-development-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-bd-reporting-action-04",
+    "account": "garretts_dev_desk",
+    "theme": "using_team_contributions_and_goal_attainment_in_performance_reviews",
+    "series": "pbi_business_development_reporting_to_action",
+    "scheduled_at": "2028-10-31T15:30:00-04:00",
+    "posts": [
+      "A business development performance review becomes more useful when you can explain the results behind the activity.\n\nOpportunity leads, referrals, contributor credits, and progress toward goals provide different perspectives on team performance. Reviewing them together helps identify questions worth discussing.\n\nTry comparing each team member's credited value with their goal attainment. Then examine how their contributions were recorded before interpreting the differences."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-bd-reporting-action-05",
+    "account": "garretts_dev_desk",
+    "theme": "building_a_measure_investigate_act_business_development_reporting_workflow",
+    "series": "pbi_business_development_reporting_to_action",
+    "scheduled_at": "2028-11-01T09:15:00-04:00",
+    "posts": [
+      "A useful business development dashboard should help move the conversation from numbers to next steps.\n\nStart with the headline metrics, investigate the opportunities and contributions behind them, and use that context to decide what needs attention. Reporting becomes more valuable when it supports a repeatable review process.\n\nMy Business Development Performance Power BI Kit offers a starting point: https://garrettsdevdesk.etsy.com/listing/4595453904/power-bi-business-development-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-bd-reporting-action-06",
+    "account": "garretts_dev_desk",
+    "theme": "discussing_how_business_development_reports_influence_real_decisions",
+    "series": "pbi_business_development_reporting_to_action",
+    "scheduled_at": "2028-11-01T15:30:00-04:00",
+    "posts": [
+      "A business development report can contain plenty of useful information and still leave a team wondering what to do next.\n\nThe strongest reporting conversations connect pipeline changes, team contributions, and opportunity details to specific questions. That context helps people move from reviewing numbers toward making informed decisions.\n\nFor business development managers and analysts, what's one question you wish your current reporting answered more clearly?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

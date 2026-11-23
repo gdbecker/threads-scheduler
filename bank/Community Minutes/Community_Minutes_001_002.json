@@ -1,0 +1,80 @@
+[
+  {
+    "id": "community-minutes-rough-notes-01",
+    "account": "garretts_dev_desk",
+    "theme": "meeting_note_organization",
+    "series": "community_minutes_rough_notes",
+    "scheduled_at": "2027-03-29T09:15:00-04:00",
+    "posts": [
+      "Meeting shorthand has a surprisingly short shelf life.\n\n\"Get second bid, Mike? Before October?\" might make perfect sense during an HOA board meeting. A few days later, you may struggle to remember what was actually agreed upon.\n\nI built Community Minutes to help turn rough meeting notes into a clearer record: https://communityminutes.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "community-minutes-rough-notes-02",
+    "account": "garretts_dev_desk",
+    "theme": "post_meeting_workflow",
+    "series": "community_minutes_rough_notes",
+    "scheduled_at": "2027-03-29T15:30:00-04:00",
+    "posts": [
+      "One of the most useful habits for anyone taking meeting minutes is reviewing their notes shortly after the meeting ends.\n\nYou don't have to finish the entire document that night. Even ten minutes spent identifying decisions, action items, and unclear details can make the eventual drafting process much easier.\n\nThe longer those rough notes sit untouched, the harder they may become to interpret."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "community-minutes-rough-notes-03",
+    "account": "garretts_dev_desk",
+    "theme": "meeting_minutes_workflow",
+    "series": "community_minutes_rough_notes",
+    "scheduled_at": "2027-03-30T09:15:00-04:00",
+    "posts": [
+      "Before polishing your meeting minutes, give the rough notes some structure.\n\nSort the information into four categories: topics discussed, decisions made, follow-up actions, and unresolved questions.\n\nOnce those pieces are clear, writing a useful record becomes much more manageable.\n\nCommunity Minutes was built around this kind of workflow: https://communityminutes.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "community-minutes-rough-notes-04",
+    "account": "garretts_dev_desk",
+    "theme": "meeting_preparation",
+    "series": "community_minutes_rough_notes",
+    "scheduled_at": "2027-03-30T15:30:00-04:00",
+    "posts": [
+      "A little preparation before a board or committee meeting can save a surprising amount of work afterward.\n\nUse the agenda items as headings in your notes. Fill in the meeting date, location, and expected attendees ahead of time, then verify the details during the meeting.\n\nYou'll have a useful structure ready before the conversation even begins."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "community-minutes-rough-notes-05",
+    "account": "garretts_dev_desk",
+    "theme": "meeting_record_accuracy",
+    "series": "community_minutes_rough_notes",
+    "scheduled_at": "2027-03-31T09:15:00-04:00",
+    "posts": [
+      "A polished sentence can make uncertain meeting notes look more reliable than they really are.\n\nWas the approved amount $4,500 or $4,800? Did Mike or Sarah volunteer to contact the vendor?\n\nFlag those questions for verification rather than filling in the gaps from memory. Accuracy matters more than a perfectly smooth first draft.\n\nTry Community Minutes: https://communityminutes.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "community-minutes-rough-notes-06",
+    "account": "garretts_dev_desk",
+    "theme": "meeting_documentation_habits",
+    "series": "community_minutes_rough_notes",
+    "scheduled_at": "2027-03-31T15:30:00-04:00",
+    "posts": [
+      "Your future self will appreciate a little effort spent organizing meeting notes while the conversation is still fresh.\n\nIdentify what happened, clarify the decisions, and flag anything that needs checking. You can polish the language once the meaning is clear.\n\nIf you've ever been responsible for meeting minutes, what's your biggest challenge: taking notes during the meeting or turning them into a finished record afterward?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

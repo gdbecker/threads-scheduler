@@ -1,0 +1,80 @@
+[
+  {
+    "id": "notice-writer-recipient-perspective-01",
+    "account": "garretts_dev_desk",
+    "theme": "writing_for_the_recipient",
+    "series": "notice_writer_recipient_perspective",
+    "scheduled_at": "2027-08-12T09:15:00-04:00",
+    "posts": [
+      "Write the HOA notice for the person who has to act on it.\n\nThe recipient probably isn't thinking about the association's administrative process. They're wondering why they received the message, what it means, and what they're supposed to do next. A useful notice should answer those questions without unnecessary complexity.\n\nNotice Writer helps volunteers prepare clearer community communications: https://noticewriter.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "notice-writer-recipient-perspective-02",
+    "account": "garretts_dev_desk",
+    "theme": "understanding_the_resident_experience",
+    "series": "notice_writer_recipient_perspective",
+    "scheduled_at": "2027-08-12T15:30:00-04:00",
+    "posts": [
+      "Imagine opening an HOA notice after a long day. Your first questions are probably pretty ordinary.\n\nWhy did I get this? Is something wrong? What am I expected to do? If the answers are buried beneath formal language and administrative details, the message becomes harder to act on.\n\nTry reading your next notice as someone unfamiliar with the association's procedures. Would the important information be immediately clear?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "notice-writer-recipient-perspective-03",
+    "account": "garretts_dev_desk",
+    "theme": "organizing_notices_for_clarity",
+    "series": "notice_writer_recipient_perspective",
+    "scheduled_at": "2027-08-13T09:15:00-04:00",
+    "posts": [
+      "A well-organized violation notice should lead naturally from the problem to the next action.\n\nStart with what was observed. Explain the applicable requirement, identify what needs to change, and make any important deadline easy to find. That structure helps residents understand the situation without having to piece together scattered details.\n\nCreate clearer notices with Notice Writer: https://noticewriter.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "notice-writer-recipient-perspective-04",
+    "account": "garretts_dev_desk",
+    "theme": "actionable_vs_accusatory_language",
+    "series": "notice_writer_recipient_perspective",
+    "scheduled_at": "2027-08-13T15:30:00-04:00",
+    "posts": [
+      "Compare these two approaches to an HOA landscaping notice.\n\n\"Your continued failure to maintain the property is unacceptable\" emphasizes the sender's displeasure. \"Please trim the vegetation by October 5\" gives the resident a specific action and deadline, assuming those requirements apply.\n\nWhen reviewing a notice, look for sentences that express frustration without explaining what the resident should actually do."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "notice-writer-recipient-perspective-05",
+    "account": "garretts_dev_desk",
+    "theme": "balancing_readability_and_requirements",
+    "series": "notice_writer_recipient_perspective",
+    "scheduled_at": "2027-08-14T09:15:00-04:00",
+    "posts": [
+      "Writing an HOA notice for the reader doesn't mean leaving out important requirements.\n\nThe governing documents, applicable procedures, deadlines, and specific circumstances still matter. The goal is to verify those details and present them in language a resident can reasonably understand. Accuracy and readability should work together.\n\nNotice Writer helps organize professional community messages: https://noticewriter.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "notice-writer-recipient-perspective-06",
+    "account": "garretts_dev_desk",
+    "theme": "recipient_focused_notice_review",
+    "series": "notice_writer_recipient_perspective",
+    "scheduled_at": "2027-08-14T15:30:00-04:00",
+    "posts": [
+      "Before sending an HOA notice, read it once from the recipient's chair.\n\nIf you knew nothing except what was written on the page, would you understand why the message arrived and what you needed to do next? That perspective can reveal confusing wording, missing instructions, or unnecessary details.\n\nFor anyone who's received an HOA or community notice, what made the message especially helpful or frustrating to read?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

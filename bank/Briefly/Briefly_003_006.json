@@ -1,0 +1,80 @@
+[
+  {
+    "id": "briefly-reader-destination-01",
+    "account": "garretts_dev_desk",
+    "theme": "business_communication",
+    "series": "briefly_reader_destination",
+    "scheduled_at": "2027-01-18T09:15:00-05:00",
+    "posts": [
+      "Before writing a project brief, think about where the reader needs to end up.\n\nMaybe they need to get current on a project, understand an unfamiliar situation, or feel ready to make a decision. Each destination calls for a different kind of document.\n\nThat's part of why I built Briefly with different brief formats: https://briefly.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-reader-destination-02",
+    "account": "garretts_dev_desk",
+    "theme": "status_reporting",
+    "series": "briefly_reader_destination",
+    "scheduled_at": "2027-01-18T15:30:00-05:00",
+    "posts": [
+      "A good status update helps someone move from being out of date to being current.\n\nThey already know the project, so focus on what's changed since the last update, what matters now, any risks or blockers, and what happens next.\n\nTry reading your next status update with that goal in mind. Would someone finish it knowing where things stand?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-reader-destination-03",
+    "account": "garretts_dev_desk",
+    "theme": "executive_communication",
+    "series": "briefly_reader_destination",
+    "scheduled_at": "2027-01-19T09:15:00-05:00",
+    "posts": [
+      "An executive brief often has a different job from a weekly project update.\n\nThe reader may be unfamiliar with the work and need to understand the bigger picture quickly. Give them the purpose, current situation, important facts, risks, and direction without making them read every supporting document.\n\nBuild one with Briefly: https://briefly.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-reader-destination-04",
+    "account": "garretts_dev_desk",
+    "theme": "decision_making",
+    "series": "briefly_reader_destination",
+    "scheduled_at": "2027-01-19T15:30:00-05:00",
+    "posts": [
+      "A decision brief should help someone move from uncertainty to being ready to choose.\n\nThat means making the decision clear, explaining the realistic options, and showing the trade-offs and risks involved.\n\nBefore sending one, ask whether the reader has enough information to make a thoughtful choice. If not, what important context is still missing?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-reader-destination-05",
+    "account": "garretts_dev_desk",
+    "theme": "professional_writing",
+    "series": "briefly_reader_destination",
+    "scheduled_at": "2027-01-20T09:15:00-05:00",
+    "posts": [
+      "Executive summary. Leadership update. Project brief. Decision memo.\n\nThe names can get confusing, especially when different organizations use them differently. What's more useful is knowing what the reader needs from the document.\n\nBriefly gives you flexible formats for organizing that information: https://briefly.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-reader-destination-06",
+    "account": "garretts_dev_desk",
+    "theme": "clear_communication",
+    "series": "briefly_reader_destination",
+    "scheduled_at": "2027-01-20T15:30:00-05:00",
+    "posts": [
+      "Sometimes the problem with a work update isn't the quality of your notes. You may simply be unsure what the finished document needs to accomplish.\n\nBefore writing, ask where the reader is starting and what they should understand or be able to do afterward.\n\nHave you ever rewritten the same information for two different audiences?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "pbi-reporting-workflow-01",
+    "account": "garretts_dev_desk",
+    "theme": "spending_less_time_rebuilding_financial_reports",
+    "series": "pbi_financial_reporting_workflow",
+    "scheduled_at": "2028-05-22T09:15:00-04:00",
+    "posts": [
+      "You probably didn't get into finance because you loved rebuilding the same reports every month.\n\nThere's satisfaction in understanding financial performance, finding patterns, and helping people make informed decisions. But getting the reporting materials ready can consume a surprising amount of time.\n\nI created my Financial Performance & Cash Flow Power BI Kit as a reusable starting point: https://garrettsdevdesk.etsy.com/listing/4595413257/power-bi-financial-dashboard-template-13"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-reporting-workflow-02",
+    "account": "garretts_dev_desk",
+    "theme": "identifying_repetitive_steps_in_financial_reporting",
+    "series": "pbi_financial_reporting_workflow",
+    "scheduled_at": "2028-05-22T15:30:00-04:00",
+    "posts": [
+      "Another reporting cycle can mean another afternoon spent updating figures, checking calculations, and formatting the same materials.\n\nThose steps matter, but repeated manual work can leave less time for examining the results. Sometimes the biggest improvement comes from making the preparation process more consistent.\n\nTry writing down every step in your monthly reporting routine. Which ones could benefit from a reusable template or a clearer process?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-reporting-workflow-03",
+    "account": "garretts_dev_desk",
+    "theme": "making_more_time_for_meaningful_financial_analysis",
+    "series": "pbi_financial_reporting_workflow",
+    "scheduled_at": "2028-05-23T09:15:00-04:00",
+    "posts": [
+      "Some of the most valuable financial questions come after the report is finished.\n\nWhy did margins change? Which operating entities are driving results? What might the next thirteen weeks mean for available cash? Those questions deserve time and attention.\n\nMy Financial Performance & Cash Flow Power BI Kit provides three editable reporting pages to build on: https://garrettsdevdesk.etsy.com/listing/4595413257/power-bi-financial-dashboard-template-13"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-reporting-workflow-04",
+    "account": "garretts_dev_desk",
+    "theme": "using_reusable_frameworks_to_improve_financial_reporting",
+    "series": "pbi_financial_reporting_workflow",
+    "scheduled_at": "2028-05-23T15:30:00-04:00",
+    "posts": [
+      "Starting every financial dashboard from a blank page can make reporting projects more demanding than they need to be.\n\nA reusable framework gives you a place to begin, with established layouts and a consistent approach to presenting information. You can then adapt it to your data and reporting requirements.\n\nBefore building your next dashboard, try sketching the three views your audience needs most. Could one reusable structure support future reporting cycles?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-reporting-workflow-05",
+    "account": "garretts_dev_desk",
+    "theme": "prioritizing_financial_insights_over_repetitive_report_preparation",
+    "series": "pbi_financial_reporting_workflow",
+    "scheduled_at": "2028-05-24T09:15:00-04:00",
+    "posts": [
+      "Your financial expertise is valuable well beyond preparing reports.\n\nExploring trends, understanding profitability, comparing operating entities, and reviewing future cash needs are all opportunities to contribute meaningful insights. A consistent reporting foundation can help support that work.\n\nMy Financial Performance & Cash Flow Power BI Kit includes editable dashboards, fictional sample data, and documentation: https://garrettsdevdesk.etsy.com/listing/4595413257/power-bi-financial-dashboard-template-13"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-reporting-workflow-06",
+    "account": "garretts_dev_desk",
+    "theme": "discussing_time_consuming_financial_reporting_tasks",
+    "series": "pbi_financial_reporting_workflow",
+    "scheduled_at": "2028-05-24T15:30:00-04:00",
+    "posts": [
+      "There's a particular frustration that comes from spending most of your reporting time preparing information and having very little left to explore what it means.\n\nFinance professionals often have to balance data preparation, accuracy checks, presentation, and analysis. Each part matters, but the balance can be difficult when resources are limited.\n\nFor anyone who prepares financial reports, which part of the process tends to take more time than you'd like?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

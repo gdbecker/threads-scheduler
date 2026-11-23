@@ -1,0 +1,80 @@
+[
+  {
+    "id": "pbi-workforce-early-warning-01",
+    "account": "garretts_dev_desk",
+    "theme": "avoiding_unexpected_sales_performance_surprises",
+    "series": "pbi_workforce_proactive_reporting",
+    "scheduled_at": "2028-08-17T09:15:00-04:00",
+    "posts": [
+      "The worst time to discover a sales problem is when someone asks why it happened.\n\nUnexpected changes can be difficult to explain when performance information is scattered across reports. A more organized reporting process helps you recognize what deserves investigation before the next meeting.\n\nMy Workforce Performance & Sales Activity Power BI Kit includes three editable dashboards for reviewing sales and team results: https://garrettsdevdesk.etsy.com/listing/4595444828/power-bi-sales-performance-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-workforce-early-warning-02",
+    "account": "garretts_dev_desk",
+    "theme": "finding_overlooked_changes_in_sales_reporting",
+    "series": "pbi_workforce_proactive_reporting",
+    "scheduled_at": "2028-08-17T15:30:00-04:00",
+    "posts": [
+      "Sometimes the numbers were available all along. The important pattern just wasn't easy to see.\n\nScattered reports and disconnected metrics can make gradual changes difficult to recognize. A consistent review process gives those changes a better chance of being noticed.\n\nTry choosing three measures you review every week, such as revenue, target attainment, and gross margin. Compare them with previous periods and write down any changes worth investigating."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-workforce-early-warning-03",
+    "account": "garretts_dev_desk",
+    "theme": "spotting_product_and_location_performance_trends_earlier",
+    "series": "pbi_workforce_proactive_reporting",
+    "scheduled_at": "2028-08-18T09:15:00-04:00",
+    "posts": [
+      "A declining product margin or struggling location is easier to investigate when you notice the pattern early.\n\nSales trends, product comparisons, and location profitability can provide useful signals before a performance review. Regular monitoring helps you decide what deserves a closer look.\n\nMy Workforce Performance & Sales Activity Power BI Kit includes product and location analysis: https://garrettsdevdesk.etsy.com/listing/4595444828/power-bi-sales-performance-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-workforce-early-warning-04",
+    "account": "garretts_dev_desk",
+    "theme": "creating_a_proactive_weekly_sales_performance_review",
+    "series": "pbi_workforce_proactive_reporting",
+    "scheduled_at": "2028-08-18T15:30:00-04:00",
+    "posts": [
+      "A short, consistent reporting review can help you notice performance changes before they become meeting surprises.\n\nStart with overall sales, compare employee results against targets, and then examine product and location profitability. Look for meaningful changes rather than trying to explain every number.\n\nTry setting aside 15 minutes each week for this review. Record one finding, one unanswered question, and one area worth following up."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-workforce-early-warning-05",
+    "account": "garretts_dev_desk",
+    "theme": "using_structured_power_bi_reporting_for_better_preparation",
+    "series": "pbi_workforce_proactive_reporting",
+    "scheduled_at": "2028-08-19T09:15:00-04:00",
+    "posts": [
+      "Feeling prepared for a performance conversation often starts with knowing where to look.\n\nOrganized employee, product, and location reporting makes it easier to review important changes and investigate questions as they arise. A reusable foundation can help make that process more consistent.\n\nMy Workforce Performance & Sales Activity Power BI Kit includes three editable pages, sample data, and documentation: https://garrettsdevdesk.etsy.com/listing/4595444828/power-bi-sales-performance-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-workforce-early-warning-06",
+    "account": "garretts_dev_desk",
+    "theme": "discussing_early_signals_in_sales_performance_reporting",
+    "series": "pbi_workforce_proactive_reporting",
+    "scheduled_at": "2028-08-19T15:30:00-04:00",
+    "posts": [
+      "Few things are more frustrating than discovering a performance problem after it has already affected results.\n\nRegularly reviewing sales trends, employee targets, product margins, and location performance can help you notice changes earlier. That gives you more time to understand what's happening and consider appropriate next steps.\n\nFor managers and analysts, which metric has been most useful for spotting a potential problem before it became obvious?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

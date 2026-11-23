@@ -1,0 +1,80 @@
+[
+  {
+    "id": "waf-shorter-checklists-01",
+    "account": "garretts_dev_desk",
+    "theme": "keeping_important_reminders_visible",
+    "series": "waf_shorter_checklists",
+    "scheduled_at": "2028-01-06T09:15:00-05:00",
+    "posts": [
+      "Your checklist probably doesn't need to be longer.\n\nSometimes adding more reminders makes the one thing you genuinely might forget harder to see. When every routine detail gets its own checkbox, the unusual or important items can disappear into the crowd.\n\nWhat Am I Forgetting? is built around giving everyday plans a focused second look: https://whatamiforgetting.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-shorter-checklists-02",
+    "account": "garretts_dev_desk",
+    "theme": "reducing_attention_clutter_in_checklists",
+    "series": "waf_shorter_checklists",
+    "scheduled_at": "2028-01-06T15:30:00-05:00",
+    "posts": [
+      "Every extra checkbox asks for a little more of your attention.\n\nEventually the reminder about bringing signed paperwork starts looking exactly like the fifteen routine things surrounding it. The list may be more complete, but it's becoming harder to scan.\n\nTry reviewing one of your regular checklists and identifying the three items that genuinely deserve your attention. Consider whether the other reminders are still helping."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-shorter-checklists-03",
+    "account": "garretts_dev_desk",
+    "theme": "focusing_on_unusual_and_easy_to_forget_items",
+    "series": "waf_shorter_checklists",
+    "scheduled_at": "2028-01-07T09:15:00-05:00",
+    "posts": [
+      "You probably don't need a checklist reminding you to put on your shoes.\n\nBut \"Bring signed paperwork from desk\" might be worth writing down, especially if it's unusual today and inconvenient to discover missing later. Good reminders help you notice what your ordinary routine might overlook.\n\nThat's the kind of practical preparation What Am I Forgetting? is designed to support: https://whatamiforgetting.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-shorter-checklists-04",
+    "account": "garretts_dev_desk",
+    "theme": "evaluating_which_reminders_deserve_attention",
+    "series": "waf_shorter_checklists",
+    "scheduled_at": "2028-01-07T15:30:00-05:00",
+    "posts": [
+      "Before adding another reminder to your checklist, ask whether it really needs to be there.\n\nIs it unusual? Easy to overlook? Time-sensitive? Does someone else depend on it? Would forgetting it create a real inconvenience? Those questions can help you decide what deserves a place on the list.\n\nTry using them the next time you're preparing for an appointment or event. You may end up with fewer reminders that are more useful."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-shorter-checklists-05",
+    "account": "garretts_dev_desk",
+    "theme": "matching_checklist_detail_to_the_situation",
+    "series": "waf_shorter_checklists",
+    "scheduled_at": "2028-01-08T09:15:00-05:00",
+    "posts": [
+      "A grocery run and a two-week trip probably shouldn't need the same kind of checklist.\n\nSome situations deserve careful planning, while others only need a few reminders. The amount of preparation should reflect what you're actually doing, rather than following one elaborate system for everything.\n\nWhat Am I Forgetting? helps you think through the details of your particular situation: https://whatamiforgetting.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-shorter-checklists-06",
+    "account": "garretts_dev_desk",
+    "theme": "improving_checklists_by_removing_unnecessary_items",
+    "series": "waf_shorter_checklists",
+    "scheduled_at": "2028-01-08T15:30:00-05:00",
+    "posts": [
+      "Sometimes improving a checklist means deleting something.\n\nA list doesn't become more useful simply because it has more boxes. If routine reminders are crowding out the details you genuinely need help remembering, a little editing can make the whole thing easier to use.\n\nHave you ever simplified a checklist or planning routine and found that it worked better afterward? Or do you prefer having every possible detail written down?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

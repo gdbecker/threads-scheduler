@@ -1,0 +1,80 @@
+[
+  {
+    "id": "thinking-lens-curiosity-over-certainty-01",
+    "account": "garretts_dev_desk",
+    "theme": "replacing_certainty_with_curiosity",
+    "series": "thinking_lens_curiosity_over_certainty",
+    "scheduled_at": "2027-10-14T09:15:00-04:00",
+    "posts": [
+      "Searching for the perfect answer can make an uncertain decision feel even heavier.\n\nWhen every option has unknowns, demanding complete certainty may leave you circling the same questions. Curiosity offers another approach: explore what you don't know and look for something useful to learn.\n\nTry approaching your next decision with The Thinking Lens: https://thethinkinglens.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "thinking-lens-curiosity-over-certainty-02",
+    "account": "garretts_dev_desk",
+    "theme": "asking_curiosity_driven_questions",
+    "series": "thinking_lens_curiosity_over_certainty",
+    "scheduled_at": "2027-10-14T15:30:00-04:00",
+    "posts": [
+      "Here's a question that can change how you approach a difficult decision: What am I curious about here?\n\nInstead of demanding an immediate answer, you can explore what interests you, what feels unclear, and which missing details would help you understand the situation.\n\nTry writing down three things you'd genuinely like to know before deciding. Then choose one question you could investigate without making a larger commitment."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "thinking-lens-curiosity-over-certainty-03",
+    "account": "garretts_dev_desk",
+    "theme": "learning_instead_of_demanding_verdicts",
+    "series": "thinking_lens_curiosity_over_certainty",
+    "scheduled_at": "2027-10-15T09:15:00-04:00",
+    "posts": [
+      "Pressure wants a verdict. Curiosity wants information.\n\nThat difference matters when you're facing a decision with no obvious answer. You may not be able to predict every outcome, but you can identify assumptions, explore alternatives, and learn enough to make a thoughtful choice.\n\nThe Thinking Lens helps you examine questions from different angles: https://thethinkinglens.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "thinking-lens-curiosity-over-certainty-04",
+    "account": "garretts_dev_desk",
+    "theme": "turning_big_decisions_into_experiments",
+    "series": "thinking_lens_curiosity_over_certainty",
+    "scheduled_at": "2027-10-15T15:30:00-04:00",
+    "posts": [
+      "Sometimes the next step in a big decision is a small experiment.\n\nBefore committing to an entirely new direction, you might test a simpler version, speak with someone who has relevant experience, or check one important assumption. Each step can reveal information that helps you decide what comes next.\n\nThink about a decision you've been postponing. What's one low-risk, reversible experiment that could teach you something useful?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "thinking-lens-curiosity-over-certainty-05",
+    "account": "garretts_dev_desk",
+    "theme": "gaining_clarity_through_action",
+    "series": "thinking_lens_curiosity_over_certainty",
+    "scheduled_at": "2027-10-16T09:15:00-04:00",
+    "posts": [
+      "Ten minutes spent finding something out can sometimes be more useful than another hour of thinking.\n\nA conversation, a quick test, or one piece of missing information can change how you understand a problem. You don't always have to reason your way to clarity without taking action.\n\nExplore practical questions and fresh perspectives with The Thinking Lens: https://thethinkinglens.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "thinking-lens-curiosity-over-certainty-06",
+    "account": "garretts_dev_desk",
+    "theme": "moving_forward_without_complete_certainty",
+    "series": "thinking_lens_curiosity_over_certainty",
+    "scheduled_at": "2027-10-16T15:30:00-04:00",
+    "posts": [
+      "You don't always need certainty to take the next thoughtful step.\n\nSome decisions become clearer as you gather information, test possibilities, and discover what matters through experience. You can respect the uncertainty while still making meaningful progress.\n\nWhen you're facing a decision without a clear answer, do you prefer to think it through extensively first, or learn by trying something small?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

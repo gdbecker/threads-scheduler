@@ -1,0 +1,80 @@
+[
+  {
+    "id": "pbi-support-clarity-01",
+    "account": "garretts_dev_desk",
+    "theme": "explaining_support_performance_when_data_is_scattered",
+    "series": "pbi_support_reporting_clarity",
+    "scheduled_at": "2028-02-24T09:15:00-05:00",
+    "posts": [
+      "You know the customer support team is busy. You just can't explain why.\n\nTickets keep arriving, customers are waiting, and someone asks how support is performing. The information exists, but it's scattered across spreadsheets and systems. Finding a clear answer becomes another project.\n\nI built a Customer Support Performance Power BI Kit to make that reporting process easier: https://garrettsdevdesk.etsy.com/listing/4593960875/power-bi-customer-support-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-support-clarity-02",
+    "account": "garretts_dev_desk",
+    "theme": "organizing_scattered_customer_support_metrics",
+    "series": "pbi_support_reporting_clarity",
+    "scheduled_at": "2028-02-24T15:30:00-05:00",
+    "posts": [
+      "Sometimes the hardest part of support reporting isn't collecting the data. It's finding the story across all the different numbers.\n\nTicket counts live in one report, SLA results in another, and customer satisfaction somewhere else. Each metric is useful, but answering a broader question takes unnecessary effort.\n\nTry listing the five questions your team gets asked most often. Then identify which metrics and data sources you need to answer each one."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-support-clarity-03",
+    "account": "garretts_dev_desk",
+    "theme": "answering_management_questions_with_connected_reporting",
+    "series": "pbi_support_reporting_clarity",
+    "scheduled_at": "2028-02-25T09:15:00-05:00",
+    "posts": [
+      "\"Why did customer support performance drop this month?\" sounds like a simple question.\n\nAnswering it might require comparing ticket volume, issue categories, response times, SLA results, and customer satisfaction. Without a connected view, every investigation can feel like starting over.\n\nMy Customer Support Performance Power BI Kit provides a customizable reporting foundation: https://garrettsdevdesk.etsy.com/listing/4593960875/power-bi-customer-support-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-support-clarity-04",
+    "account": "garretts_dev_desk",
+    "theme": "building_a_repeatable_support_reporting_workflow",
+    "series": "pbi_support_reporting_clarity",
+    "scheduled_at": "2028-02-25T15:30:00-05:00",
+    "posts": [
+      "A useful support dashboard should help you do three things: see what changed, investigate the details, and explain what you found.\n\nStart with the headline metrics. Follow unusual changes into categories, channels, or agent results. Then connect the findings back to the customer experience.\n\nTry using that three-step process during your next reporting review. It can make your analysis more consistent and your explanations easier to follow."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-support-clarity-05",
+    "account": "garretts_dev_desk",
+    "theme": "reducing_the_effort_of_recurring_support_reporting",
+    "series": "pbi_support_reporting_clarity",
+    "scheduled_at": "2028-02-26T09:15:00-05:00",
+    "posts": [
+      "You shouldn't have to rebuild your support reporting every time someone asks a new question.\n\nA well-organized dashboard gives you a consistent place to review ticket trends, response and resolution times, SLA, CSAT, and agent performance. The goal is to spend less time assembling numbers and more time understanding them.\n\nMy Customer Support Performance Power BI Kit gives you a starting point: https://garrettsdevdesk.etsy.com/listing/4593960875/power-bi-customer-support-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-support-clarity-06",
+    "account": "garretts_dev_desk",
+    "theme": "making_customer_support_reporting_easier_to_explain",
+    "series": "pbi_support_reporting_clarity",
+    "scheduled_at": "2028-02-26T15:30:00-05:00",
+    "posts": [
+      "The real value of a dashboard often shows up when someone asks an unexpected question.\n\nInstead of hunting through several reports, you can start with a shared view of performance and investigate the details from there. That makes it easier to explain what changed, what might be contributing, and what deserves attention next.\n\nWhat's the most frustrating part of preparing recurring reports: gathering the data, finding the insights, or explaining the results?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "community-minutes-draft-review-01",
+    "account": "garretts_dev_desk",
+    "theme": "meeting_minutes_accuracy",
+    "series": "community_minutes_draft_review",
+    "scheduled_at": "2027-04-08T09:15:00-04:00",
+    "posts": [
+      "A polished set of meeting minutes can still contain mistakes.\n\nClean headings and professional formatting make a document easier to read, but they don't guarantee that the decisions, amounts, or assignments underneath are correct.\n\nI built Community Minutes to help organize meeting records while keeping human review part of the process: https://communityminutes.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "community-minutes-draft-review-02",
+    "account": "garretts_dev_desk",
+    "theme": "meeting_minutes_review_checklist",
+    "series": "community_minutes_draft_review",
+    "scheduled_at": "2027-04-08T15:30:00-04:00",
+    "posts": [
+      "When reviewing meeting minutes, some details deserve more attention than others.\n\nCheck names, dates, dollar amounts, motions, votes, deadlines, vendor selections, and formal decisions carefully. These are the details people may rely on long after the meeting ends.\n\nA useful review habit is to verify those items against your original notes before spending time polishing the wording."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "community-minutes-draft-review-03",
+    "account": "garretts_dev_desk",
+    "theme": "uncertain_meeting_details",
+    "series": "community_minutes_draft_review",
+    "scheduled_at": "2027-04-09T09:15:00-04:00",
+    "posts": [
+      "If your meeting notes say \"$2,400 or maybe $2,900,\" a polished draft shouldn't quietly choose one.\n\nUncertain details need verification, especially when they involve money, decisions, or responsibilities. A question mark in a working draft is much better than an incorrect number in the final record.\n\nCommunity Minutes helps you organize and review your meeting documentation: https://communityminutes.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "community-minutes-draft-review-04",
+    "account": "garretts_dev_desk",
+    "theme": "human_review_of_ai_drafts",
+    "series": "community_minutes_draft_review",
+    "scheduled_at": "2027-04-09T15:30:00-04:00",
+    "posts": [
+      "Software can help organize rough meeting notes into decisions, motions, action items, and follow-up work. But organizing information and verifying its accuracy are different responsibilities.\n\nWhether a draft was written manually or with AI assistance, someone familiar with the meeting still needs to check the important details.\n\nThat review is part of creating a reliable record."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "community-minutes-draft-review-05",
+    "account": "garretts_dev_desk",
+    "theme": "responsible_meeting_software",
+    "series": "community_minutes_draft_review",
+    "scheduled_at": "2027-04-10T09:15:00-04:00",
+    "posts": [
+      "Good meeting software should make human review easier, not make it feel unnecessary.\n\nLet the tool help with structure, formatting, and organizing follow-up items. Keep verification of names, decisions, amounts, and other consequential details with the person responsible for the record.\n\nThat's the approach behind Community Minutes: https://communityminutes.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "community-minutes-draft-review-06",
+    "account": "garretts_dev_desk",
+    "theme": "trustworthy_meeting_records",
+    "series": "community_minutes_draft_review",
+    "scheduled_at": "2027-04-10T15:30:00-04:00",
+    "posts": [
+      "Polish makes meeting minutes easier to read. Careful review makes them more trustworthy.\n\nThe goal is to create a record that accurately reflects what happened, including the decisions, assignments, and unresolved questions that people may need to reference later.\n\nIf you regularly prepare meeting minutes, which part takes more time: organizing the initial draft or verifying the details before sharing?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

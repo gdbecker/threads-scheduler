@@ -1,0 +1,80 @@
+[
+  {
+    "id": "community-minutes-two-audiences-01",
+    "account": "garretts_dev_desk",
+    "theme": "meeting_communication_audiences",
+    "series": "community_minutes_two_audiences",
+    "scheduled_at": "2027-05-06T09:15:00-04:00",
+    "posts": [
+      "One meeting can have two very different audiences.\n\nBoard members and committee leaders may need a precise record of motions, votes, and decisions. Residents or community members may simply want to understand what happened and what it means for them.\n\nCommunity Minutes helps you prepare both formal minutes and a community-friendly summary: https://communityminutes.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "community-minutes-two-audiences-02",
+    "account": "garretts_dev_desk",
+    "theme": "meeting_minutes_purpose",
+    "series": "community_minutes_two_audiences",
+    "scheduled_at": "2027-05-06T15:30:00-04:00",
+    "posts": [
+      "Meeting minutes don't have to double as a community newsletter.\n\nTrying to make one document preserve formal organizational business while also explaining every development conversationally can make it harder to read.\n\nConsider keeping the official record focused on what happened, then preparing a separate, accessible summary when residents or members need a broader explanation."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "community-minutes-two-audiences-03",
+    "account": "garretts_dev_desk",
+    "theme": "minutes_vs_community_summary",
+    "series": "community_minutes_two_audiences",
+    "scheduled_at": "2027-05-07T09:15:00-04:00",
+    "posts": [
+      "Here's a simple distinction that can improve how organizations communicate after meetings.\n\nMeeting minutes answer, \"What did the group do?\" A community summary answers, \"What should people know?\" Both draw from the same meeting, but they serve different purposes.\n\nYou can prepare both with Community Minutes: https://communityminutes.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "community-minutes-two-audiences-04",
+    "account": "garretts_dev_desk",
+    "theme": "audience_focused_meeting_updates",
+    "series": "community_minutes_two_audiences",
+    "scheduled_at": "2027-05-07T15:30:00-04:00",
+    "posts": [
+      "Imagine an HOA board approves a landscaping project.\n\nThe official minutes may need to preserve the motion, vote, selected contractor, and authorized amount. Residents may be more interested in what work is planned, when it will happen, and whether it affects them.\n\nBefore writing a meeting update, think about what information your intended reader actually needs."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "community-minutes-two-audiences-05",
+    "account": "garretts_dev_desk",
+    "theme": "accurate_community_summaries",
+    "series": "community_minutes_two_audiences",
+    "scheduled_at": "2027-05-08T09:15:00-04:00",
+    "posts": [
+      "A community-friendly meeting summary can use simpler language without changing the underlying facts.\n\nIf a proposal was only discussed, don't describe it as approved. If a project date is tentative, preserve that uncertainty. Clear communication should help people understand what actually happened.\n\nCommunity Minutes includes a separate summary workflow you can review before sharing: https://communityminutes.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "community-minutes-two-audiences-06",
+    "account": "garretts_dev_desk",
+    "theme": "community_meeting_transparency",
+    "series": "community_minutes_two_audiences",
+    "scheduled_at": "2027-05-08T15:30:00-04:00",
+    "posts": [
+      "Sometimes the best way to improve an overloaded meeting document is to give its different responsibilities separate places.\n\nLet the minutes preserve the formal record. When there's a genuine communication need, a separate summary can help residents or members understand the outcomes in everyday language.\n\nDoes your organization share a plain-language meeting recap, or does everyone rely on the official minutes?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

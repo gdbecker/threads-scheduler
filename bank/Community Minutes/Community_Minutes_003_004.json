@@ -1,0 +1,80 @@
+[
+  {
+    "id": "community-minutes-reader-first-01",
+    "account": "garretts_dev_desk",
+    "theme": "minutes_vs_summaries",
+    "series": "community_minutes_reader_first",
+    "scheduled_at": "2027-05-17T09:15:00-04:00",
+    "posts": [
+      "The simplest way to understand the difference between meeting minutes and a meeting summary is to start with the question each document answers.\n\nBefore worrying about headings, formatting, or length, consider what the reader needs from the information.\n\nCommunity Minutes helps you prepare both types of documents for different purposes: https://communityminutes.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "community-minutes-reader-first-02",
+    "account": "garretts_dev_desk",
+    "theme": "meeting_document_purpose",
+    "series": "community_minutes_reader_first",
+    "scheduled_at": "2027-05-17T15:30:00-04:00",
+    "posts": [
+      "Meeting minutes ask, \"What did the group do?\" A meeting summary asks, \"What should people know?\"\n\nBoth documents come from the same meeting, but they serve different readers and communication needs. The minutes preserve organizational business, while a summary helps people understand the important developments.\n\nKeeping those two questions in mind can make both documents easier to write."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "community-minutes-reader-first-03",
+    "account": "garretts_dev_desk",
+    "theme": "organizational_meeting_records",
+    "series": "community_minutes_reader_first",
+    "scheduled_at": "2027-05-18T09:15:00-04:00",
+    "posts": [
+      "Good meeting minutes help preserve an organization's memory.\n\nMonths later, someone may need to know what was proposed, which decisions were approved, how a vote turned out, or who was assigned a follow-up task. Those details should be easy to find without reconstructing the conversation.\n\nCommunity Minutes helps organize them into a structured record: https://communityminutes.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "community-minutes-reader-first-04",
+    "account": "garretts_dev_desk",
+    "theme": "community_summary_writing",
+    "series": "community_minutes_reader_first",
+    "scheduled_at": "2027-05-18T15:30:00-04:00",
+    "posts": [
+      "A resident reading a meeting summary may simply want to know what changed and what happens next.\n\nThey might care about an upcoming repair, a new community policy, or a project timeline without needing every procedural detail from the meeting.\n\nWhen preparing a summary, try identifying the three most important things your audience should understand. Use those as the foundation for the update."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "community-minutes-reader-first-05",
+    "account": "garretts_dev_desk",
+    "theme": "consistent_meeting_information",
+    "series": "community_minutes_reader_first",
+    "scheduled_at": "2027-05-19T09:15:00-04:00",
+    "posts": [
+      "Meeting minutes and community summaries can emphasize different details without telling different stories.\n\nIf the minutes say a decision was deferred, the summary shouldn't describe it as approved. Different audiences may need different explanations, but the underlying facts should stay consistent.\n\nCommunity Minutes supports both documents in one workflow: https://communityminutes.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "community-minutes-reader-first-06",
+    "account": "garretts_dev_desk",
+    "theme": "reader_focused_communication",
+    "series": "community_minutes_reader_first",
+    "scheduled_at": "2027-05-19T15:30:00-04:00",
+    "posts": [
+      "Before writing a meeting document, think about who will read it and what they need to understand.\n\nSomeone verifying an official decision may need precise procedural details. Someone looking for a community update may need a clear explanation of what changed and what comes next.\n\nWhen your organization shares meeting information, do you find that readers usually want more detail or a simpler explanation?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

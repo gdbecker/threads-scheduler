@@ -1,0 +1,80 @@
+[
+  {
+    "id": "thinking-lens-questioning-constraints-01",
+    "account": "garretts_dev_desk",
+    "theme": "recognizing_assumed_boundaries",
+    "series": "thinking_lens_questioning_constraints",
+    "scheduled_at": "2027-10-07T09:15:00-04:00",
+    "posts": [
+      "Some of the rules surrounding a difficult decision aren't actually rules.\n\nWe sometimes treat assumptions, habits, and expectations as fixed boundaries without stopping to question them. That can make a situation feel more restrictive than it really is.\n\nThe Thinking Lens helps you explore problems from different perspectives and reconsider what might be possible: https://thethinkinglens.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "thinking-lens-questioning-constraints-02",
+    "account": "garretts_dev_desk",
+    "theme": "testing_perceived_limitations",
+    "series": "thinking_lens_questioning_constraints",
+    "scheduled_at": "2027-10-07T15:30:00-04:00",
+    "posts": [
+      "When a problem feels boxed in, it can help to ask which boundaries are actually fixed.\n\nSome constraints come from real requirements. Others come from the way we've interpreted a situation or the expectations we've quietly accepted.\n\nTry writing down three limitations affecting a decision. For each one, ask who established it, whether it's required, and what evidence would confirm that it cannot change."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "thinking-lens-questioning-constraints-03",
+    "account": "garretts_dev_desk",
+    "theme": "separating_requirements_from_interpretations",
+    "series": "thinking_lens_questioning_constraints",
+    "scheduled_at": "2027-10-08T09:15:00-04:00",
+    "posts": [
+      "A deadline can be real while your interpretation of it is unnecessarily restrictive.\n\nFriday might genuinely be the deadline, but does every part of the project need to be finished by then? Sometimes the requirement is narrower than the rule we've created in our heads.\n\nExplore questions like these with The Thinking Lens, a free thinking tool from Garrett's Dev Desk: https://thethinkinglens.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "thinking-lens-questioning-constraints-04",
+    "account": "garretts_dev_desk",
+    "theme": "discovering_alternative_options",
+    "series": "thinking_lens_questioning_constraints",
+    "scheduled_at": "2027-10-08T15:30:00-04:00",
+    "posts": [
+      "A difficult decision can feel much harder when you've convinced yourself there are only two options.\n\nYou might be comparing A and B so closely that you haven't considered whether a third approach could address the problem differently. Sometimes widening the possibilities changes the entire conversation.\n\nTry describing your decision without mentioning either original option. What outcome are you actually trying to achieve, and what other route might get you there?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "thinking-lens-questioning-constraints-05",
+    "account": "garretts_dev_desk",
+    "theme": "learning_through_small_experiments",
+    "series": "thinking_lens_questioning_constraints",
+    "scheduled_at": "2027-10-09T09:15:00-04:00",
+    "posts": [
+      "You don't always need to make a full commitment to learn whether an idea has potential.\n\nA small experiment can help you test an assumption, discover a limitation, or gather information before making a larger decision. The goal is to learn something useful while keeping the next step manageable.\n\nThe Thinking Lens helps you approach decisions with more curiosity: https://thethinkinglens.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "thinking-lens-questioning-constraints-06",
+    "account": "garretts_dev_desk",
+    "theme": "creating_room_for_new_possibilities",
+    "series": "thinking_lens_questioning_constraints",
+    "scheduled_at": "2027-10-09T15:30:00-04:00",
+    "posts": [
+      "Sometimes you discover more room to move simply by questioning a boundary you thought was permanent.\n\nYou may still face real constraints, but recognizing which ones are flexible can reveal options that weren't obvious before. Even one small experiment can change how you understand the situation.\n\nHave you ever realized that a rule you were following was actually an assumption you'd made? What changed when you questioned it?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

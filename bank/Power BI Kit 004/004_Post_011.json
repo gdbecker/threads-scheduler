@@ -1,0 +1,80 @@
+[
+  {
+    "id": "pbi-field-recurring-issues-01",
+    "account": "garretts_dev_desk",
+    "theme": "recognizing_recurring_field_operations_problems",
+    "series": "pbi_field_recurring_issues_and_improvement",
+    "scheduled_at": "2028-10-05T09:15:00-04:00",
+    "posts": [
+      "Another month. Another meeting. The same problems.\n\nYour field team keeps working to improve, yet repeat service calls and productivity concerns continue appearing in the reports. Without a clear view of historical patterns, it can be difficult to understand what keeps returning.\n\nMy Field Team Performance Power BI Kit includes service reliability and performance reporting: https://garrettsdevdesk.etsy.com/listing/4595448076/power-bi-field-team-performance"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-field-recurring-issues-02",
+    "account": "garretts_dev_desk",
+    "theme": "breaking_the_cycle_of_reactive_field_service_problem_solving",
+    "series": "pbi_field_recurring_issues_and_improvement",
+    "scheduled_at": "2028-10-05T15:30:00-04:00",
+    "posts": [
+      "It's exhausting to keep addressing the same operational problems without seeing lasting improvement.\n\nRepeat visits, missed customer commitments, and uneven productivity can demand attention every month. When each issue is handled separately, the broader pattern may go unnoticed.\n\nTry keeping a recurring-issues log for the next few reporting periods. Record the issue, the action taken, and whether it returned. Review the log alongside your performance metrics."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-field-recurring-issues-03",
+    "account": "garretts_dev_desk",
+    "theme": "identifying_repeated_service_quality_patterns_over_time",
+    "series": "pbi_field_recurring_issues_and_improvement",
+    "scheduled_at": "2028-10-06T09:15:00-04:00",
+    "posts": [
+      "What if the warning signs have been appearing in your reports for months?\n\nA service repeat rate might improve briefly before climbing again. Looking at longer-term trends can reveal recurring concerns that individual monthly snapshots make easy to miss.\n\nMy Field Team Performance Power BI Kit includes a Quality & Service Reliability dashboard for examining these patterns: https://garrettsdevdesk.etsy.com/listing/4595448076/power-bi-field-team-performance"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-field-recurring-issues-04",
+    "account": "garretts_dev_desk",
+    "theme": "prioritizing_recurring_issues_across_field_teams_and_locations",
+    "series": "pbi_field_recurring_issues_and_improvement",
+    "scheduled_at": "2028-10-06T15:30:00-04:00",
+    "posts": [
+      "You don't have to investigate every performance concern at once.\n\nComparing service repeats, productivity, and target performance across employees, supervisors, or locations can help identify where recurring issues are concentrated. That context makes prioritization more manageable.\n\nTry ranking your three most persistent service-quality concerns by frequency and operational impact. Choose one to investigate, then establish a measure to monitor after taking action."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-field-recurring-issues-05",
+    "account": "garretts_dev_desk",
+    "theme": "using_field_performance_trends_to_support_sustained_improvement",
+    "series": "pbi_field_recurring_issues_and_improvement",
+    "scheduled_at": "2028-10-07T09:15:00-04:00",
+    "posts": [
+      "Your team works too hard to keep solving the same problems without understanding why they return.\n\nHistorical trends and performance comparisons can help identify persistent concerns, evaluate improvement efforts, and determine where additional attention is needed.\n\nMy Field Team Performance Power BI Kit brings employee results, service quality, and productivity into four editable dashboards: https://garrettsdevdesk.etsy.com/listing/4595448076/power-bi-field-team-performance"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-field-recurring-issues-06",
+    "account": "garretts_dev_desk",
+    "theme": "discussing_how_field_teams_address_persistent_operational_problems",
+    "series": "pbi_field_recurring_issues_and_improvement",
+    "scheduled_at": "2028-10-07T15:30:00-04:00",
+    "posts": [
+      "There's a particular frustration in seeing the same performance issue return after your team has worked hard to address it.\n\nOperational improvements take time, and temporary progress can be difficult to distinguish from lasting change. Tracking trends and documenting actions can help teams understand whether their efforts are making a difference.\n\nFor field operations managers, which recurring problem has been the most difficult to resolve in a lasting way?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

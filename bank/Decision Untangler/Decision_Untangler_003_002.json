@@ -1,0 +1,80 @@
+[
+  {
+    "id": "decision-untangler-understanding-fear-01",
+    "account": "garretts_dev_desk",
+    "theme": "understanding_decision_fear",
+    "series": "decision_untangler_understanding_fear",
+    "scheduled_at": "2027-07-12T09:15:00-04:00",
+    "posts": [
+      "Fear should have to explain itself before it influences a big decision.\n\nSaying \"I'm scared\" might mean you're worried about money, losing stability, disappointing someone, or simply entering unfamiliar territory. Those concerns deserve different kinds of attention.\n\nDecision Untangler helps you examine what's behind your hesitation so you can make a more thoughtful choice: https://decisionuntangler.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "decision-untangler-understanding-fear-02",
+    "account": "garretts_dev_desk",
+    "theme": "naming_specific_fears",
+    "series": "decision_untangler_understanding_fear",
+    "scheduled_at": "2027-07-12T15:30:00-04:00",
+    "posts": [
+      "When a decision feels frightening, try getting more specific about what worries you.\n\nAre you afraid of losing money, failing publicly, leaving your support system, or giving up something familiar? Each concern points toward a different question worth exploring.\n\nWrite down the sentence \"I'm afraid that...\" and finish it as precisely as you can. You may discover that the fear is more manageable once you know what it actually involves."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "decision-untangler-understanding-fear-03",
+    "account": "garretts_dev_desk",
+    "theme": "responding_to_specific_fears",
+    "series": "decision_untangler_understanding_fear",
+    "scheduled_at": "2027-07-13T09:15:00-04:00",
+    "posts": [
+      "Different fears call for different responses.\n\nFinancial uncertainty might require a budget or backup plan. An unfamiliar responsibility might call for training or more information. A concern about your wellbeing might reveal a boundary you need to respect.\n\nOnce you understand what you're afraid of, you can consider what that concern actually needs. Explore your decision with Decision Untangler: https://decisionuntangler.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "decision-untangler-understanding-fear-04",
+    "account": "garretts_dev_desk",
+    "theme": "fear_of_unfamiliarity",
+    "series": "decision_untangler_understanding_fear",
+    "scheduled_at": "2027-07-13T15:30:00-04:00",
+    "posts": [
+      "Something can feel uncomfortable simply because you've never done it before.\n\nStarting a business, moving somewhere new, or accepting a different role may still feel intimidating after you've researched the risks and prepared reasonably well. Unfamiliarity alone doesn't tell you whether the choice is wise.\n\nAsk yourself what specifically remains uncertain. Is there a practical risk to address, or are you adjusting to the possibility of something new?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "decision-untangler-understanding-fear-05",
+    "account": "garretts_dev_desk",
+    "theme": "respecting_genuine_warning_signs",
+    "series": "decision_untangler_understanding_fear",
+    "scheduled_at": "2027-07-14T09:15:00-04:00",
+    "posts": [
+      "Not every uncomfortable feeling is something you should push through.\n\nSometimes fear points toward a real financial risk, an unhealthy situation, or a responsibility you aren't prepared to take on. Those concerns deserve careful consideration rather than automatic dismissal.\n\nDecision Untangler helps you examine your worries alongside your priorities and the available facts: https://decisionuntangler.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "decision-untangler-understanding-fear-06",
+    "account": "garretts_dev_desk",
+    "theme": "weighing_fear_in_decisions",
+    "series": "decision_untangler_understanding_fear",
+    "scheduled_at": "2027-07-14T15:30:00-04:00",
+    "posts": [
+      "Fear deserves a voice in your decision, but it doesn't automatically deserve the deciding vote.\n\nListen carefully enough to understand what it's telling you. Some concerns call for preparation, others reveal meaningful boundaries, and some reflect the discomfort of trying something unfamiliar.\n\nHave you ever realized that a fear you had about a decision was really about the unknown rather than the choice itself?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

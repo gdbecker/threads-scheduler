@@ -1,0 +1,80 @@
+[
+  {
+    "id": "budget-snapshot-reserve-contributions-01",
+    "account": "garretts_dev_desk",
+    "theme": "reserve_contribution_planning",
+    "series": "budget_snapshot_reserve_contributions",
+    "scheduled_at": "2027-03-18T09:15:00-04:00",
+    "posts": [
+      "An HOA's annual reserve contribution connects today's budget with tomorrow's responsibilities.\n\nMoney set aside this year helps prepare for major repairs and replacements that may still be years away. It's worth explaining that connection when presenting the community's finances.\n\nI built Budget Snapshot to support clearer conversations about budgets and reserves: https://budgetsnapshot.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "budget-snapshot-reserve-contributions-02",
+    "account": "garretts_dev_desk",
+    "theme": "long_term_maintenance",
+    "series": "budget_snapshot_reserve_contributions",
+    "scheduled_at": "2027-03-18T15:30:00-04:00",
+    "posts": [
+      "Nothing has to be broken for an HOA's future maintenance expenses to be getting closer.\n\nA roof can be working perfectly while moving toward eventual replacement. A road can be usable while gradually approaching its next major repair.\n\nReserve planning recognizes those responsibilities before they become immediate problems. It's one way communities prepare for the cost of caring for shared property."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "budget-snapshot-reserve-contributions-03",
+    "account": "garretts_dev_desk",
+    "theme": "reserve_budget_changes",
+    "series": "budget_snapshot_reserve_contributions",
+    "scheduled_at": "2027-03-19T09:15:00-04:00",
+    "posts": [
+      "\"Reserve contributions increased by $25,000\" is useful information, but homeowners deserve to understand the reason.\n\nMaybe replacement costs increased, a major project moved closer, or the association is rebuilding reserves after recent work.\n\nExplaining the decision gives the number meaning.\n\nExplore Budget Snapshot: https://budgetsnapshot.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "budget-snapshot-reserve-contributions-04",
+    "account": "garretts_dev_desk",
+    "theme": "reserve_funding_tradeoffs",
+    "series": "budget_snapshot_reserve_contributions",
+    "scheduled_at": "2027-03-19T15:30:00-04:00",
+    "posts": [
+      "Reducing an HOA's reserve contribution can make the current budget easier to manage. But the future maintenance responsibilities may remain unchanged.\n\nDepending on the funding plan, a lower contribution today could mean needing larger contributions or other funding later.\n\nWhen discussing a reduction, explain what it means for the longer-term plan so homeowners can understand the tradeoff."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "budget-snapshot-reserve-contributions-05",
+    "account": "garretts_dev_desk",
+    "theme": "financial_transparency",
+    "series": "budget_snapshot_reserve_contributions",
+    "scheduled_at": "2027-03-20T09:15:00-04:00",
+    "posts": [
+      "A useful HOA reserve discussion brings several pieces of information together.\n\nWhat's the current balance? How much is being contributed this year? Which major projects are approaching? What planning target is the association using?\n\nSeeing these details together helps homeowners understand the reasoning behind funding decisions.\n\nBudget Snapshot: https://budgetsnapshot.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "budget-snapshot-reserve-contributions-06",
+    "account": "garretts_dev_desk",
+    "theme": "community_financial_priorities",
+    "series": "budget_snapshot_reserve_contributions",
+    "scheduled_at": "2027-03-20T15:30:00-04:00",
+    "posts": [
+      "An HOA's annual reserve contribution is where two timelines meet.\n\nThe community is managing today's expenses while preparing for major repairs and replacements that may not happen for years. Those decisions affect both current affordability and future financial flexibility.\n\nWhen reviewing an annual budget, what would help you better understand whether the proposed reserve contribution makes sense?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

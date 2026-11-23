@@ -1,0 +1,80 @@
+[
+  {
+    "id": "decision-untangler-recurring-patterns-01",
+    "account": "garretts_dev_desk",
+    "theme": "recurring_decision_concerns",
+    "series": "decision_untangler_recurring_patterns",
+    "scheduled_at": "2027-06-28T09:15:00-04:00",
+    "posts": [
+      "Pay attention to the concern that keeps coming back whenever you think about a difficult decision.\n\nYou might approach the choice from several different angles, yet find yourself returning to the same worry, hope, or priority. That repetition could be telling you something worth exploring.\n\nDecision Untangler helps you examine those recurring thoughts and what they might mean for your choice: https://decisionuntangler.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "decision-untangler-recurring-patterns-02",
+    "account": "garretts_dev_desk",
+    "theme": "time_as_a_personal_priority",
+    "series": "decision_untangler_recurring_patterns",
+    "scheduled_at": "2027-06-28T15:30:00-04:00",
+    "posts": [
+      "Sometimes a recurring concern reveals a priority you haven't fully acknowledged.\n\nMaybe you're comparing two jobs and keep returning to time. It appears when you think about the commute, your evenings, your energy, and how much of the week would belong to you.\n\nTry looking for the common thread in your concerns. Several seemingly separate worries may be pointing toward one thing that matters deeply to you."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "decision-untangler-recurring-patterns-03",
+    "account": "garretts_dev_desk",
+    "theme": "multiple_decision_perspectives",
+    "series": "decision_untangler_recurring_patterns",
+    "scheduled_at": "2027-06-29T09:15:00-04:00",
+    "posts": [
+      "If you're stuck between two options, try examining the decision through three different questions.\n\nWhich choice feels safer? What might you regret giving up? What would an ordinary Tuesday look like with each option?\n\nNotice whether the same concern or priority appears in your answers. Decision Untangler gives you a place to explore your reasoning from different angles: https://decisionuntangler.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "decision-untangler-recurring-patterns-04",
+    "account": "garretts_dev_desk",
+    "theme": "identifying_decision_patterns",
+    "series": "decision_untangler_recurring_patterns",
+    "scheduled_at": "2027-06-29T15:30:00-04:00",
+    "posts": [
+      "A useful part of reflecting on a decision is noticing when different questions lead you back to the same theme.\n\nMaybe autonomy keeps appearing when you think about work. Maybe stability comes up whenever you imagine the future. Perhaps creativity, family, or personal time keeps finding its way into your answers.\n\nWrite down the themes you notice, then ask why they matter in your current circumstances."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "decision-untangler-recurring-patterns-05",
+    "account": "garretts_dev_desk",
+    "theme": "qualitative_decision_factors",
+    "series": "decision_untangler_recurring_patterns",
+    "scheduled_at": "2027-06-30T09:15:00-04:00",
+    "posts": [
+      "Not everything important about a decision fits neatly into a spreadsheet.\n\nSalary, moving costs, and commute times are relatively easy to compare. Creative energy, peace of mind, and the quality of your everyday life are harder to measure, but they may be just as important.\n\nDecision Untangler helps you give those less measurable considerations a place in your thinking: https://decisionuntangler.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "decision-untangler-recurring-patterns-06",
+    "account": "garretts_dev_desk",
+    "theme": "recognizing_personal_priorities",
+    "series": "decision_untangler_recurring_patterns",
+    "scheduled_at": "2027-06-30T15:30:00-04:00",
+    "posts": [
+      "Sometimes clarity comes from noticing something you've already said five different times.\n\nYou may have asked for advice, compared the options, and revisited the decision repeatedly. Somewhere in those conversations, the same concern or priority keeps appearing.\n\nHave you ever realized that you already knew what mattered most to you, but it took hearing yourself repeat it before you really noticed?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "waf-calm-checklists-01",
+    "account": "garretts_dev_desk",
+    "theme": "reducing_checklist_related_anxiety",
+    "series": "waf_calm_checklists",
+    "scheduled_at": "2027-12-13T09:15:00-05:00",
+    "posts": [
+      "A checklist should reduce anxiety, not create more of it.\n\nYou started by wondering whether you packed your charger. Somehow, you're now reviewing enough supplies for an expedition across Antarctica. Preparation can become exhausting when every possibility feels equally important.\n\nI built What Am I Forgetting? to offer a simpler way to think through everyday details: https://whatamiforgetting.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-calm-checklists-02",
+    "account": "garretts_dev_desk",
+    "theme": "turning_vague_worries_into_concrete_checks",
+    "series": "waf_calm_checklists",
+    "scheduled_at": "2027-12-13T15:30:00-05:00",
+    "posts": [
+      "\"I know I'm forgetting something\" can be an exhausting thought because it gives you almost nothing specific to check.\n\nA more useful approach is to turn that vague concern into a few concrete questions. What will you need when you arrive? Is there anything unusual about today? Did you prepare something that's still waiting at home?\n\nTry answering those three questions before your next outing, then see whether anything useful comes to mind."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-calm-checklists-03",
+    "account": "garretts_dev_desk",
+    "theme": "using_context_to_keep_checklists_short",
+    "series": "waf_calm_checklists",
+    "scheduled_at": "2027-12-14T09:15:00-05:00",
+    "posts": [
+      "You don't need a checklist of everything you could possibly forget.\n\nA useful list starts with today's actual circumstances. Where are you going? Who will you see? What will you need there? What happens afterward? Those details help narrow your attention to what matters.\n\nWhat Am I Forgetting? helps you think through the practical details without building a complicated planning system: https://whatamiforgetting.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-calm-checklists-04",
+    "account": "garretts_dev_desk",
+    "theme": "knowing_when_to_finish_preparing",
+    "series": "waf_calm_checklists",
+    "scheduled_at": "2027-12-14T15:30:00-05:00",
+    "posts": [
+      "A good checklist should eventually help you stop checking.\n\nPreparation has a purpose, and at some point you need to move on to the thing you were preparing for. Repeatedly reviewing the same list can make an ordinary departure feel unnecessarily complicated.\n\nFor your next routine outing, try making one deliberate final check. Review the essentials, look for anything unusual, and then let yourself get on with the day."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-calm-checklists-05",
+    "account": "garretts_dev_desk",
+    "theme": "choosing_simple_tools_over_complex_systems",
+    "series": "waf_calm_checklists",
+    "scheduled_at": "2027-12-15T09:15:00-05:00",
+    "posts": [
+      "Not every small problem needs an elaborate productivity system.\n\nSometimes you just want a quick second pass before leaving home. Another account, dashboard, notification, or routine to maintain could create more work than the original problem deserved.\n\nThat's part of the thinking behind What Am I Forgetting?, a simple tool for a specific everyday need: https://whatamiforgetting.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-calm-checklists-06",
+    "account": "garretts_dev_desk",
+    "theme": "finding_balance_between_preparation_and_peace_of_mind",
+    "series": "waf_calm_checklists",
+    "scheduled_at": "2027-12-15T15:30:00-05:00",
+    "posts": [
+      "Catch what matters. Then get on with your day.\n\nNo checklist can guarantee you'll remember everything, and that's okay. A useful one simply gives you a better chance of catching the important details without turning an ordinary task into an elaborate exercise.\n\nAre you someone who enjoys making detailed checklists, or do you prefer a quick mental review before heading out? I'm curious how different people approach everyday preparation."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

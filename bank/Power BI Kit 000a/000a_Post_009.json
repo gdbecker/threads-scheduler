@@ -1,0 +1,80 @@
+[
+  {
+    "id": "pbi-people-behind-metrics-01",
+    "account": "garretts_dev_desk",
+    "theme": "remembering_the_people_behind_support_tickets",
+    "series": "pbi_people_behind_metrics",
+    "scheduled_at": "2028-03-02T09:15:00-05:00",
+    "posts": [
+      "Every customer support ticket started with someone needing help.\n\nA dashboard might show 2,400 tickets, but each one represents a customer looking for an answer and a team working to provide one. Remembering that makes the numbers worth examining more carefully.\n\nI built my Customer Support Performance Power BI Kit to help make those service patterns easier to understand: https://garrettsdevdesk.etsy.com/listing/4593960875/power-bi-customer-support-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-people-behind-metrics-02",
+    "account": "garretts_dev_desk",
+    "theme": "understanding_the_customer_experience_behind_response_times",
+    "series": "pbi_people_behind_metrics",
+    "scheduled_at": "2028-03-02T15:30:00-05:00",
+    "posts": [
+      "Response time is more than a number on a dashboard. It's the amount of time someone spent waiting to hear back.\n\nFive minutes and five hours can look like ordinary data points in a report. They feel very different when you're the customer wondering whether anyone has seen your message.\n\nTry reviewing response times alongside ticket priority and customer satisfaction. Which groups of customers may be experiencing the longest or most consequential waits?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-people-behind-metrics-03",
+    "account": "garretts_dev_desk",
+    "theme": "recognizing_support_team_workload_behind_ticket_volume",
+    "series": "pbi_people_behind_metrics",
+    "scheduled_at": "2028-03-03T09:15:00-05:00",
+    "posts": [
+      "Ticket volume represents customer demand, but it also represents someone's workload.\n\nWhen requests increase, support agents are the people answering questions, investigating problems, and keeping service moving. Understanding that pressure can help managers make more thoughtful decisions about capacity and support.\n\nMy Customer Support Performance Power BI Kit brings workload and service metrics together: https://garrettsdevdesk.etsy.com/listing/4593960875/power-bi-customer-support-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-people-behind-metrics-04",
+    "account": "garretts_dev_desk",
+    "theme": "balancing_customer_experience_with_team_capacity",
+    "series": "pbi_people_behind_metrics",
+    "scheduled_at": "2028-03-03T15:30:00-05:00",
+    "posts": [
+      "Good support reporting should help you understand both sides of the service experience.\n\nCustomers care about getting timely, useful answers. Support teams need manageable workloads and enough capacity to deliver those answers consistently. Both perspectives matter when evaluating performance.\n\nTry reviewing customer satisfaction and response times alongside ticket volume and agent workload. Where might the team need more support to improve the customer experience?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-people-behind-metrics-05",
+    "account": "garretts_dev_desk",
+    "theme": "using_support_reporting_to_ask_more_thoughtful_questions",
+    "series": "pbi_people_behind_metrics",
+    "scheduled_at": "2028-03-04T09:15:00-05:00",
+    "posts": [
+      "Better visibility into customer support can lead to better questions about the people involved.\n\nWhere are customers waiting longest? Which issues are hardest to resolve? When is the team carrying the heaviest workload? A useful dashboard helps make those patterns visible so they can be investigated.\n\nThat's the thinking behind my Customer Support Performance Power BI Kit: https://garrettsdevdesk.etsy.com/listing/4593960875/power-bi-customer-support-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-people-behind-metrics-06",
+    "account": "garretts_dev_desk",
+    "theme": "keeping_people_at_the_center_of_support_analytics",
+    "series": "pbi_people_behind_metrics",
+    "scheduled_at": "2028-03-04T15:30:00-05:00",
+    "posts": [
+      "Behind every support metric are people trying to accomplish something.\n\nCustomers want their problems resolved. Agents want to do good work with the time and resources available. Managers need enough visibility to understand where either group may be struggling.\n\nWhen you're evaluating customer support performance, which perspective do you think gets overlooked more often: the customer's experience or the support team's workload?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

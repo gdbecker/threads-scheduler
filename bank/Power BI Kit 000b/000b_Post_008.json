@@ -1,0 +1,80 @@
+[
+  {
+    "id": "pbi-business-complexity-01",
+    "account": "garretts_dev_desk",
+    "theme": "recognizing_when_subscription_growth_creates_complexity",
+    "series": "pbi_subscription_business_complexity",
+    "scheduled_at": "2028-04-10T09:15:00-04:00",
+    "posts": [
+      "There comes a point when you can't keep the whole subscription business in your head anymore.\n\nMore customers, more plans, and more changes in recurring revenue make it harder to understand everything from memory. Growth is encouraging, but it also creates more to keep track of.\n\nMy Subscription Health Power BI Kit brings those moving pieces into one customizable report: https://garrettsdevdesk.etsy.com/listing/4595420792/power-bi-subscription-dashboard-template"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-business-complexity-02",
+    "account": "garretts_dev_desk",
+    "theme": "understanding_the_movements_behind_subscription_growth",
+    "series": "pbi_subscription_business_complexity",
+    "scheduled_at": "2028-04-10T15:30:00-04:00",
+    "posts": [
+      "As a subscription business grows, there's more happening beneath the monthly revenue total.\n\nNew customers arrive, existing accounts upgrade or downgrade, and some subscribers leave. Each movement changes the business, even when the headline MRR number looks relatively stable.\n\nTry reviewing one month of subscription activity by separating new, expansion, contraction, and churn MRR. Which movement contributed most to the final result?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-business-complexity-03",
+    "account": "garretts_dev_desk",
+    "theme": "moving_from_business_intuition_to_structured_reporting",
+    "series": "pbi_subscription_business_complexity",
+    "scheduled_at": "2028-04-11T09:15:00-04:00",
+    "posts": [
+      "When a business is small, you might recognize most customers and understand the important changes almost instinctively.\n\nAs it grows, questions about churn, plan performance, and revenue movement become harder to answer from memory. A consistent reporting process can help you maintain that understanding.\n\nMy Subscription Health Power BI Kit provides a starting point: https://garrettsdevdesk.etsy.com/listing/4595420792/power-bi-subscription-dashboard-template"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-business-complexity-04",
+    "account": "garretts_dev_desk",
+    "theme": "organizing_subscription_metrics_into_a_coherent_reporting_view",
+    "series": "pbi_subscription_business_complexity",
+    "scheduled_at": "2028-04-11T15:30:00-04:00",
+    "posts": [
+      "It's easier to understand subscription performance when related metrics are available together.\n\nMRR shows recurring revenue, customer counts show the size of the subscriber base, and churn reveals customer losses. ARPU, plan mix, and segment performance add useful context to those changes.\n\nTry organizing your next reporting review around three questions: What changed? Where did it change? What deserves a closer look?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-business-complexity-05",
+    "account": "garretts_dev_desk",
+    "theme": "creating_a_clearer_view_of_subscription_business_performance",
+    "series": "pbi_subscription_business_complexity",
+    "scheduled_at": "2028-04-12T09:15:00-04:00",
+    "posts": [
+      "One of the challenges of a growing subscription business is keeping a clear picture of everything that's changing.\n\nRevenue, customers, churn, plan mix, and segment performance all contribute to the story. Bringing them into one report can make it easier to investigate changes without piecing together separate numbers.\n\nThat's what I designed my Subscription Health Power BI Kit to help with: https://garrettsdevdesk.etsy.com/listing/4595420792/power-bi-subscription-dashboard-template"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-business-complexity-06",
+    "account": "garretts_dev_desk",
+    "theme": "recognizing_when_a_business_needs_more_structured_reporting",
+    "series": "pbi_subscription_business_complexity",
+    "scheduled_at": "2028-04-12T15:30:00-04:00",
+    "posts": [
+      "There's a certain comfort in knowing your business well enough to explain what's happening without looking anything up.\n\nAs the customer base grows, that becomes harder to maintain. Good reporting helps preserve some of that clarity by making important changes visible and easier to investigate.\n\nFor anyone who has worked in a growing business, when did you realize that spreadsheets, memory, or informal updates were no longer enough to keep track of everything?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "briefly-decision-clarity-01",
+    "account": "garretts_dev_desk",
+    "theme": "decision_making",
+    "series": "briefly_decision_clarity",
+    "scheduled_at": "2027-01-14T09:15:00-05:00",
+    "posts": [
+      "If someone has to read three pages before figuring out what decision you're asking them to make, your decision brief probably needs some work.\n\nPut the choice near the beginning. Then give the reader the information they need to evaluate it.\n\nI built Briefly to help organize documents like this: https://briefly.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-decision-clarity-02",
+    "account": "garretts_dev_desk",
+    "theme": "business_writing",
+    "series": "briefly_decision_clarity",
+    "scheduled_at": "2027-01-14T15:30:00-05:00",
+    "posts": [
+      "A decision brief becomes much easier to follow when the reader knows what they're being asked to decide.\n\nTry opening with a sentence like: \"We need to choose whether to extend the current vendor contract or move to a new provider.\"\n\nNow the background, costs, risks, and recommendations have a clear purpose."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-decision-clarity-03",
+    "account": "garretts_dev_desk",
+    "theme": "decision_analysis",
+    "series": "briefly_decision_clarity",
+    "scheduled_at": "2027-01-15T09:15:00-05:00",
+    "posts": [
+      "More options don't automatically make a decision brief more useful.\n\nIf there are two or three realistic paths forward, explain those well. Adding five hypothetical alternatives can make the choice harder to understand without improving the decision.\n\nBriefly includes a decision brief format for organizing the important details: https://briefly.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-decision-clarity-04",
+    "account": "garretts_dev_desk",
+    "theme": "risk_communication",
+    "series": "briefly_decision_clarity",
+    "scheduled_at": "2027-01-15T15:30:00-05:00",
+    "posts": [
+      "\"Option B has higher risk\" doesn't give a decision-maker much to work with.\n\nWhat could actually happen? How likely is it? What would the consequences be? What are we gaining in exchange for accepting that risk?\n\nTry replacing vague risk labels with a short explanation of the trade-off. It can make the decision much clearer."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-decision-clarity-05",
+    "account": "garretts_dev_desk",
+    "theme": "executive_communication",
+    "series": "briefly_decision_clarity",
+    "scheduled_at": "2027-01-16T09:15:00-05:00",
+    "posts": [
+      "It's okay to make a recommendation in a decision brief.\n\nIf your team has evaluated the options and believes one is the strongest choice, explain why. Acknowledge the drawbacks too, so the reader can weigh the recommendation fairly.\n\nYou can organize that thinking in Briefly: https://briefly.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-decision-clarity-06",
+    "account": "garretts_dev_desk",
+    "theme": "clear_communication",
+    "series": "briefly_decision_clarity",
+    "scheduled_at": "2027-01-16T15:30:00-05:00",
+    "posts": [
+      "A useful decision brief helps someone understand the choice, compare realistic options, and weigh the trade-offs without getting lost in the project's history.\n\nThe person making the decision still owns the judgment. Your job is to make the relevant information clear enough to support it.\n\nWhat's the hardest part of writing a decision brief for you?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

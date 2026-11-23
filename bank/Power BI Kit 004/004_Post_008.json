@@ -1,0 +1,80 @@
+[
+  {
+    "id": "pbi-field-visible-progress-01",
+    "account": "garretts_dev_desk",
+    "theme": "making_field_team_improvement_visible",
+    "series": "pbi_field_progress_and_recognition",
+    "scheduled_at": "2028-09-25T09:15:00-04:00",
+    "posts": [
+      "You worked hard to improve your team. Can you show the progress?\n\nCoaching employees, improving workflows, and addressing service problems take real effort. When results are scattered across reports, it can be difficult to demonstrate what has changed.\n\nMy Field Team Performance Power BI Kit includes four editable dashboards to help make that progress easier to examine: https://garrettsdevdesk.etsy.com/listing/4595448076/power-bi-field-team-performance"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-field-visible-progress-02",
+    "account": "garretts_dev_desk",
+    "theme": "documenting_the_effort_behind_field_team_improvements",
+    "series": "pbi_field_progress_and_recognition",
+    "scheduled_at": "2028-09-25T15:30:00-04:00",
+    "posts": [
+      "A monthly performance total rarely captures everything a field supervisor has been working on.\n\nCoaching conversations, workload adjustments, and service improvements can take weeks or months to produce measurable results. Keeping track of those efforts makes it easier to interpret changes later.\n\nTry maintaining a simple improvement log with the action taken, the date, and the metric you hope to influence. Review it alongside your monthly performance trends."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-field-visible-progress-03",
+    "account": "garretts_dev_desk",
+    "theme": "using_historical_field_performance_trends_to_show_progress",
+    "series": "pbi_field_progress_and_recognition",
+    "scheduled_at": "2028-09-26T09:15:00-04:00",
+    "posts": [
+      "Progress is easier to recognize when you can see where things started.\n\nA current performance number tells you where a team stands today. Comparing several reporting periods helps reveal gradual improvements, temporary setbacks, and results that have remained consistent.\n\nMy Field Team Performance Power BI Kit includes employee trends and team performance reporting: https://garrettsdevdesk.etsy.com/listing/4595448076/power-bi-field-team-performance"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-field-visible-progress-04",
+    "account": "garretts_dev_desk",
+    "theme": "recognizing_individual_employee_improvement_with_performance_data",
+    "series": "pbi_field_progress_and_recognition",
+    "scheduled_at": "2028-09-26T15:30:00-04:00",
+    "posts": [
+      "Employees deserve to know when their hard work is making a difference.\n\nIndividual scorecards and historical trends can help supervisors recognize steady improvement that might otherwise go unnoticed. A modest gain sustained over several months can be worth celebrating.\n\nTry reviewing each employee's current results against their own previous performance, not only the team average. Look for meaningful progress you can acknowledge in your next conversation."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-field-visible-progress-05",
+    "account": "garretts_dev_desk",
+    "theme": "connecting_employee_productivity_and_service_quality_improvements",
+    "series": "pbi_field_progress_and_recognition",
+    "scheduled_at": "2028-09-27T09:15:00-04:00",
+    "posts": [
+      "Improvement across a field operation rarely shows up in just one number.\n\nEmployee performance may become more consistent while repeat visits decline and productivity improves. Reviewing those measures together helps managers understand where progress is happening and where more attention is needed.\n\nMy Field Team Performance Power BI Kit brings these perspectives into four editable dashboards: https://garrettsdevdesk.etsy.com/listing/4595448076/power-bi-field-team-performance"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-field-visible-progress-06",
+    "account": "garretts_dev_desk",
+    "theme": "discussing_how_field_supervisors_demonstrate_team_progress",
+    "series": "pbi_field_progress_and_recognition",
+    "scheduled_at": "2028-09-27T15:30:00-04:00",
+    "posts": [
+      "A lot of good leadership work happens long before the results appear in a monthly report.\n\nSupervisors spend time helping employees, solving problems, and improving how work gets done. When performance trends eventually reflect those efforts, having a clear record of progress makes recognition and communication easier.\n\nFor supervisors and operations managers, what's the hardest improvement to demonstrate when reporting on your team's performance?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

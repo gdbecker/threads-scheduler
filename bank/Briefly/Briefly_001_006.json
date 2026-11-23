@@ -1,0 +1,80 @@
+[
+  {
+    "id": "briefly-rough-notes-01",
+    "account": "garretts_dev_desk",
+    "theme": "clear_communication",
+    "series": "briefly_rough_notes",
+    "scheduled_at": "2026-12-07T09:15:00-05:00",
+    "posts": [
+      "Your meeting notes can be messy. The version you send to someone else deserves a little more care.\n\nYour notes help you remember what happened. A finished update needs to help another person understand what matters and what happens next.\n\nThat's why I built Briefly: https://briefly.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-rough-notes-02",
+    "account": "garretts_dev_desk",
+    "theme": "note_taking",
+    "series": "briefly_rough_notes",
+    "scheduled_at": "2026-12-07T15:30:00-05:00",
+    "posts": [
+      "Does anyone else have meeting notes that look like a collection of half-finished thoughts and question marks?\n\nI've found it's better to capture the information first and worry about making it readable later. Shorthand and fragments are perfectly fine when you're writing for yourself.\n\nDo you take detailed notes or just enough to jog your memory?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-rough-notes-03",
+    "account": "garretts_dev_desk",
+    "theme": "writing_workflows",
+    "series": "briefly_rough_notes",
+    "scheduled_at": "2026-12-08T09:15:00-05:00",
+    "posts": [
+      "There's an important step between taking notes and sending a project update that often gets skipped.\n\nYou need to decide what matters, group related information, add missing context, and remove details the reader doesn't need.\n\nBriefly gives that organizing step a home: https://briefly.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-rough-notes-04",
+    "account": "garretts_dev_desk",
+    "theme": "project_communication",
+    "series": "briefly_rough_notes",
+    "scheduled_at": "2026-12-08T15:30:00-05:00",
+    "posts": [
+      "\"Launch May 15? Perf 420 → 290. Vendor maybe Friday.\"\n\nThose notes might make perfect sense to the person who wrote them. For everyone else, they're a puzzle.\n\nBefore sharing, explain what each detail means and why it matters. A few extra words can save a lot of follow-up questions.\n\nhttps://briefly.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-rough-notes-05",
+    "account": "garretts_dev_desk",
+    "theme": "workplace_productivity",
+    "series": "briefly_rough_notes",
+    "scheduled_at": "2026-12-09T09:15:00-05:00",
+    "posts": [
+      "A simple workflow for turning messy notes into a useful work update:\n\n1. Capture without polishing.\n2. Organize around what the reader needs.\n3. Review for missing context and unclear next steps.\n\nTry those three steps with your next meeting notes. Which part usually takes you the longest?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-rough-notes-06",
+    "account": "garretts_dev_desk",
+    "theme": "business_writing",
+    "series": "briefly_rough_notes",
+    "scheduled_at": "2026-12-09T15:30:00-05:00",
+    "posts": [
+      "A good work update shouldn't require the reader to have attended every meeting or followed every conversation.\n\nGive them the context they need, highlight what matters, and make the next step clear. It's a small courtesy that makes collaboration easier.\n\nBuild your next update with Briefly: https://briefly.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

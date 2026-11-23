@@ -1,0 +1,80 @@
+[
+  {
+    "id": "pbi-workforce-progress-01",
+    "account": "garretts_dev_desk",
+    "theme": "recognizing_team_progress_over_time",
+    "series": "pbi_workforce_progress_visibility",
+    "scheduled_at": "2028-08-24T09:15:00-04:00",
+    "posts": [
+      "Your team might be making progress you haven't noticed yet.\n\nWhen everyone's focused on the next sales target, gradual improvement can be easy to overlook. Looking at performance over time helps reveal how far the team has come.\n\nMy Workforce Performance & Sales Activity Power BI Kit includes sales trends, employee results, and profitability reporting across three editable pages: https://garrettsdevdesk.etsy.com/listing/4595444828/power-bi-sales-performance-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-workforce-progress-02",
+    "account": "garretts_dev_desk",
+    "theme": "appreciating_small_improvements_in_employee_performance",
+    "series": "pbi_workforce_progress_visibility",
+    "scheduled_at": "2028-08-24T15:30:00-04:00",
+    "posts": [
+      "Small improvements deserve attention, especially when a team has been working hard toward a bigger goal.\n\nBetter target attainment, stronger margins, or growing employee contribution can all be signs of progress. Those changes may not dominate a monthly performance summary, but they're worth understanding.\n\nTry comparing the last three months of results for your team. Identify one improvement that deserves recognition and consider what might have contributed to it."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-workforce-progress-03",
+    "account": "garretts_dev_desk",
+    "theme": "understanding_performance_progress_with_historical_context",
+    "series": "pbi_workforce_progress_visibility",
+    "scheduled_at": "2028-08-25T09:15:00-04:00",
+    "posts": [
+      "One month's sales results rarely tell the whole story of a team's progress.\n\nA single number shows where performance stands today. Historical trends help explain whether results are improving, declining, or remaining consistent. That perspective can make performance reviews more meaningful.\n\nMy Workforce Performance & Sales Activity Power BI Kit includes time-based sales analysis and employee reporting: https://garrettsdevdesk.etsy.com/listing/4595444828/power-bi-sales-performance-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-workforce-progress-04",
+    "account": "garretts_dev_desk",
+    "theme": "reviewing_sales_employee_and_profitability_trends_together",
+    "series": "pbi_workforce_progress_visibility",
+    "scheduled_at": "2028-08-25T15:30:00-04:00",
+    "posts": [
+      "It's easier to appreciate progress when you can see how different parts of the business are changing together.\n\nSales growth, employee contribution, and gross profit can each reveal something useful about performance. Reviewing them side by side gives you a broader perspective.\n\nTry selecting three measures and comparing them across several months. Look for improvements worth celebrating, then ask what the team did differently during that period."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-workforce-progress-05",
+    "account": "garretts_dev_desk",
+    "theme": "making_sales_and_workforce_progress_easier_to_see",
+    "series": "pbi_workforce_progress_visibility",
+    "scheduled_at": "2028-08-26T09:15:00-04:00",
+    "posts": [
+      "There's something encouraging about finally seeing the progress behind months of hard work.\n\nClear sales trends, employee comparisons, and profitability measures can help managers recognize improvements that might otherwise go unnoticed. That context makes reporting more useful for the people behind the numbers.\n\nMy Workforce Performance & Sales Activity Power BI Kit offers three editable report pages: https://garrettsdevdesk.etsy.com/listing/4595444828/power-bi-sales-performance-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-workforce-progress-06",
+    "account": "garretts_dev_desk",
+    "theme": "discussing_how_managers_recognize_gradual_team_improvement",
+    "series": "pbi_workforce_progress_visibility",
+    "scheduled_at": "2028-08-26T15:30:00-04:00",
+    "posts": [
+      "When you're responsible for meeting the next target, it's easy to forget how much progress your team has already made.\n\nGradual improvements in sales, target attainment, and profitability can be meaningful, even when the overall goal is still some distance away. Recognizing those changes helps people understand what's working.\n\nFor managers and analysts, how do you make gradual improvements visible so they don't get lost in the next round of targets?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

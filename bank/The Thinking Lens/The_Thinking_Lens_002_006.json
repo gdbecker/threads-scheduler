@@ -1,0 +1,80 @@
+[
+  {
+    "id": "thinking-lens-small-useful-steps-01",
+    "account": "garretts_dev_desk",
+    "theme": "moving_forward_without_a_final_decision",
+    "series": "thinking_lens_small_useful_steps",
+    "scheduled_at": "2027-11-08T09:15:00-05:00",
+    "posts": [
+      "Your next step doesn't always have to be the final decision.\n\nWhen you're facing uncertainty, it's easy to turn everything into a yes-or-no question. But sometimes there's something useful you can do before choosing. You might gather information, explore an option, or test an assumption.\n\nThe Thinking Lens helps you explore possibilities and find a thoughtful next step: https://thethinkinglens.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "thinking-lens-small-useful-steps-02",
+    "account": "garretts_dev_desk",
+    "theme": "asking_smaller_questions",
+    "series": "thinking_lens_small_useful_steps",
+    "scheduled_at": "2027-11-08T15:30:00-05:00",
+    "posts": [
+      "When a decision feels too big, try asking a smaller question: What could I do next that would teach me something?\n\nYou may not need to choose an entire direction today. A useful conversation, a little research, or a small trial could give you information you don't have yet.\n\nPick one decision you've been postponing and write down three ways to learn more about it. Then choose the simplest one you could realistically try this week."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "thinking-lens-small-useful-steps-03",
+    "account": "garretts_dev_desk",
+    "theme": "learning_through_real_world_experience",
+    "series": "thinking_lens_small_useful_steps",
+    "scheduled_at": "2027-11-09T09:15:00-05:00",
+    "posts": [
+      "Sometimes reality can answer a question that another hour of thinking can't.\n\nVisit the place you're considering. Have the conversation you've been avoiding. Try the routine for a week. Build a tiny version of the idea. Direct experience can reveal details that are difficult to predict from a distance.\n\nExplore questions and possibilities with The Thinking Lens: https://thethinkinglens.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "thinking-lens-small-useful-steps-04",
+    "account": "garretts_dev_desk",
+    "theme": "designing_small_experiments",
+    "series": "thinking_lens_small_useful_steps",
+    "scheduled_at": "2027-11-09T15:30:00-05:00",
+    "posts": [
+      "A small experiment doesn't need to settle an entire decision. It just needs to teach you something useful.\n\nIf you're considering a new routine, try it for a few days. If you're exploring a project, build a simple version. You can learn from the experience before making a larger commitment.\n\nTry defining one experiment with a clear question, a manageable time limit, and something specific you want to learn. Keep it small enough that you can actually begin."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "thinking-lens-small-useful-steps-05",
+    "account": "garretts_dev_desk",
+    "theme": "choosing_steps_that_move_or_teach",
+    "series": "thinking_lens_small_useful_steps",
+    "scheduled_at": "2027-11-10T09:15:00-05:00",
+    "posts": [
+      "A useful next step should accomplish at least one of two things: move the situation forward or teach you something valuable.\n\nThat's a helpful standard when you're unsure what to do. You can make progress without having every answer, especially when your next action gives you better information for the decision ahead.\n\nThe Thinking Lens helps you find new ways to approach a problem: https://thethinkinglens.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "thinking-lens-small-useful-steps-06",
+    "account": "garretts_dev_desk",
+    "theme": "replacing_guesswork_with_thoughtful_action",
+    "series": "thinking_lens_small_useful_steps",
+    "scheduled_at": "2027-11-10T15:30:00-05:00",
+    "posts": [
+      "One thoughtful step can sometimes give you more clarity than another round of guessing.\n\nYou don't always need to decide everything before moving forward. A small action can help you discover what works, what doesn't, and what deserves more attention. Then you can revisit the bigger decision with a little more experience behind you.\n\nWhat's one small experiment you've tried that ended up changing how you thought about a bigger decision?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "pbi-field-reliability-01",
+    "account": "garretts_dev_desk",
+    "theme": "understanding_job_completion_vs_problem_resolution",
+    "series": "pbi_field_service_reliability",
+    "scheduled_at": "2028-09-07T09:15:00-04:00",
+    "posts": [
+      "The ticket was closed. So why is the customer calling again?\n\nCompleting a field service job doesn't always mean the underlying problem was resolved. Repeat issues and return visits can reveal quality concerns that completion totals alone might miss.\n\nMy Field Team Performance Power BI Kit includes a dedicated Quality & Service Reliability dashboard: https://garrettsdevdesk.etsy.com/listing/4595448076/power-bi-field-team-performance"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-field-reliability-02",
+    "account": "garretts_dev_desk",
+    "theme": "identifying_quality_issues_hidden_by_high_completion_rates",
+    "series": "pbi_field_service_reliability",
+    "scheduled_at": "2028-09-07T15:30:00-04:00",
+    "posts": [
+      "A high job completion rate can look impressive while customers continue experiencing recurring problems.\n\nCompletion measures help explain output, but repeat-work metrics add important context about service quality. Reviewing both can reveal where further investigation is needed.\n\nTry comparing completed jobs with repeat visits over the same reporting period. Look for situations where output is improving but repeat issues are also increasing."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-field-reliability-03",
+    "account": "garretts_dev_desk",
+    "theme": "monitoring_service_repeats_trouble_repeats_and_restoration_time",
+    "series": "pbi_field_service_reliability",
+    "scheduled_at": "2028-09-08T09:15:00-04:00",
+    "posts": [
+      "What happens after a field service job is completed deserves a place in your reporting.\n\nService repeats, trouble repeats, and restoration time can help teams understand reliability over time. These measures add useful perspective when completion totals appear strong.\n\nMy Field Team Performance Power BI Kit includes service-quality reporting alongside team and employee performance: https://garrettsdevdesk.etsy.com/listing/4595448076/power-bi-field-team-performance"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-field-reliability-04",
+    "account": "garretts_dev_desk",
+    "theme": "reviewing_field_service_appointment_and_customer_commitments",
+    "series": "pbi_field_service_reliability",
+    "scheduled_at": "2028-09-08T15:30:00-04:00",
+    "posts": [
+      "Reliable field service involves keeping commitments as well as completing technical work.\n\nAppointment performance and customer commitments can help show whether teams are delivering service when customers expect it. Reviewing those measures alongside repeat work gives managers a broader picture.\n\nTry examining missed appointments and missed commitments by reporting period. Identify recurring patterns, then investigate what circumstances contributed to them."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-field-reliability-05",
+    "account": "garretts_dev_desk",
+    "theme": "using_field_service_quality_metrics_to_identify_performance_gaps",
+    "series": "pbi_field_service_reliability",
+    "scheduled_at": "2028-09-09T09:15:00-04:00",
+    "posts": [
+      "More service metrics are only useful when they help people understand where to focus.\n\nComparing quality and reliability measures across employees, supervisors, and locations can reveal differences worth exploring. The goal is to support better questions and more informed decisions.\n\nMy Field Team Performance Power BI Kit includes four editable dashboards, sample data, and documentation: https://garrettsdevdesk.etsy.com/listing/4595448076/power-bi-field-team-performance"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-field-reliability-06",
+    "account": "garretts_dev_desk",
+    "theme": "discussing_how_field_service_teams_measure_reliable_resolution",
+    "series": "pbi_field_service_reliability",
+    "scheduled_at": "2028-09-09T15:30:00-04:00",
+    "posts": [
+      "A completed service ticket can be a useful milestone, but customers care about whether their problem stays resolved.\n\nRepeat visits, restoration time, and customer commitments provide different perspectives on service reliability. Reviewing them together can help teams understand the quality behind their completion numbers.\n\nFor anyone working in field operations, which metric has been most useful for understanding whether service issues are truly being resolved?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

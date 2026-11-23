@@ -1,0 +1,80 @@
+[
+  {
+    "id": "notice-writer-five-question-test-01",
+    "account": "garretts_dev_desk",
+    "theme": "five_essential_notice_questions",
+    "series": "notice_writer_five_question_test",
+    "scheduled_at": "2027-08-19T09:15:00-04:00",
+    "posts": [
+      "Every community notice should answer five ordinary questions.\n\nWhy am I receiving this? What expectation applies? What do I need to do? When is it due? And who can I contact? Those answers matter far more to a resident than how official the wording sounds.\n\nNotice Writer helps HOA boards and community volunteers create clearer, more useful notices: https://noticewriter.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "notice-writer-five-question-test-02",
+    "account": "garretts_dev_desk",
+    "theme": "providing_context_in_notices",
+    "series": "notice_writer_five_question_test",
+    "scheduled_at": "2027-08-19T15:30:00-04:00",
+    "posts": [
+      "A rule number and a deadline don't always give residents enough information to understand a community notice.\n\nA brief description of what prompted the message, followed by a plain-language explanation of the applicable expectation, can make the situation much easier to understand.\n\nTry reviewing a recent notice. If you removed the rule citation, would the recipient still understand the concern? If not, consider adding a little context."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "notice-writer-five-question-test-03",
+    "account": "garretts_dev_desk",
+    "theme": "specific_action_instructions",
+    "series": "notice_writer_five_question_test",
+    "scheduled_at": "2027-08-20T09:15:00-04:00",
+    "posts": [
+      "\"Please address this matter promptly\" leaves a lot for a resident to figure out.\n\n\"Please move the trash containers behind the approved screening area by September 18\" provides a specific action and deadline, assuming those requirements apply. Clear instructions make it easier to understand what a successful resolution looks like.\n\nBuild more actionable community notices with Notice Writer: https://noticewriter.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "notice-writer-five-question-test-04",
+    "account": "garretts_dev_desk",
+    "theme": "providing_a_contact_path",
+    "series": "notice_writer_five_question_test",
+    "scheduled_at": "2027-08-20T15:30:00-04:00",
+    "posts": [
+      "A community notice shouldn't leave residents wondering whom to contact if something doesn't make sense.\n\nThe recipient might have a question about the requirement, believe the information is incorrect, or have already resolved the issue. A clear contact path gives them a practical way to respond.\n\nBefore sending your next notice, check whether the contact information is easy to find and whether residents know how to raise a question."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "notice-writer-five-question-test-05",
+    "account": "garretts_dev_desk",
+    "theme": "useful_over_impressive_writing",
+    "series": "notice_writer_five_question_test",
+    "scheduled_at": "2027-08-21T09:15:00-04:00",
+    "posts": [
+      "Useful beats impressive when you're writing an HOA or community notice.\n\nResidents need to understand why they're receiving the message, what requirement applies, what action is expected, when it's due, and whom they can contact. Clear answers help people respond without unnecessary confusion.\n\nNotice Writer helps community volunteers turn those details into professional communications: https://noticewriter.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "notice-writer-five-question-test-06",
+    "account": "garretts_dev_desk",
+    "theme": "resident_centered_notice_design",
+    "series": "notice_writer_five_question_test",
+    "scheduled_at": "2027-08-21T15:30:00-04:00",
+    "posts": [
+      "A good community notice should leave the recipient knowing what to do next.\n\nThat means explaining the reason for the message, the relevant expectation, the requested action, the deadline, and a way to ask questions. It's a straightforward standard that can make everyday community communication much more helpful.\n\nFor anyone who's written or received an HOA notice, which of those five details do you think gets overlooked most often?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

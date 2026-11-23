@@ -1,0 +1,80 @@
+[
+  {
+    "id": "pbi-workforce-profitability-01",
+    "account": "garretts_dev_desk",
+    "theme": "understanding_revenue_growth_without_profit_growth",
+    "series": "pbi_workforce_sales_profitability",
+    "scheduled_at": "2028-07-27T09:15:00-04:00",
+    "posts": [
+      "More sales. Less profit. How does that happen?\n\nRevenue growth can look encouraging while gross margins tell a different story. Product mix, discounts, and selling prices can all influence how much profit those sales generate.\n\nMy Workforce Performance & Sales Activity Power BI Kit includes product and location analysis alongside revenue and profitability measures: https://garrettsdevdesk.etsy.com/listing/4595444828/power-bi-sales-performance-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-workforce-profitability-02",
+    "account": "garretts_dev_desk",
+    "theme": "comparing_product_revenue_and_gross_profit",
+    "series": "pbi_workforce_sales_profitability",
+    "scheduled_at": "2028-07-27T15:30:00-04:00",
+    "posts": [
+      "Two products can generate similar revenue and contribute very different amounts of gross profit.\n\nLooking at sales totals alone may cause you to overlook which products are actually supporting profitability. Comparing revenue and gross profit side by side adds useful context.\n\nTry reviewing your five highest-revenue products and ranking them again by gross profit. Do the rankings change? If so, what might explain the differences?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-workforce-profitability-03",
+    "account": "garretts_dev_desk",
+    "theme": "exploring_how_product_mix_affects_sales_margins",
+    "series": "pbi_workforce_sales_profitability",
+    "scheduled_at": "2028-07-28T09:15:00-04:00",
+    "posts": [
+      "A change in product mix can affect profitability even when total sales are growing.\n\nUnits sold, average selling prices, discounts, and gross margins help explain what customers are buying and how those purchases contribute to results. Each measure adds another piece of the picture.\n\nMy Workforce Performance & Sales Activity Power BI Kit includes editable product performance reporting: https://garrettsdevdesk.etsy.com/listing/4595444828/power-bi-sales-performance-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-workforce-profitability-04",
+    "account": "garretts_dev_desk",
+    "theme": "evaluating_location_performance_beyond_sales_volume",
+    "series": "pbi_workforce_sales_profitability",
+    "scheduled_at": "2028-07-28T15:30:00-04:00",
+    "posts": [
+      "The location with the highest sales isn't automatically the most profitable.\n\nDifferent product mixes, selling prices, and gross margins can produce very different results across locations. Understanding those differences helps you evaluate performance with more context.\n\nTry comparing your locations by revenue, gross profit, and gross margin percentage. Which location changes position when you move from sales rankings to profitability rankings?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-workforce-profitability-05",
+    "account": "garretts_dev_desk",
+    "theme": "connecting_sales_growth_with_product_and_location_profitability",
+    "series": "pbi_workforce_sales_profitability",
+    "scheduled_at": "2028-07-29T09:15:00-04:00",
+    "posts": [
+      "Sales growth deserves a closer look before you decide how well the business is performing.\n\nProduct profitability, location comparisons, and gross margins can reveal details that a revenue trend alone won't show. Bringing these measures together helps support more informed reviews.\n\nMy Workforce Performance & Sales Activity Power BI Kit provides three editable dashboard pages with sample data and documentation: https://garrettsdevdesk.etsy.com/listing/4595444828/power-bi-sales-performance-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-workforce-profitability-06",
+    "account": "garretts_dev_desk",
+    "theme": "discussing_revenue_growth_and_profitability_tradeoffs",
+    "series": "pbi_workforce_sales_profitability",
+    "scheduled_at": "2028-07-29T15:30:00-04:00",
+    "posts": [
+      "Revenue growth can be exciting, but it doesn't always translate into stronger profitability.\n\nChanges in product mix, discounts, selling prices, and location performance can affect how much gross profit a business generates. That's why it helps to examine the drivers behind the headline numbers.\n\nFor analysts and business owners, what's the first metric you check when revenue is increasing but profitability isn't keeping pace?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

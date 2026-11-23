@@ -1,0 +1,80 @@
+[
+  {
+    "id": "pbi-field-fair-decisions-01",
+    "account": "garretts_dev_desk",
+    "theme": "making_fair_employee_decisions_with_better_performance_context",
+    "series": "pbi_field_fair_performance_decisions",
+    "scheduled_at": "2028-10-09T09:15:00-04:00",
+    "posts": [
+      "Your decisions affect real people. Are you seeing the full picture?\n\nPerformance reviews, coaching decisions, and workload assignments can shape someone's experience at work. Those conversations deserve more context than a single KPI or monthly result.\n\nMy Field Team Performance Power BI Kit includes employee trends and team benchmarks to support more informed reviews: https://garrettsdevdesk.etsy.com/listing/4595448076/power-bi-field-team-performance"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-field-fair-decisions-02",
+    "account": "garretts_dev_desk",
+    "theme": "accounting_for_workload_and_assignments_in_employee_reviews",
+    "series": "pbi_field_fair_performance_decisions",
+    "scheduled_at": "2028-10-09T15:30:00-04:00",
+    "posts": [
+      "It's difficult to evaluate employee performance fairly when important context is missing.\n\nWorkload, assignments, experience, and operating conditions can influence results. Two employees with different responsibilities may not be directly comparable, even when their KPIs use the same definitions.\n\nTry reviewing the assignments behind a performance comparison. Identify any differences in job complexity or workload that should be considered before drawing conclusions."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-field-fair-decisions-03",
+    "account": "garretts_dev_desk",
+    "theme": "using_employee_trends_and_consistency_for_fairer_performance_reviews",
+    "series": "pbi_field_fair_performance_decisions",
+    "scheduled_at": "2028-10-10T09:15:00-04:00",
+    "posts": [
+      "One number shouldn't tell someone's entire performance story.\n\nAn employee's latest result might differ from their longer-term trend. Reviewing consistency, historical performance, and team benchmarks helps supervisors understand whether a result reflects a pattern or an exception.\n\nMy Field Team Performance Power BI Kit includes editable employee scorecards and trends: https://garrettsdevdesk.etsy.com/listing/4595448076/power-bi-field-team-performance"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-field-fair-decisions-04",
+    "account": "garretts_dev_desk",
+    "theme": "comparing_field_employee_productivity_with_work_mix_and_quality",
+    "series": "pbi_field_fair_performance_decisions",
+    "scheduled_at": "2028-10-10T15:30:00-04:00",
+    "posts": [
+      "Two field employees can work the same number of hours and face very different demands.\n\nActivity types, labor hours, billable output, and service quality all help explain productivity differences. A simple ranking may overlook important circumstances behind the results.\n\nTry comparing two employees with similar hours worked. Review their activity mix and quality measures before deciding whether differences in output reflect differences in performance."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-field-fair-decisions-05",
+    "account": "garretts_dev_desk",
+    "theme": "supporting_thoughtful_field_employee_coaching_and_recognition",
+    "series": "pbi_field_fair_performance_decisions",
+    "scheduled_at": "2028-10-11T09:15:00-04:00",
+    "posts": [
+      "Good performance reporting should help supervisors make thoughtful decisions about the people they lead.\n\nEmployee trends can highlight improvement worth recognizing or changes that deserve a closer look. Productivity and service-quality measures add context, while conversations help explain the circumstances.\n\nMy Field Team Performance Power BI Kit brings these perspectives into four editable dashboards: https://garrettsdevdesk.etsy.com/listing/4595448076/power-bi-field-team-performance"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-field-fair-decisions-06",
+    "account": "garretts_dev_desk",
+    "theme": "discussing_fairness_and_context_in_field_employee_performance_decisions",
+    "series": "pbi_field_fair_performance_decisions",
+    "scheduled_at": "2028-10-11T15:30:00-04:00",
+    "posts": [
+      "Performance decisions carry weight because they affect people's workloads, opportunities, and careers.\n\nDashboards can help supervisors recognize patterns, compare results, and identify concerns. Fair decisions also require understanding assignments, circumstances, and the employee's perspective before reaching conclusions.\n\nFor managers and analysts, what's the most important piece of context you consider before comparing two employees' performance?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

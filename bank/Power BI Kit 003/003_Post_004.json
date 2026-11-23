@@ -1,0 +1,80 @@
+[
+  {
+    "id": "pbi-workforce-productivity-01",
+    "account": "garretts_dev_desk",
+    "theme": "understanding_employee_activity_versus_productivity",
+    "series": "pbi_workforce_activity_productivity",
+    "scheduled_at": "2028-07-31T09:15:00-04:00",
+    "posts": [
+      "Your busiest employee might not be your most productive.\n\nA high transaction count shows activity, but it doesn't automatically tell you how much revenue or gross profit that activity generates. Looking at results alongside activity provides a more complete picture.\n\nMy Workforce Performance & Sales Activity Power BI Kit includes employee performance reporting to explore these differences: https://garrettsdevdesk.etsy.com/listing/4595444828/power-bi-sales-performance-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-workforce-productivity-02",
+    "account": "garretts_dev_desk",
+    "theme": "comparing_sales_activity_with_revenue_and_gross_profit",
+    "series": "pbi_workforce_activity_productivity",
+    "scheduled_at": "2028-07-31T15:30:00-04:00",
+    "posts": [
+      "Transaction counts tell you how often sales happen. Revenue and gross profit help explain the value of those sales.\n\nAn employee handling more transactions may generate less revenue than someone handling fewer, higher-value transactions. Both perspectives matter when reviewing performance.\n\nTry comparing transaction counts, revenue, and gross profit for your team. Which employees look different when you move beyond activity alone?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-workforce-productivity-03",
+    "account": "garretts_dev_desk",
+    "theme": "understanding_revenue_per_transaction_in_employee_reporting",
+    "series": "pbi_workforce_activity_productivity",
+    "scheduled_at": "2028-08-01T09:15:00-04:00",
+    "posts": [
+      "Consider two employees: one completes 40 transactions worth $80,000. Another completes 25 worth $100,000.\n\nThe first handles more sales activity. The second generates more revenue per transaction. Neither measure tells the entire story, but together they reveal a useful difference.\n\nMy Workforce Performance & Sales Activity Power BI Kit helps you explore employee results with more context: https://garrettsdevdesk.etsy.com/listing/4595444828/power-bi-sales-performance-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-workforce-productivity-04",
+    "account": "garretts_dev_desk",
+    "theme": "asking_better_questions_about_employee_productivity",
+    "series": "pbi_workforce_activity_productivity",
+    "scheduled_at": "2028-08-01T15:30:00-04:00",
+    "posts": [
+      "A useful employee performance review starts with better questions.\n\nHow much activity is happening? What revenue and gross profit does it generate? How does that compare with targets and previous periods? Looking at these measures together can reveal patterns worth discussing.\n\nTry building a simple scorecard with transactions, revenue, gross profit, and target attainment. What changes when you review the measures together?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-workforce-productivity-05",
+    "account": "garretts_dev_desk",
+    "theme": "building_employee_performance_dashboards_beyond_activity_counts",
+    "series": "pbi_workforce_activity_productivity",
+    "scheduled_at": "2028-08-02T09:15:00-04:00",
+    "posts": [
+      "Measuring how busy a sales team is can be useful. Understanding the results of that activity adds another layer.\n\nEmployee contribution, target attainment, and profitability provide context for performance conversations. Bringing those measures together makes comparisons more informative.\n\nMy Workforce Performance & Sales Activity Power BI Kit includes three editable dashboards with sample data and documentation: https://garrettsdevdesk.etsy.com/listing/4595444828/power-bi-sales-performance-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-workforce-productivity-06",
+    "account": "garretts_dev_desk",
+    "theme": "discussing_activity_and_productivity_in_sales_teams",
+    "series": "pbi_workforce_activity_productivity",
+    "scheduled_at": "2028-08-02T15:30:00-04:00",
+    "posts": [
+      "More transactions don't always mean better sales performance.\n\nAn employee's contribution depends on more than activity volume. Revenue, profitability, target attainment, and the types of transactions involved can all add important context. Thoughtful reporting helps managers avoid drawing conclusions from one metric alone.\n\nFor anyone who manages or analyzes sales teams, which measure has been most useful for understanding productivity beyond transaction counts?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

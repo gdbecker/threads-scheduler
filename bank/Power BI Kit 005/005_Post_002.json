@@ -1,0 +1,80 @@
+[
+  {
+    "id": "pbi-bd-contribution-01",
+    "account": "garretts_dev_desk",
+    "theme": "distinguishing_business_development_activity_from_results",
+    "series": "pbi_business_development_contribution_and_goals",
+    "scheduled_at": "2028-10-16T09:15:00-04:00",
+    "posts": [
+      "Your busiest business developers aren't always your strongest performers.\n\nA high volume of activity can reflect considerable effort, but it doesn't necessarily mean more meaningful opportunities or stronger results. Understanding contribution and progress toward goals adds useful context.\n\nMy Business Development Performance Power BI Kit includes a Team Contribution & Goals dashboard: https://garrettsdevdesk.etsy.com/listing/4595453904/power-bi-business-development-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-bd-contribution-02",
+    "account": "garretts_dev_desk",
+    "theme": "reviewing_lead_referral_and_contributor_business_development_roles",
+    "series": "pbi_business_development_contribution_and_goals",
+    "scheduled_at": "2028-10-16T15:30:00-04:00",
+    "posts": [
+      "Opportunity count alone doesn't explain how people contribute to business development.\n\nOne person may lead opportunities, another may generate valuable referrals, and others may contribute expertise that helps move the work forward. These roles provide different perspectives on participation.\n\nTry reviewing your recent opportunities by lead, referral, and contributor credits. Look at how involvement differs across the team before comparing results."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-bd-contribution-03",
+    "account": "garretts_dev_desk",
+    "theme": "comparing_business_development_credited_value_with_goals",
+    "series": "pbi_business_development_contribution_and_goals",
+    "scheduled_at": "2028-10-17T09:15:00-04:00",
+    "posts": [
+      "Business development goals become more useful when you can see progress against them.\n\nComparing credited value with individual targets helps reveal who's approaching their goal, who's ahead, and where additional attention may be useful. The underlying contribution measures matter, too.\n\nMy Business Development Performance Power BI Kit includes goal attainment and team contribution reporting: https://garrettsdevdesk.etsy.com/listing/4595453904/power-bi-business-development-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-bd-contribution-04",
+    "account": "garretts_dev_desk",
+    "theme": "avoiding_double_counting_in_business_development_contribution_reporting",
+    "series": "pbi_business_development_contribution_and_goals",
+    "scheduled_at": "2028-10-17T15:30:00-04:00",
+    "posts": [
+      "Business development contribution reporting needs careful interpretation.\n\nThe same opportunity may involve a lead, a referral source, and several contributors. Those credits can help explain participation, but adding them together as though each represents separate revenue can overstate results.\n\nTry selecting a few opportunities with multiple credited people. Review how each contribution is recorded and confirm that your reporting distinguishes participation from unique opportunity value."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-bd-contribution-05",
+    "account": "garretts_dev_desk",
+    "theme": "connecting_business_development_contributions_goals_and_pipeline_health",
+    "series": "pbi_business_development_contribution_and_goals",
+    "scheduled_at": "2028-10-18T09:15:00-04:00",
+    "posts": [
+      "Better business development reporting helps connect effort with meaningful outcomes.\n\nGoals show what the team is working toward. Contribution measures explain how people participate. Pipeline value and opportunity quality provide context about the potential business behind that work.\n\nMy Business Development Performance Power BI Kit brings these perspectives into three editable report pages: https://garrettsdevdesk.etsy.com/listing/4595453904/power-bi-business-development-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-bd-contribution-06",
+    "account": "garretts_dev_desk",
+    "theme": "discussing_fair_measurement_of_business_development_team_contributions",
+    "series": "pbi_business_development_contribution_and_goals",
+    "scheduled_at": "2028-10-18T15:30:00-04:00",
+    "posts": [
+      "Business development is often a team effort, even when one person receives most of the visible credit.\n\nOpportunity leads, referrals, and supporting contributors can all play important roles. Understanding those contributions alongside goals and outcomes can make performance conversations more useful.\n\nFor business development managers and analysts, how do you recognize meaningful contributions from people who aren't the primary opportunity lead?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

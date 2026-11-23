@@ -1,0 +1,80 @@
+[
+  {
+    "id": "briefly-five-buckets-01",
+    "account": "garretts_dev_desk",
+    "theme": "project_organization",
+    "series": "briefly_five_buckets",
+    "scheduled_at": "2026-12-03T09:15:00-05:00",
+    "posts": [
+      "A pile of project notes can feel overwhelming when you're trying to turn everything into a useful update.\n\nOne thing that helps is sorting the information before writing. Give each note a place to go, then work through the smaller pieces.\n\nThat's the workflow behind Briefly: https://briefly.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-five-buckets-02",
+    "account": "garretts_dev_desk",
+    "theme": "writing_workflows",
+    "series": "briefly_five_buckets",
+    "scheduled_at": "2026-12-03T15:30:00-05:00",
+    "posts": [
+      "Here's a simple way to organize messy project notes before writing an update:\n\n1. Summary\n2. Changes\n3. Important details\n4. Risks\n5. Next steps\n\nSort what you have into those five buckets first. It's much easier to write when you're no longer staring at one giant pile of information.\n\nTry it with your next project update."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-five-buckets-03",
+    "account": "garretts_dev_desk",
+    "theme": "clear_communication",
+    "series": "briefly_five_buckets",
+    "scheduled_at": "2026-12-04T09:15:00-05:00",
+    "posts": [
+      "Imagine your manager only has 30 seconds to read your project update. What would you want them to understand?\n\nThat's a useful starting point for your summary. Lead with the big picture, then explain what changed and which details deserve attention.\n\nBriefly can help you structure that update: https://briefly.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-five-buckets-04",
+    "account": "garretts_dev_desk",
+    "theme": "risk_communication",
+    "series": "briefly_five_buckets",
+    "scheduled_at": "2026-12-04T15:30:00-05:00",
+    "posts": [
+      "\"Timeline risk\" might be enough for your personal notes, but it leaves everyone else guessing.\n\nTry adding what could go wrong, why it matters, who's responsible, and when you'll know more.\n\nWhat's the vaguest project risk you've seen written in a status update?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-five-buckets-05",
+    "account": "garretts_dev_desk",
+    "theme": "project_management",
+    "series": "briefly_five_buckets",
+    "scheduled_at": "2026-12-05T09:15:00-05:00",
+    "posts": [
+      "Organizing project notes can reveal problems you didn't notice while taking them.\n\nA risk without an owner. A metric without a comparison. Plenty of background but nothing about what changed.\n\nTry sorting your notes into sections before writing. The gaps often become much easier to spot.\n\nhttps://briefly.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-five-buckets-06",
+    "account": "garretts_dev_desk",
+    "theme": "workplace_productivity",
+    "series": "briefly_five_buckets",
+    "scheduled_at": "2026-12-05T15:30:00-05:00",
+    "posts": [
+      "Five smaller questions can be easier to answer than one big request to \"write a project update.\"\n\nWhat's the summary? What changed? What matters? What could go wrong? What happens next?\n\nI built Briefly to make organizing those answers into a useful document a little easier.\n\nhttps://briefly.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

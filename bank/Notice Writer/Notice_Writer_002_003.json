@@ -1,0 +1,80 @@
+[
+  {
+    "id": "notice-writer-clear-deadlines-01",
+    "account": "garretts_dev_desk",
+    "theme": "using_specific_deadline_dates",
+    "series": "notice_writer_clear_deadlines",
+    "scheduled_at": "2027-08-26T09:15:00-04:00",
+    "posts": [
+      "A deadline shouldn't require a calendar and a calculator.\n\nWhen an HOA notice asks someone to complete an action, a specific due date can make the instructions much easier to follow. If the correct deadline is known and the applicable requirements allow it, stating the actual date helps eliminate unnecessary guesswork.\n\nNotice Writer helps volunteers prepare clearer community notices: https://noticewriter.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "notice-writer-clear-deadlines-02",
+    "account": "garretts_dev_desk",
+    "theme": "reducing_deadline_ambiguity",
+    "series": "notice_writer_clear_deadlines",
+    "scheduled_at": "2027-08-26T15:30:00-04:00",
+    "posts": [
+      "\"Within fourteen days of receipt\" may leave a resident wondering exactly when the deadline falls.\n\nIf the association can accurately establish a specific date, including it can make the notice easier to understand. The calculation and applicable requirements still need to be correct.\n\nTry reviewing a recent notice for relative deadlines. Could a verified calendar date make the instructions clearer without changing the requirement?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "notice-writer-clear-deadlines-03",
+    "account": "garretts_dev_desk",
+    "theme": "making_deadlines_easy_to_find",
+    "series": "notice_writer_clear_deadlines",
+    "scheduled_at": "2027-08-27T09:15:00-04:00",
+    "posts": [
+      "Knowing what to do is only half the instruction. Residents also need to know when to do it.\n\nA community notice might clearly describe a required action but bury the deadline in a long paragraph. Keeping the action and due date easy to find helps the recipient understand what's expected without searching through the entire document.\n\nCreate more actionable notices with Notice Writer: https://noticewriter.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "notice-writer-clear-deadlines-04",
+    "account": "garretts_dev_desk",
+    "theme": "checking_notice_date_consistency",
+    "series": "notice_writer_clear_deadlines",
+    "scheduled_at": "2027-08-27T15:30:00-04:00",
+    "posts": [
+      "Every date in an HOA notice should tell a consistent story.\n\nThe observation date, notice date, previous communications, and response deadline all need to make sense together. A copied date or an incorrect sequence can leave residents confused about what actually happened.\n\nBefore sending your next notice, read every date in chronological order. Does the timeline accurately reflect the situation and the applicable process?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "notice-writer-clear-deadlines-05",
+    "account": "garretts_dev_desk",
+    "theme": "avoiding_template_driven_deadlines",
+    "series": "notice_writer_clear_deadlines",
+    "scheduled_at": "2027-08-28T09:15:00-04:00",
+    "posts": [
+      "A blank deadline field in a template doesn't mean every community notice needs a deadline.\n\nThe appropriate timing should come from the actual circumstances, governing documents, and applicable procedures. A template can organize the information, but it shouldn't make those decisions for you.\n\nNotice Writer helps volunteers prepare professional notices while keeping the review in their hands: https://noticewriter.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "notice-writer-clear-deadlines-06",
+    "account": "garretts_dev_desk",
+    "theme": "final_deadline_accuracy_review",
+    "series": "notice_writer_clear_deadlines",
+    "scheduled_at": "2027-08-28T15:30:00-04:00",
+    "posts": [
+      "Sometimes clearer community communication is as simple as giving people the right date.\n\nBefore sending a notice, find every date on the page and verify it. A minute spent checking deadlines and references can prevent a much longer exchange of clarification emails later.\n\nFor anyone who prepares administrative notices, what's your most reliable habit for catching incorrect dates before a document goes out?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

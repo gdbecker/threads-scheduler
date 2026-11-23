@@ -1,0 +1,80 @@
+[
+  {
+    "id": "pbi-reporting-start-01",
+    "account": "garretts_dev_desk",
+    "theme": "turning_existing_support_data_into_useful_reporting",
+    "series": "pbi_reporting_starting_point",
+    "scheduled_at": "2028-02-28T09:15:00-05:00",
+    "posts": [
+      "\"I know we have that data somewhere.\"\n\nIt's a familiar feeling when someone asks a business question and you know the information exists, but it hasn't been turned into useful reporting yet. The challenge is finding time to connect the data and make sense of it.\n\nI built a Customer Support Performance Power BI Kit to give that work a head start: https://garrettsdevdesk.etsy.com/listing/4593960875/power-bi-customer-support-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-reporting-start-02",
+    "account": "garretts_dev_desk",
+    "theme": "finding_business_questions_inside_raw_ticket_data",
+    "series": "pbi_reporting_starting_point",
+    "scheduled_at": "2028-02-28T15:30:00-05:00",
+    "posts": [
+      "Thousands of customer support ticket rows can contain a useful story. Finding it takes a little direction.\n\nWhich issues appear most often? Where are customers waiting? Are service targets being missed? Is workload distributed evenly across the team?\n\nBefore building your next dashboard, write down the three questions it needs to answer. Then identify the data fields and measures required for each one. That small step can save a surprising amount of rework."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-reporting-start-03",
+    "account": "garretts_dev_desk",
+    "theme": "reducing_the_setup_work_of_power_bi_reporting",
+    "series": "pbi_reporting_starting_point",
+    "scheduled_at": "2028-02-29T09:15:00-05:00",
+    "posts": [
+      "Before a Power BI dashboard can answer a question, someone has to build it.\n\nThere's data modeling, DAX, visual design, formatting, filter testing, and documentation. Each part matters, but the setup can consume time you'd rather spend analyzing the results.\n\nMy Customer Support Performance Power BI Kit includes an editable report, sample data, and supporting documentation: https://garrettsdevdesk.etsy.com/listing/4593960875/power-bi-customer-support-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-reporting-start-04",
+    "account": "garretts_dev_desk",
+    "theme": "planning_a_dashboard_before_building_it",
+    "series": "pbi_reporting_starting_point",
+    "scheduled_at": "2028-02-29T15:30:00-05:00",
+    "posts": [
+      "A blank Power BI canvas can invite a lot of unnecessary decisions.\n\nWhich KPIs belong at the top? What should users filter? Which breakdowns deserve their own visuals? Without a plan, it's easy to spend hours rearranging charts before the reporting purpose is clear.\n\nTry sketching one dashboard page on paper first. Place the headline measures, trend visuals, and supporting breakdowns where they help answer your main business questions."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-reporting-start-05",
+    "account": "garretts_dev_desk",
+    "theme": "customizing_a_ready_made_support_dashboard",
+    "series": "pbi_reporting_starting_point",
+    "scheduled_at": "2028-03-01T09:15:00-05:00",
+    "posts": [
+      "Sometimes you need a useful starting point more than another blank canvas.\n\nA customizable report lets you explore the layout, understand the measures, and adapt the design to your own data. You can focus on the reporting questions instead of making every design decision from scratch.\n\nThat's why I built my Customer Support Performance Power BI Kit with sample data, documented DAX, and customization guides: https://garrettsdevdesk.etsy.com/listing/4593960875/power-bi-customer-support-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-reporting-start-06",
+    "account": "garretts_dev_desk",
+    "theme": "balancing_dashboard_development_with_business_analysis",
+    "series": "pbi_reporting_starting_point",
+    "scheduled_at": "2028-03-01T15:30:00-05:00",
+    "posts": [
+      "One of the challenges of analytics work is balancing the time spent building reports with the time spent actually using them.\n\nData preparation, modeling, DAX, visual design, and testing are necessary parts of the process. But eventually, the report needs to help someone understand a problem or make a decision.\n\nFor those of you who build dashboards, which part of the process tends to consume more time than you expected?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

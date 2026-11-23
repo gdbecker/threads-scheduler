@@ -1,0 +1,80 @@
+[
+  {
+    "id": "pbi-response-resolution-01",
+    "account": "garretts_dev_desk",
+    "theme": "understanding_the_two_clocks_of_customer_support",
+    "series": "pbi_response_resolution",
+    "scheduled_at": "2028-02-17T09:15:00-05:00",
+    "posts": [
+      "A support ticket can be resolved quickly and still feel slow to the customer.\n\nThat's because resolution time isn't the only clock that matters. How long someone waits before hearing from the team can shape their experience, even when the issue is eventually solved within the expected timeframe.\n\nMy Customer Support Performance Power BI Kit helps you examine both parts of the journey: https://garrettsdevdesk.etsy.com/listing/4593960875/power-bi-customer-support-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-response-resolution-02",
+    "account": "garretts_dev_desk",
+    "theme": "distinguishing_first_response_from_resolution_time",
+    "series": "pbi_response_resolution",
+    "scheduled_at": "2028-02-17T15:30:00-05:00",
+    "posts": [
+      "First response time and resolution time both measure speed, but they answer different questions.\n\nFirst response tells you how long a customer waits before someone engages with their request. Resolution time tells you how long the entire process takes before the issue is solved.\n\nTry reviewing both measures for the same group of tickets. You may find that the team is responding quickly but taking longer to resolve issues, or the reverse."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-response-resolution-03",
+    "account": "garretts_dev_desk",
+    "theme": "comparing_customer_wait_times_for_similar_tickets",
+    "series": "pbi_response_resolution",
+    "scheduled_at": "2028-02-18T09:15:00-05:00",
+    "posts": [
+      "Imagine two support tickets that both take eight hours to resolve.\n\nOne customer receives a first response in 15 minutes. The other waits six hours before hearing anything. The resolution metric is identical, but the experience of waiting may be very different.\n\nThat's why I included both response and resolution measures in my Customer Support Performance Power BI Kit: https://garrettsdevdesk.etsy.com/listing/4593960875/power-bi-customer-support-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-response-resolution-04",
+    "account": "garretts_dev_desk",
+    "theme": "identifying_bottlenecks_in_the_support_process",
+    "series": "pbi_response_resolution",
+    "scheduled_at": "2028-02-18T15:30:00-05:00",
+    "posts": [
+      "When support starts slowing down, figure out which part of the process is changing.\n\nIf first response time increases, investigate ticket intake, queue sizes, and staffing coverage. If resolution time increases while first response stays steady, the delay may be happening after the conversation begins.\n\nTry mapping the journey from ticket creation to first response to resolution. It can help you identify which stage deserves a closer look."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-response-resolution-05",
+    "account": "garretts_dev_desk",
+    "theme": "connecting_customer_satisfaction_to_support_wait_times",
+    "series": "pbi_response_resolution",
+    "scheduled_at": "2028-02-19T09:15:00-05:00",
+    "posts": [
+      "When customer satisfaction drops, don't assume the solution is simply resolving tickets faster.\n\nLook at first response time too. Customers may be waiting longer for an initial acknowledgment even when total resolution time remains steady. That difference can reveal where the experience is changing.\n\nMy Customer Support Performance Power BI Kit brings these measures into one report: https://garrettsdevdesk.etsy.com/listing/4593960875/power-bi-customer-support-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-response-resolution-06",
+    "account": "garretts_dev_desk",
+    "theme": "evaluating_speed_across_the_customer_support_journey",
+    "series": "pbi_response_resolution",
+    "scheduled_at": "2028-02-19T15:30:00-05:00",
+    "posts": [
+      "Fast customer support is more complicated than a single number.\n\nThere's the wait before someone responds, the time spent working toward a solution, and the customer's experience throughout that process. Looking at response time, resolution time, and satisfaction together helps reveal which parts need attention.\n\nAs a customer, which frustrates you more: waiting a long time for the first response or getting a quick response followed by a very slow resolution?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

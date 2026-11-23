@@ -1,0 +1,80 @@
+[
+  {
+    "id": "waf-mental-rehearsal-01",
+    "account": "garretts_dev_desk",
+    "theme": "asking_better_questions_before_leaving",
+    "series": "waf_mental_rehearsal",
+    "scheduled_at": "2027-12-06T09:15:00-05:00",
+    "posts": [
+      "There's a better question to ask before leaving than \"What am I forgetting?\"\n\nTry asking what you'll wish you had brought once you arrive. Suddenly you're thinking about the actual situation ahead instead of searching your memory for every possible thing you own.\n\nI built What Am I Forgetting? to help make these everyday checks a little easier: https://whatamiforgetting.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-mental-rehearsal-02",
+    "account": "garretts_dev_desk",
+    "theme": "visualizing_arrival_to_remember_essentials",
+    "series": "waf_mental_rehearsal",
+    "scheduled_at": "2027-12-06T15:30:00-05:00",
+    "posts": [
+      "Before heading somewhere important, give your memory a tiny rehearsal.\n\nPicture yourself arriving at the doctor's office, gym, wedding, or meeting. Imagine walking inside and getting settled. What do you reach for first? What would be frustrating to discover you left at home?\n\nTry this for your next appointment or outing. A few seconds of imagining the destination may remind you of something your usual checklist missed."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-mental-rehearsal-03",
+    "account": "garretts_dev_desk",
+    "theme": "remembering_items_for_multiple_stops",
+    "series": "waf_mental_rehearsal",
+    "scheduled_at": "2027-12-07T09:15:00-05:00",
+    "posts": [
+      "Your first destination isn't always the one you're forgetting something for.\n\nYou remembered everything for work, but the gym bag is still at home. Or you packed for the appointment and forgot the package you planned to return afterward. A busy day can involve several different sets of essentials.\n\nWhat Am I Forgetting? helps you think through what's ahead: https://whatamiforgetting.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-mental-rehearsal-04",
+    "account": "garretts_dev_desk",
+    "theme": "mentally_walking_through_the_entire_day",
+    "series": "waf_mental_rehearsal",
+    "scheduled_at": "2027-12-07T15:30:00-05:00",
+    "posts": [
+      "One useful way to prepare for a busy day is to mentally walk through it before leaving home.\n\nStart with your first destination, then picture what happens next. Maybe there's an errand after work, dinner with friends, or an evening activity that requires different clothes or supplies.\n\nTry spending one minute reviewing each stop in order. Think about what you'll need when you arrive, and check whether it's already packed."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-mental-rehearsal-05",
+    "account": "garretts_dev_desk",
+    "theme": "remembering_tasks_and_commitments",
+    "series": "waf_mental_rehearsal",
+    "scheduled_at": "2027-12-08T09:15:00-05:00",
+    "posts": [
+      "Sometimes the thing you're forgetting won't fit in your bag.\n\nIt might be a message you promised to send, a meeting place you need to confirm, or a question you wanted to ask someone. Preparing for the day involves remembering small commitments as well as physical belongings.\n\nWhat Am I Forgetting? gives you a place to think through those easily overlooked details: https://whatamiforgetting.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-mental-rehearsal-06",
+    "account": "garretts_dev_desk",
+    "theme": "using_future_scenarios_as_memory_prompts",
+    "series": "waf_mental_rehearsal",
+    "scheduled_at": "2027-12-08T15:30:00-05:00",
+    "posts": [
+      "Picture yourself arriving. Then ask what you'll be glad you remembered.\n\nThat little shift can make preparing for the day feel more manageable. Instead of trying to remember everything at once, you're giving your mind a specific moment to think about. Sometimes one quiet minute is enough to catch a missing detail.\n\nDo you have a particular routine or trick for remembering things before leaving home? I'd love to hear what works for other people."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

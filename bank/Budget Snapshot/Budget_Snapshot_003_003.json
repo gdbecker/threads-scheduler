@@ -1,0 +1,80 @@
+[
+  {
+    "id": "budget-snapshot-reserve-context-01",
+    "account": "garretts_dev_desk",
+    "theme": "reserve_percentage_context",
+    "series": "budget_snapshot_reserve_context",
+    "scheduled_at": "2027-03-11T09:15:00-05:00",
+    "posts": [
+      "An HOA reserve percentage isn't a financial grade.\n\nHaving 82% of a reserve target may be useful information, but it isn't the same as earning 82% on a test. The percentage needs context about future expenses, assumptions, and planning priorities.\n\nI built Budget Snapshot to help present financial information without oversimplifying it: https://budgetsnapshot.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "budget-snapshot-reserve-context-02",
+    "account": "garretts_dev_desk",
+    "theme": "reserve_planning_assumptions",
+    "series": "budget_snapshot_reserve_context",
+    "scheduled_at": "2027-03-11T15:30:00-05:00",
+    "posts": [
+      "Before deciding what an HOA's reserve percentage means, ask how the target was calculated.\n\nWhich major projects are included? What replacement costs were estimated? When is the work expected? How recently were those assumptions reviewed?\n\nThe target is part of the story. Understanding how it was developed makes the percentage much more useful."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "budget-snapshot-reserve-context-03",
+    "account": "garretts_dev_desk",
+    "theme": "financial_estimates",
+    "series": "budget_snapshot_reserve_context",
+    "scheduled_at": "2027-03-12T09:15:00-05:00",
+    "posts": [
+      "$410,000 is exactly 82% of $500,000. The calculation is straightforward.\n\nBut if $500,000 represents an HOA reserve planning target, that number may depend on estimates about future costs, asset conditions, and project timelines.\n\nPrecise math doesn't eliminate uncertainty in the assumptions.\n\nExplore Budget Snapshot: https://budgetsnapshot.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "budget-snapshot-reserve-context-04",
+    "account": "garretts_dev_desk",
+    "theme": "financial_reporting_labels",
+    "series": "budget_snapshot_reserve_context",
+    "scheduled_at": "2027-03-12T15:30:00-05:00",
+    "posts": [
+      "A green, yellow, or red label beside an HOA reserve percentage can make a complicated financial question look settled.\n\nWords like \"healthy\" or \"underfunded\" may imply a level of professional judgment that a simple balance-to-target comparison can't support on its own.\n\nWhen presenting reserve information, explain what the metric measures and where its limitations begin."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "budget-snapshot-reserve-context-05",
+    "account": "garretts_dev_desk",
+    "theme": "responsible_financial_tools",
+    "series": "budget_snapshot_reserve_context",
+    "scheduled_at": "2027-03-13T09:15:00-05:00",
+    "posts": [
+      "Sometimes the most useful financial tool is one that stops short of declaring a verdict.\n\nFor HOA reserves, showing the current balance, planning target, and percentage can give homeowners a helpful starting point. The assumptions and future obligations still deserve discussion.\n\nThat's the approach behind Budget Snapshot: https://budgetsnapshot.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "budget-snapshot-reserve-context-06",
+    "account": "garretts_dev_desk",
+    "theme": "reserve_financial_transparency",
+    "series": "budget_snapshot_reserve_context",
+    "scheduled_at": "2027-03-13T15:30:00-05:00",
+    "posts": [
+      "A reserve percentage can be a useful reference point without answering every question about an HOA's financial preparedness.\n\nThe balance matters. So do the planned projects, estimated costs, timelines, and assumptions behind the target.\n\nWhen reviewing reserve information, would you find a percentage more helpful if it appeared alongside the major expenses the fund is preparing for?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

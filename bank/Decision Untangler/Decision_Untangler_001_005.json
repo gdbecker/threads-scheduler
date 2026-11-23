@@ -1,0 +1,80 @@
+[
+  {
+    "id": "decision-untangler-understanding-fear-01",
+    "account": "garretts_dev_desk",
+    "theme": "nervousness_and_decisions",
+    "series": "decision_untangler_understanding_fear",
+    "scheduled_at": "2027-06-10T09:15:00-04:00",
+    "posts": [
+      "Being nervous about a decision doesn't automatically mean it's the wrong one.\n\nA new job, a move, or an unfamiliar opportunity can feel intimidating even when you have good reasons to pursue it. Waiting until every uncomfortable feeling disappears may leave you waiting indefinitely.\n\nDecision Untangler helps you explore what's underneath a difficult choice: https://decisionuntangler.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "decision-untangler-understanding-fear-02",
+    "account": "garretts_dev_desk",
+    "theme": "different_types_of_fear",
+    "series": "decision_untangler_understanding_fear",
+    "scheduled_at": "2027-06-10T15:30:00-04:00",
+    "posts": [
+      "Fear can mean different things when you're facing a big decision.\n\nSometimes it comes from stepping into unfamiliar territory. Other times, it's drawing your attention to a genuine risk that deserves investigation. Those feelings can be difficult to distinguish when everything is swirling around in your head.\n\nTry getting specific about the concern before treating the feeling as a reason to stop."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "decision-untangler-understanding-fear-03",
+    "account": "garretts_dev_desk",
+    "theme": "naming_specific_fears",
+    "series": "decision_untangler_understanding_fear",
+    "scheduled_at": "2027-06-11T09:15:00-04:00",
+    "posts": [
+      "\"I'm scared to move\" can be difficult to work through because it covers so many possibilities.\n\n\"I'm worried I won't have enough savings afterward\" gives you a specific concern to investigate. You can estimate expenses, review your finances, and decide what preparation would help.\n\nTry putting your concerns into words with Decision Untangler: https://decisionuntangler.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "decision-untangler-understanding-fear-04",
+    "account": "garretts_dev_desk",
+    "theme": "responding_to_decision_fears",
+    "series": "decision_untangler_understanding_fear",
+    "scheduled_at": "2027-06-11T15:30:00-04:00",
+    "posts": [
+      "Once you can name what scares you about a decision, you can start figuring out what to do with that concern.\n\nMaybe you need more information, a financial safety net, a conversation with someone involved, or simply a willingness to try something unfamiliar.\n\nA useful exercise is to write down each specific fear and one reasonable response. Some concerns need action, while others may involve uncertainty you can't completely remove."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "decision-untangler-understanding-fear-05",
+    "account": "garretts_dev_desk",
+    "theme": "emotions_in_decision_making",
+    "series": "decision_untangler_understanding_fear",
+    "scheduled_at": "2027-06-12T09:15:00-04:00",
+    "posts": [
+      "You can understand why you're afraid of something and still feel afraid.\n\nRecognizing the source of that feeling doesn't always make it disappear. It can, however, help you consider the concern alongside your priorities, available information, and responsibilities.\n\nDecision Untangler is a place to examine those different parts of a choice without expecting an automatic answer: https://decisionuntangler.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "decision-untangler-understanding-fear-06",
+    "account": "garretts_dev_desk",
+    "theme": "fear_as_a_reflection_prompt",
+    "series": "decision_untangler_understanding_fear",
+    "scheduled_at": "2027-06-12T15:30:00-04:00",
+    "posts": [
+      "Sometimes the uncomfortable feeling you have about a decision isn't the answer. It's where the next question begins.\n\nInstead of immediately interpreting nervousness as a warning or something to ignore, ask what it's pointing toward. You might discover a practical concern, an unfamiliar experience, or something you care deeply about.\n\nHave you ever felt nervous about a decision that ultimately turned out to be a good one?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

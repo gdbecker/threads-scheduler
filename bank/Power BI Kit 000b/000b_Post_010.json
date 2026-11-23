@@ -1,0 +1,80 @@
+[
+  {
+    "id": "pbi-repeatable-reporting-01",
+    "account": "garretts_dev_desk",
+    "theme": "reducing_the_burden_of_repetitive_subscription_reporting",
+    "series": "pbi_subscription_repeatable_reporting",
+    "scheduled_at": "2028-04-17T09:15:00-04:00",
+    "posts": [
+      "You shouldn't have to rediscover your subscription business every month.\n\nMRR, customer growth, churn, and plan performance are familiar reporting questions. Yet answering them can feel like starting over whenever another month ends.\n\nI built my Subscription Health Power BI Kit to provide a reusable starting point for those recurring questions: https://garrettsdevdesk.etsy.com/listing/4595420792/power-bi-subscription-dashboard-template"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-repeatable-reporting-02",
+    "account": "garretts_dev_desk",
+    "theme": "creating_a_consistent_monthly_subscription_review",
+    "series": "pbi_subscription_repeatable_reporting",
+    "scheduled_at": "2028-04-17T15:30:00-04:00",
+    "posts": [
+      "Another month ends, and the same subscription reporting questions return.\n\nHow much did MRR change? Where did growth come from? Which customers left? Did the plan mix shift? These are useful questions to revisit regularly because the answers can change even when the questions don't.\n\nTry creating a standard monthly review checklist with five questions you always answer. A consistent structure can make it easier to spot meaningful changes over time."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-repeatable-reporting-03",
+    "account": "garretts_dev_desk",
+    "theme": "avoiding_the_need_to_rebuild_subscription_analysis_every_month",
+    "series": "pbi_subscription_repeatable_reporting",
+    "scheduled_at": "2028-04-18T09:15:00-04:00",
+    "posts": [
+      "One of the tiring parts of monthly reporting is rebuilding the same analysis again and again.\n\nYou gather the data, calculate the metrics, compare periods, and explain what changed. Next month, much of that work returns. A reusable reporting structure can make the process more manageable.\n\nMy Subscription Health Power BI Kit offers an editable starting point: https://garrettsdevdesk.etsy.com/listing/4595420792/power-bi-subscription-dashboard-template"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-repeatable-reporting-04",
+    "account": "garretts_dev_desk",
+    "theme": "turning_monthly_subscription_reporting_into_a_repeatable_workflow",
+    "series": "pbi_subscription_repeatable_reporting",
+    "scheduled_at": "2028-04-18T15:30:00-04:00",
+    "posts": [
+      "Monthly subscription reporting becomes easier to maintain when the process has a familiar rhythm.\n\nUpdate the data, validate the reporting period, review the headline KPIs, investigate revenue movement, and document the important changes. That structure gives each reporting cycle a clear starting point.\n\nTry writing down your current reporting steps. Which parts could become reusable measures, standard visuals, or a simple checklist?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-repeatable-reporting-05",
+    "account": "garretts_dev_desk",
+    "theme": "building_a_reusable_subscription_health_reporting_system",
+    "series": "pbi_subscription_repeatable_reporting",
+    "scheduled_at": "2028-04-19T09:15:00-04:00",
+    "posts": [
+      "There's something satisfying about returning to a report and knowing exactly where to begin.\n\nThe reporting period changes, but the familiar view of MRR, customers, churn, ARPU, plan mix, and revenue movement remains. You can spend more time understanding the latest results instead of recreating the structure.\n\nThat's the idea behind my Subscription Health Power BI Kit: https://garrettsdevdesk.etsy.com/listing/4595420792/power-bi-subscription-dashboard-template"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-repeatable-reporting-06",
+    "account": "garretts_dev_desk",
+    "theme": "finding_relief_in_consistent_and_reusable_business_reporting",
+    "series": "pbi_subscription_repeatable_reporting",
+    "scheduled_at": "2028-04-19T15:30:00-04:00",
+    "posts": [
+      "A good reporting routine can take a surprising amount of mental work off your plate.\n\nInstead of remembering how you calculated everything last month, you have a familiar structure to return to. The important questions remain visible, and your attention can go toward understanding what changed.\n\nFor anyone responsible for recurring reports, what's the part of your monthly reporting process you most wish you could stop rebuilding?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

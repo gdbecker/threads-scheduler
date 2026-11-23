@@ -1,0 +1,80 @@
+[
+  {
+    "id": "community-minutes-unresolved-decisions-01",
+    "account": "garretts_dev_desk",
+    "theme": "documenting_unresolved_decisions",
+    "series": "community_minutes_unresolved_decisions",
+    "scheduled_at": "2027-04-29T09:15:00-04:00",
+    "posts": [
+      "\"No decision was made\" can be one of the most useful things to record in meeting minutes.\n\nSometimes a board or committee simply isn't ready to move forward. Preserving that outcome helps future readers understand where the issue stands instead of assuming something was approved.\n\nCommunity Minutes helps keep those unresolved items organized: https://communityminutes.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "community-minutes-unresolved-decisions-02",
+    "account": "garretts_dev_desk",
+    "theme": "accurate_meeting_outcomes",
+    "series": "community_minutes_unresolved_decisions",
+    "scheduled_at": "2027-04-29T15:30:00-04:00",
+    "posts": [
+      "Not every agenda item needs a tidy conclusion in the finished meeting minutes.\n\nSome proposals are approved, others are rejected, and some are postponed or left unresolved. A useful record should reflect those different outcomes accurately.\n\nWhen reviewing your minutes, check whether the wording makes any discussion sound more settled than it actually was."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "community-minutes-unresolved-decisions-03",
+    "account": "garretts_dev_desk",
+    "theme": "responsible_meeting_decisions",
+    "series": "community_minutes_unresolved_decisions",
+    "scheduled_at": "2027-04-30T09:15:00-04:00",
+    "posts": [
+      "Sometimes the most responsible outcome of a board meeting is deciding that more information is needed.\n\nAn additional contractor estimate, clarification of a policy, or closer review of a document might help the group make a better decision later.\n\nRecord what information was requested and why the issue remains open. That context can save time when the discussion resumes."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "community-minutes-unresolved-decisions-04",
+    "account": "garretts_dev_desk",
+    "theme": "deferred_item_followup",
+    "series": "community_minutes_unresolved_decisions",
+    "scheduled_at": "2027-04-30T15:30:00-04:00",
+    "posts": [
+      "If a committee defers a decision, try recording three things: why it was postponed, what information is still needed, and who is responsible for the next step.\n\nIf there's an expected return date, include that too. A little context now can prevent confusion at the next meeting.\n\nCommunity Minutes gives deferred items and action items a clear place in the record: https://communityminutes.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "community-minutes-unresolved-decisions-05",
+    "account": "garretts_dev_desk",
+    "theme": "meeting_minutes_accuracy",
+    "series": "community_minutes_unresolved_decisions",
+    "scheduled_at": "2027-05-01T09:15:00-04:00",
+    "posts": [
+      "A group can like an idea without formally approving it. That distinction matters when writing meeting minutes.\n\nIf board members expressed support for a proposal but never took the required action to authorize it, the finished record shouldn't imply that approval happened.\n\nCommunity Minutes helps you prepare an organized draft that you can review for accuracy before sharing: https://communityminutes.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "community-minutes-unresolved-decisions-06",
+    "account": "garretts_dev_desk",
+    "theme": "meeting_continuity",
+    "series": "community_minutes_unresolved_decisions",
+    "scheduled_at": "2027-05-01T15:30:00-04:00",
+    "posts": [
+      "Good meeting minutes show where a group stopped so someone knows where to begin again.\n\nWhen an issue remains unresolved, preserve what was missing, what needs to happen next, and why the discussion couldn't reach a conclusion. \"Not yet\" can be a perfectly useful outcome.\n\nFor those who serve on boards or committees, does your group have a consistent way to track unresolved agenda items?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

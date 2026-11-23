@@ -1,0 +1,80 @@
+[
+  {
+    "id": "pbi-sales-reporting-pressure-01",
+    "account": "garretts_dev_desk",
+    "theme": "managing_the_pressure_of_business_reporting",
+    "series": "pbi_sales_reporting_workload",
+    "scheduled_at": "2028-06-29T09:15:00-04:00",
+    "posts": [
+      "Everyone wants answers, but you're still trying to organize the data.\n\nWhen people depend on your reporting, gathering sales figures, product details, transaction records, and purchasing information can feel like a project of its own. Having a reusable structure can make that work easier to approach.\n\nI built my Sales Performance & Commercial Operations Power BI Kit as a customizable starting point: https://garrettsdevdesk.etsy.com/listing/4595438858/power-bi-sales-dashboard-template-sales"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-sales-reporting-pressure-02",
+    "account": "garretts_dev_desk",
+    "theme": "handling_recurring_questions_in_sales_reporting",
+    "series": "pbi_sales_reporting_workload",
+    "scheduled_at": "2028-06-29T15:30:00-04:00",
+    "posts": [
+      "You finish preparing a sales report, and the follow-up questions start arriving.\n\nWhich products drove revenue? Why did order volume change? Are vendor invoices becoming overdue? Each question can send you back into the data for another round of analysis.\n\nTry keeping a short list of the questions stakeholders ask after each reporting meeting. If the same questions appear repeatedly, consider building those answers into your regular dashboard views."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-sales-reporting-pressure-03",
+    "account": "garretts_dev_desk",
+    "theme": "making_more_time_for_meaningful_business_analysis",
+    "series": "pbi_sales_reporting_workload",
+    "scheduled_at": "2028-06-30T09:15:00-04:00",
+    "posts": [
+      "One of the rewarding parts of working with business data is discovering something useful.\n\nMaybe it's a shift in product demand, a change in purchasing activity, or a sales pattern that deserves attention. Those discoveries are easier to pursue when the reporting structure is already organized.\n\nMy Sales Performance & Commercial Operations Power BI Kit provides four editable dashboard pages to build upon: https://garrettsdevdesk.etsy.com/listing/4595438858/power-bi-sales-dashboard-template-sales"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-sales-reporting-pressure-04",
+    "account": "garretts_dev_desk",
+    "theme": "creating_reusable_sales_reporting_workflows",
+    "series": "pbi_sales_reporting_workload",
+    "scheduled_at": "2028-06-30T15:30:00-04:00",
+    "posts": [
+      "Starting a reporting project from a blank page can take more energy than people realize.\n\nBefore the analysis begins, someone has to decide which metrics matter, how the information should be organized, and what the audience needs to see. Reusing a thoughtful structure can reduce that preparation work.\n\nTry outlining your recurring sales reporting process. Which steps involve rebuilding something you've already created before?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-sales-reporting-pressure-05",
+    "account": "garretts_dev_desk",
+    "theme": "using_customizable_dashboard_templates_to_reduce_setup_work",
+    "series": "pbi_sales_reporting_workload",
+    "scheduled_at": "2028-07-01T09:15:00-04:00",
+    "posts": [
+      "A good starting point can make a reporting project feel much more manageable.\n\nEditable dashboards, fictional sample data, documented DAX measures, and setup guides give you something concrete to explore and customize. You can focus on adapting the reporting to your needs instead of designing every page from scratch.\n\nThat's the idea behind my Sales Performance & Commercial Operations Power BI Kit: https://garrettsdevdesk.etsy.com/listing/4595438858/power-bi-sales-dashboard-template-sales"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-sales-reporting-pressure-06",
+    "account": "garretts_dev_desk",
+    "theme": "discussing_the_hidden_workload_of_business_reporting",
+    "series": "pbi_sales_reporting_workload",
+    "scheduled_at": "2028-07-01T15:30:00-04:00",
+    "posts": [
+      "There's a lot of work behind a business report that the audience never sees.\n\nGathering data, checking calculations, organizing visuals, and preparing for follow-up questions all take time. For analysts and consultants, that preparation can compete with the work of understanding what the numbers actually mean.\n\nIf you're responsible for recurring business reporting, which part of the process takes more time than you wish it did?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

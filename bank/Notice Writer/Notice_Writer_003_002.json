@@ -1,0 +1,80 @@
+[
+  {
+    "id": "notice-writer-tone-communicates-stage-01",
+    "account": "garretts_dev_desk",
+    "theme": "tone_as_information",
+    "series": "notice_writer_tone_communicates_stage",
+    "scheduled_at": "2027-09-13T09:15:00-04:00",
+    "posts": [
+      "Tone is actually information.\n\nWhen an HOA notice sounds friendly, firm, or formal, residents may interpret that as a signal about where the situation stands. The wording helps communicate whether they're receiving a routine reminder or a more serious follow-up.\n\nNotice Writer helps community volunteers prepare notices with clear, appropriate language: https://noticewriter.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "notice-writer-tone-communicates-stage-02",
+    "account": "garretts_dev_desk",
+    "theme": "distinguishing_reminders_from_warnings",
+    "series": "notice_writer_tone_communicates_stage",
+    "scheduled_at": "2027-09-13T15:30:00-04:00",
+    "posts": [
+      "A courtesy reminder and an enforcement warning can address the same HOA issue while communicating very different things.\n\nThe wording tells residents something about the seriousness of the matter and the stage of the process. Using language from the wrong stage can create confusion or unnecessary concern.\n\nTry comparing a first reminder with a formal follow-up. Could a resident tell which stage each document represents without reading the heading?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "notice-writer-tone-communicates-stage-03",
+    "account": "garretts_dev_desk",
+    "theme": "accurate_tone_over_intensity",
+    "series": "notice_writer_tone_communicates_stage",
+    "scheduled_at": "2027-09-14T09:15:00-04:00",
+    "posts": [
+      "The right tone for an HOA notice isn't always the gentlest one. It's the one that accurately reflects the situation.\n\nA first reminder shouldn't read like a final warning, and a later follow-up shouldn't ignore documented previous communications. The language should match the facts and applicable process.\n\nPrepare professional community notices with Notice Writer: https://noticewriter.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "notice-writer-tone-communicates-stage-04",
+    "account": "garretts_dev_desk",
+    "theme": "documented_history_creates_firmness",
+    "series": "notice_writer_tone_communicates_stage",
+    "scheduled_at": "2027-09-14T15:30:00-04:00",
+    "posts": [
+      "A documented history can make an HOA follow-up appropriately firm without adding emotional language.\n\nConsider a sentence like \"Our September 10 notice requested action by September 17.\" It establishes what was communicated and when, giving the reader useful context for the next step.\n\nTry reviewing a follow-up notice. Could verified dates and previous communications communicate the seriousness more effectively than stronger adjectives?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "notice-writer-tone-communicates-stage-05",
+    "account": "garretts_dev_desk",
+    "theme": "authority_through_accurate_process",
+    "series": "notice_writer_tone_communicates_stage",
+    "scheduled_at": "2027-09-15T09:15:00-04:00",
+    "posts": [
+      "An HOA notice doesn't become more legitimate because its language becomes more intimidating.\n\nAccurate details, applicable governing provisions, verified deadlines, documented history, and established procedures already provide the foundation for a serious message. The writing should make those details understandable.\n\nNotice Writer helps volunteers create clear community communications: https://noticewriter.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "notice-writer-tone-communicates-stage-06",
+    "account": "garretts_dev_desk",
+    "theme": "truthful_tone_in_community_notices",
+    "series": "notice_writer_tone_communicates_stage",
+    "scheduled_at": "2027-09-15T15:30:00-04:00",
+    "posts": [
+      "Tone should tell the truth about a community issue, just like the facts in the notice.\n\nIf the situation is routine, the communication can sound routine. If circumstances change and the process moves forward, the wording can reflect that change without becoming unnecessarily harsh.\n\nFor anyone involved in HOA or community management, how do you balance a respectful tone with the need to communicate that an issue has become more serious?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

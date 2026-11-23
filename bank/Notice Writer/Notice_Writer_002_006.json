@@ -1,0 +1,80 @@
+[
+  {
+    "id": "notice-writer-concise-notices-01",
+    "account": "garretts_dev_desk",
+    "theme": "complete_notices_without_excess_length",
+    "series": "notice_writer_concise_notices",
+    "scheduled_at": "2027-09-06T09:15:00-04:00",
+    "posts": [
+      "A complete community notice doesn't need to be a long one.\n\nWhen a letter feels like it's missing something, adding another paragraph isn't always the answer. Sometimes a clearer explanation, an accurate deadline, or a more specific requested action will do far more for the reader.\n\nNotice Writer helps HOA boards and community volunteers prepare clear, professional notices: https://noticewriter.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "notice-writer-concise-notices-02",
+    "account": "garretts_dev_desk",
+    "theme": "specific_details_over_generic_language",
+    "series": "notice_writer_concise_notices",
+    "scheduled_at": "2027-09-06T15:30:00-04:00",
+    "posts": [
+      "Specific information can replace a surprising amount of administrative language.\n\nAn accurate property address, the applicable rule, a concrete requested action, and a verified deadline can communicate more than several paragraphs of general warnings. Those details give the resident something useful to work with.\n\nTry reviewing a notice you've written. Which sentences provide actual information, and which simply repeat the seriousness of the message?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "notice-writer-concise-notices-03",
+    "account": "garretts_dev_desk",
+    "theme": "essential_notice_information",
+    "series": "notice_writer_concise_notices",
+    "scheduled_at": "2027-09-07T09:15:00-04:00",
+    "posts": [
+      "When preparing an HOA notice, focus on the information the recipient actually needs.\n\nNames, property details, relevant dates, rule references, requested actions, applicable deadlines, and contact information all serve a purpose. The goal is to include what's necessary for the situation without burying it in unnecessary wording.\n\nNotice Writer helps organize community communications: https://noticewriter.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "notice-writer-concise-notices-04",
+    "account": "garretts_dev_desk",
+    "theme": "editing_unnecessary_paragraphs",
+    "series": "notice_writer_concise_notices",
+    "scheduled_at": "2027-09-07T15:30:00-04:00",
+    "posts": [
+      "Every extra paragraph in a community notice should have a reason to be there.\n\nMaybe it explains the requirement, documents an important fact, or tells the resident what happens next. If it doesn't add anything useful or necessary, it may be making the message harder to read.\n\nHere's a simple editing exercise: Read each paragraph and ask what the recipient gains from it. If the answer isn't clear, consider revising or removing it."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "notice-writer-concise-notices-05",
+    "account": "garretts_dev_desk",
+    "theme": "professionalism_without_excess_formality",
+    "series": "notice_writer_concise_notices",
+    "scheduled_at": "2027-09-08T09:15:00-04:00",
+    "posts": [
+      "An official-looking letter doesn't become more professional simply because it fills three pages.\n\nA community notice should use the amount of explanation the situation and applicable requirements call for. Clear organization, accurate information, and appropriate tone do more to establish professionalism than unnecessary length.\n\nPrepare practical, professional notices with Notice Writer: https://noticewriter.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "notice-writer-concise-notices-06",
+    "account": "garretts_dev_desk",
+    "theme": "clarity_over_document_length",
+    "series": "notice_writer_concise_notices",
+    "scheduled_at": "2027-09-08T15:30:00-04:00",
+    "posts": [
+      "A clear one-page community notice may accomplish more than a three-page letter full of formal language.\n\nWhat matters is whether the recipient understands the situation, the applicable expectation, and the next step. The document should be as detailed as necessary while remaining easy to follow.\n\nWhen you receive an official letter, do you prefer a short message with the essential details or a longer explanation that provides more background?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

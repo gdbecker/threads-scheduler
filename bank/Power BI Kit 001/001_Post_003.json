@@ -1,0 +1,80 @@
+[
+  {
+    "id": "pbi-connected-financials-01",
+    "account": "garretts_dev_desk",
+    "theme": "understanding_why_revenue_growth_does_not_guarantee_financial_health",
+    "series": "pbi_connected_financial_metrics",
+    "scheduled_at": "2028-05-04T09:15:00-04:00",
+    "posts": [
+      "Revenue can grow while a business's financial position becomes more challenging.\n\nHigher sales might look encouraging, but rising expenses, declining margins, and tighter cash balances can tell a different story. Looking at these measures together helps reveal what growth actually means for the business.\n\nMy Financial Performance & Cash Flow Power BI Kit connects those perspectives: https://garrettsdevdesk.etsy.com/listing/4595413257/power-bi-financial-dashboard-template-13"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-connected-financials-02",
+    "account": "garretts_dev_desk",
+    "theme": "comparing_revenue_growth_with_cost_and_profit_growth",
+    "series": "pbi_connected_financial_metrics",
+    "scheduled_at": "2028-05-04T15:30:00-04:00",
+    "posts": [
+      "More revenue doesn't automatically mean more profit.\n\nIf operating costs increase faster than sales, a business can grow while its profitability weakens. That's why revenue trends become more useful when you examine the expenses and margins alongside them.\n\nTry comparing year-over-year revenue growth with expense growth for the same period. Are costs rising faster or slower than revenue, and what does that mean for profitability?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-connected-financials-03",
+    "account": "garretts_dev_desk",
+    "theme": "using_profit_margins_to_evaluate_business_growth",
+    "series": "pbi_connected_financial_metrics",
+    "scheduled_at": "2028-05-05T09:15:00-04:00",
+    "posts": [
+      "Profit margins can reveal changes that revenue growth alone might hide.\n\nGross margin and adjusted EBITDA margin help show how much of the business's revenue is translating into profitability. Tracking those measures over time adds useful context to the overall financial trend.\n\nMy Financial Performance & Cash Flow Power BI Kit includes revenue, profitability, and margin reporting: https://garrettsdevdesk.etsy.com/listing/4595413257/power-bi-financial-dashboard-template-13"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-connected-financials-04",
+    "account": "garretts_dev_desk",
+    "theme": "identifying_performance_differences_across_operating_entities",
+    "series": "pbi_connected_financial_metrics",
+    "scheduled_at": "2028-05-05T15:30:00-04:00",
+    "posts": [
+      "A strong consolidated financial result can sometimes hide weaker performance in individual business units.\n\nOne operating entity might be growing quickly while another faces rising expenses or declining margins. Looking at the components separately helps explain what's driving the total.\n\nTry comparing revenue, expenses, and adjusted EBITDA margins across your operating entities. Which differences become visible when you move beyond the consolidated figures?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-connected-financials-05",
+    "account": "garretts_dev_desk",
+    "theme": "connecting_business_profitability_with_short_term_liquidity",
+    "series": "pbi_connected_financial_metrics",
+    "scheduled_at": "2028-05-06T09:15:00-04:00",
+    "posts": [
+      "A business can be profitable on paper and still struggle to meet an upcoming cash obligation.\n\nPayment timing, operating expenses, and other cash movements affect liquidity in ways that an income statement alone cannot explain. A 13-week cash forecast adds another important perspective.\n\nMy Financial Performance & Cash Flow Power BI Kit includes a customizable cash forecast page: https://garrettsdevdesk.etsy.com/listing/4595413257/power-bi-financial-dashboard-template-13"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-connected-financials-06",
+    "account": "garretts_dev_desk",
+    "theme": "discussing_the_importance_of_connected_financial_reporting",
+    "series": "pbi_connected_financial_metrics",
+    "scheduled_at": "2028-05-06T15:30:00-04:00",
+    "posts": [
+      "Financial metrics become more useful when you understand how they relate to one another.\n\nRevenue growth raises questions about costs and margins. Consolidated profitability raises questions about individual operating entities. Historical performance raises questions about future cash availability. Each connection helps build a fuller picture.\n\nWhen reviewing a business's finances, which metric do you usually examine first, and what do you look at next?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

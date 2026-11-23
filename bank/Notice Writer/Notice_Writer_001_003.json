@@ -1,0 +1,80 @@
+[
+  {
+    "id": "notice-writer-four-question-test-01",
+    "account": "garretts_dev_desk",
+    "theme": "four_questions_for_violation_notices",
+    "series": "notice_writer_four_question_test",
+    "scheduled_at": "2027-08-05T09:15:00-04:00",
+    "posts": [
+      "The best HOA violation notices answer four ordinary questions.\n\nWhat happened? What rule or expectation applies? What needs to change? And when does it need to happen? Residents shouldn't have to decode administrative language to understand what's being requested.\n\nNotice Writer helps community volunteers prepare clearer, more professional notices: https://noticewriter.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "notice-writer-four-question-test-02",
+    "account": "garretts_dev_desk",
+    "theme": "reviewing_notice_completeness",
+    "series": "notice_writer_four_question_test",
+    "scheduled_at": "2027-08-05T15:30:00-04:00",
+    "posts": [
+      "Here's a simple test for your next HOA violation notice: Read it from the resident's perspective.\n\nCan you identify the observed issue, the applicable requirement, the action needed, and the deadline without searching through several paragraphs? If any answer is difficult to find, the message may need another pass.\n\nTry using those four questions as a final checklist before sending a notice."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "notice-writer-four-question-test-03",
+    "account": "garretts_dev_desk",
+    "theme": "explaining_hoa_rules_clearly",
+    "series": "notice_writer_four_question_test",
+    "scheduled_at": "2027-08-06T09:15:00-04:00",
+    "posts": [
+      "A rule reference should help residents understand an expectation, not leave them buried in administrative language.\n\nWhen appropriate, a concise explanation and an accurate reference to the governing documents can make a notice easier to follow. Include the details the resident needs without making the message unnecessarily complicated.\n\nCreate clearer community notices with Notice Writer: https://noticewriter.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "notice-writer-four-question-test-04",
+    "account": "garretts_dev_desk",
+    "theme": "actionable_resolution_instructions",
+    "series": "notice_writer_four_question_test",
+    "scheduled_at": "2027-08-06T15:30:00-04:00",
+    "posts": [
+      "A resident shouldn't have to guess what a successful resolution looks like.\n\n\"Please address the landscaping concern\" leaves room for confusion. \"Please trim the vegetation extending across the sidewalk\" gives someone a specific action to take, assuming that's what the applicable requirement calls for.\n\nWhen reviewing a notice, ask whether the requested action is concrete enough for the resident to know when the issue has been resolved."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "notice-writer-four-question-test-05",
+    "account": "garretts_dev_desk",
+    "theme": "authority_through_clarity",
+    "series": "notice_writer_four_question_test",
+    "scheduled_at": "2027-08-07T09:15:00-04:00",
+    "posts": [
+      "Clarity can carry more authority than threatening language.\n\nWhen an HOA notice explains the facts, applicable requirement, requested action, and deadline, the resident can understand exactly what's expected. Adding aggressive wording rarely improves those instructions.\n\nNotice Writer helps volunteers communicate expectations with a calm, professional tone: https://noticewriter.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "notice-writer-four-question-test-06",
+    "account": "garretts_dev_desk",
+    "theme": "resident_friendly_notice_review",
+    "series": "notice_writer_four_question_test",
+    "scheduled_at": "2027-08-07T15:30:00-04:00",
+    "posts": [
+      "Before sending a violation notice, read it once and ask whether the next step is unmistakably clear.\n\nThe resident should understand what was observed, why it matters under the association's rules, what action is expected, and when it must happen. Everything else in the message should support that understanding.\n\nFor HOA board members and community volunteers, which of those four details is most often missing from notices you've encountered?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

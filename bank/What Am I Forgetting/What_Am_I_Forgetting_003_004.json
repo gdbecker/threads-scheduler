@@ -1,0 +1,80 @@
+[
+  {
+    "id": "waf-quiet-details-01",
+    "account": "garretts_dev_desk",
+    "theme": "remembering_details_when_things_get_quiet",
+    "series": "waf_quiet_details",
+    "scheduled_at": "2028-01-24T09:15:00-05:00",
+    "posts": [
+      "Ever notice how the thing you forgot comes back to you right when everything gets quiet?\n\nYou sit down in the car, close your laptop, or finally relax after a busy morning. Suddenly you remember the one detail that needed your attention ten minutes earlier.\n\nWhat Am I Forgetting? helps you give those details a chance to surface before you've moved on: https://whatamiforgetting.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-quiet-details-02",
+    "account": "garretts_dev_desk",
+    "theme": "recognizing_how_urgent_tasks_hide_smaller_details",
+    "series": "waf_quiet_details",
+    "scheduled_at": "2028-01-24T15:30:00-05:00",
+    "posts": [
+      "Sometimes the missing detail wasn't buried very deep. Everything else was just louder.\n\nWhen several things compete for your attention, the biggest or most urgent task tends to take priority. The library book by the stairs or the message you meant to send can wait quietly in the background.\n\nBefore finishing your next busy stretch, try taking thirty seconds without starting anything new. See whether a smaller unfinished detail comes to mind."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-quiet-details-03",
+    "account": "garretts_dev_desk",
+    "theme": "giving_small_reminders_room_to_resurface",
+    "series": "waf_quiet_details",
+    "scheduled_at": "2028-01-25T09:15:00-05:00",
+    "posts": [
+      "The moment after a busy task can reveal what the busy task was hiding.\n\nYou finish the report, step away from your desk, and suddenly remember the message you promised to send. Or you finally sit down and recall something you meant to bring along. A little quiet can make overlooked details easier to notice.\n\nThat's the thinking behind What Am I Forgetting?: https://whatamiforgetting.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-quiet-details-04",
+    "account": "garretts_dev_desk",
+    "theme": "creating_a_short_closing_pause",
+    "series": "waf_quiet_details",
+    "scheduled_at": "2028-01-25T15:30:00-05:00",
+    "posts": [
+      "You don't have to redo your entire checklist to catch one overlooked detail.\n\nTry a short closing pass instead. Before leaving home, ending a work session, or heading into a meeting, pause and give the loose ends a little attention. You're looking for the things that never quite made it onto the main list.\n\nKeep the review brief and specific. Once you've checked what matters, you can get on with whatever you were preparing to do."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-quiet-details-05",
+    "account": "garretts_dev_desk",
+    "theme": "using_questions_to_surface_overlooked_details",
+    "series": "waf_quiet_details",
+    "scheduled_at": "2028-01-26T09:15:00-05:00",
+    "posts": [
+      "A few good questions can be more useful than rereading a long checklist.\n\nIs anything still waiting somewhere? Is anyone waiting on me? Does something still need to be brought, sent, attached, saved, or confirmed? These questions direct your attention toward the gaps between completed tasks.\n\nWhat Am I Forgetting? gives you a simple place to work through those final details: https://whatamiforgetting.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-quiet-details-06",
+    "account": "garretts_dev_desk",
+    "theme": "using_quiet_moments_for_a_final_review",
+    "series": "waf_quiet_details",
+    "scheduled_at": "2028-01-26T15:30:00-05:00",
+    "posts": [
+      "Thirty quiet seconds might be enough to remember something important.\n\nAfter a busy stretch, your attention finally has room for the smaller details that were competing with everything else. A brief pause before moving on can sometimes bring one of those loose ends back into view.\n\nHave you ever remembered something the moment you sat down in the car or finally relaxed? What was it, and did you catch it in time?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

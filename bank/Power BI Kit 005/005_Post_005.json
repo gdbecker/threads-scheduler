@@ -1,0 +1,80 @@
+[
+  {
+    "id": "pbi-bd-prioritization-01",
+    "account": "garretts_dev_desk",
+    "theme": "understanding_why_largest_opportunities_are_not_always_best",
+    "series": "pbi_business_development_opportunity_prioritization",
+    "scheduled_at": "2028-10-26T09:15:00-04:00",
+    "posts": [
+      "Your biggest business development opportunity might not be your best opportunity.\n\nA large deal can attract attention, but its estimated win probability, timing, and client relationship may tell a different story. Opportunity value is only one part of deciding where to focus.\n\nMy Business Development Performance Power BI Kit helps you explore the details behind your pipeline: https://garrettsdevdesk.etsy.com/listing/4595453904/power-bi-business-development-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-bd-prioritization-02",
+    "account": "garretts_dev_desk",
+    "theme": "comparing_opportunity_value_with_probability_weighted_value",
+    "series": "pbi_business_development_opportunity_prioritization",
+    "scheduled_at": "2028-10-26T15:30:00-04:00",
+    "posts": [
+      "A $500,000 opportunity with a 20% win probability has $100,000 in weighted value. A $200,000 opportunity at 80% has $160,000.\n\nThe larger deal has more potential value, while the smaller deal contributes more to weighted pipeline. Neither number tells you everything about the opportunity.\n\nTry comparing your largest open deals by both face value and weighted value. Notice which opportunities move up or down the list."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-bd-prioritization-03",
+    "account": "garretts_dev_desk",
+    "theme": "considering_timing_stage_and_client_relationships_in_opportunity_reviews",
+    "series": "pbi_business_development_opportunity_prioritization",
+    "scheduled_at": "2028-10-27T09:15:00-04:00",
+    "posts": [
+      "Win probability is useful, but it shouldn't be the only factor in opportunity prioritization.\n\nA deal's stage, expected close date, service line, and client relationship can influence how a team approaches it. Looking at those details together helps make the conversation more informed.\n\nMy Business Development Performance Power BI Kit includes opportunity-level analysis: https://garrettsdevdesk.etsy.com/listing/4595453904/power-bi-business-development-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-bd-prioritization-04",
+    "account": "garretts_dev_desk",
+    "theme": "identifying_unusual_deal_size_and_win_probability_combinations",
+    "series": "pbi_business_development_opportunity_prioritization",
+    "scheduled_at": "2028-10-27T15:30:00-04:00",
+    "posts": [
+      "Some of the most useful pipeline questions come from opportunities that stand out.\n\nA very large deal with low win probability may deserve a different conversation than a smaller opportunity with stronger confidence. Comparing size and probability can help reveal these differences.\n\nTry plotting open opportunities by deal value and win probability. Investigate the outliers, then review their stages, close dates, and client relationships."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-bd-prioritization-05",
+    "account": "garretts_dev_desk",
+    "theme": "using_multiple_opportunity_factors_to_guide_business_development_priorities",
+    "series": "pbi_business_development_opportunity_prioritization",
+    "scheduled_at": "2028-10-28T09:15:00-04:00",
+    "posts": [
+      "Better opportunity prioritization starts with understanding what sits behind each deal.\n\nValue, estimated win probability, timing, and relationship details can help teams identify where additional investigation is worthwhile. Those comparisons support more thoughtful decisions about business development effort.\n\nExplore these perspectives with my Business Development Performance Power BI Kit: https://garrettsdevdesk.etsy.com/listing/4595453904/power-bi-business-development-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-bd-prioritization-06",
+    "account": "garretts_dev_desk",
+    "theme": "discussing_how_business_development_teams_prioritize_opportunities",
+    "series": "pbi_business_development_opportunity_prioritization",
+    "scheduled_at": "2028-10-28T15:30:00-04:00",
+    "posts": [
+      "A long list of opportunities can make prioritization surprisingly difficult.\n\nThe biggest deal may have an uncertain outcome, while a smaller opportunity could have a stronger probability of closing sooner. Comparing those possibilities requires judgment alongside the numbers.\n\nFor business development professionals, what matters most when deciding which opportunity deserves your attention next?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

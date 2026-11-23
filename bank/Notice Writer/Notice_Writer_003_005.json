@@ -1,0 +1,80 @@
+[
+  {
+    "id": "notice-writer-appropriate-escalation-01",
+    "account": "garretts_dev_desk",
+    "theme": "avoiding_constant_final_warnings",
+    "series": "notice_writer_appropriate_escalation",
+    "scheduled_at": "2027-09-23T09:15:00-04:00",
+    "posts": [
+      "If every HOA notice sounds like a final warning, residents lose an important signal about how serious the situation actually is.\n\nA routine reminder and a formal enforcement notice serve different purposes. Using maximum intensity for every message makes those differences harder to recognize.\n\nNotice Writer helps community volunteers prepare notices with appropriate language: https://noticewriter.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "notice-writer-appropriate-escalation-02",
+    "account": "garretts_dev_desk",
+    "theme": "distinguishing_notice_purposes",
+    "series": "notice_writer_appropriate_escalation",
+    "scheduled_at": "2027-09-23T15:30:00-04:00",
+    "posts": [
+      "When every community notice sounds equally severe, the wording stops communicating much about the situation.\n\nA courtesy reminder, a follow-up, and a formal notice may each have a different purpose. Their tone should help residents understand where the matter stands.\n\nTry comparing the language used across your notice templates. Can someone distinguish their purposes without relying entirely on the document titles?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "notice-writer-appropriate-escalation-03",
+    "account": "garretts_dev_desk",
+    "theme": "meaningful_changes_in_notice_tone",
+    "series": "notice_writer_appropriate_escalation",
+    "scheduled_at": "2027-09-24T09:15:00-04:00",
+    "posts": [
+      "A firmer HOA notice should reflect something meaningful that has changed.\n\nPerhaps an earlier reminder was sent, a deadline passed, or the association reached another step in its established process. Those developments can explain why the next message carries more weight without resorting to intimidating language.\n\nPrepare clearer community communications with Notice Writer: https://noticewriter.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "notice-writer-appropriate-escalation-04",
+    "account": "garretts_dev_desk",
+    "theme": "following_actual_enforcement_procedures",
+    "series": "notice_writer_appropriate_escalation",
+    "scheduled_at": "2027-09-24T15:30:00-04:00",
+    "posts": [
+      "Not every HOA issue needs a four-stage escalation process.\n\nThe appropriate steps depend on the association's governing documents, policies, applicable law, and the circumstances involved. A writing template shouldn't invent additional stages simply because they create a tidy sequence.\n\nHere's a useful review exercise: Compare your notice templates with the actual procedures. Do they accurately reflect the steps your community is required to follow?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "notice-writer-appropriate-escalation-05",
+    "account": "garretts_dev_desk",
+    "theme": "resolving_routine_issues_early",
+    "series": "notice_writer_appropriate_escalation",
+    "scheduled_at": "2027-09-25T09:15:00-04:00",
+    "posts": [
+      "Sometimes a simple community reminder resolves the entire issue.\n\nA resident learns about something they overlooked, makes the necessary correction, and everyone moves forward. When the applicable process allows it, clear and respectful communication can give ordinary problems room to be resolved without unnecessary conflict.\n\nNotice Writer helps volunteers create practical HOA and community notices: https://noticewriter.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "notice-writer-appropriate-escalation-06",
+    "account": "garretts_dev_desk",
+    "theme": "choosing_the_right_communication_tool",
+    "series": "notice_writer_appropriate_escalation",
+    "scheduled_at": "2027-09-25T15:30:00-04:00",
+    "posts": [
+      "A clear reminder isn't weak, and a formal notice isn't automatically better.\n\nThey're different communication tools for different circumstances. The goal is to use language that accurately reflects the issue, the documented history, and the applicable process rather than making every message sound urgent.\n\nFor anyone involved in community management, have you found that a straightforward reminder sometimes works better than a more formal letter?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

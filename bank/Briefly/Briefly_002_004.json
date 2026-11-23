@@ -1,0 +1,80 @@
+[
+  {
+    "id": "briefly-monday-morning-01",
+    "account": "garretts_dev_desk",
+    "theme": "project_communication",
+    "series": "briefly_monday_morning",
+    "scheduled_at": "2026-12-21T09:15:00-05:00",
+    "posts": [
+      "Here's a question I wish more project updates answered: What's going to happen Monday morning?\n\nIt's helpful to know what the team accomplished last week, but the reader also needs to understand where the work goes next.\n\nI built Briefly to help organize that information into a clear, useful update: https://briefly.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-monday-morning-02",
+    "account": "garretts_dev_desk",
+    "theme": "status_reporting",
+    "series": "briefly_monday_morning",
+    "scheduled_at": "2026-12-21T15:30:00-05:00",
+    "posts": [
+      "Have you ever read a detailed project update that explained everything from the past week but said nothing about what happens next?\n\nA useful update connects completed work to the next few days. Otherwise, the reader is left wondering what all that activity means for the project.\n\nDo you prefer weekly updates that include a dedicated next-steps section?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-monday-morning-03",
+    "account": "garretts_dev_desk",
+    "theme": "workplace_productivity",
+    "series": "briefly_monday_morning",
+    "scheduled_at": "2026-12-22T09:15:00-05:00",
+    "posts": [
+      "Forty open tasks probably don't belong in the next-steps section of a project update.\n\nTry choosing three or four actions that will meaningfully move the work forward. The full task list can stay in your project management system.\n\nBriefly gives you a place to organize the important pieces: https://briefly.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-monday-morning-04",
+    "account": "garretts_dev_desk",
+    "theme": "action_items",
+    "series": "briefly_monday_morning",
+    "scheduled_at": "2026-12-22T15:30:00-05:00",
+    "posts": [
+      "A next-steps section doesn't need to be complicated.\n\nFinish testing Thursday. Get security approval. Send the revised schedule Friday.\n\nThose three actions give the reader a useful picture of the team's immediate priorities and what they should expect to hear about next.\n\nTry writing your next update around the three most important upcoming actions."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-monday-morning-05",
+    "account": "garretts_dev_desk",
+    "theme": "project_management",
+    "series": "briefly_monday_morning",
+    "scheduled_at": "2026-12-23T09:15:00-05:00",
+    "posts": [
+      "\"Get client approval\" sounds like a reasonable next step, but it leaves a few questions unanswered.\n\n\"Dana sends the revised proposal Tuesday for client approval\" gives everyone a clearer picture of the plan.\n\nAdding an owner and a date can make a surprisingly big difference.\n\nhttps://briefly.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-monday-morning-06",
+    "account": "garretts_dev_desk",
+    "theme": "clear_communication",
+    "series": "briefly_monday_morning",
+    "scheduled_at": "2026-12-23T15:30:00-05:00",
+    "posts": [
+      "A project update should connect where the work has been with where it's going next.\n\nSometimes that means three specific actions. Other times it means explaining what the team is waiting on and when they'll know more.\n\nEither way, the reader deserves a clear picture of what happens next.\n\nBuild your next brief with https://briefly.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

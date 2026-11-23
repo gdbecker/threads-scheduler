@@ -1,0 +1,80 @@
+[
+  {
+    "id": "pbi-bd-reporting-pressure-01",
+    "account": "garretts_dev_desk",
+    "theme": "preparing_business_development_reports_under_leadership_pressure",
+    "series": "pbi_business_development_reporting_pressure",
+    "scheduled_at": "2028-11-02T09:15:00-04:00",
+    "posts": [
+      "Everyone wants answers. You're still trying to find the numbers.\n\nAnother business development meeting is approaching, and you're gathering pipeline totals, team results, and opportunity details from different reports. Finding the information can take longer than understanding it.\n\nMy Business Development Performance Power BI Kit provides three editable reporting pages to help you get started: https://garrettsdevdesk.etsy.com/listing/4595453904/power-bi-business-development-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-bd-reporting-pressure-02",
+    "account": "garretts_dev_desk",
+    "theme": "organizing_reporting_around_common_business_development_questions",
+    "series": "pbi_business_development_reporting_pressure",
+    "scheduled_at": "2028-11-02T15:30:00-04:00",
+    "posts": [
+      "Leadership's business development questions often sound simple until you try to answer them.\n\nHow healthy is the pipeline? Who's progressing toward their goals? Which opportunities need attention? Each question may require different measures and levels of detail.\n\nTry writing down the five questions your team asks most often during reporting meetings. Map each one to the metrics and supporting details needed to answer it."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-bd-reporting-pressure-03",
+    "account": "garretts_dev_desk",
+    "theme": "reducing_repeated_business_development_report_preparation",
+    "series": "pbi_business_development_reporting_pressure",
+    "scheduled_at": "2028-11-03T09:15:00-04:00",
+    "posts": [
+      "Rebuilding the same business development report every month can become frustrating.\n\nPipeline totals, goal attainment, and opportunity details all need attention before anyone can discuss what the numbers mean. A reusable reporting structure can make that preparation more manageable.\n\nMy Business Development Performance Power BI Kit includes three editable dashboards, sample data, and DAX measures: https://garrettsdevdesk.etsy.com/listing/4595453904/power-bi-business-development-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-bd-reporting-pressure-04",
+    "account": "garretts_dev_desk",
+    "theme": "creating_a_clearer_business_development_meeting_reporting_structure",
+    "series": "pbi_business_development_reporting_pressure",
+    "scheduled_at": "2028-11-03T15:30:00-04:00",
+    "posts": [
+      "Imagine starting your next business development meeting with a clearer picture of what's happening.\n\nAn organized report can help everyone examine pipeline health, team progress, and individual opportunities without constantly switching between unrelated summaries. It also makes follow-up questions easier to investigate.\n\nTry organizing your next review around three sections: pipeline overview, team contributions, and opportunity details."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-bd-reporting-pressure-05",
+    "account": "garretts_dev_desk",
+    "theme": "using_editable_power_bi_templates_as_a_business_development_reporting_starting_point",
+    "series": "pbi_business_development_reporting_pressure",
+    "scheduled_at": "2028-11-04T09:15:00-04:00",
+    "posts": [
+      "You don't have to design every business development dashboard from scratch.\n\nStarting with an editable report can give you more time to adapt the measures, explore the data, and prepare useful insights for your team. A good starting point still leaves room for your organization's needs.\n\nMy Business Development Performance Power BI Kit includes three dashboard pages, sample data, DAX measures, and setup guides: https://garrettsdevdesk.etsy.com/listing/4595453904/power-bi-business-development-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-bd-reporting-pressure-06",
+    "account": "garretts_dev_desk",
+    "theme": "discussing_time_spent_preparing_vs_analyzing_business_development_reports",
+    "series": "pbi_business_development_reporting_pressure",
+    "scheduled_at": "2028-11-04T15:30:00-04:00",
+    "posts": [
+      "There's a particular frustration in spending hours preparing a report, only to have little time left to explore what it means.\n\nBusiness development reporting often involves gathering data, checking definitions, and reconciling numbers before the actual analysis begins. Those tasks matter, but they can crowd out valuable thinking time.\n\nFor analysts and business development managers, which part of preparing your recurring reports takes the most time?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

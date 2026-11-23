@@ -1,0 +1,80 @@
+[
+  {
+    "id": "pbi-ticket-spikes-01",
+    "account": "garretts_dev_desk",
+    "theme": "investigating_sudden_ticket_volume_increases",
+    "series": "pbi_ticket_volume_spikes",
+    "scheduled_at": "2028-02-10T09:15:00-05:00",
+    "posts": [
+      "Customer support ticket volume jumped 30%. Now what?\n\nThe increase tells you what happened, but it doesn't explain why. Before assuming the team is struggling or customers are having more problems, look at which tickets increased and when the change began.\n\nMy Customer Support Performance Power BI Kit provides a starting point for exploring these patterns: https://garrettsdevdesk.etsy.com/listing/4593960875/power-bi-customer-support-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-ticket-spikes-02",
+    "account": "garretts_dev_desk",
+    "theme": "breaking_down_ticket_volume_by_category",
+    "series": "pbi_ticket_volume_spikes",
+    "scheduled_at": "2028-02-10T15:30:00-05:00",
+    "posts": [
+      "When ticket volume increases, resist the urge to explain it immediately.\n\nStart by finding where the increase happened. Was it concentrated in billing, technical support, account questions, or a particular channel? A spike in one category tells a very different story from a broad increase across everything.\n\nTry comparing ticket counts by category for the current and previous periods. Look for which categories contributed most to the change before deciding what to investigate."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-ticket-spikes-03",
+    "account": "garretts_dev_desk",
+    "theme": "using_ticket_trends_to_understand_when_spikes_begin",
+    "series": "pbi_ticket_volume_spikes",
+    "scheduled_at": "2028-02-11T09:15:00-05:00",
+    "posts": [
+      "A ticket volume spike becomes more interesting when you can see exactly when it started.\n\nDid demand climb gradually over several weeks, jump overnight, or appear only during certain hours? Each pattern suggests different questions about customer behavior, product changes, and staffing needs.\n\nMy Customer Support Performance Power BI Kit helps you explore ticket trends alongside other service metrics: https://garrettsdevdesk.etsy.com/listing/4593960875/power-bi-customer-support-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-ticket-spikes-04",
+    "account": "garretts_dev_desk",
+    "theme": "measuring_service_impact_during_ticket_spikes",
+    "series": "pbi_ticket_volume_spikes",
+    "scheduled_at": "2028-02-11T15:30:00-05:00",
+    "posts": [
+      "More support tickets don't automatically mean worse service.\n\nThe important question is whether the team can absorb the additional demand. If response times rise, resolution slows, or SLA performance falls, the spike may be creating operational pressure.\n\nTry comparing those three measures before and during your next volume increase. You'll get a clearer picture of whether the extra workload is affecting service delivery."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-ticket-spikes-05",
+    "account": "garretts_dev_desk",
+    "theme": "connecting_ticket_volume_changes_to_customer_satisfaction",
+    "series": "pbi_ticket_volume_spikes",
+    "scheduled_at": "2028-02-12T09:15:00-05:00",
+    "posts": [
+      "A support team can handle more tickets without customers having a worse experience.\n\nAfter checking volume, response times, resolution, and SLA performance, bring customer satisfaction into the picture. If CSAT remains steady despite higher demand, that may be a sign the team is adapting well.\n\nMy Customer Support Performance Power BI Kit brings these measures together: https://garrettsdevdesk.etsy.com/listing/4593960875/power-bi-customer-support-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-ticket-spikes-06",
+    "account": "garretts_dev_desk",
+    "theme": "turning_ticket_volume_changes_into_actionable_questions",
+    "series": "pbi_ticket_volume_spikes",
+    "scheduled_at": "2028-02-12T15:30:00-05:00",
+    "posts": [
+      "A useful support dashboard should help you move beyond reporting that ticket volume increased.\n\nFind where the increase happened, examine when it started, check whether service performance changed, and look for any impact on customer satisfaction. That sequence turns a headline number into a more useful investigation.\n\nIf your team's ticket volume suddenly increased 30%, what's the first breakdown or metric you'd want to examine?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

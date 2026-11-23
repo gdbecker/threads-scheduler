@@ -1,0 +1,80 @@
+[
+  {
+    "id": "pbi-workforce-feedback-01",
+    "account": "garretts_dev_desk",
+    "theme": "giving_sales_teams_clearer_performance_direction",
+    "series": "pbi_workforce_constructive_feedback",
+    "scheduled_at": "2028-08-28T09:15:00-04:00",
+    "posts": [
+      "We need better sales numbers. But what does that actually mean for the people doing the work?\n\nA broad instruction to improve rarely provides much direction. Clear targets, employee comparisons, and profitability measures can help managers understand where to focus the conversation.\n\nMy Workforce Performance & Sales Activity Power BI Kit includes editable employee performance reporting: https://garrettsdevdesk.etsy.com/listing/4595444828/power-bi-sales-performance-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-workforce-feedback-02",
+    "account": "garretts_dev_desk",
+    "theme": "helping_employees_understand_sales_expectations_and_progress",
+    "series": "pbi_workforce_constructive_feedback",
+    "scheduled_at": "2028-08-28T15:30:00-04:00",
+    "posts": [
+      "People deserve to understand how their performance is being evaluated.\n\nWhen expectations are unclear, even a simple sales target can become frustrating. Comparing actual results with relevant targets gives employees and managers a shared starting point for discussing progress.\n\nTry reviewing your team's scorecards. Can each employee clearly see their target, actual results, and the period being measured? If any of those are missing, start there."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-workforce-feedback-03",
+    "account": "garretts_dev_desk",
+    "theme": "using_multiple_metrics_to_understand_missed_sales_targets",
+    "series": "pbi_workforce_constructive_feedback",
+    "scheduled_at": "2028-08-29T09:15:00-04:00",
+    "posts": [
+      "A missed sales target should be the beginning of a conversation, not the entire conclusion.\n\nRevenue, transaction activity, gross profit, and historical trends can help reveal what deserves investigation. Looking beyond one percentage gives managers more context before discussing next steps.\n\nMy Workforce Performance & Sales Activity Power BI Kit includes employee results and target attainment analysis: https://garrettsdevdesk.etsy.com/listing/4595444828/power-bi-sales-performance-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-workforce-feedback-04",
+    "account": "garretts_dev_desk",
+    "theme": "turning_sales_performance_results_into_constructive_feedback",
+    "series": "pbi_workforce_constructive_feedback",
+    "scheduled_at": "2028-08-29T15:30:00-04:00",
+    "posts": [
+      "A useful performance review should leave someone with a clearer understanding of what happens next.\n\nStart by reviewing the results, then explore the circumstances behind them. Ask questions about obstacles, opportunities, and support before agreeing on priorities.\n\nTry a simple three-part approach in your next review: identify one strength, discuss one area needing attention, and agree on one practical next step. Let the data guide the conversation."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-workforce-feedback-05",
+    "account": "garretts_dev_desk",
+    "theme": "supporting_employee_performance_discussions_with_power_bi",
+    "series": "pbi_workforce_constructive_feedback",
+    "scheduled_at": "2028-08-30T09:15:00-04:00",
+    "posts": [
+      "Your team deserves feedback that's specific enough to be useful.\n\nEmployee contribution, target attainment, and profitability can help managers identify strengths and areas worth exploring. A structured report makes those measures easier to review together.\n\nMy Workforce Performance & Sales Activity Power BI Kit includes three editable dashboards, fictional sample data, and documentation: https://garrettsdevdesk.etsy.com/listing/4595444828/power-bi-sales-performance-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-workforce-feedback-06",
+    "account": "garretts_dev_desk",
+    "theme": "discussing_how_to_make_sales_performance_feedback_actionable",
+    "series": "pbi_workforce_constructive_feedback",
+    "scheduled_at": "2028-08-30T15:30:00-04:00",
+    "posts": [
+      "Telling a sales team to improve their numbers can leave everyone wondering where to begin.\n\nClear expectations, relevant performance measures, and thoughtful questions help turn broad goals into more useful discussions. Employees also need an opportunity to explain the circumstances behind their results.\n\nFor managers and team leads, what's one thing you've found helpful when turning performance feedback into a practical next step?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

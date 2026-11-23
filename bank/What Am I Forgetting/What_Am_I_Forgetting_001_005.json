@@ -1,0 +1,80 @@
+[
+  {
+    "id": "waf-people-and-dependencies-01",
+    "account": "garretts_dev_desk",
+    "theme": "remembering_commitments_beyond_physical_items",
+    "series": "waf_people_and_dependencies",
+    "scheduled_at": "2027-12-16T09:15:00-05:00",
+    "posts": [
+      "Sometimes the thing you're forgetting isn't a thing at all.\n\nYou remembered your phone, wallet, keys, charger, and water bottle. But someone is still waiting for a message, a confirmation, or something you promised to do. A perfectly packed bag doesn't necessarily mean you're ready for the day.\n\nWhat Am I Forgetting? helps you think through the details that are easy to overlook: https://whatamiforgetting.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-people-and-dependencies-02",
+    "account": "garretts_dev_desk",
+    "theme": "remembering_promises_and_personal_obligations",
+    "series": "waf_people_and_dependencies",
+    "scheduled_at": "2027-12-16T15:30:00-05:00",
+    "posts": [
+      "Before leaving for a busy day, it's worth thinking about the people involved in your plans.\n\nMaybe someone asked you to text when you leave. Maybe you promised a pickup, agreed to bring something, or need to confirm where you're meeting. Those small commitments can be easy to overlook when you're focused on packing.\n\nTry asking yourself one question before heading out: Is anyone expecting something from me today that I haven't taken care of yet?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-people-and-dependencies-03",
+    "account": "garretts_dev_desk",
+    "theme": "preventing_gaps_in_shared_plans",
+    "series": "waf_people_and_dependencies",
+    "scheduled_at": "2027-12-17T09:15:00-05:00",
+    "posts": [
+      "Everyone can remember their own responsibilities and the group can still forget something important.\n\nTickets, snacks, equipment, transportation, or directions can fall through the cracks when everyone assumes someone else is handling them. Shared plans need a little clarity about who is bringing or doing what.\n\nWhat Am I Forgetting? can help you think through those practical details: https://whatamiforgetting.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-people-and-dependencies-04",
+    "account": "garretts_dev_desk",
+    "theme": "checking_two_way_dependencies",
+    "series": "waf_people_and_dependencies",
+    "scheduled_at": "2027-12-17T15:30:00-05:00",
+    "posts": [
+      "Two simple questions can catch details that a packing checklist might miss.\n\nIs anyone waiting on me? Am I waiting on anyone else? Together, they can bring forgotten messages, confirmations, pickups, handoffs, and small promises back into view.\n\nBefore your next group outing or appointment, take a moment to answer both questions. You might discover that the most useful thing to do before leaving is send a quick text."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-people-and-dependencies-05",
+    "account": "garretts_dev_desk",
+    "theme": "thinking_about_people_when_preparing",
+    "series": "waf_people_and_dependencies",
+    "scheduled_at": "2027-12-18T09:15:00-05:00",
+    "posts": [
+      "A useful checklist should help you think about the situation, including the people involved.\n\nYou might have everything packed for a meeting, family outing, or appointment and still need to confirm a time, coordinate transportation, or tell someone you're running late. Those details matter just as much as what's in your bag.\n\nExplore everyday preparation with What Am I Forgetting?: https://whatamiforgetting.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-people-and-dependencies-06",
+    "account": "garretts_dev_desk",
+    "theme": "recognizing_communication_as_part_of_preparation",
+    "series": "waf_people_and_dependencies",
+    "scheduled_at": "2027-12-18T15:30:00-05:00",
+    "posts": [
+      "You can remember everything in your bag and still forget the one detail that matters to someone else.\n\nMaybe it's telling a friend you're on your way, confirming the meeting location, or remembering that you offered to bring something for the group. Those little communication gaps can cause surprisingly inconvenient mix-ups.\n\nWhat's a small detail you've forgotten during a group outing or shared plan that ended up affecting everyone?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

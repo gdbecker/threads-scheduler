@@ -1,0 +1,80 @@
+[
+  {
+    "id": "pbi-sales-trends-01",
+    "account": "garretts_dev_desk",
+    "theme": "recognizing_meaningful_changes_in_business_metrics",
+    "series": "pbi_sales_and_operations_trends",
+    "scheduled_at": "2028-06-22T09:15:00-04:00",
+    "posts": [
+      "The most important number on your dashboard might be the one that's changing.\n\nA total tells you where things stand today. Looking at trends adds context about how sales, product activity, and purchasing have developed over time. Those changes can lead to questions worth exploring.\n\nMy Sales Performance & Commercial Operations Power BI Kit helps bring those patterns into view: https://garrettsdevdesk.etsy.com/listing/4595438858/power-bi-sales-dashboard-template-sales"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-sales-trends-02",
+    "account": "garretts_dev_desk",
+    "theme": "comparing_revenue_trends_with_order_activity",
+    "series": "pbi_sales_and_operations_trends",
+    "scheduled_at": "2028-06-22T15:30:00-04:00",
+    "posts": [
+      "Revenue growth becomes more interesting when you look at what's happening to order activity.\n\nA rise in sales could reflect more orders, larger purchases, or a combination of both. Comparing daily revenue with order volume helps you understand the pattern behind the headline number.\n\nTry charting revenue and order count over the same period. Do they move together, or are there days when the relationship changes?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-sales-trends-03",
+    "account": "garretts_dev_desk",
+    "theme": "identifying_product_sales_and_inventory_patterns",
+    "series": "pbi_sales_and_operations_trends",
+    "scheduled_at": "2028-06-23T09:15:00-04:00",
+    "posts": [
+      "Your best-selling products deserve attention beyond their revenue rankings.\n\nSales volume, revenue contribution, and inventory availability can help explain which products are driving activity and where stock levels may need a closer look. Comparing these measures adds useful context to product performance.\n\nMy Sales Performance & Commercial Operations Power BI Kit includes a dedicated Product Performance page: https://garrettsdevdesk.etsy.com/listing/4595438858/power-bi-sales-dashboard-template-sales"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-sales-trends-04",
+    "account": "garretts_dev_desk",
+    "theme": "reviewing_payment_methods_and_transaction_activity_patterns",
+    "series": "pbi_sales_and_operations_trends",
+    "scheduled_at": "2028-06-23T15:30:00-04:00",
+    "posts": [
+      "Payment activity can reveal patterns that aren't obvious from a sales total alone.\n\nComparing recorded transaction values, payment methods, and daily activity helps you understand how payments appear in your reporting data. Changes in those patterns may be worth investigating.\n\nTry reviewing payment method totals across two comparable periods. Has the mix of recorded payment methods changed, and what might explain the difference?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-sales-trends-05",
+    "account": "garretts_dev_desk",
+    "theme": "monitoring_vendor_spending_and_purchasing_trends",
+    "series": "pbi_sales_and_operations_trends",
+    "scheduled_at": "2028-06-24T09:15:00-04:00",
+    "posts": [
+      "Purchasing trends deserve just as much attention as sales trends.\n\nMonthly invoice totals, vendor spending, and overdue amounts help reveal how purchasing activity changes over time. A noticeable shift can be a useful starting point for reviewing operational decisions and obligations.\n\nMy Sales Performance & Commercial Operations Power BI Kit includes a Purchasing & Vendor Activity dashboard: https://garrettsdevdesk.etsy.com/listing/4595438858/power-bi-sales-dashboard-template-sales"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-sales-trends-06",
+    "account": "garretts_dev_desk",
+    "theme": "discussing_which_commercial_trends_deserve_attention",
+    "series": "pbi_sales_and_operations_trends",
+    "scheduled_at": "2028-06-24T15:30:00-04:00",
+    "posts": [
+      "A useful dashboard helps people recognize changes that deserve attention.\n\nRevenue, order activity, product sales, payment methods, and purchasing each reveal different patterns. Comparing them over time can make business reporting more useful for understanding what's happening.\n\nFor anyone who works with sales or operations data, which trend do you find most valuable to monitor regularly, and why?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

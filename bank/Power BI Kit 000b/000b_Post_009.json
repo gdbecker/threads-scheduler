@@ -1,0 +1,80 @@
+[
+  {
+    "id": "pbi-explaining-numbers-01",
+    "account": "garretts_dev_desk",
+    "theme": "being_prepared_to_explain_subscription_revenue_growth",
+    "series": "pbi_subscription_explaining_numbers",
+    "scheduled_at": "2028-04-13T09:15:00-04:00",
+    "posts": [
+      "The uncomfortable part of presenting a dashboard sometimes comes after you show the numbers.\n\nMRR is up 6%. Everyone sees the result, and then someone asks why. Suddenly, you need to explain the changes behind that growth, not just the percentage.\n\nI built my Subscription Health Power BI Kit to help connect those numbers with their underlying drivers: https://garrettsdevdesk.etsy.com/listing/4595420792/power-bi-subscription-dashboard-template"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-explaining-numbers-02",
+    "account": "garretts_dev_desk",
+    "theme": "explaining_the_drivers_behind_mrr_changes",
+    "series": "pbi_subscription_explaining_numbers",
+    "scheduled_at": "2028-04-13T15:30:00-04:00",
+    "posts": [
+      "Imagine presenting a monthly subscription report and saying MRR increased by 6%.\n\nThe natural follow-up is to ask what caused the increase. New subscriptions, upgrades, downgrades, and cancellations can all contribute to the final result. Without that breakdown, you're left with a number that needs explaining.\n\nTry preparing a simple MRR movement summary before your next reporting meeting. Can you account for the change from the previous month?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-explaining-numbers-03",
+    "account": "garretts_dev_desk",
+    "theme": "investigating_subscription_performance_by_segment_and_plan",
+    "series": "pbi_subscription_explaining_numbers",
+    "scheduled_at": "2028-04-14T09:15:00-04:00",
+    "posts": [
+      "You've explained why subscription revenue increased. Then comes another question: Where is that growth happening?\n\nNow you're looking at customer segments, subscription plans, churn, and ARPU. Each measure helps you understand which parts of the business contributed to the result.\n\nMy Subscription Health Power BI Kit brings these perspectives into one customizable report: https://garrettsdevdesk.etsy.com/listing/4595420792/power-bi-subscription-dashboard-template"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-explaining-numbers-04",
+    "account": "garretts_dev_desk",
+    "theme": "preparing_for_follow_up_questions_in_reporting_meetings",
+    "series": "pbi_subscription_explaining_numbers",
+    "scheduled_at": "2028-04-14T15:30:00-04:00",
+    "posts": [
+      "A useful dashboard should help you follow the conversation when someone asks a question you didn't anticipate.\n\nA change in MRR might lead to questions about customer growth, churn, plan mix, or segment performance. Having those measures connected makes it easier to investigate while the discussion is still happening.\n\nBefore your next reporting meeting, try answering four questions: What changed? Why? Where? What deserves attention next?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-explaining-numbers-05",
+    "account": "garretts_dev_desk",
+    "theme": "designing_dashboards_that_support_business_conversations",
+    "series": "pbi_subscription_explaining_numbers",
+    "scheduled_at": "2028-04-15T09:15:00-04:00",
+    "posts": [
+      "There's a difference between having a dashboard ready and feeling prepared to discuss what it shows.\n\nWhen MRR, customer growth, churn, ARPU, plan mix, and segment performance are available together, you have more context for explaining results and exploring follow-up questions.\n\nThat's the experience I wanted to support with my Subscription Health Power BI Kit: https://garrettsdevdesk.etsy.com/listing/4595420792/power-bi-subscription-dashboard-template"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-explaining-numbers-06",
+    "account": "garretts_dev_desk",
+    "theme": "building_confidence_when_presenting_business_performance",
+    "series": "pbi_subscription_explaining_numbers",
+    "scheduled_at": "2028-04-15T15:30:00-04:00",
+    "posts": [
+      "Anyone who has presented business performance knows that the first number is rarely the end of the conversation.\n\nSomeone wants to understand what changed, another person asks about a particular customer segment, and someone else wants to know what it means for the next month. Being able to explore those questions is part of what makes reporting valuable.\n\nWhat's the most challenging follow-up question you've received while presenting a dashboard or report?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

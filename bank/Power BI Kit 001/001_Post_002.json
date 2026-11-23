@@ -1,0 +1,80 @@
+[
+  {
+    "id": "pbi-financial-questions-01",
+    "account": "garretts_dev_desk",
+    "theme": "making_financial_dashboards_more_useful_for_decisions",
+    "series": "pbi_financial_reporting_questions",
+    "scheduled_at": "2028-05-01T09:15:00-04:00",
+    "posts": [
+      "Your financial dashboard should help you understand more than the numbers on the screen.\n\nRevenue, profitability, margins, and cash flow each reveal something about how a business is performing. Bringing them together makes it easier to see what's changing and where further investigation might help.\n\nThat's the idea behind my Financial Performance & Cash Flow Power BI Kit: https://garrettsdevdesk.etsy.com/listing/4595413257/power-bi-financial-dashboard-template-13"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-financial-questions-02",
+    "account": "garretts_dev_desk",
+    "theme": "starting_financial_reporting_with_business_questions",
+    "series": "pbi_financial_reporting_questions",
+    "scheduled_at": "2028-05-01T15:30:00-04:00",
+    "posts": [
+      "A useful financial report often begins with a question someone needs answered.\n\nAre we growing? Are margins improving? Which operating entities are contributing most to profitability? These questions give the numbers a purpose and help determine which measures belong in the report.\n\nTry writing down three questions your stakeholders regularly ask about financial performance. Does your current dashboard make those answers easy to find?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-financial-questions-03",
+    "account": "garretts_dev_desk",
+    "theme": "connecting_revenue_profitability_and_margin_trends",
+    "series": "pbi_financial_reporting_questions",
+    "scheduled_at": "2028-05-02T09:15:00-04:00",
+    "posts": [
+      "Revenue growth is encouraging, but it becomes more informative when you can see what happened to profitability along the way.\n\nGross profit, adjusted EBITDA, expenses, and margin trends help explain whether financial performance is changing alongside sales. A consolidated view makes those relationships easier to examine.\n\nMy Financial Performance & Cash Flow Power BI Kit includes a Performance Overview page: https://garrettsdevdesk.etsy.com/listing/4595413257/power-bi-financial-dashboard-template-13"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-financial-questions-04",
+    "account": "garretts_dev_desk",
+    "theme": "investigating_operating_entity_performance",
+    "series": "pbi_financial_reporting_questions",
+    "scheduled_at": "2028-05-02T15:30:00-04:00",
+    "posts": [
+      "Consolidated financial results can make a business look more uniform than it really is.\n\nDifferent operating entities may have very different revenue contributions, cost structures, and profitability. Those differences matter when you're trying to understand what's driving the overall result.\n\nTry comparing revenue and adjusted EBITDA margins across entities for the same period. Which entities are improving, and which deserve a closer look?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-financial-questions-05",
+    "account": "garretts_dev_desk",
+    "theme": "connecting_historical_financial_performance_with_cash_forecasting",
+    "series": "pbi_financial_reporting_questions",
+    "scheduled_at": "2028-05-03T09:15:00-04:00",
+    "posts": [
+      "Historical financial performance tells you where the business has been. Cash forecasting helps you prepare for what's coming.\n\nA 13-week forecast brings expected inflows, outflows, projected balances, and liquidity needs into the conversation. That forward-looking view can reveal questions worth addressing before cash becomes tight.\n\nExplore the Cash Forecast page in my Financial Performance & Cash Flow Power BI Kit: https://garrettsdevdesk.etsy.com/listing/4595413257/power-bi-financial-dashboard-template-13"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-financial-questions-06",
+    "account": "garretts_dev_desk",
+    "theme": "discussing_what_makes_a_financial_dashboard_valuable",
+    "series": "pbi_financial_reporting_questions",
+    "scheduled_at": "2028-05-03T15:30:00-04:00",
+    "posts": [
+      "A financial dashboard becomes more valuable when people can use it to explore the questions behind the results.\n\nOne person may want to understand revenue and margins, another may need to compare operating entities, and someone else may be focused on cash availability over the next quarter. Each perspective contributes to the overall financial picture.\n\nWhat's one question you wish your current financial reports made easier to answer?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

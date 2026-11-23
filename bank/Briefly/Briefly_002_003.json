@@ -1,0 +1,80 @@
+[
+  {
+    "id": "briefly-clear-blockers-01",
+    "account": "garretts_dev_desk",
+    "theme": "project_communication",
+    "series": "briefly_clear_blockers",
+    "scheduled_at": "2026-12-17T09:15:00-05:00",
+    "posts": [
+      "A project update can sound perfectly professional while hiding the one thing everyone needs to know.\n\nIf there's a blocker, give it enough attention that the reader understands what's happening and why it matters. Polishing away the problem doesn't help anyone.\n\nThat's part of what I built Briefly to support: https://briefly.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-clear-blockers-02",
+    "account": "garretts_dev_desk",
+    "theme": "business_writing",
+    "series": "briefly_clear_blockers",
+    "scheduled_at": "2026-12-17T15:30:00-05:00",
+    "posts": [
+      "\"Timeline considerations remain under review.\"\n\nI've seen this kind of language in business updates, and it always leaves me with more questions. Is something delayed? Is a decision pending? Does anyone need to act?\n\nTry replacing vague phrases with a plain explanation of what's actually happening."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-clear-blockers-03",
+    "account": "garretts_dev_desk",
+    "theme": "risk_communication",
+    "series": "briefly_clear_blockers",
+    "scheduled_at": "2026-12-18T09:15:00-05:00",
+    "posts": [
+      "Compare \"We're reviewing timeline considerations\" with \"Final security approval is pending. If it isn't completed by Friday, the launch will likely move into the following week.\"\n\nThe second version gives people something concrete to understand and respond to.\n\nMake room for that kind of clarity in your next brief: https://briefly.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-clear-blockers-04",
+    "account": "garretts_dev_desk",
+    "theme": "project_management",
+    "series": "briefly_clear_blockers",
+    "scheduled_at": "2026-12-18T15:30:00-05:00",
+    "posts": [
+      "When writing about a project blocker, I like to check four things: What's wrong? What could it affect? Who's handling it? When should we know more?\n\nYou don't need a lengthy explanation. A few specific details can make the issue much easier to understand.\n\nWhat's the most useful detail you look for when someone reports a blocker?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-clear-blockers-05",
+    "account": "garretts_dev_desk",
+    "theme": "clear_communication",
+    "series": "briefly_clear_blockers",
+    "scheduled_at": "2026-12-19T09:15:00-05:00",
+    "posts": [
+      "\"There are some concerns\" can make a project sound more uncertain than it really is.\n\nA specific explanation helps people understand the actual size of the problem. They can evaluate the impact, ask better questions, or offer help.\n\nTry giving your next risk update that level of detail.\n\nhttps://briefly.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-clear-blockers-06",
+    "account": "garretts_dev_desk",
+    "theme": "status_reporting",
+    "series": "briefly_clear_blockers",
+    "scheduled_at": "2026-12-19T15:30:00-05:00",
+    "posts": [
+      "A useful project update should reflect where things actually stand, even when the news isn't especially exciting.\n\nClear communication about risks gives people a chance to respond before a small issue becomes a bigger one. That's worth more than an update that simply looks reassuring.\n\nBuild a clearer status brief with https://briefly.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

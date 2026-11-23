@@ -1,0 +1,80 @@
+[
+  {
+    "id": "pbi-monthly-snapshots-01",
+    "account": "garretts_dev_desk",
+    "theme": "avoiding_incorrect_mrr_totals_across_monthly_snapshots",
+    "series": "pbi_subscription_monthly_snapshots",
+    "scheduled_at": "2028-04-03T09:15:00-04:00",
+    "posts": [
+      "Adding January MRR to February MRR doesn't give you current MRR.\n\nIf your subscription data contains monthly snapshots, the same subscription may appear in several months. Summing those records across time can produce a misleading recurring revenue figure.\n\nMy Subscription Health Power BI Kit uses monthly snapshots to support point-in-time metrics and historical reporting: https://garrettsdevdesk.etsy.com/listing/4595420792/power-bi-subscription-dashboard-template"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-monthly-snapshots-02",
+    "account": "garretts_dev_desk",
+    "theme": "understanding_monthly_subscription_snapshot_records",
+    "series": "pbi_subscription_monthly_snapshots",
+    "scheduled_at": "2028-04-03T15:30:00-04:00",
+    "posts": [
+      "A monthly subscription snapshot answers a simple question: What was true at that point in time?\n\nImagine a customer paying $100 per month. Their subscription might appear in January, February, March, and April, with $100 recorded each month. Those four rows describe one subscription across four periods.\n\nTry inspecting a few subscription IDs in your dataset. Do they repeat across months? Understanding that pattern is essential before building measures."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-monthly-snapshots-03",
+    "account": "garretts_dev_desk",
+    "theme": "distinguishing_snapshot_rows_from_unique_subscriptions",
+    "series": "pbi_subscription_monthly_snapshots",
+    "scheduled_at": "2028-04-04T09:15:00-04:00",
+    "posts": [
+      "Four rows in a subscription dataset don't necessarily mean four subscriptions.\n\nIf one active subscription appears in four monthly snapshots, counting rows across those months would count the same subscription repeatedly. The meaning of each record matters just as much as the values inside it.\n\nMy Subscription Health Power BI Kit provides a working example of snapshot-based subscription reporting: https://garrettsdevdesk.etsy.com/listing/4595420792/power-bi-subscription-dashboard-template"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-monthly-snapshots-04",
+    "account": "garretts_dev_desk",
+    "theme": "calculating_point_in_time_mrr_from_monthly_snapshots",
+    "series": "pbi_subscription_monthly_snapshots",
+    "scheduled_at": "2028-04-04T15:30:00-04:00",
+    "posts": [
+      "When someone asks for current MRR, make sure your calculation uses the intended reporting period.\n\nIf April is the latest complete snapshot, current MRR should reflect the recurring revenue represented in April. Adding January through April together would answer a different question and could misstate the KPI.\n\nTry checking your Power BI MRR measure with multiple months selected. Does it return the latest snapshot's value or sum across every selected month?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-monthly-snapshots-05",
+    "account": "garretts_dev_desk",
+    "theme": "using_historical_snapshots_for_subscription_trend_analysis",
+    "series": "pbi_subscription_monthly_snapshots",
+    "scheduled_at": "2028-04-05T09:15:00-04:00",
+    "posts": [
+      "Historical subscription snapshots are valuable because they let you compare how the business changes over time.\n\nWith the right calculations, you can track monthly MRR, customer growth, churn, expansion, and contraction. Each snapshot provides another point in the story rather than another amount to add to current MRR.\n\nMy Subscription Health Power BI Kit demonstrates this approach in a customizable report: https://garrettsdevdesk.etsy.com/listing/4595420792/power-bi-subscription-dashboard-template"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-monthly-snapshots-06",
+    "account": "garretts_dev_desk",
+    "theme": "understanding_data_granularity_before_building_power_bi_measures",
+    "series": "pbi_subscription_monthly_snapshots",
+    "scheduled_at": "2028-04-05T15:30:00-04:00",
+    "posts": [
+      "One of the most useful questions to ask before building a Power BI measure is: What does one row represent?\n\nA transaction, a customer, a subscription, and a monthly snapshot all have different meanings. If you misunderstand the grain of your data, even a perfectly valid DAX formula can produce a misleading result.\n\nWhat's a reporting mistake you've encountered that turned out to be a misunderstanding of the underlying data?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

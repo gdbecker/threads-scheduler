@@ -1,0 +1,80 @@
+[
+  {
+    "id": "budget-snapshot-meeting-focus-01",
+    "account": "garretts_dev_desk",
+    "theme": "hoa_budget_meetings",
+    "series": "budget_snapshot_meeting_focus",
+    "scheduled_at": "2027-02-11T09:15:00-05:00",
+    "posts": [
+      "Your HOA budget spreadsheet shouldn't run the entire budget meeting.\n\nThe spreadsheet is useful for tracking and reviewing the financial details. The presentation has a different job: helping homeowners understand the big picture, important changes, and decisions that matter.\n\nI built Budget Snapshot to help make those conversations clearer: https://budgetsnapshot.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "budget-snapshot-meeting-focus-02",
+    "account": "garretts_dev_desk",
+    "theme": "financial_presentations",
+    "series": "budget_snapshot_meeting_focus",
+    "scheduled_at": "2027-02-11T15:30:00-05:00",
+    "posts": [
+      "A budget spreadsheet and a budget presentation don't need to contain the same information in the same order.\n\nOne supports detailed financial review. The other helps people understand what those numbers mean and where their attention belongs.\n\nBefore your next HOA budget meeting, try building a short summary around the questions homeowners are most likely to ask."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "budget-snapshot-meeting-focus-03",
+    "account": "garretts_dev_desk",
+    "theme": "budget_analysis",
+    "series": "budget_snapshot_meeting_focus",
+    "scheduled_at": "2027-02-12T09:15:00-05:00",
+    "posts": [
+      "A $500 change and a $20,000 change both belong in an HOA budget, but they probably don't deserve equal time during the meeting.\n\nFocus the discussion on expenses and changes that meaningfully affect the community's financial picture. Keep the smaller details available for questions and review.\n\nExplore Budget Snapshot: https://budgetsnapshot.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "budget-snapshot-meeting-focus-04",
+    "account": "garretts_dev_desk",
+    "theme": "budget_communication",
+    "series": "budget_snapshot_meeting_focus",
+    "scheduled_at": "2027-02-12T15:30:00-05:00",
+    "posts": [
+      "Before presenting an HOA budget, make sure you can answer four questions clearly.\n\nWhat's coming in? What's going out? What's happening with reserves? What changed enough to matter?\n\nThose answers give homeowners a useful starting point. Once everyone understands the overall picture, the detailed numbers become much easier to discuss."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "budget-snapshot-meeting-focus-05",
+    "account": "garretts_dev_desk",
+    "theme": "financial_transparency",
+    "series": "budget_snapshot_meeting_focus",
+    "scheduled_at": "2027-02-13T09:15:00-05:00",
+    "posts": [
+      "You can make every number in an HOA budget available without putting every number on the presentation screen.\n\nKeep the complete budget accessible for transparency. Use the meeting presentation to explain major expenses, important changes, reserves, and financial priorities.\n\nBudget Snapshot helps organize that bigger picture: https://budgetsnapshot.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "budget-snapshot-meeting-focus-06",
+    "account": "garretts_dev_desk",
+    "theme": "community_financial_communication",
+    "series": "budget_snapshot_meeting_focus",
+    "scheduled_at": "2027-02-13T15:30:00-05:00",
+    "posts": [
+      "An HOA budget meeting should help people understand the community's financial direction.\n\nStart with the big picture, explain the changes that matter, and bring in detailed numbers when they help answer a question. The spreadsheet can support the conversation without becoming the entire conversation.\n\nWhat's the most frustrating thing you've experienced during a financial presentation?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

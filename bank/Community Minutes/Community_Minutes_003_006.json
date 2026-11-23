@@ -1,0 +1,80 @@
+[
+  {
+    "id": "community-minutes-shared-facts-01",
+    "account": "garretts_dev_desk",
+    "theme": "consistent_meeting_communication",
+    "series": "community_minutes_shared_facts",
+    "scheduled_at": "2027-05-24T09:15:00-04:00",
+    "posts": [
+      "One meeting can produce two useful documents without producing two different stories.\n\nFormal minutes preserve what the organization did. A community summary helps residents or members understand the important developments. Both should come from the same underlying facts.\n\nCommunity Minutes helps you prepare both in one workflow: https://communityminutes.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "community-minutes-shared-facts-02",
+    "account": "garretts_dev_desk",
+    "theme": "audience_focused_meeting_documents",
+    "series": "community_minutes_shared_facts",
+    "scheduled_at": "2027-05-24T15:30:00-04:00",
+    "posts": [
+      "Different readers can need different views of the same meeting.\n\nA board member might need the precise wording of a motion, the vote result, and the approved amount. A resident might simply want to know what work is planned and when it could affect them.\n\nAdjusting the level of detail can make communication more useful without changing the underlying facts."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "community-minutes-shared-facts-03",
+    "account": "garretts_dev_desk",
+    "theme": "accurate_community_wording",
+    "series": "community_minutes_shared_facts",
+    "scheduled_at": "2027-05-25T09:15:00-04:00",
+    "posts": [
+      "\"We're evaluating options\" and \"It's coming soon\" can leave readers with very different expectations.\n\nThe second statement may sound more reassuring, but it implies progress or certainty the meeting may not have established. Simpler language should preserve the actual status of the issue.\n\nCommunity Minutes gives you an editable summary to review before sharing: https://communityminutes.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "community-minutes-shared-facts-04",
+    "account": "garretts_dev_desk",
+    "theme": "preserving_meeting_facts",
+    "series": "community_minutes_shared_facts",
+    "scheduled_at": "2027-05-25T15:30:00-04:00",
+    "posts": [
+      "When turning formal meeting minutes into a community update, keep the facts fixed even as the wording changes.\n\nIf a date is tentative, it should remain tentative. If a decision was deferred, the summary shouldn't imply approval. These distinctions help people understand where things actually stand.\n\nA useful final review is to compare every major claim in the summary against the meeting record."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "community-minutes-shared-facts-05",
+    "account": "garretts_dev_desk",
+    "theme": "meeting_document_workflow",
+    "series": "community_minutes_shared_facts",
+    "scheduled_at": "2027-05-26T09:15:00-04:00",
+    "posts": [
+      "A shared set of meeting facts makes it easier to prepare documents for different audiences.\n\nOrganize the motions, decisions, follow-ups, and unresolved issues first. Then use that record to prepare a community-facing explanation when one is needed. Comparing the two can help catch changes in meaning.\n\nTry this workflow with Community Minutes: https://communityminutes.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "community-minutes-shared-facts-06",
+    "account": "garretts_dev_desk",
+    "theme": "meeting_information_consistency",
+    "series": "community_minutes_shared_facts",
+    "scheduled_at": "2027-05-26T15:30:00-04:00",
+    "posts": [
+      "Different readers can receive different meeting documents without receiving different versions of what happened.\n\nThe minutes preserve the organization's actions. A summary explains the developments in more accessible language. Both should remain grounded in the same decisions and uncertainties.\n\nIf your organization shares both, how do you make sure the community update stays consistent with the official minutes?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

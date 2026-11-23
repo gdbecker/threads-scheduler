@@ -1,0 +1,80 @@
+[
+  {
+    "id": "budget-snapshot-human-priorities-01",
+    "account": "garretts_dev_desk",
+    "theme": "hoa_budget_priorities",
+    "series": "budget_snapshot_human_priorities",
+    "scheduled_at": "2027-02-22T09:15:00-05:00",
+    "posts": [
+      "An HOA budget is a set of priorities, not just a collection of numbers.\n\nBehind the expenses, dues, and reserve contributions are decisions made by people about what the community needs now and what it should prepare for later.\n\nThose choices deserve to be explained alongside the financial details.\n\nThat's part of why I built Budget Snapshot: https://budgetsnapshot.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "budget-snapshot-human-priorities-02",
+    "account": "garretts_dev_desk",
+    "theme": "community_financial_decisions",
+    "series": "budget_snapshot_human_priorities",
+    "scheduled_at": "2027-02-22T15:30:00-05:00",
+    "posts": [
+      "A finished HOA budget can make financial decisions look almost automatic.\n\nBut someone had to decide whether to increase reserve contributions, complete a maintenance project, preserve a service, or absorb higher operating costs.\n\nWhen presenting a budget, try explaining the reasoning behind a few major decisions. Homeowners may understand the final numbers better when they can see how the choices were made."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "budget-snapshot-human-priorities-03",
+    "account": "garretts_dev_desk",
+    "theme": "financial_communication",
+    "series": "budget_snapshot_human_priorities",
+    "scheduled_at": "2027-02-23T09:15:00-05:00",
+    "posts": [
+      "A budget summary becomes more useful when people understand what the plan is trying to accomplish.\n\nFor example, \"Strengthen reserves while keeping routine services stable\" gives homeowners a clear direction for interpreting the numbers that follow.\n\nTry leading your next HOA budget presentation with two or three priorities.\n\nExplore Budget Snapshot: https://budgetsnapshot.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "budget-snapshot-human-priorities-04",
+    "account": "garretts_dev_desk",
+    "theme": "budget_tradeoffs",
+    "series": "budget_snapshot_human_priorities",
+    "scheduled_at": "2027-02-23T15:30:00-05:00",
+    "posts": [
+      "There isn't always a painless option hiding somewhere in an HOA budget spreadsheet.\n\nA needed repair may compete with reserve funding. Keeping dues stable might require postponing an improvement. Maintaining services can become more expensive.\n\nThese tradeoffs are worth explaining openly. They help homeowners understand the constraints behind the financial plan."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "budget-snapshot-human-priorities-05",
+    "account": "garretts_dev_desk",
+    "theme": "homeowner_engagement",
+    "series": "budget_snapshot_human_priorities",
+    "scheduled_at": "2027-02-24T09:15:00-05:00",
+    "posts": [
+      "Two homeowners can understand the same HOA budget and still disagree about its priorities.\n\nOne might favor stronger reserves while another wants more immediate improvements. Clear financial communication helps everyone discuss the actual choices and tradeoffs involved.\n\nBudget Snapshot was built to support clearer community financial discussions: https://budgetsnapshot.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "budget-snapshot-human-priorities-06",
+    "account": "garretts_dev_desk",
+    "theme": "community_budget_planning",
+    "series": "budget_snapshot_human_priorities",
+    "scheduled_at": "2027-02-24T15:30:00-05:00",
+    "posts": [
+      "An HOA budget communicates what needs attention now, what can wait, and what the community is preparing for in the future.\n\nMaking those priorities visible can help a budget meeting move beyond reviewing expenses toward discussing what the association is trying to accomplish.\n\nIf you were reviewing your community's budget, which would you want explained first: the spending changes or the priorities behind them?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

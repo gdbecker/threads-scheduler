@@ -1,0 +1,80 @@
+[
+  {
+    "id": "pbi-growth-confidence-01",
+    "account": "garretts_dev_desk",
+    "theme": "finding_confidence_in_understanding_subscription_growth",
+    "series": "pbi_subscription_growth_confidence",
+    "scheduled_at": "2028-04-06T09:15:00-04:00",
+    "posts": [
+      "Growth feels different when you understand where it's coming from.\n\nMRR increased. Customer count went up. Those are encouraging results, but you may still wonder what's happening underneath them. Understanding the sources of growth can make those numbers much more meaningful.\n\nI built my Subscription Health Power BI Kit to help bring that context together: https://garrettsdevdesk.etsy.com/listing/4595420792/power-bi-subscription-dashboard-template"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-growth-confidence-02",
+    "account": "garretts_dev_desk",
+    "theme": "looking_beyond_positive_mrr_headlines",
+    "series": "pbi_subscription_growth_confidence",
+    "scheduled_at": "2028-04-06T15:30:00-04:00",
+    "posts": [
+      "Hearing that MRR increased is reassuring, especially after a demanding month of running a subscription business.\n\nBut the total leaves important questions unanswered. How much came from new customers? Did existing customers expand? Were cancellations or downgrades offsetting some of that progress?\n\nTry adding a short explanation of MRR movement to your next monthly report. A few sentences about the drivers can make the headline much more useful."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-growth-confidence-03",
+    "account": "garretts_dev_desk",
+    "theme": "recognizing_different_patterns_behind_positive_growth",
+    "series": "pbi_subscription_growth_confidence",
+    "scheduled_at": "2028-04-07T09:15:00-04:00",
+    "posts": [
+      "Two months of positive MRR growth can leave you feeling very differently about the business.\n\nOne month might bring steady customer acquisition and low churn. Another might show strong revenue growth alongside rising cancellations. Both deserve recognition, but they also deserve different questions.\n\nMy Subscription Health Power BI Kit helps explore those differences: https://garrettsdevdesk.etsy.com/listing/4595420792/power-bi-subscription-dashboard-template"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-growth-confidence-04",
+    "account": "garretts_dev_desk",
+    "theme": "building_confidence_through_better_subscription_questions",
+    "series": "pbi_subscription_growth_confidence",
+    "scheduled_at": "2028-04-07T15:30:00-04:00",
+    "posts": [
+      "You can be pleased with subscription growth and still want to understand it more deeply.\n\nWhich plans are attracting customers? Where is churn increasing? Are existing accounts upgrading? Is average revenue per customer changing? Each question adds context to the overall result.\n\nTry choosing three questions to answer alongside your monthly MRR update. You'll have a more useful conversation than simply reviewing whether the number went up or down."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-growth-confidence-05",
+    "account": "garretts_dev_desk",
+    "theme": "bringing_subscription_performance_metrics_into_one_view",
+    "series": "pbi_subscription_growth_confidence",
+    "scheduled_at": "2028-04-08T09:15:00-04:00",
+    "posts": [
+      "There's something reassuring about being able to explain the numbers you're responsible for reporting.\n\nWhen MRR, customer growth, churn, ARPU, plan mix, and revenue movement are available together, it's easier to investigate what's driving the results and where attention may be needed.\n\nThat's the thinking behind my customizable Subscription Health Power BI Kit: https://garrettsdevdesk.etsy.com/listing/4595420792/power-bi-subscription-dashboard-template"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-growth-confidence-06",
+    "account": "garretts_dev_desk",
+    "theme": "understanding_the_emotional_value_of_clear_business_reporting",
+    "series": "pbi_subscription_growth_confidence",
+    "scheduled_at": "2028-04-08T15:30:00-04:00",
+    "posts": [
+      "Good reporting can give you a different kind of confidence when reviewing business performance.\n\nYou can explain why revenue changed, understand where customers are being gained or lost, and ask more informed questions about what comes next. It doesn't remove uncertainty, but it gives you a clearer foundation for decisions.\n\nFor anyone responsible for business reporting, which number do you find yourself wanting more context around, even when the headline result looks positive?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

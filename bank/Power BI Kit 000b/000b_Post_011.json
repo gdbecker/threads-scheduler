@@ -1,0 +1,80 @@
+[
+  {
+    "id": "pbi-customer-relationships-01",
+    "account": "garretts_dev_desk",
+    "theme": "recognizing_the_customer_relationships_behind_recurring_revenue",
+    "series": "pbi_subscription_customer_relationships",
+    "scheduled_at": "2028-04-20T09:15:00-04:00",
+    "posts": [
+      "There's something meaningful about revenue that customers choose to keep paying month after month.\n\nBehind recurring revenue are people and businesses continuing to find value in a product. Understanding who stays, who leaves, and how those relationships change gives MRR more context.\n\nMy Subscription Health Power BI Kit helps bring that customer story into view: https://garrettsdevdesk.etsy.com/listing/4595420792/power-bi-subscription-dashboard-template"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-customer-relationships-02",
+    "account": "garretts_dev_desk",
+    "theme": "understanding_the_customer_activity_behind_mrr",
+    "series": "pbi_subscription_customer_relationships",
+    "scheduled_at": "2028-04-20T15:30:00-04:00",
+    "posts": [
+      "MRR is built from many different customer situations happening at once.\n\nSome subscribers are joining for the first time. Others have stayed for years, upgraded their plans, reduced their subscriptions, or decided to leave. Each group contributes to the overall revenue picture.\n\nTry breaking your monthly customer base into new, continuing, expanding, contracting, and churned subscriptions. What does that reveal beyond the headline MRR total?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-customer-relationships-03",
+    "account": "garretts_dev_desk",
+    "theme": "giving_customer_retention_the_attention_it_deserves",
+    "series": "pbi_subscription_customer_relationships",
+    "scheduled_at": "2028-04-21T09:15:00-04:00",
+    "posts": [
+      "Winning a new subscription customer is worth celebrating. So is keeping one.\n\nCustomer acquisition often gets the attention because it's easy to see the number growing. Retention deserves a place in the conversation too, especially when existing customers contribute recurring revenue month after month.\n\nMy Subscription Health Power BI Kit connects customer growth, churn, and MRR: https://garrettsdevdesk.etsy.com/listing/4595420792/power-bi-subscription-dashboard-template"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-customer-relationships-04",
+    "account": "garretts_dev_desk",
+    "theme": "using_subscription_metrics_to_understand_customer_behavior",
+    "series": "pbi_subscription_customer_relationships",
+    "scheduled_at": "2028-04-21T15:30:00-04:00",
+    "posts": [
+      "A change in recurring revenue often reflects something happening within the customer base.\n\nUpgrades can signal growing usage or changing needs. Downgrades and cancellations may point toward different circumstances worth investigating. The numbers help identify patterns, even when they can't explain every customer's reasons.\n\nTry reviewing churn, expansion, and contraction by customer segment. Where are the biggest changes happening?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-customer-relationships-05",
+    "account": "garretts_dev_desk",
+    "theme": "connecting_subscription_revenue_with_customer_retention_and_growth",
+    "series": "pbi_subscription_customer_relationships",
+    "scheduled_at": "2028-04-22T09:15:00-04:00",
+    "posts": [
+      "When I think about subscription reporting, I think about the customers behind the recurring revenue.\n\nMRR tells you how much revenue exists, while churn, customer growth, ARPU, and plan mix help explain how the customer base is changing. Together, they offer a more useful view of subscription performance.\n\nThat's the thinking behind my Subscription Health Power BI Kit: https://garrettsdevdesk.etsy.com/listing/4595420792/power-bi-subscription-dashboard-template"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-customer-relationships-06",
+    "account": "garretts_dev_desk",
+    "theme": "discussing_the_value_of_customer_retention_in_subscription_businesses",
+    "series": "pbi_subscription_customer_relationships",
+    "scheduled_at": "2028-04-22T15:30:00-04:00",
+    "posts": [
+      "Recurring revenue represents an ongoing relationship between a business and its customers.\n\nEvery month, customers continue, upgrade, downgrade, or leave. Looking at those movements helps you understand more than the total revenue figure. It gives you a clearer picture of how the customer base is evolving.\n\nFor people working with subscription businesses, do you think customer retention receives enough attention compared with new customer acquisition?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

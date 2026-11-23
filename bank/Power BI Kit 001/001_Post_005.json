@@ -1,0 +1,80 @@
+[
+  {
+    "id": "pbi-ttm-reporting-01",
+    "account": "garretts_dev_desk",
+    "theme": "understanding_why_one_strong_month_does_not_define_financial_performance",
+    "series": "pbi_financial_ttm_reporting",
+    "scheduled_at": "2028-05-11T09:15:00-04:00",
+    "posts": [
+      "One strong month doesn't necessarily mean a business's financial performance is improving.\n\nRevenue might jump because of timing, seasonality, or an unusual event. Looking at a longer period helps put that result into context and makes underlying trends easier to recognize.\n\nMy Financial Performance & Cash Flow Power BI Kit includes trailing-twelve-month reporting to support that broader view: https://garrettsdevdesk.etsy.com/listing/4595413257/power-bi-financial-dashboard-template-13"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-ttm-reporting-02",
+    "account": "garretts_dev_desk",
+    "theme": "putting_monthly_financial_fluctuations_into_context",
+    "series": "pbi_financial_ttm_reporting",
+    "scheduled_at": "2028-05-11T15:30:00-04:00",
+    "posts": [
+      "A single month's financial results can look unusually strong or weak for reasons that have little to do with the underlying trend.\n\nSeasonality, payment timing, and one-time expenses can all affect what you see. A longer reporting window helps you understand whether the change is temporary or part of something more sustained.\n\nTry comparing your latest month's revenue and profitability with the previous twelve months. Does the broader picture change your interpretation?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-ttm-reporting-03",
+    "account": "garretts_dev_desk",
+    "theme": "using_trailing_twelve_month_reporting_for_financial_analysis",
+    "series": "pbi_financial_ttm_reporting",
+    "scheduled_at": "2028-05-12T09:15:00-04:00",
+    "posts": [
+      "Trailing-twelve-month reporting gives financial performance a useful rolling perspective.\n\nInstead of relying on one reporting period, you examine results across the most recent twelve months. Tracking TTM revenue, adjusted EBITDA, and margins helps reveal how performance is developing over time.\n\nMy Financial Performance & Cash Flow Power BI Kit includes these trends in its Performance Overview: https://garrettsdevdesk.etsy.com/listing/4595413257/power-bi-financial-dashboard-template-13"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-ttm-reporting-04",
+    "account": "garretts_dev_desk",
+    "theme": "evaluating_sustained_financial_improvement_using_ttm_trends",
+    "series": "pbi_financial_ttm_reporting",
+    "scheduled_at": "2028-05-12T15:30:00-04:00",
+    "posts": [
+      "When financial performance improves for one month, it's worth asking whether the improvement is likely to last.\n\nTTM revenue and adjusted EBITDA trends can help show whether the business is making sustained progress. Margin trends add another perspective by showing how profitability is changing relative to revenue.\n\nTry comparing your current TTM results with the TTM figures from six months ago. Are revenue and profitability moving in the same direction?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-ttm-reporting-05",
+    "account": "garretts_dev_desk",
+    "theme": "connecting_consolidated_financial_trends_with_entity_performance",
+    "series": "pbi_financial_ttm_reporting",
+    "scheduled_at": "2028-05-13T09:15:00-04:00",
+    "posts": [
+      "A consolidated financial trend can look steady even when individual operating entities are moving in different directions.\n\nOne entity might be improving its margins while another faces rising expenses. Comparing entity performance alongside TTM results helps explain what's happening beneath the overall numbers.\n\nMy Financial Performance & Cash Flow Power BI Kit brings those views together: https://garrettsdevdesk.etsy.com/listing/4595413257/power-bi-financial-dashboard-template-13"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-ttm-reporting-06",
+    "account": "garretts_dev_desk",
+    "theme": "discussing_the_value_of_long_term_financial_reporting",
+    "series": "pbi_financial_ttm_reporting",
+    "scheduled_at": "2028-05-13T15:30:00-04:00",
+    "posts": [
+      "Financial reporting can feel very different when you stop focusing exclusively on the latest month.\n\nA longer view helps you recognize patterns, understand temporary fluctuations, and evaluate whether the business is making sustained progress. It also gives stakeholders more context when discussing results.\n\nFor anyone working with financial reports, do you prefer monthly comparisons, trailing-twelve-month trends, or a combination of both?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

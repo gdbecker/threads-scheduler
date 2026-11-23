@@ -1,0 +1,80 @@
+[
+  {
+    "id": "community-minutes-action-followthrough-01",
+    "account": "garretts_dev_desk",
+    "theme": "meeting_action_item_tracking",
+    "series": "community_minutes_action_followthrough",
+    "scheduled_at": "2027-04-22T09:15:00-04:00",
+    "posts": [
+      "Sometimes the smallest sentence in a meeting matters most a month later.\n\n\"I can call the contractor tomorrow\" takes five seconds to say, but that commitment can be surprisingly easy to lose once everyone leaves the room.\n\nI built Community Minutes to help volunteer boards and committees keep those important follow-ups organized: https://communityminutes.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "community-minutes-action-followthrough-02",
+    "account": "garretts_dev_desk",
+    "theme": "meeting_decisions_and_followup",
+    "series": "community_minutes_action_followthrough",
+    "scheduled_at": "2027-04-22T15:30:00-04:00",
+    "posts": [
+      "A decision records what a board or committee agreed to. An action item helps move that decision forward.\n\nFor example, the group might decide to gather more information before approving a project. Someone then needs to contact vendors, collect estimates, or prepare a recommendation.\n\nRecording that assignment creates a useful connection between today's discussion and the next meeting."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "community-minutes-action-followthrough-03",
+    "account": "garretts_dev_desk",
+    "theme": "action_item_best_practices",
+    "series": "community_minutes_action_followthrough",
+    "scheduled_at": "2027-04-23T09:15:00-04:00",
+    "posts": [
+      "A useful meeting action item usually answers three questions: What needs to happen? Who is responsible? When is it expected?\n\nThat simple structure helps prevent assignments from becoming vague reminders nobody knows how to act on.\n\nTry organizing your next meeting's follow-ups with Community Minutes: https://communityminutes.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "community-minutes-action-followthrough-04",
+    "account": "garretts_dev_desk",
+    "theme": "clear_action_item_wording",
+    "series": "community_minutes_action_followthrough",
+    "scheduled_at": "2027-04-23T15:30:00-04:00",
+    "posts": [
+      "\"Follow up with contractor\" might make sense immediately after a meeting, but it leaves plenty of questions for someone reading the minutes later.\n\n\"Maria will request an updated estimate before the October meeting\" identifies the responsibility, the expected result, and the timing.\n\nA few additional words can make an action item much easier to understand and complete."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "community-minutes-action-followthrough-05",
+    "account": "garretts_dev_desk",
+    "theme": "deferred_meeting_items",
+    "series": "community_minutes_action_followthrough",
+    "scheduled_at": "2027-04-24T09:15:00-04:00",
+    "posts": [
+      "An unresolved meeting issue shouldn't become a forgotten one.\n\nIf a board postpones a decision until another inspection or estimate is available, record what's missing and who agreed to obtain it. That gives the group a clear starting point when the issue returns.\n\nCommunity Minutes helps keep deferred items and follow-up responsibilities visible: https://communityminutes.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "community-minutes-action-followthrough-06",
+    "account": "garretts_dev_desk",
+    "theme": "meeting_followup_organization",
+    "series": "community_minutes_action_followthrough",
+    "scheduled_at": "2027-04-24T15:30:00-04:00",
+    "posts": [
+      "Important meeting follow-up shouldn't become a scavenger hunt through old notes and email threads.\n\nGiving action items a clear place in the minutes helps everyone see what was assigned, who owns it, and what needs to happen before the next meeting.\n\nFor those who serve on boards or committees, how does your group keep track of action items between meetings?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

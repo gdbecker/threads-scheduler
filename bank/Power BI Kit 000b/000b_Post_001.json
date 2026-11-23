@@ -1,0 +1,54 @@
+[
+  {
+    "id": "pbi-subscription-health-03",
+    "account": "garretts_dev_desk",
+    "theme": "explaining_mrr_changes_with_revenue_movements",
+    "series": "pbi_subscription_health_foundations",
+    "scheduled_at": "2028-03-17T09:15:00-04:00",
+    "posts": [
+      "Your MRR increased this month. Where did that growth actually come from?\n\nNew subscriptions and expansions add recurring revenue. Contractions and churn reduce it. Looking at those movements separately helps explain whether growth is coming from acquisition, existing customers, or a combination of both.\n\nMy Subscription Health Power BI Kit includes MRR movement reporting: https://garrettsdevdesk.etsy.com/listing/4595420792/power-bi-subscription-dashboard-template"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-subscription-health-04",
+    "account": "garretts_dev_desk",
+    "theme": "connecting_recurring_revenue_with_customer_growth",
+    "series": "pbi_subscription_health_foundations",
+    "scheduled_at": "2028-03-17T15:30:00-04:00",
+    "posts": [
+      "Growing recurring revenue and growing your customer base aren't always the same thing.\n\nMRR might increase because existing customers upgrade, even while the total number of customers declines. That could be worth investigating, especially if churn is also rising.\n\nTry placing MRR, active customers, new customers, and churn side by side for the same period. What does the combination reveal that revenue alone would have missed?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-subscription-health-05",
+    "account": "garretts_dev_desk",
+    "theme": "identifying_subscription_churn_risks_by_segment",
+    "series": "pbi_subscription_health_foundations",
+    "scheduled_at": "2028-03-18T09:15:00-04:00",
+    "posts": [
+      "An overall churn rate can look manageable while one customer segment is struggling.\n\nA subscription business might be retaining enterprise customers well while losing smaller accounts at a faster rate. Looking at churn by segment or plan can reveal differences hidden by the company-wide average.\n\nMy Subscription Health Power BI Kit helps explore subscription performance across segments: https://garrettsdevdesk.etsy.com/listing/4595420792/power-bi-subscription-dashboard-template"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-subscription-health-06",
+    "account": "garretts_dev_desk",
+    "theme": "evaluating_subscription_business_health_beyond_revenue",
+    "series": "pbi_subscription_health_foundations",
+    "scheduled_at": "2028-03-18T15:30:00-04:00",
+    "posts": [
+      "Subscription health becomes clearer when you examine several measures together.\n\nMRR shows the recurring revenue base. Customer growth shows how the subscriber population is changing. Churn, contraction, and expansion help explain what is happening underneath those totals.\n\nIf you were reviewing a subscription business, which metric would you want to examine immediately after seeing its MRR growth?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

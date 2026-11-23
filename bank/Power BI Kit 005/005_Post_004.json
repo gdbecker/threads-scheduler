@@ -1,0 +1,80 @@
+[
+  {
+    "id": "pbi-bd-concentration-01",
+    "account": "garretts_dev_desk",
+    "theme": "recognizing_concentration_risks_in_business_development_pipelines",
+    "series": "pbi_business_development_pipeline_concentration",
+    "scheduled_at": "2028-10-23T09:15:00-04:00",
+    "posts": [
+      "Your business development pipeline might be growing in all the wrong places.\n\nA rising total can look encouraging, but what happens when most of that value comes from one service line or a handful of client relationships? Concentration deserves attention alongside growth.\n\nMy Business Development Performance Power BI Kit helps you examine the opportunities behind the totals: https://garrettsdevdesk.etsy.com/listing/4595453904/power-bi-business-development-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-bd-concentration-02",
+    "account": "garretts_dev_desk",
+    "theme": "measuring_pipeline_concentration_by_service_line_and_client",
+    "series": "pbi_business_development_pipeline_concentration",
+    "scheduled_at": "2028-10-23T15:30:00-04:00",
+    "posts": [
+      "A growing pipeline can hide how dependent your team is on a few sources of potential business.\n\nOne service line, market, or client relationship might account for a large share of total opportunity value. That concentration can matter when priorities shift or major opportunities fall through.\n\nTry calculating what percentage of your pipeline comes from its three largest segments. Compare those shares with the previous reporting period."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-bd-concentration-03",
+    "account": "garretts_dev_desk",
+    "theme": "segmenting_pipeline_by_market_service_line_and_opportunity_lead",
+    "series": "pbi_business_development_pipeline_concentration",
+    "scheduled_at": "2028-10-24T09:15:00-04:00",
+    "posts": [
+      "The way you break down your pipeline can change what you learn from it.\n\nLooking at opportunity value by market, service line, specialty group, or opportunity lead can reveal concentrations that disappear in an overall total. Each perspective helps answer a different business development question.\n\nMy Business Development Performance Power BI Kit includes pipeline mix and opportunity analysis: https://garrettsdevdesk.etsy.com/listing/4595453904/power-bi-business-development-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-bd-concentration-04",
+    "account": "garretts_dev_desk",
+    "theme": "comparing_opportunity_quality_across_pipeline_segments",
+    "series": "pbi_business_development_pipeline_concentration",
+    "scheduled_at": "2028-10-24T15:30:00-04:00",
+    "posts": [
+      "The largest segment of your pipeline isn't automatically the strongest.\n\nA service line with substantial opportunity value may have lower estimated win probabilities than a smaller segment. Client relationships and opportunity size can add further context to the comparison.\n\nTry comparing your top three pipeline segments by total value, weighted value, and average opportunity size. Notice whether the rankings change."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-bd-concentration-05",
+    "account": "garretts_dev_desk",
+    "theme": "using_pipeline_segmentation_to_identify_business_development_questions",
+    "series": "pbi_business_development_pipeline_concentration",
+    "scheduled_at": "2028-10-25T09:15:00-04:00",
+    "posts": [
+      "Better pipeline segmentation can lead to more useful business development conversations.\n\nWhere is opportunity value concentrated? Which service lines have stronger win probabilities? What do client relationships reveal about potential growth? These questions help teams investigate the story behind their totals.\n\nExplore those perspectives with my Business Development Performance Power BI Kit: https://garrettsdevdesk.etsy.com/listing/4595453904/power-bi-business-development-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-bd-concentration-06",
+    "account": "garretts_dev_desk",
+    "theme": "discussing_pipeline_concentration_and_business_development_growth",
+    "series": "pbi_business_development_pipeline_concentration",
+    "scheduled_at": "2028-10-25T15:30:00-04:00",
+    "posts": [
+      "Pipeline growth can feel reassuring until you discover how much depends on a small number of opportunities or client relationships.\n\nBreaking down pipeline value by service line, market, and relationship type can reveal both concentration concerns and areas worth exploring. Those patterns may be difficult to see in a single headline KPI.\n\nFor business development managers, which pipeline breakdown has revealed the most useful insight about your growth opportunities?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

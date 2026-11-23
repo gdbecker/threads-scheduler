@@ -1,0 +1,80 @@
+[
+  {
+    "id": "briefly-activity-progress-01",
+    "account": "garretts_dev_desk",
+    "theme": "project_communication",
+    "series": "briefly_activity_progress",
+    "scheduled_at": "2026-12-14T09:15:00-05:00",
+    "posts": [
+      "A team can have a very busy week without making much visible progress. And sometimes one important decision moves a project forward more than a dozen meetings.\n\nA useful status update should help people see what actually changed.\n\nThat's part of why I built Briefly: https://briefly.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-activity-progress-02",
+    "account": "garretts_dev_desk",
+    "theme": "status_reporting",
+    "series": "briefly_activity_progress",
+    "scheduled_at": "2026-12-14T15:30:00-05:00",
+    "posts": [
+      "\"Met with the team.\" \"Reviewed the plan.\" \"Discussed next steps.\"\n\nThese phrases show that work happened, but they don't tell the reader what came out of it.\n\nTry adding one sentence about the result of each activity. What changed, what was decided, or what can happen now?\n\nWhich phrase do you see most often in status updates?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-activity-progress-03",
+    "account": "garretts_dev_desk",
+    "theme": "measuring_progress",
+    "series": "briefly_activity_progress",
+    "scheduled_at": "2026-12-15T09:15:00-05:00",
+    "posts": [
+      "\"We completed three testing sessions this week.\"\n\nOkay, but how did testing go?\n\n\"18 of 20 test cases are now passing, with two remaining issues under review.\"\n\nThat gives the reader a much clearer picture of progress and what still needs attention.\n\nBuild clearer updates with Briefly: https://briefly.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-activity-progress-04",
+    "account": "garretts_dev_desk",
+    "theme": "business_writing",
+    "series": "briefly_activity_progress",
+    "scheduled_at": "2026-12-15T15:30:00-05:00",
+    "posts": [
+      "A small writing habit that can improve project updates: put the outcome before the activity.\n\nInstead of explaining every meeting that led to a decision, start with the decision itself. Add the background only when it helps someone understand the result.\n\nTry this with one paragraph from your next status report."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-activity-progress-05",
+    "account": "garretts_dev_desk",
+    "theme": "workplace_productivity",
+    "series": "briefly_activity_progress",
+    "scheduled_at": "2026-12-16T09:15:00-05:00",
+    "posts": [
+      "Leaving a task out of a project update doesn't mean the work was unimportant.\n\nYour team still did the work. Your notes can still preserve the details. The finished update just needs to help the reader understand the project's current position.\n\nThat's the kind of focused communication Briefly supports: https://briefly.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-activity-progress-06",
+    "account": "garretts_dev_desk",
+    "theme": "clear_communication",
+    "series": "briefly_activity_progress",
+    "scheduled_at": "2026-12-16T15:30:00-05:00",
+    "posts": [
+      "Before sending your next project update, try four questions:\n\nWhere are we now? What changed? What needs attention? What happens next?\n\nIf your update answers those clearly, you've given the reader something useful beyond a list of completed activities.\n\nTry organizing your next brief with https://briefly.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

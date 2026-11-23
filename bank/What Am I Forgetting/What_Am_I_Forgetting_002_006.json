@@ -1,0 +1,80 @@
+[
+  {
+    "id": "waf-final-review-01",
+    "account": "garretts_dev_desk",
+    "theme": "using_checklists_to_finish_preparing",
+    "series": "waf_final_review",
+    "scheduled_at": "2028-01-10T09:15:00-05:00",
+    "posts": [
+      "A checklist should eventually give you permission to move on.\n\nThe goal is to handle what matters, review the loose ends, and stop carrying the whole situation around in your head. Preparation is useful because it helps you get ready for something beyond the checklist itself.\n\nThat's the kind of thoughtful second review I wanted to make easier with What Am I Forgetting?: https://whatamiforgetting.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-final-review-02",
+    "account": "garretts_dev_desk",
+    "theme": "asking_one_final_question_after_checking_everything",
+    "series": "waf_final_review",
+    "scheduled_at": "2028-01-10T15:30:00-05:00",
+    "posts": [
+      "Every box is checked. Before you close the list, ask one more question.\n\nWhat could still be true even though everything on my checklist is finished? Maybe a document needs sending, someone needs an update, or an item you prepared is still sitting at home.\n\nTry making that question your final review instead of rereading the entire list. It gives overlooked details one more chance to surface without starting your preparation over."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-final-review-03",
+    "account": "garretts_dev_desk",
+    "theme": "catching_unfinished_handoffs_after_completed_tasks",
+    "series": "waf_final_review",
+    "scheduled_at": "2028-01-11T09:15:00-05:00",
+    "posts": [
+      "The report is finished. The lunch is prepared. The meeting is planned.\n\nEverything sounds complete until you realize the report hasn't been sent, the lunch is still refrigerated, and nobody confirmed the meeting location. Sometimes the missing detail lives just beyond the completed checkbox.\n\nWhat Am I Forgetting? helps you look for those practical loose ends: https://whatamiforgetting.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-final-review-04",
+    "account": "garretts_dev_desk",
+    "theme": "checking_blind_spots_between_tasks",
+    "series": "waf_final_review",
+    "scheduled_at": "2028-01-11T15:30:00-05:00",
+    "posts": [
+      "Before calling a plan finished, check what might have fallen between the tasks.\n\nHas everyone been told? Is the timing confirmed? Is anything waiting to be brought, sent, saved, attached, or prepared? These small handoffs can matter even when every item on the original checklist is complete.\n\nTry using those questions for one final scan before your next appointment, event, or trip. You may catch something that wasn't on the list at all."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-final-review-05",
+    "account": "garretts_dev_desk",
+    "theme": "knowing_when_to_stop_reviewing",
+    "series": "waf_final_review",
+    "scheduled_at": "2028-01-12T09:15:00-05:00",
+    "posts": [
+      "A final review shouldn't become another reason to start over.\n\nGive the important details one more look, address anything you genuinely missed, and then decide that you've prepared enough. A useful checklist should help you move forward with more confidence, even when you can't eliminate every possibility.\n\nThat's the approach behind What Am I Forgetting?: https://whatamiforgetting.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-final-review-06",
+    "account": "garretts_dev_desk",
+    "theme": "recognizing_when_a_checklist_has_done_its_job",
+    "series": "waf_final_review",
+    "scheduled_at": "2028-01-12T15:30:00-05:00",
+    "posts": [
+      "Sometimes the most useful checkbox is the invisible one: \"You can move on now.\"\n\nA checklist has done its job when you've reviewed what matters and can return your attention to the day, trip, meeting, or event you were preparing for. There's real value in knowing when enough preparation is enough.\n\nDo you find it easy to stop checking once you've finished a list, or do you sometimes catch yourself reviewing everything one more time?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

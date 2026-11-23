@@ -1,0 +1,80 @@
+[
+  {
+    "id": "thinking-lens-adaptive-planning-01",
+    "account": "garretts_dev_desk",
+    "theme": "recognizing_when_plans_become_outdated",
+    "series": "thinking_lens_adaptive_planning",
+    "scheduled_at": "2027-11-25T09:15:00-05:00",
+    "posts": [
+      "Your carefully considered plan might be outdated after step one.\n\nThat's because reality has a habit of revealing things we couldn't have known before starting. A conversation, first attempt, or unexpected obstacle can change what makes sense next. Your original plan may have been reasonable with the information you had.\n\nExplore your next steps with The Thinking Lens: https://thethinkinglens.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "thinking-lens-adaptive-planning-02",
+    "account": "garretts_dev_desk",
+    "theme": "learning_information_only_available_through_action",
+    "series": "thinking_lens_adaptive_planning",
+    "scheduled_at": "2027-11-25T15:30:00-05:00",
+    "posts": [
+      "Some information only becomes available after you begin.\n\nYou can research a project thoroughly and still discover something important during the first conversation, test, or attempt. Planning helps you prepare, but experience can reveal details that planning alone couldn't provide.\n\nBefore your next project, identify one assumption that could be tested early. What small action would help you learn whether your expectations match reality?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "thinking-lens-adaptive-planning-03",
+    "account": "garretts_dev_desk",
+    "theme": "allowing_early_steps_to_change_later_steps",
+    "series": "thinking_lens_adaptive_planning",
+    "scheduled_at": "2027-11-26T09:15:00-05:00",
+    "posts": [
+      "Step one has an annoying habit of changing steps two through twelve.\n\nYou begin with a reasonable plan, learn something unexpected, and suddenly the next several steps need reconsidering. That doesn't mean the planning was wasted. You have better information now, and you can use it.\n\nThe Thinking Lens helps you reconsider a situation from different perspectives: https://thethinkinglens.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "thinking-lens-adaptive-planning-04",
+    "account": "garretts_dev_desk",
+    "theme": "revising_plans_with_new_information",
+    "series": "thinking_lens_adaptive_planning",
+    "scheduled_at": "2027-11-26T15:30:00-05:00",
+    "posts": [
+      "Don't feel obligated to follow instructions written by a version of you who knew less.\n\nA plan captures your best understanding at a particular moment. When new information changes that understanding, it's reasonable to revisit what you intended to do.\n\nTry reviewing a plan you're currently following. Which assumptions have changed since you created it? Is there a step that deserves updating before you continue?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "thinking-lens-adaptive-planning-05",
+    "account": "garretts_dev_desk",
+    "theme": "building_learning_into_the_planning_process",
+    "series": "thinking_lens_adaptive_planning",
+    "scheduled_at": "2027-11-27T09:15:00-05:00",
+    "posts": [
+      "A useful plan should leave room for learning.\n\nTake one meaningful step, notice what changed, and consider whether the next step still makes sense. You can keep a clear direction while adjusting how you get there. Sometimes a small course correction saves you from following an outdated assumption much further.\n\nExplore your thinking with The Thinking Lens: https://thethinkinglens.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "thinking-lens-adaptive-planning-06",
+    "account": "garretts_dev_desk",
+    "theme": "seeing_adaptation_as_part_of_good_planning",
+    "series": "thinking_lens_adaptive_planning",
+    "scheduled_at": "2027-11-27T15:30:00-05:00",
+    "posts": [
+      "Sometimes changing the plan is exactly what good planning looks like.\n\nA thoughtful approach gives you direction while leaving room to respond to what you discover. You can prepare carefully, take action, and revise your next steps as your understanding improves.\n\nHave you ever started a project with a detailed plan, only to discover that the first few steps completely changed how you approached the rest?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "pbi-bd-weighted-pipeline-01",
+    "account": "garretts_dev_desk",
+    "theme": "understanding_why_total_pipeline_value_can_be_misleading",
+    "series": "pbi_business_development_weighted_pipeline",
+    "scheduled_at": "2028-10-19T09:15:00-04:00",
+    "posts": [
+      "A $1 million pipeline isn't necessarily worth $1 million.\n\nSome opportunities may be close to closing, while others are still uncertain. Treating them all as equally likely can create an overly optimistic picture of potential business.\n\nMy Business Development Performance Power BI Kit helps you examine pipeline value, win probability, and opportunity mix: https://garrettsdevdesk.etsy.com/listing/4595453904/power-bi-business-development-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-bd-weighted-pipeline-02",
+    "account": "garretts_dev_desk",
+    "theme": "calculating_probability_weighted_business_development_pipeline",
+    "series": "pbi_business_development_weighted_pipeline",
+    "scheduled_at": "2028-10-19T15:30:00-04:00",
+    "posts": [
+      "Weighted pipeline adds useful context to your business development reporting.\n\nMultiply each opportunity's value by its estimated win probability, then add those weighted values together. For example, a $100,000 opportunity with a 75% win probability contributes $75,000 to weighted pipeline.\n\nTry calculating this for your five largest open opportunities. Compare their combined weighted value with their total face value."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-bd-weighted-pipeline-03",
+    "account": "garretts_dev_desk",
+    "theme": "comparing_equal_pipeline_totals_with_different_win_probabilities",
+    "series": "pbi_business_development_weighted_pipeline",
+    "scheduled_at": "2028-10-20T09:15:00-04:00",
+    "posts": [
+      "Two $500,000 pipelines can represent very different expectations.\n\nAt an average win probability of 80%, one pipeline has a weighted value of $400,000. At 30%, another has a weighted value of $150,000. The totals look identical, but the probability-adjusted pictures differ considerably.\n\nMy Business Development Performance Power BI Kit helps explore these differences: https://garrettsdevdesk.etsy.com/listing/4595453904/power-bi-business-development-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-bd-weighted-pipeline-04",
+    "account": "garretts_dev_desk",
+    "theme": "reviewing_win_probability_assumptions_in_pipeline_forecasts",
+    "series": "pbi_business_development_weighted_pipeline",
+    "scheduled_at": "2028-10-20T15:30:00-04:00",
+    "posts": [
+      "A weighted pipeline calculation can be mathematically correct and still give a misleading impression.\n\nThe result depends on the win probabilities assigned to each opportunity. If those estimates are outdated or overly optimistic, the weighted total inherits those weaknesses.\n\nTry reviewing opportunities marked with high win probabilities. Ask what evidence supports each estimate and whether recent developments justify updating it."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-bd-weighted-pipeline-05",
+    "account": "garretts_dev_desk",
+    "theme": "examining_opportunity_concentration_probability_and_service_line_mix",
+    "series": "pbi_business_development_weighted_pipeline",
+    "scheduled_at": "2028-10-21T09:15:00-04:00",
+    "posts": [
+      "A useful pipeline review should go beyond asking how much potential business is available.\n\nWhere is the value concentrated? Which opportunities have stronger win probabilities? How does the pipeline differ across service lines and client relationships? These questions help explain the numbers.\n\nMy Business Development Performance Power BI Kit includes a Pipeline Mix & Opportunity Analysis dashboard: https://garrettsdevdesk.etsy.com/listing/4595453904/power-bi-business-development-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-bd-weighted-pipeline-06",
+    "account": "garretts_dev_desk",
+    "theme": "discussing_reliable_win_probability_estimates_in_business_development",
+    "series": "pbi_business_development_weighted_pipeline",
+    "scheduled_at": "2028-10-21T15:30:00-04:00",
+    "posts": [
+      "Weighted pipeline can make business development forecasts more informative, but it depends on the quality of the underlying assumptions.\n\nAn opportunity's estimated win probability should reflect what the team actually knows about its prospects. Otherwise, even a carefully calculated weighted total can create misplaced confidence.\n\nFor business development teams, how do you determine whether an opportunity's win probability is realistic?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

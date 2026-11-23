@@ -1,0 +1,80 @@
+[
+  {
+    "id": "pbi-sales-headstart-01",
+    "account": "garretts_dev_desk",
+    "theme": "avoiding_repetitive_power_bi_dashboard_setup",
+    "series": "pbi_sales_reporting_headstart",
+    "scheduled_at": "2028-07-10T09:15:00-04:00",
+    "posts": [
+      "Another dashboard request. Another blank Power BI canvas.\n\nIf you regularly build reports, you know how much time goes into setting up the foundation before the analysis begins. Reusing a thoughtful structure can give your next project a more productive starting point.\n\nMy Sales Performance & Commercial Operations Power BI Kit includes four editable dashboards to explore and customize: https://garrettsdevdesk.etsy.com/listing/4595438858/power-bi-sales-dashboard-template-sales"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-sales-headstart-02",
+    "account": "garretts_dev_desk",
+    "theme": "identifying_reusable_steps_in_power_bi_projects",
+    "series": "pbi_sales_reporting_headstart",
+    "scheduled_at": "2028-07-10T15:30:00-04:00",
+    "posts": [
+      "The first few hours of a Power BI project can disappear before anyone sees a useful visual.\n\nPreparing tables, defining relationships, writing measures, and arranging report pages all require attention. When you've built similar reports before, some of that setup may be reusable.\n\nTry reviewing your last three reporting projects. Which measures, layouts, or documentation steps did you recreate each time? Those are good candidates for your own reusable toolkit."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-sales-headstart-03",
+    "account": "garretts_dev_desk",
+    "theme": "freeing_up_time_for_meaningful_sales_analysis",
+    "series": "pbi_sales_reporting_headstart",
+    "scheduled_at": "2028-07-11T09:15:00-04:00",
+    "posts": [
+      "The interesting part of building a sales dashboard often begins when you can finally explore the numbers.\n\nWhich products are driving revenue? How is order activity changing? What deserves attention in purchasing? Those questions benefit from the time you spend investigating them.\n\nMy Sales Performance & Commercial Operations Power BI Kit offers an editable reporting foundation to build upon: https://garrettsdevdesk.etsy.com/listing/4595438858/power-bi-sales-dashboard-template-sales"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-sales-headstart-04",
+    "account": "garretts_dev_desk",
+    "theme": "building_a_repeatable_power_bi_project_workflow",
+    "series": "pbi_sales_reporting_headstart",
+    "scheduled_at": "2028-07-11T15:30:00-04:00",
+    "posts": [
+      "A repeatable reporting workflow can make the beginning of a new project feel much less overwhelming.\n\nInstead of deciding everything from scratch, start with a familiar sequence: understand the data, confirm the measures, organize the report pages, and refine the visuals for the audience.\n\nTry documenting that sequence as a checklist for your next Power BI project. A small amount of preparation today may save you from repeating the same decisions later."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-sales-headstart-05",
+    "account": "garretts_dev_desk",
+    "theme": "starting_sales_dashboard_projects_with_customizable_templates",
+    "series": "pbi_sales_reporting_headstart",
+    "scheduled_at": "2028-07-12T09:15:00-04:00",
+    "posts": [
+      "There's something satisfying about opening a reporting project and already having a foundation to work with.\n\nEditable pages, fictional sample data, documented DAX measures, and setup guides give you something concrete to explore. From there, you can adapt the reporting to your actual requirements.\n\nThat's the idea behind my Sales Performance & Commercial Operations Power BI Kit: https://garrettsdevdesk.etsy.com/listing/4595438858/power-bi-sales-dashboard-template-sales"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-sales-headstart-06",
+    "account": "garretts_dev_desk",
+    "theme": "discussing_repetitive_work_in_power_bi_development",
+    "series": "pbi_sales_reporting_headstart",
+    "scheduled_at": "2028-07-12T15:30:00-04:00",
+    "posts": [
+      "Starting a new dashboard project can be exciting, especially when there's an interesting business problem to solve.\n\nThe repetitive setup work can be less enjoyable. Rebuilding familiar measures, arranging similar layouts, and documenting the same decisions takes time that could go toward understanding the data and refining the report.\n\nFor Power BI developers and analysts, which part of building a new dashboard do you most wish you could reuse from a previous project?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

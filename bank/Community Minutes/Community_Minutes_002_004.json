@@ -1,0 +1,80 @@
+[
+  {
+    "id": "community-minutes-motions-votes-01",
+    "account": "garretts_dev_desk",
+    "theme": "recording_meeting_motions",
+    "series": "community_minutes_motions_votes",
+    "scheduled_at": "2027-04-26T09:15:00-04:00",
+    "posts": [
+      "When someone says \"I make a motion\" during a board or committee meeting, that's a good moment to slow down.\n\nThe conversation is moving from discussing possibilities toward asking the group to take a specific action. What happens next may become an important part of the official record.\n\nI built Community Minutes to help keep motions, decisions, and follow-up work organized: https://communityminutes.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "community-minutes-motions-votes-02",
+    "account": "garretts_dev_desk",
+    "theme": "meeting_note_taking_workflow",
+    "series": "community_minutes_motions_votes",
+    "scheduled_at": "2027-04-26T15:30:00-04:00",
+    "posts": [
+      "Your working meeting notes don't need polished sentences while everyone is still talking.\n\nUse shorthand, capture enough context to follow the discussion, and keep listening for important developments. You can organize the wording after the meeting.\n\nSave your extra attention for moments when a decision, motion, vote, or assignment needs to be recorded accurately."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "community-minutes-motions-votes-03",
+    "account": "garretts_dev_desk",
+    "theme": "meeting_record_priorities",
+    "series": "community_minutes_motions_votes",
+    "scheduled_at": "2027-04-27T09:15:00-04:00",
+    "posts": [
+      "Fifteen minutes of discussion can lead to a 30-second motion that matters for years.\n\nThe time something takes during a meeting doesn't determine how important it will be in the written record. A brief vote may authorize spending, establish a policy, or settle a major question.\n\nCommunity Minutes helps give those consequential details a clear place in the record: https://communityminutes.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "community-minutes-motions-votes-04",
+    "account": "garretts_dev_desk",
+    "theme": "accurate_motion_documentation",
+    "series": "community_minutes_motions_votes",
+    "scheduled_at": "2027-04-27T15:30:00-04:00",
+    "posts": [
+      "\"Landscaping approved\" might be too vague to help someone understand what a board actually authorized.\n\nWhich contractor was selected? What work was included? What amount was approved? Did the motion change before the vote?\n\nWhen documenting motions, capture the specific action the group considered and the outcome. Those details may become important long after the meeting ends."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "community-minutes-motions-votes-05",
+    "account": "garretts_dev_desk",
+    "theme": "meeting_vote_verification",
+    "series": "community_minutes_motions_votes",
+    "scheduled_at": "2027-04-28T09:15:00-04:00",
+    "posts": [
+      "If you aren't sure whether a board vote was 4–1 or 5–0, don't guess when preparing the minutes.\n\nFlag the result for verification against the available meeting records. A complete-looking draft is less valuable than an accurate final document, especially when formal decisions are involved.\n\nCommunity Minutes supports a review-first approach to meeting documentation: https://communityminutes.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "community-minutes-motions-votes-06",
+    "account": "garretts_dev_desk",
+    "theme": "meeting_secretary_best_practices",
+    "series": "community_minutes_motions_votes",
+    "scheduled_at": "2027-04-28T15:30:00-04:00",
+    "posts": [
+      "Not every moment in a meeting deserves the same amount of attention from the person taking minutes.\n\nWhen a motion is made or a vote begins, listen carefully and capture the consequential details. Those few seconds may matter more to the lasting record than much of the surrounding conversation.\n\nIf you've taken minutes for a board or committee, which part of recording motions and votes do you find most challenging?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

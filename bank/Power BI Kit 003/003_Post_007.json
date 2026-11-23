@@ -1,0 +1,80 @@
+[
+  {
+    "id": "pbi-workforce-clarity-01",
+    "account": "garretts_dev_desk",
+    "theme": "handling_the_pressure_of_explaining_business_performance",
+    "series": "pbi_workforce_reporting_clarity",
+    "scheduled_at": "2028-08-10T09:15:00-04:00",
+    "posts": [
+      "Everyone wants answers. You're still trying to make sense of the numbers.\n\nWhen you're responsible for performance reporting, it can be difficult to respond confidently when information is scattered across different views. A structured report gives you a clearer place to begin.\n\nMy Workforce Performance & Sales Activity Power BI Kit includes three editable dashboards for exploring team and sales performance: https://garrettsdevdesk.etsy.com/listing/4595444828/power-bi-sales-performance-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-workforce-clarity-02",
+    "account": "garretts_dev_desk",
+    "theme": "organizing_common_sales_performance_questions",
+    "series": "pbi_workforce_reporting_clarity",
+    "scheduled_at": "2028-08-10T15:30:00-04:00",
+    "posts": [
+      "The questions can pile up quickly when you're responsible for sales reporting.\n\nWho's meeting their targets? Which locations need attention? What products are contributing to gross profit? Each question requires a different perspective on the data.\n\nTry writing down the five questions you hear most often during performance reviews. Then identify which measures and visuals would help answer each one. It's a useful starting point for improving your reports."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-workforce-clarity-03",
+    "account": "garretts_dev_desk",
+    "theme": "building_confidence_in_employee_performance_conversations",
+    "series": "pbi_workforce_reporting_clarity",
+    "scheduled_at": "2028-08-11T09:15:00-04:00",
+    "posts": [
+      "Performance numbers influence real conversations about employees, priorities, and business decisions.\n\nThat's why context matters. Revenue, target attainment, and profitability can each tell part of the story, and reviewing them together helps avoid conclusions based on a single measure.\n\nMy Workforce Performance & Sales Activity Power BI Kit brings these perspectives into editable reporting pages: https://garrettsdevdesk.etsy.com/listing/4595444828/power-bi-sales-performance-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-workforce-clarity-04",
+    "account": "garretts_dev_desk",
+    "theme": "creating_a_clear_starting_point_for_performance_reviews",
+    "series": "pbi_workforce_reporting_clarity",
+    "scheduled_at": "2028-08-11T15:30:00-04:00",
+    "posts": [
+      "Having a clear place to start can make a difficult reporting task feel much more manageable.\n\nA connected view of employee results, sales targets, product performance, and location profitability helps you organize your investigation before a meeting.\n\nTry building a simple review routine: start with overall performance, identify meaningful changes, and then explore the employees, products, or locations behind them. What questions become easier to answer?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-workforce-clarity-05",
+    "account": "garretts_dev_desk",
+    "theme": "using_editable_power_bi_reports_as_a_reliable_starting_point",
+    "series": "pbi_workforce_reporting_clarity",
+    "scheduled_at": "2028-08-12T09:15:00-04:00",
+    "posts": [
+      "Starting a new performance dashboard from a blank canvas can add pressure to an already busy week.\n\nHaving an editable reporting foundation gives you something concrete to explore and adapt. That can leave more time for understanding the results and preparing useful conversations.\n\nMy Workforce Performance & Sales Activity Power BI Kit includes three editable pages, sample data, and documentation: https://garrettsdevdesk.etsy.com/listing/4595444828/power-bi-sales-performance-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-workforce-clarity-06",
+    "account": "garretts_dev_desk",
+    "theme": "discussing_the_responsibility_of_performance_reporting",
+    "series": "pbi_workforce_reporting_clarity",
+    "scheduled_at": "2028-08-12T15:30:00-04:00",
+    "posts": [
+      "Being responsible for performance reporting can feel especially challenging when people expect immediate answers.\n\nManagers want to support their teams, analysts want to provide useful findings, and business owners need to decide where to focus their attention. Clear reporting helps everyone begin with a better understanding of the situation.\n\nWhat's the most difficult question you've had to answer during a sales or business performance review?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

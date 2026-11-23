@@ -1,0 +1,80 @@
+[
+  {
+    "id": "pbi-financial-uncertainty-01",
+    "account": "garretts_dev_desk",
+    "theme": "navigating_uncertainty_with_a_clearer_financial_picture",
+    "series": "pbi_financial_clarity_and_preparation",
+    "scheduled_at": "2028-05-25T09:15:00-04:00",
+    "posts": [
+      "Sometimes the hardest part of running a business is not knowing what comes next.\n\nYou can make thoughtful decisions and still wonder whether you're seeing the full financial picture. Understanding performance and looking ahead at cash needs can provide useful context for those choices.\n\nI built my Financial Performance & Cash Flow Power BI Kit to support that kind of reporting: https://garrettsdevdesk.etsy.com/listing/4595413257/power-bi-financial-dashboard-template-13"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-financial-uncertainty-02",
+    "account": "garretts_dev_desk",
+    "theme": "evaluating_business_decisions_with_financial_context",
+    "series": "pbi_financial_clarity_and_preparation",
+    "scheduled_at": "2028-05-25T15:30:00-04:00",
+    "posts": [
+      "Hiring someone, approving an expense, or planning an investment can feel more complicated when the financial picture is incomplete.\n\nRevenue, profitability, and available cash each contribute something different to the decision. Looking at them together helps you understand the tradeoffs more clearly.\n\nBefore your next significant business expense, try reviewing those three measures side by side. What additional questions would you want answered?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-financial-uncertainty-03",
+    "account": "garretts_dev_desk",
+    "theme": "building_confidence_through_better_financial_visibility",
+    "series": "pbi_financial_clarity_and_preparation",
+    "scheduled_at": "2028-05-26T09:15:00-04:00",
+    "posts": [
+      "A clearer financial picture can make difficult business conversations easier to approach.\n\nRevenue trends show how the business is developing. Profitability adds context about performance, while entity comparisons reveal differences across operations. Together, they help inform the decisions ahead.\n\nMy Financial Performance & Cash Flow Power BI Kit brings these views together: https://garrettsdevdesk.etsy.com/listing/4595413257/power-bi-financial-dashboard-template-13"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-financial-uncertainty-04",
+    "account": "garretts_dev_desk",
+    "theme": "using_thirteen_week_cash_forecasts_to_plan_ahead",
+    "series": "pbi_financial_clarity_and_preparation",
+    "scheduled_at": "2028-05-26T15:30:00-04:00",
+    "posts": [
+      "Sometimes a little more peace of mind comes from understanding what the next few weeks might look like.\n\nA rolling 13-week cash forecast helps organize expected receipts, payments, and projected balances. It can reveal periods that deserve closer attention before commitments are made.\n\nTry mapping your expected cash movements for the next thirteen weeks. Are there any weeks when your projected balance approaches your minimum cash target?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-financial-uncertainty-05",
+    "account": "garretts_dev_desk",
+    "theme": "preparing_for_business_decisions_without_perfect_certainty",
+    "series": "pbi_financial_clarity_and_preparation",
+    "scheduled_at": "2028-05-27T09:15:00-04:00",
+    "posts": [
+      "You can't know exactly what will happen to a business's finances. You can still prepare thoughtfully.\n\nReviewing historical performance alongside projected cash needs gives you a more complete starting point for planning. It also helps identify assumptions worth revisiting as conditions change.\n\nMy Financial Performance & Cash Flow Power BI Kit combines both perspectives: https://garrettsdevdesk.etsy.com/listing/4595413257/power-bi-financial-dashboard-template-13"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-financial-uncertainty-06",
+    "account": "garretts_dev_desk",
+    "theme": "discussing_financial_uncertainty_in_business_planning",
+    "series": "pbi_financial_clarity_and_preparation",
+    "scheduled_at": "2028-05-27T15:30:00-04:00",
+    "posts": [
+      "Running a business often means making decisions before every question has a clear answer.\n\nFinancial reporting can help by showing what's happened, where performance is changing, and what future cash needs might look like. It won't eliminate uncertainty, but it can make planning conversations more grounded.\n\nFor business owners and finance professionals, which financial unknown tends to make planning the most difficult?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "notice-writer-proportionate-enforcement-01",
+    "account": "garretts_dev_desk",
+    "theme": "avoiding_premature_escalation",
+    "series": "notice_writer_proportionate_enforcement",
+    "scheduled_at": "2027-08-09T09:15:00-04:00",
+    "posts": [
+      "If every HOA notice sounds like a final warning, there's nowhere left to go.\n\nA routine first reminder shouldn't read as though every previous attempt at communication has already failed. Starting with an unnecessarily severe tone can create tension before residents have had a reasonable opportunity to respond.\n\nNotice Writer helps volunteers prepare clear, professional community messages: https://noticewriter.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "notice-writer-proportionate-enforcement-02",
+    "account": "garretts_dev_desk",
+    "theme": "matching_tone_to_notice_stage",
+    "series": "notice_writer_proportionate_enforcement",
+    "scheduled_at": "2027-08-09T15:30:00-04:00",
+    "posts": [
+      "A courtesy reminder and a final violation notice shouldn't sound identical.\n\nThe underlying expectation may stay the same, but the communication should accurately reflect where the matter stands in the association's established process. Residents need to understand both the issue and its current seriousness.\n\nTry comparing your reminder and follow-up templates. Can someone immediately tell which stage each message represents?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "notice-writer-proportionate-enforcement-03",
+    "account": "garretts_dev_desk",
+    "theme": "explaining_escalation_clearly",
+    "series": "notice_writer_proportionate_enforcement",
+    "scheduled_at": "2027-08-10T09:15:00-04:00",
+    "posts": [
+      "A follow-up notice should become firmer for a reason, not simply because someone is frustrated.\n\nIf an issue remains unresolved, the message can reference earlier communication, describe the current condition, and explain the next step under the established process. That gives the increased formality a clear purpose.\n\nPrepare more consistent community communications with Notice Writer: https://noticewriter.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "notice-writer-proportionate-enforcement-04",
+    "account": "garretts_dev_desk",
+    "theme": "following_governing_procedures",
+    "series": "notice_writer_proportionate_enforcement",
+    "scheduled_at": "2027-08-10T15:30:00-04:00",
+    "posts": [
+      "An HOA notice communicates the enforcement process. It shouldn't invent one.\n\nBefore describing deadlines, consequences, or next steps, check the governing documents, adopted policies, and applicable requirements. The writing should accurately explain what the association is authorized to do.\n\nA useful review habit is to verify every procedural statement before sending the message, especially when an issue is escalating."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "notice-writer-proportionate-enforcement-05",
+    "account": "garretts_dev_desk",
+    "theme": "communicating_notice_urgency",
+    "series": "notice_writer_proportionate_enforcement",
+    "scheduled_at": "2027-08-11T09:15:00-04:00",
+    "posts": [
+      "Tone is part of the information residents receive from an HOA.\n\nWhen every communication sounds equally severe, it becomes harder to distinguish a routine reminder from a genuinely urgent matter. Clear wording and an appropriate level of formality help residents understand where things stand.\n\nNotice Writer helps community volunteers create messages that are calm, clear, and purposeful: https://noticewriter.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "notice-writer-proportionate-enforcement-06",
+    "account": "garretts_dev_desk",
+    "theme": "balanced_enforcement_communication",
+    "series": "notice_writer_proportionate_enforcement",
+    "scheduled_at": "2027-08-11T15:30:00-04:00",
+    "posts": [
+      "Starting calmly doesn't make an HOA notice weak.\n\nA respectful reminder can still communicate a clear expectation and deadline. If the circumstances later require a more formal response, the association can explain that next step without turning the message into a personal confrontation.\n\nFor HOA board members and community volunteers, how do you balance being approachable with communicating that an issue needs attention?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

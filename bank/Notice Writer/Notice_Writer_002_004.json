@@ -1,0 +1,80 @@
+[
+  {
+    "id": "notice-writer-actionable-instructions-01",
+    "account": "garretts_dev_desk",
+    "theme": "replacing_vague_instructions",
+    "series": "notice_writer_actionable_instructions",
+    "scheduled_at": "2027-08-30T09:15:00-04:00",
+    "posts": [
+      "\"Please address this matter\" sounds professional, but what does it actually tell someone to do?\n\nA resident might understand that there's a problem while still having no idea how to resolve it. Clear community notices should explain the requested action in language people can readily understand.\n\nNotice Writer helps HOA boards and community volunteers prepare more useful notices: https://noticewriter.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "notice-writer-actionable-instructions-02",
+    "account": "garretts_dev_desk",
+    "theme": "identifying_the_action_sentence",
+    "series": "notice_writer_actionable_instructions",
+    "scheduled_at": "2027-08-30T15:30:00-04:00",
+    "posts": [
+      "Here's a quick test for your next HOA notice: Find the sentence that tells the resident exactly what to do.\n\nIf you have to search through several paragraphs to locate it, the recipient probably will too. A notice can explain the concern thoroughly and still leave the next step unclear.\n\nTry highlighting the requested action before sending. If there isn't a clear sentence to highlight, consider rewriting that part."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "notice-writer-actionable-instructions-03",
+    "account": "garretts_dev_desk",
+    "theme": "concrete_resolution_steps",
+    "series": "notice_writer_actionable_instructions",
+    "scheduled_at": "2027-08-31T09:15:00-04:00",
+    "posts": [
+      "A useful HOA notice should give residents a clear path toward resolving the issue.\n\n\"Please return the containers to the approved storage area by September 18\" identifies the action, destination, and deadline, assuming those requirements apply. That specificity can prevent confusion and unnecessary follow-up questions.\n\nCreate clearer community notices with Notice Writer: https://noticewriter.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "notice-writer-actionable-instructions-04",
+    "account": "garretts_dev_desk",
+    "theme": "specificity_without_harshness",
+    "series": "notice_writer_actionable_instructions",
+    "scheduled_at": "2027-08-31T15:30:00-04:00",
+    "posts": [
+      "Specific instructions can make a community notice feel less intimidating.\n\nA vague warning leaves the resident guessing about what will satisfy the association's expectations. A concrete action gives them something understandable to work toward, without requiring harsher language.\n\nTry replacing a general phrase like \"correct the violation\" with a specific, verified action that describes what a successful resolution would look like."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "notice-writer-actionable-instructions-05",
+    "account": "garretts_dev_desk",
+    "theme": "accurate_action_requirements",
+    "series": "notice_writer_actionable_instructions",
+    "scheduled_at": "2027-09-01T09:15:00-04:00",
+    "posts": [
+      "Clear instructions still need to reflect the rules that actually apply.\n\nAn HOA notice shouldn't invent a deadline or demand an action simply because it makes the wording sound more decisive. Verify the governing documents, procedures, and circumstances before describing what the resident must do.\n\nNotice Writer helps volunteers organize professional community communications: https://noticewriter.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "notice-writer-actionable-instructions-06",
+    "account": "garretts_dev_desk",
+    "theme": "clear_next_step_communication",
+    "series": "notice_writer_actionable_instructions",
+    "scheduled_at": "2027-09-01T15:30:00-04:00",
+    "posts": [
+      "One clear sentence can sometimes do more than an entire paragraph of official-sounding language.\n\nA resident should be able to identify the requested action without decoding vague warnings or administrative terminology. When the next step is obvious, the whole notice becomes more useful.\n\nFor anyone who's written or received a community notice, what's an example of wording that sounded formal but left you wondering what to do?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "budget-snapshot-purposeful-charts-01",
+    "account": "garretts_dev_desk",
+    "theme": "budget_visualization",
+    "series": "budget_snapshot_purposeful_charts",
+    "scheduled_at": "2027-02-25T09:15:00-05:00",
+    "posts": [
+      "A good budget chart should answer a question.\n\nBefore adding another visual to an HOA financial presentation, ask what it helps homeowners understand. Maybe it's where the money goes, what changed from last year, or how reserves compare with the plan.\n\nI built Budget Snapshot to help make community financial information easier to explore and explain: https://budgetsnapshot.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "budget-snapshot-purposeful-charts-02",
+    "account": "garretts_dev_desk",
+    "theme": "financial_presentations",
+    "series": "budget_snapshot_purposeful_charts",
+    "scheduled_at": "2027-02-25T15:30:00-05:00",
+    "posts": [
+      "Just because financial data can be turned into a chart doesn't mean it needs one.\n\nA useful chart should make something important easier to see. If a simple sentence or small table communicates the information more clearly, use that instead.\n\nBefore your next budget presentation, review each visual and ask whether it's helping the audience understand something meaningful."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "budget-snapshot-purposeful-charts-03",
+    "account": "garretts_dev_desk",
+    "theme": "hoa_budget_communication",
+    "series": "budget_snapshot_purposeful_charts",
+    "scheduled_at": "2027-02-26T09:15:00-05:00",
+    "posts": [
+      "Three useful questions can guide the charts in an HOA budget presentation.\n\nWhere does most of the money go? What changed from last year? How do reserves compare with the planning target?\n\nEach question calls for a different view of the financial information. Starting with the question helps you choose a visual that serves a purpose.\n\nExplore Budget Snapshot: https://budgetsnapshot.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "budget-snapshot-purposeful-charts-04",
+    "account": "garretts_dev_desk",
+    "theme": "data_visualization",
+    "series": "budget_snapshot_purposeful_charts",
+    "scheduled_at": "2027-02-26T15:30:00-05:00",
+    "posts": [
+      "If you have to spend several minutes teaching people how to read a budget chart, it might be worth reconsidering the design.\n\nClear labels, familiar units, and an obvious comparison can make a big difference. The goal is to help homeowners understand the financial picture without adding another layer of complexity.\n\nTry showing your next chart to someone unfamiliar with the budget and ask what they take away from it."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "budget-snapshot-purposeful-charts-05",
+    "account": "garretts_dev_desk",
+    "theme": "financial_storytelling",
+    "series": "budget_snapshot_purposeful_charts",
+    "scheduled_at": "2027-02-27T09:15:00-05:00",
+    "posts": [
+      "A chart might show that HOA insurance costs increased significantly. But homeowners still need to know what caused the change.\n\nThe visual helps people notice what happened. A sentence explaining the renewal or rate increase gives that change meaning.\n\nUseful financial communication brings the numbers and context together.\n\nBudget Snapshot: https://budgetsnapshot.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "budget-snapshot-purposeful-charts-06",
+    "account": "garretts_dev_desk",
+    "theme": "clear_financial_communication",
+    "series": "budget_snapshot_purposeful_charts",
+    "scheduled_at": "2027-02-27T15:30:00-05:00",
+    "posts": [
+      "The best response to a budget chart probably isn't \"Nice chart.\"\n\nIt's something closer to \"Oh, now I understand what's happening.\"\n\nA useful visual helps people see a relationship, change, or financial priority that might have been harder to notice in a spreadsheet.\n\nWhat's one type of chart you find especially helpful when reviewing financial information?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

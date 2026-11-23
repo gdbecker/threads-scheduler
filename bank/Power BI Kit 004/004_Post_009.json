@@ -1,0 +1,80 @@
+[
+  {
+    "id": "pbi-field-performance-questions-01",
+    "account": "garretts_dev_desk",
+    "theme": "responding_to_leadership_questions_about_performance_declines",
+    "series": "pbi_field_performance_conversations",
+    "scheduled_at": "2028-09-28T09:15:00-04:00",
+    "posts": [
+      "\"Why did performance drop?\" Everyone looks to you.\n\nYou have the reports and plenty of numbers, but finding a useful explanation takes time. Productivity, employee results, and service quality may each reveal part of what changed.\n\nMy Field Team Performance Power BI Kit includes four editable dashboards to help you investigate those questions: https://garrettsdevdesk.etsy.com/listing/4595448076/power-bi-field-team-performance"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-field-performance-questions-02",
+    "account": "garretts_dev_desk",
+    "theme": "organizing_scattered_operational_data_for_performance_reviews",
+    "series": "pbi_field_performance_conversations",
+    "scheduled_at": "2028-09-28T15:30:00-04:00",
+    "posts": [
+      "The explanation for a performance change may be scattered across several reports.\n\nEmployee trends, workload, productivity, and service quality each provide different context. Reviewing only one can leave important questions unanswered.\n\nTry choosing a recent performance change and identifying the three related measures you'd need to investigate it. Then check how easily you can bring those measures together for a review."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-field-performance-questions-03",
+    "account": "garretts_dev_desk",
+    "theme": "using_targets_and_kpis_to_investigate_field_performance_changes",
+    "series": "pbi_field_performance_conversations",
+    "scheduled_at": "2028-09-29T09:15:00-04:00",
+    "posts": [
+      "When field performance changes, knowing where to investigate is a useful first step.\n\nCompletion rates, productivity, and service repeats can help show which parts of the operation are moving in different directions. Comparing results with targets adds context before deeper analysis.\n\nMy Field Team Performance Power BI Kit includes KPI reporting and performance indicators: https://garrettsdevdesk.etsy.com/listing/4595448076/power-bi-field-team-performance"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-field-performance-questions-04",
+    "account": "garretts_dev_desk",
+    "theme": "investigating_performance_variations_across_field_teams_and_locations",
+    "series": "pbi_field_performance_conversations",
+    "scheduled_at": "2028-09-29T15:30:00-04:00",
+    "posts": [
+      "A performance decline across the operation doesn't necessarily affect every team equally.\n\nComparing results across supervisors, employees, and locations can help narrow down where changes occurred. Historical trends provide additional context before drawing conclusions.\n\nTry breaking a declining KPI down by team or location, then compare the current period with the previous three months. Look for where the change is concentrated."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-field-performance-questions-05",
+    "account": "garretts_dev_desk",
+    "theme": "preparing_for_field_operations_performance_review_meetings",
+    "series": "pbi_field_performance_conversations",
+    "scheduled_at": "2028-09-30T09:15:00-04:00",
+    "posts": [
+      "Walking into a performance review is easier when you can explain what changed and what still needs investigation.\n\nClear dashboards can help you identify trends, compare results, and prepare useful questions. You don't need to pretend every cause is already known to have a productive conversation.\n\nMy Field Team Performance Power BI Kit provides four editable dashboards for those reviews: https://garrettsdevdesk.etsy.com/listing/4595448076/power-bi-field-team-performance"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-field-performance-questions-06",
+    "account": "garretts_dev_desk",
+    "theme": "discussing_challenges_in_explaining_field_performance_changes",
+    "series": "pbi_field_performance_conversations",
+    "scheduled_at": "2028-09-30T15:30:00-04:00",
+    "posts": [
+      "One of the hardest parts of operational reporting is being expected to explain a change before you've had time to investigate it.\n\nA dashboard can show what happened, but understanding why often requires additional context and conversations with the people doing the work. Good reporting helps make that investigation more manageable.\n\nFor operations managers and analysts, which performance question is the hardest to answer with your current reporting?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

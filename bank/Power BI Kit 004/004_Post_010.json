@@ -1,0 +1,80 @@
+[
+  {
+    "id": "pbi-field-employee-support-01",
+    "account": "garretts_dev_desk",
+    "theme": "understanding_sudden_declines_in_employee_performance",
+    "series": "pbi_field_employee_support_and_context",
+    "scheduled_at": "2028-10-02T09:15:00-04:00",
+    "posts": [
+      "Your best employee is suddenly struggling. Do you know why?\n\nSomeone who consistently delivered strong results may start falling behind, and it's natural to want answers. Performance trends can reveal when things changed, but understanding the reasons requires more context.\n\nMy Field Team Performance Power BI Kit includes employee scorecards and trends to help start that investigation: https://garrettsdevdesk.etsy.com/listing/4595448076/power-bi-field-team-performance"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-field-employee-support-02",
+    "account": "garretts_dev_desk",
+    "theme": "considering_workload_and_assignment_changes_in_employee_reviews",
+    "series": "pbi_field_employee_support_and_context",
+    "scheduled_at": "2028-10-02T15:30:00-04:00",
+    "posts": [
+      "A decline in employee performance deserves curiosity before conclusions.\n\nWorkload changes, unfamiliar assignments, equipment problems, or difficult service conditions may affect someone's results. The numbers can show a change without explaining what caused it.\n\nTry reviewing recent assignments and workload alongside the employee's performance trend. Look for changes in working conditions that might help explain the difference."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-field-employee-support-03",
+    "account": "garretts_dev_desk",
+    "theme": "using_long_term_employee_trends_to_add_performance_context",
+    "series": "pbi_field_employee_support_and_context",
+    "scheduled_at": "2028-10-03T09:15:00-04:00",
+    "posts": [
+      "One difficult month shouldn't erase a history of strong performance.\n\nLooking at several reporting periods helps supervisors distinguish an isolated setback from a longer-term change. Employee trends and team benchmarks provide useful context before deciding what deserves attention.\n\nMy Field Team Performance Power BI Kit includes an Employee Performance dashboard for these comparisons: https://garrettsdevdesk.etsy.com/listing/4595448076/power-bi-field-team-performance"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-field-employee-support-04",
+    "account": "garretts_dev_desk",
+    "theme": "reviewing_employee_productivity_and_service_quality_together",
+    "series": "pbi_field_employee_support_and_context",
+    "scheduled_at": "2028-10-03T15:30:00-04:00",
+    "posts": [
+      "Sometimes a performance decline looks different when you examine the surrounding measures.\n\nAn employee's productivity may fall while their service quality remains strong, or their workload may have shifted toward more demanding assignments. Reviewing related metrics helps supervisors ask more informed questions.\n\nTry comparing productivity, repeat work, and completed activities for the same employee over several months. Identify what changed before deciding what it means."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-field-employee-support-05",
+    "account": "garretts_dev_desk",
+    "theme": "using_performance_visibility_to_support_thoughtful_employee_coaching",
+    "series": "pbi_field_employee_support_and_context",
+    "scheduled_at": "2028-10-04T09:15:00-04:00",
+    "posts": [
+      "A thoughtful supervisor wants to understand what's happening before deciding how to help.\n\nEmployee scorecards, historical trends, productivity, and service-quality measures can provide a starting point for that conversation. The next step is listening to the person doing the work.\n\nMy Field Team Performance Power BI Kit brings these perspectives into four editable dashboards: https://garrettsdevdesk.etsy.com/listing/4595448076/power-bi-field-team-performance"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-field-employee-support-06",
+    "account": "garretts_dev_desk",
+    "theme": "discussing_how_supervisors_approach_unexpected_employee_performance_changes",
+    "series": "pbi_field_employee_support_and_context",
+    "scheduled_at": "2028-10-04T15:30:00-04:00",
+    "posts": [
+      "When a reliable employee starts struggling, the first conversation can make a meaningful difference.\n\nPerformance data may reveal a change, but it rarely captures everything affecting someone's work. A supervisor who approaches the situation with context and curiosity has a better opportunity to understand what support might help.\n\nFor supervisors and managers, what's the first question you ask when a previously strong employee's performance begins to decline?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

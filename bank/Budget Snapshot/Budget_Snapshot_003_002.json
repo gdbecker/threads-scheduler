@@ -1,0 +1,80 @@
+[
+  {
+    "id": "budget-snapshot-future-obligations-01",
+    "account": "garretts_dev_desk",
+    "theme": "hoa_reserve_planning",
+    "series": "budget_snapshot_future_obligations",
+    "scheduled_at": "2027-03-08T09:15:00-05:00",
+    "posts": [
+      "Why should an HOA save money for a repair that hasn't happened yet?\n\nBecause waiting for the bill doesn't make the responsibility disappear. Roads, roofs, and other shared assets will eventually need major work, even when they're functioning perfectly today.\n\nI built Budget Snapshot to help communities communicate financial plans more clearly: https://budgetsnapshot.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "budget-snapshot-future-obligations-02",
+    "account": "garretts_dev_desk",
+    "theme": "long_term_maintenance",
+    "series": "budget_snapshot_future_obligations",
+    "scheduled_at": "2027-03-08T15:30:00-05:00",
+    "posts": [
+      "Imagine an HOA roof that will eventually cost $300,000 to replace.\n\nIt might be in excellent condition today, with years of useful life remaining. But that future expense is still part of the community's long-term financial responsibilities.\n\nGood reserve planning begins before the roof starts leaking, while there's still time to prepare gradually."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "budget-snapshot-future-obligations-03",
+    "account": "garretts_dev_desk",
+    "theme": "reserve_funding_choices",
+    "series": "budget_snapshot_future_obligations",
+    "scheduled_at": "2027-03-09T09:15:00-05:00",
+    "posts": [
+      "When a $300,000 roof replacement becomes necessary, an HOA still has to figure out how to pay for it.\n\nUse existing reserves? Borrow money? Levy a special assessment? Delay the work if possible?\n\nPreparing earlier gives the community more time to consider its options and reduces the risk of a sudden financial burden.\n\nExplore Budget Snapshot: https://budgetsnapshot.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "budget-snapshot-future-obligations-04",
+    "account": "garretts_dev_desk",
+    "theme": "financial_preparedness",
+    "series": "budget_snapshot_future_obligations",
+    "scheduled_at": "2027-03-09T15:30:00-05:00",
+    "posts": [
+      "Reserve contributions help spread preparation for major HOA expenses across multiple years.\n\nInstead of leaving an entire replacement cost for the year the work becomes necessary, the association can set aside funds gradually while the asset is still in use.\n\nWhen explaining reserves to homeowners, connect the annual contribution to the future responsibility it helps fund."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "budget-snapshot-future-obligations-05",
+    "account": "garretts_dev_desk",
+    "theme": "reserve_forecasting",
+    "series": "budget_snapshot_future_obligations",
+    "scheduled_at": "2027-03-10T09:15:00-05:00",
+    "posts": [
+      "A reserve spreadsheet can show a precise estimate for a roof replacement ten years from now. That doesn't mean the actual cost will match it.\n\nMaterials, labor, and project timelines can all change. Reserve plans need reasonable assumptions and regular updates as better information becomes available.\n\nBudget Snapshot helps present the financial picture for discussion: https://budgetsnapshot.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "budget-snapshot-future-obligations-06",
+    "account": "garretts_dev_desk",
+    "theme": "community_financial_priorities",
+    "series": "budget_snapshot_future_obligations",
+    "scheduled_at": "2027-03-10T15:30:00-05:00",
+    "posts": [
+      "Reserve planning requires balancing what homeowners can reasonably contribute today with the maintenance responsibilities their community will face tomorrow.\n\nThe discussion involves affordability, timing, uncertainty, and the consequences of delaying preparation.\n\nIf you were reviewing an HOA reserve plan, what would help you feel more confident about the proposed annual contribution?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

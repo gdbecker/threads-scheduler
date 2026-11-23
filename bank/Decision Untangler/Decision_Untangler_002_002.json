@@ -1,0 +1,80 @@
+[
+  {
+    "id": "decision-untangler-pros-cons-priorities-01",
+    "account": "garretts_dev_desk",
+    "theme": "pros_and_cons_limitations",
+    "series": "decision_untangler_pros_cons_priorities",
+    "scheduled_at": "2027-06-21T09:15:00-04:00",
+    "posts": [
+      "The option with the most pros doesn't automatically win.\n\nA pros-and-cons list can help you organize a difficult decision, but counting the items doesn't tell you which differences matter most. Three meaningful advantages might outweigh ten smaller conveniences.\n\nDecision Untangler helps you look beyond the list and explore what actually matters to you: https://decisionuntangler.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "decision-untangler-pros-cons-priorities-02",
+    "account": "garretts_dev_desk",
+    "theme": "weighing_decision_factors",
+    "series": "decision_untangler_pros_cons_priorities",
+    "scheduled_at": "2027-06-21T15:30:00-04:00",
+    "posts": [
+      "A pros-and-cons list gives every item roughly the same amount of space on the page. Your life probably doesn't.\n\nA shorter commute, meaningful work, better pay, and free coffee might each get one line, even though their impact on your everyday life could be very different.\n\nTry looking at your next list without counting the entries. Which factors would genuinely change your experience?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "decision-untangler-pros-cons-priorities-03",
+    "account": "garretts_dev_desk",
+    "theme": "meaningful_decision_factors",
+    "series": "decision_untangler_pros_cons_priorities",
+    "scheduled_at": "2027-06-22T09:15:00-04:00",
+    "posts": [
+      "Free parking and meaningful work can both appear under the \"pros\" column of a job comparison.\n\nBut one might save you a few dollars while the other shapes forty hours of your week. Treating them as equal points can hide what makes the decision important.\n\nDecision Untangler is designed to help you examine the priorities underneath your options: https://decisionuntangler.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "decision-untangler-pros-cons-priorities-04",
+    "account": "garretts_dev_desk",
+    "theme": "changing_personal_priorities",
+    "series": "decision_untangler_pros_cons_priorities",
+    "scheduled_at": "2027-06-22T15:30:00-04:00",
+    "posts": [
+      "The priorities guiding your decisions today may look different from the ones you had five years ago.\n\nMaybe career growth mattered most when you were starting out, but flexibility has become more valuable. Maybe stability is especially important right now, or you're ready to explore something unfamiliar.\n\nWhen comparing options, consider what matters in your current circumstances rather than relying on priorities you've outgrown."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "decision-untangler-pros-cons-priorities-05",
+    "account": "garretts_dev_desk",
+    "theme": "decision_priority_exercise",
+    "series": "decision_untangler_pros_cons_priorities",
+    "scheduled_at": "2027-06-23T09:15:00-04:00",
+    "posts": [
+      "Here's a simple exercise for your next pros-and-cons list: If you could keep only three items, which ones would survive?\n\nThose three may reveal more about your priorities than the total number of advantages on either side. Some things are worth mentioning, while others genuinely shape your choice.\n\nTry exploring those priorities with Decision Untangler: https://decisionuntangler.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "decision-untangler-pros-cons-priorities-06",
+    "account": "garretts_dev_desk",
+    "theme": "reflective_decision_making",
+    "series": "decision_untangler_pros_cons_priorities",
+    "scheduled_at": "2027-06-23T15:30:00-04:00",
+    "posts": [
+      "A pros-and-cons list can show you what's different between two options. It can't decide which differences deserve the most weight in your life.\n\nThat's where reflection becomes useful. You get to consider your circumstances, responsibilities, hopes, and the tradeoffs you're willing to accept.\n\nWhen you make a pros-and-cons list, do you usually count the items or focus on the few that matter most?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

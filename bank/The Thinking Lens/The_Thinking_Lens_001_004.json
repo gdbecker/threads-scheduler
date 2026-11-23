@@ -1,0 +1,80 @@
+[
+  {
+    "id": "thinking-lens-advice-to-a-friend-01",
+    "account": "garretts_dev_desk",
+    "theme": "giving_yourself_friendlier_advice",
+    "series": "thinking_lens_advice_to_a_friend",
+    "scheduled_at": "2027-10-11T09:15:00-04:00",
+    "posts": [
+      "Try giving yourself the advice you'd give a friend.\n\nWhen we're close to a difficult problem, it's easy to become impatient with ourselves or expect answers we wouldn't demand from someone else. A little distance can make the situation easier to understand.\n\nThe Thinking Lens helps you explore problems from different perspectives: https://thethinkinglens.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "thinking-lens-advice-to-a-friend-02",
+    "account": "garretts_dev_desk",
+    "theme": "coffee_conversation_thought_experiment",
+    "series": "thinking_lens_advice_to_a_friend",
+    "scheduled_at": "2027-10-11T15:30:00-04:00",
+    "posts": [
+      "Imagine a friend sitting across from you over coffee, describing the exact problem you're facing.\n\nThey have the same uncertainty, the same awkward details, and the same difficult choices. You can see their situation clearly because you're not carrying all the pressure yourself.\n\nTry writing down what you'd tell them. Would your advice be more patient, practical, or forgiving than what you've been telling yourself?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "thinking-lens-advice-to-a-friend-03",
+    "account": "garretts_dev_desk",
+    "theme": "reducing_unreasonable_expectations",
+    "series": "thinking_lens_advice_to_a_friend",
+    "scheduled_at": "2027-10-12T09:15:00-04:00",
+    "posts": [
+      "You probably wouldn't expect a friend to predict every possible outcome before making a decision.\n\nYou might encourage them to gather more information, consider their options, and take one reasonable step. Yet we sometimes expect ourselves to solve everything before moving forward.\n\nThe Thinking Lens helps you reconsider those expectations and explore another perspective: https://thethinkinglens.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "thinking-lens-advice-to-a-friend-04",
+    "account": "garretts_dev_desk",
+    "theme": "creating_distance_from_a_problem",
+    "series": "thinking_lens_advice_to_a_friend",
+    "scheduled_at": "2027-10-12T15:30:00-04:00",
+    "posts": [
+      "Sometimes a problem becomes easier to understand when you mentally move your chair back a little.\n\nBeing deeply involved can make certain assumptions feel like facts and temporary concerns feel permanent. Looking at the situation from a distance may reveal options you hadn't noticed.\n\nTry describing your problem as though you're explaining someone else's situation. What stands out when you remove yourself from the center of the story?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "thinking-lens-advice-to-a-friend-05",
+    "account": "garretts_dev_desk",
+    "theme": "asking_the_friend_question",
+    "series": "thinking_lens_advice_to_a_friend",
+    "scheduled_at": "2027-10-13T09:15:00-04:00",
+    "posts": [
+      "Here's a question worth asking when you're feeling stuck: What would I want someone I care about to remember right now?\n\nMaybe they don't need an answer today. Maybe they can ask for help, gather another detail, or try something smaller before committing. Those possibilities deserve consideration in your own situation too.\n\nExplore questions like this with The Thinking Lens: https://thethinkinglens.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "thinking-lens-advice-to-a-friend-06",
+    "account": "garretts_dev_desk",
+    "theme": "applying_compassionate_advice_to_yourself",
+    "series": "thinking_lens_advice_to_a_friend",
+    "scheduled_at": "2027-10-13T15:30:00-04:00",
+    "posts": [
+      "The patient advice you'd give someone else might be worth hearing yourself.\n\nA different perspective can help you recognize when you're being unnecessarily demanding, overlooking an option, or treating uncertainty as a personal failure. Sometimes the clarity you need is already present in how you'd help a friend.\n\nHave you ever given someone advice and realized afterward that you needed to hear those same words?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

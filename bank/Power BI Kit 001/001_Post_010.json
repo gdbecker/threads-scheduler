@@ -1,0 +1,80 @@
+[
+  {
+    "id": "pbi-financial-communication-01",
+    "account": "garretts_dev_desk",
+    "theme": "communicating_complex_financial_analysis_clearly",
+    "series": "pbi_financial_reporting_communication",
+    "scheduled_at": "2028-05-29T09:15:00-04:00",
+    "posts": [
+      "You spent hours understanding the numbers. Your audience might have five minutes to understand your report.\n\nThat's a familiar challenge for financial analysts, controllers, and consultants. All the work behind the analysis needs to become something other people can follow and use.\n\nI built my Financial Performance & Cash Flow Power BI Kit to provide a clearer reporting foundation: https://garrettsdevdesk.etsy.com/listing/4595413257/power-bi-financial-dashboard-template-13"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-financial-communication-02",
+    "account": "garretts_dev_desk",
+    "theme": "helping_stakeholders_understand_financial_metrics",
+    "series": "pbi_financial_reporting_communication",
+    "scheduled_at": "2028-05-29T15:30:00-04:00",
+    "posts": [
+      "When you work with financial data every day, it's easy to forget that your audience may see the numbers differently.\n\nSomeone might notice rising revenue without recognizing that margins are shrinking. Another person might focus on profitability without considering upcoming cash needs.\n\nBefore your next presentation, try identifying two metrics that need to be explained together. What context would help someone unfamiliar with the report understand their relationship?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-financial-communication-03",
+    "account": "garretts_dev_desk",
+    "theme": "organizing_financial_reports_around_clear_questions",
+    "series": "pbi_financial_reporting_communication",
+    "scheduled_at": "2028-05-30T09:15:00-04:00",
+    "posts": [
+      "Sometimes a financial report becomes easier to understand when you give each question its own place.\n\nHow is the business performing? Which operating entities are driving the results? What does the near-term cash position look like? Organizing those views helps people follow the analysis.\n\nMy Financial Performance & Cash Flow Power BI Kit includes three editable pages built around those questions: https://garrettsdevdesk.etsy.com/listing/4595413257/power-bi-financial-dashboard-template-13"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-financial-communication-04",
+    "account": "garretts_dev_desk",
+    "theme": "using_financial_visualizations_to_support_better_conversations",
+    "series": "pbi_financial_reporting_communication",
+    "scheduled_at": "2028-05-30T15:30:00-04:00",
+    "posts": [
+      "A well-chosen financial visual can help people recognize something that would be easy to miss in a table of numbers.\n\nRevenue and profitability trends can reveal changes over time, while entity comparisons help explain differences across operations. Each visual should support a useful question.\n\nTry reviewing your latest dashboard and asking what each chart helps the audience understand. Are there any visuals that could be simplified or removed?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-financial-communication-05",
+    "account": "garretts_dev_desk",
+    "theme": "turning_financial_analysis_into_meaningful_business_discussions",
+    "series": "pbi_financial_reporting_communication",
+    "scheduled_at": "2028-05-31T09:15:00-04:00",
+    "posts": [
+      "One of the most rewarding moments in financial reporting is when someone understands what you've been trying to explain.\n\nA clear presentation can lead to better questions about performance, priorities, and future plans. It gives the work behind the numbers a chance to contribute to the conversation.\n\nMy Financial Performance & Cash Flow Power BI Kit offers a customizable starting point: https://garrettsdevdesk.etsy.com/listing/4595413257/power-bi-financial-dashboard-template-13"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-financial-communication-06",
+    "account": "garretts_dev_desk",
+    "theme": "discussing_what_makes_financial_reporting_easy_to_understand",
+    "series": "pbi_financial_reporting_communication",
+    "scheduled_at": "2028-05-31T15:30:00-04:00",
+    "posts": [
+      "There's a real sense of satisfaction when someone looks at a financial report you've prepared and finally sees the story you've been working to explain.\n\nThe best reporting conversations often move beyond reading numbers aloud. People begin recognizing patterns, asking thoughtful questions, and discussing what the results mean for the business.\n\nFor anyone who presents financial information, what's helped you make a complicated financial concept easier for others to understand?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "community-minutes-future-reader-01",
+    "account": "garretts_dev_desk",
+    "theme": "long_term_meeting_records",
+    "series": "community_minutes_future_reader",
+    "scheduled_at": "2027-04-12T09:15:00-04:00",
+    "posts": [
+      "Imagine someone reading your meeting minutes six months from now. They weren't in the room, don't remember the conversation, and only have the record you left behind.\n\nWould they understand what happened and what still needs attention?\n\nI built Community Minutes to help volunteer boards and committees create clearer records: https://communityminutes.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "community-minutes-future-reader-02",
+    "account": "garretts_dev_desk",
+    "theme": "meeting_decision_clarity",
+    "series": "community_minutes_future_reader",
+    "scheduled_at": "2027-04-12T15:30:00-04:00",
+    "posts": [
+      "Six months after a board meeting, people probably won't need to know every comment made during the discussion.\n\nThey may need to know whether a project was approved, which vendor was selected, who agreed to follow up, or why an issue returned to the agenda.\n\nWhen reviewing your minutes, ask whether someone who missed the meeting could understand those outcomes without needing an explanation."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "community-minutes-future-reader-03",
+    "account": "garretts_dev_desk",
+    "theme": "meeting_minutes_structure",
+    "series": "community_minutes_future_reader",
+    "scheduled_at": "2027-04-13T09:15:00-04:00",
+    "posts": [
+      "A clear structure makes meeting minutes much easier to revisit months later.\n\nUse the agenda to organize topics, then keep the relevant motions, decisions, action items, and unresolved questions together. Readers shouldn't have to search through several pages to understand what happened with one issue.\n\nTry organizing your next meeting with Community Minutes: https://communityminutes.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "community-minutes-future-reader-04",
+    "account": "garretts_dev_desk",
+    "theme": "deferred_meeting_decisions",
+    "series": "community_minutes_future_reader",
+    "scheduled_at": "2027-04-13T15:30:00-04:00",
+    "posts": [
+      "\"No decision was made\" can be one of the most useful things to preserve in meeting minutes.\n\nIf a committee postponed a vote while waiting for another estimate, the record should explain what remained unresolved and what information was requested.\n\nThat context helps the next meeting pick up where the previous one ended without making an unfinished discussion sound settled."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "community-minutes-future-reader-05",
+    "account": "garretts_dev_desk",
+    "theme": "meeting_minutes_vs_summaries",
+    "series": "community_minutes_future_reader",
+    "scheduled_at": "2027-04-14T09:15:00-04:00",
+    "posts": [
+      "Formal meeting minutes and a community-friendly summary can serve different purposes.\n\nMinutes preserve the official record, including motions, votes, and decisions. A summary can explain the important outcomes in language that's easier for residents or members to follow.\n\nCommunity Minutes helps you prepare both: https://communityminutes.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "community-minutes-future-reader-06",
+    "account": "garretts_dev_desk",
+    "theme": "meeting_documentation_quality",
+    "series": "community_minutes_future_reader",
+    "scheduled_at": "2027-04-14T15:30:00-04:00",
+    "posts": [
+      "Good meeting minutes should still make sense after everyone's memory of the conversation has faded.\n\nPreserve what mattered, what was decided, what remained unresolved, and what needed to happen next. A clear record helps future board members and volunteers understand the work they inherited.\n\nHave you ever looked back at old meeting minutes and wished someone had included one more important detail?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

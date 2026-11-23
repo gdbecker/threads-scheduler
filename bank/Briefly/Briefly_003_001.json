@@ -1,0 +1,80 @@
+[
+  {
+    "id": "briefly-reader-needs-01",
+    "account": "garretts_dev_desk",
+    "theme": "business_communication",
+    "series": "briefly_reader_needs",
+    "scheduled_at": "2026-12-31T09:15:00-05:00",
+    "posts": [
+      "Before writing a project brief, there's one question worth answering: What does the reader actually need from this?\n\nAre they trying to understand progress, get up to speed, or make a decision? Knowing that changes what belongs in the document and how you organize it.\n\nThat's part of the thinking behind Briefly: https://briefly.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-reader-needs-02",
+    "account": "garretts_dev_desk",
+    "theme": "document_structure",
+    "series": "briefly_reader_needs",
+    "scheduled_at": "2026-12-31T15:30:00-05:00",
+    "posts": [
+      "Have you ever tried squeezing information into a familiar report template, even when the headings didn't quite fit?\n\nTemplates can save time, but they're only helpful when the structure matches the job. Sometimes changing the sections is easier than forcing your notes into the wrong places.\n\nDo you prefer flexible templates or a consistent format for every update?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-reader-needs-03",
+    "account": "garretts_dev_desk",
+    "theme": "professional_writing",
+    "series": "briefly_reader_needs",
+    "scheduled_at": "2027-01-01T09:15:00-05:00",
+    "posts": [
+      "Three questions can lead to three very different documents:\n\nWhere do we stand? A status update.\nWhat should I know? An executive brief.\nWhich option should we choose? A decision brief.\n\nThe information might overlap, but the reader's purpose changes what deserves attention.\n\nBriefly supports different brief types: https://briefly.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-reader-needs-04",
+    "account": "garretts_dev_desk",
+    "theme": "writing_workflows",
+    "series": "briefly_reader_needs",
+    "scheduled_at": "2027-01-01T15:30:00-05:00",
+    "posts": [
+      "Here's a small writing exercise that can save time when preparing a work update.\n\nBefore opening your template, finish this sentence: \"After reading this, I want this person to understand _____.\"\n\nOnce you have that answer, choosing the right sections and deciding what to include becomes much easier.\n\nTry it with your next brief."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-reader-needs-05",
+    "account": "garretts_dev_desk",
+    "theme": "clear_communication",
+    "series": "briefly_reader_needs",
+    "scheduled_at": "2027-01-02T09:15:00-05:00",
+    "posts": [
+      "Something can be important to a project without belonging in every update about that project.\n\nA leadership reader might need the decision and its impact. A project team might need the detailed tasks and dependencies.\n\nTry editing your next brief around what that particular reader needs to know.\n\nhttps://briefly.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-reader-needs-06",
+    "account": "garretts_dev_desk",
+    "theme": "workplace_productivity",
+    "series": "briefly_reader_needs",
+    "scheduled_at": "2027-01-02T15:30:00-05:00",
+    "posts": [
+      "It's tempting to start every new report with the same document you've used before.\n\nBut a better starting point is the question your reader needs answered. Once that's clear, you can organize the information around it instead of filling sections out of habit.\n\nI built Briefly to make that process easier: https://briefly.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

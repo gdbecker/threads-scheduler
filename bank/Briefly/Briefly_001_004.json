@@ -1,0 +1,80 @@
+[
+  {
+    "id": "briefly-next-steps-01",
+    "account": "garretts_dev_desk",
+    "theme": "project_communication",
+    "series": "briefly_next_steps",
+    "scheduled_at": "2026-11-30T09:15:00-05:00",
+    "posts": [
+      "Ever finish reading a project update and still wonder what you're supposed to do next?\n\nAn update can explain everything that happened and still leave the reader without a clear direction. A useful brief should make the next step easy to understand.\n\nThat's one reason I built Briefly: https://briefly.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-next-steps-02",
+    "account": "garretts_dev_desk",
+    "theme": "clear_communication",
+    "series": "briefly_next_steps",
+    "scheduled_at": "2026-11-30T15:30:00-05:00",
+    "posts": [
+      "If a project update includes an important action, don't make people hunt for it.\n\nTry giving next steps their own section instead of burying them in a paragraph of background information. Your reader should be able to find what needs doing in a few seconds.\n\nHow do you usually highlight action items in your updates?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-next-steps-03",
+    "account": "garretts_dev_desk",
+    "theme": "action_items",
+    "series": "briefly_next_steps",
+    "scheduled_at": "2026-12-01T09:15:00-05:00",
+    "posts": [
+      "\"Continue monitoring the situation\" sounds like an action item, but what does it actually mean?\n\nA useful follow-up answers three questions: Who's responsible? What are they checking? When will they report back?\n\nTry turning your next set of meeting notes into clear actions with Briefly: https://briefly.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-next-steps-04",
+    "account": "garretts_dev_desk",
+    "theme": "project_management",
+    "series": "briefly_next_steps",
+    "scheduled_at": "2026-12-01T15:30:00-05:00",
+    "posts": [
+      "Compare these two project updates:\n\n\"Follow up with the vendor.\"\n\n\"Morgan will check the vendor timeline Thursday and confirm whether May 15 is still realistic.\"\n\nThe second one gives everyone an owner, a specific task, and a timeline. Small details like these make follow-through much easier.\n\nhttps://briefly.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-next-steps-05",
+    "account": "garretts_dev_desk",
+    "theme": "workplace_productivity",
+    "series": "briefly_next_steps",
+    "scheduled_at": "2026-12-02T09:15:00-05:00",
+    "posts": [
+      "Sometimes the most helpful sentence in a project update is \"No action needed right now.\"\n\nIt tells the reader they can absorb the information and get back to their day without wondering whether they've missed an assignment.\n\nDo you prefer updates that explicitly say when no action is required?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-next-steps-06",
+    "account": "garretts_dev_desk",
+    "theme": "business_writing",
+    "series": "briefly_next_steps",
+    "scheduled_at": "2026-12-02T15:30:00-05:00",
+    "posts": [
+      "Before sending a project update, I like one final question: Will the reader know what to do with this information?\n\nThey might need to make a decision, complete a task, watch a risk, or simply stay informed. Making that clear is part of writing a useful brief.\n\nBuild your next one with Briefly: https://briefly.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

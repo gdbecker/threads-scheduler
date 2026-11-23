@@ -1,0 +1,80 @@
+[
+  {
+    "id": "pbi-sales-dashboard-design-01",
+    "account": "garretts_dev_desk",
+    "theme": "organizing_scattered_business_data_into_useful_reporting",
+    "series": "pbi_sales_dashboard_design",
+    "scheduled_at": "2028-06-15T09:15:00-04:00",
+    "posts": [
+      "More data doesn't automatically mean better reporting.\n\nA business can have plenty of sales, product, transaction, and purchasing records while still struggling to understand what's happening. A thoughtful dashboard structure helps turn those scattered numbers into something easier to explore.\n\nI built my Sales Performance & Commercial Operations Power BI Kit as a customizable reporting foundation: https://garrettsdevdesk.etsy.com/listing/4595438858/power-bi-sales-dashboard-template-sales"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-sales-dashboard-design-02",
+    "account": "garretts_dev_desk",
+    "theme": "prioritizing_essential_sales_metrics_in_dashboard_design",
+    "series": "pbi_sales_dashboard_design",
+    "scheduled_at": "2028-06-15T15:30:00-04:00",
+    "posts": [
+      "A dashboard becomes harder to use when every metric competes for attention.\n\nRevenue, orders, units sold, and average order value provide a useful starting point for understanding sales activity. Giving those measures a clear place helps people orient themselves before exploring the details.\n\nTry opening your latest sales report and identifying the four numbers someone should understand first. Are they immediately visible, or are they buried among less important information?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-sales-dashboard-design-03",
+    "account": "garretts_dev_desk",
+    "theme": "structuring_commercial_dashboards_around_reporting_questions",
+    "series": "pbi_sales_dashboard_design",
+    "scheduled_at": "2028-06-16T09:15:00-04:00",
+    "posts": [
+      "Different business questions deserve different reporting views.\n\nSales trends, product performance, transaction records, and purchasing activity each tell part of the commercial story. Organizing them into dedicated pages helps people focus on the information they need.\n\nMy Sales Performance & Commercial Operations Power BI Kit includes four editable dashboards built around those areas: https://garrettsdevdesk.etsy.com/listing/4595438858/power-bi-sales-dashboard-template-sales"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-sales-dashboard-design-04",
+    "account": "garretts_dev_desk",
+    "theme": "connecting_dashboard_summaries_with_underlying_business_details",
+    "series": "pbi_sales_dashboard_design",
+    "scheduled_at": "2028-06-16T15:30:00-04:00",
+    "posts": [
+      "A good dashboard summary should make people curious about the details behind it.\n\nA revenue total might lead to questions about product rankings. A transaction trend might prompt a closer look at payment methods. Purchasing totals may lead to questions about overdue invoices.\n\nTry reviewing one of your dashboards and tracing a headline metric back to its supporting detail. Can someone follow that path without needing a separate explanation?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-sales-dashboard-design-05",
+    "account": "garretts_dev_desk",
+    "theme": "building_customizable_power_bi_reporting_foundations",
+    "series": "pbi_sales_dashboard_design",
+    "scheduled_at": "2028-06-17T09:15:00-04:00",
+    "posts": [
+      "A useful Power BI dashboard should be something you can adapt as reporting needs change.\n\nStarting with an organized structure gives you room to refine visuals, adjust measures, apply your branding, and connect your own data sources. Documentation makes that customization easier to approach.\n\nMy Sales Performance & Commercial Operations Power BI Kit includes editable pages, sample data, and guides: https://garrettsdevdesk.etsy.com/listing/4595438858/power-bi-sales-dashboard-template-sales"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-sales-dashboard-design-06",
+    "account": "garretts_dev_desk",
+    "theme": "discussing_what_makes_business_dashboards_easier_to_use",
+    "series": "pbi_sales_dashboard_design",
+    "scheduled_at": "2028-06-17T15:30:00-04:00",
+    "posts": [
+      "The most useful dashboards often feel simple, even when there's considerable work happening behind the scenes.\n\nClear priorities, consistent layouts, and accessible supporting details help people explore information without getting lost. Thoughtful organization can make a real difference in how reporting is used.\n\nFor anyone who builds or uses business dashboards, what's one design choice that consistently makes a report easier to understand?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

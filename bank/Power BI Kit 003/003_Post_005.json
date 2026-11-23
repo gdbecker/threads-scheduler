@@ -1,0 +1,80 @@
+[
+  {
+    "id": "pbi-workforce-target-periods-01",
+    "account": "garretts_dev_desk",
+    "theme": "understanding_misleading_sales_target_attainment",
+    "series": "pbi_workforce_target_period_alignment",
+    "scheduled_at": "2028-08-03T09:15:00-04:00",
+    "posts": [
+      "Your sales target might be telling you the wrong story.\n\nA target attainment percentage depends on the numbers being compared. If sales and targets cover different periods, the result can make performance look better or worse than it actually is.\n\nMy Workforce Performance & Sales Activity Power BI Kit includes employee targets, attainment measures, and time-based sales analysis: https://garrettsdevdesk.etsy.com/listing/4595444828/power-bi-sales-performance-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-workforce-target-periods-02",
+    "account": "garretts_dev_desk",
+    "theme": "avoiding_mismatched_sales_and_target_reporting_periods",
+    "series": "pbi_workforce_target_period_alignment",
+    "scheduled_at": "2028-08-03T15:30:00-04:00",
+    "posts": [
+      "One month of sales shouldn't be compared with six months of targets.\n\nThat mismatch can make target attainment appear much lower than it really is. The percentage may be calculated correctly while the underlying comparison is misleading.\n\nTry reviewing a target attainment measure in one of your reports. Do the sales and target figures cover exactly the same dates? Check the filters and calculation logic before relying on the result."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-workforce-target-periods-03",
+    "account": "garretts_dev_desk",
+    "theme": "calculating_target_attainment_with_aligned_date_ranges",
+    "series": "pbi_workforce_target_period_alignment",
+    "scheduled_at": "2028-08-04T09:15:00-04:00",
+    "posts": [
+      "A useful sales target comparison starts with matching time periods.\n\nTarget attainment is generally calculated as sales divided by the applicable target, multiplied by 100. The important detail is making sure both figures represent the same reporting window.\n\nMy Workforce Performance & Sales Activity Power BI Kit includes documented measures and editable reporting pages to customize: https://garrettsdevdesk.etsy.com/listing/4595444828/power-bi-sales-performance-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-workforce-target-periods-04",
+    "account": "garretts_dev_desk",
+    "theme": "accounting_for_employee_eligibility_in_sales_targets",
+    "series": "pbi_workforce_target_period_alignment",
+    "scheduled_at": "2028-08-04T15:30:00-04:00",
+    "posts": [
+      "Matching dates is important, but employee eligibility can matter just as much when evaluating sales targets.\n\nSomeone hired partway through a reporting period may have a different applicable target than an employee who worked the entire period. Monthly target assignments can also vary.\n\nTry reviewing how your reporting handles hire dates, eligibility, and partial periods. Are employees being compared against targets that actually applied to them?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-workforce-target-periods-05",
+    "account": "garretts_dev_desk",
+    "theme": "building_more_meaningful_employee_target_reporting",
+    "series": "pbi_workforce_target_period_alignment",
+    "scheduled_at": "2028-08-05T09:15:00-04:00",
+    "posts": [
+      "A target attainment percentage is only as useful as the comparison behind it.\n\nReporting periods, employee eligibility, and assigned targets all influence how performance should be interpreted. Thoughtful calculations help make employee comparisons more meaningful.\n\nMy Workforce Performance & Sales Activity Power BI Kit provides three editable dashboard pages, fictional sample data, and documented DAX: https://garrettsdevdesk.etsy.com/listing/4595444828/power-bi-sales-performance-dashboard"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-workforce-target-periods-06",
+    "account": "garretts_dev_desk",
+    "theme": "discussing_common_sales_target_reporting_mistakes",
+    "series": "pbi_workforce_target_period_alignment",
+    "scheduled_at": "2028-08-05T15:30:00-04:00",
+    "posts": [
+      "Sales target attainment can look precise while hiding a misleading comparison.\n\nA percentage might be mathematically correct but still use mismatched reporting periods, outdated targets, or employees who weren't eligible for the entire period. Those details can change how the result should be interpreted.\n\nFor analysts and sales managers, what's the most common issue you've encountered when calculating or reviewing target attainment?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "budget-snapshot-estimate-uncertainty-01",
+    "account": "garretts_dev_desk",
+    "theme": "reserve_planning_estimates",
+    "series": "budget_snapshot_estimate_uncertainty",
+    "scheduled_at": "2027-03-15T09:15:00-04:00",
+    "posts": [
+      "A spreadsheet can make future expenses look surprisingly certain.\n\nA roof replacement scheduled for 2032 at $246,750 looks precise on paper. But the actual timing and cost will depend on conditions that haven't happened yet.\n\nGood financial planning makes room for that uncertainty.\n\nI built Budget Snapshot to help communities communicate their financial plans more clearly: https://budgetsnapshot.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "budget-snapshot-estimate-uncertainty-02",
+    "account": "garretts_dev_desk",
+    "theme": "long_term_financial_planning",
+    "series": "budget_snapshot_estimate_uncertainty",
+    "scheduled_at": "2027-03-15T15:30:00-04:00",
+    "posts": [
+      "\"Someday we'll need to replace the roof\" isn't much of a funding plan for an HOA.\n\nCommunities need reasonable estimates of future costs and timelines to decide how much to prepare today. Those estimates give the organization something practical to plan around, even when the final expense remains uncertain.\n\nThe goal is to make informed decisions with the information currently available."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "budget-snapshot-estimate-uncertainty-03",
+    "account": "garretts_dev_desk",
+    "theme": "financial_communication",
+    "series": "budget_snapshot_estimate_uncertainty",
+    "scheduled_at": "2027-03-16T09:15:00-04:00",
+    "posts": [
+      "Small wording choices can make a big difference when presenting an HOA's long-term financial plans.\n\n\"The roof will cost $250,000 in 2032\" sounds like a promise. \"The plan currently estimates $250,000 for replacement around 2032\" leaves room for uncertainty.\n\nThat distinction helps homeowners understand what the numbers actually represent.\n\nExplore Budget Snapshot: https://budgetsnapshot.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "budget-snapshot-estimate-uncertainty-04",
+    "account": "garretts_dev_desk",
+    "theme": "reserve_plan_updates",
+    "series": "budget_snapshot_estimate_uncertainty",
+    "scheduled_at": "2027-03-16T15:30:00-04:00",
+    "posts": [
+      "An updated reserve estimate doesn't automatically mean the previous HOA plan was poorly prepared.\n\nConstruction prices change, inspections reveal new information, and equipment sometimes lasts longer or shorter than expected.\n\nA responsible plan should evolve as better information becomes available. Updating assumptions is part of maintaining a useful financial forecast."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "budget-snapshot-estimate-uncertainty-05",
+    "account": "garretts_dev_desk",
+    "theme": "responsible_reserve_planning",
+    "series": "budget_snapshot_estimate_uncertainty",
+    "scheduled_at": "2027-03-17T09:15:00-04:00",
+    "posts": [
+      "Responsible reserve planning doesn't require predicting a contractor's invoice ten years in advance.\n\nIt means making reasonable estimates, preparing for future responsibilities, and reviewing the assumptions as conditions change.\n\nWhen communicating an HOA's finances, acknowledge what is known and what remains uncertain.\n\nBudget Snapshot: https://budgetsnapshot.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "budget-snapshot-estimate-uncertainty-06",
+    "account": "garretts_dev_desk",
+    "theme": "financial_forecast_transparency",
+    "series": "budget_snapshot_estimate_uncertainty",
+    "scheduled_at": "2027-03-17T15:30:00-04:00",
+    "posts": [
+      "Sometimes the most accurate thing you can say about a precise financial number is \"This is our best estimate today.\"\n\nLong-term HOA budgets and reserve plans depend on assumptions about costs, timing, and future conditions. Those assumptions deserve to be communicated alongside the figures.\n\nWhen reviewing a financial forecast, do you prefer a single estimate or a range of possible outcomes?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]
