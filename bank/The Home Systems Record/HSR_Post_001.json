@@ -1,31 +1,5 @@
 [
   {
-    "id": "home-systems-record-01",
-    "account": "garretts_dev_desk",
-    "theme": "finding_important_home_information_when_something_breaks",
-    "series": "home_systems_record_home_organization",
-    "scheduled_at": "2028-11-23T09:15:00-05:00",
-    "posts": [
-      "Something in your house breaks. Suddenly, you need information you haven't thought about in years.\n\nThe model number, warranty, last repair, or contact information for whoever serviced it. Those details are easy to overlook until you need them.\n\nI created The Home Systems Record to help homeowners keep important information together in printable worksheets: https://garrettsdevdesk.etsy.com/listing/4596839999/home-maintenance-binder-printable-pdf"
-    ],
-    "media": [],
-    "alt": [],
-    "status": "queued"
-  },
-  {
-    "id": "home-systems-record-02",
-    "account": "garretts_dev_desk",
-    "theme": "reducing_the_frustration_of_searching_for_home_maintenance_records",
-    "series": "home_systems_record_home_organization",
-    "scheduled_at": "2028-11-23T15:30:00-05:00",
-    "posts": [
-      "Sometimes the frustrating part of a home repair starts before anyone picks up a tool.\n\nYou're searching for a manual, wondering whether the warranty is still active, or trying to remember who handled the last repair. A little preparation can make those moments easier.\n\nTry choosing one major appliance today. Find its model number, warranty information, and service history, then put those details in one place."
-    ],
-    "media": [],
-    "alt": [],
-    "status": "queued"
-  },
-  {
     "id": "home-systems-record-03",
     "account": "garretts_dev_desk",
     "theme": "creating_a_simple_reference_system_for_home_equipment_and_maintenance",
