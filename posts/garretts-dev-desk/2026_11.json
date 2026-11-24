@@ -16,7 +16,17 @@
       }
     ],
     "alt": [],
-    "status": "queued"
+    "status": "posted",
+    "posted_at": "2026-11-24T16:04:50.786Z",
+    "threads_posts": [
+      {
+        "text": "A good customer support KPI can hide a frustrating customer experience.\n\nFast resolutions, strong SLA performance, and high satisfaction scores don't always tell the same story. A team might be meeting its targets while certain customers are still waiting too long or struggling to get useful answers.\n\nI built a free Customer Support Performance Power BI Kit to help connect these metrics: https://garrettsdevdesk.etsy.com/listing/4593960875/power-bi-customer-support-dashboard",
+        "threads_creation_id": "18139197256792961",
+        "threads_post_id": "18124695653310347",
+        "posted_at": "2026-11-24T16:04:50.786Z"
+      }
+    ],
+    "error": null
   },
   {
     "id": "pbi-support-metrics-02",
