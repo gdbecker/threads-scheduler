@@ -1,31 +1,5 @@
 [
   {
-    "id": "briefly-clear-updates-01",
-    "account": "garretts_dev_desk",
-    "theme": "workplace_productivity",
-    "series": "briefly_clear_updates",
-    "scheduled_at": "2026-11-18T09:15:00-05:00",
-    "posts": [
-      "A project update that should take 15 minutes somehow takes an hour. Sound familiar?\n\nA lot of that time goes into figuring out what matters before you even start writing. Briefly helps you organize those scattered notes into a clear, useful brief.\n\nhttps://briefly.garrettsdevdesk.com"
-    ],
-    "media": [],
-    "alt": [],
-    "status": "queued"
-  },
-  {
-    "id": "briefly-clear-updates-02",
-    "account": "garretts_dev_desk",
-    "theme": "project_communication",
-    "series": "briefly_clear_updates",
-    "scheduled_at": "2026-11-18T15:30:00-05:00",
-    "posts": [
-      "Your next project update is probably hiding in five different places: meeting notes, spreadsheets, messages, deadlines, and your own memory.\n\nGetting everything together is often the hardest part. Briefly gives you a place to turn those scattered details into something useful.\n\nhttps://briefly.garrettsdevdesk.com"
-    ],
-    "media": [],
-    "alt": [],
-    "status": "queued"
-  },
-  {
     "id": "briefly-clear-updates-03",
     "account": "garretts_dev_desk",
     "theme": "writing_workflows",

@@ -1,31 +1,5 @@
 [
   {
-    "id": "community-minutes-not-a-transcript-01",
-    "account": "garretts_dev_desk",
-    "theme": "meeting_minutes_best_practices",
-    "series": "community_minutes_not_a_transcript",
-    "scheduled_at": "2027-03-25T09:15:00-04:00",
-    "posts": [
-      "Meeting minutes aren't supposed to be a transcript of everything everyone said.\n\nFor HOA boards, nonprofits, and volunteer committees, the real value is preserving what the group considered, decided, and agreed to do next.\n\nI built Community Minutes to make organizing that record a little easier: https://communityminutes.garrettsdevdesk.com"
-    ],
-    "media": [],
-    "alt": [],
-    "status": "queued"
-  },
-  {
-    "id": "community-minutes-not-a-transcript-02",
-    "account": "garretts_dev_desk",
-    "theme": "effective_meeting_documentation",
-    "series": "community_minutes_not_a_transcript",
-    "scheduled_at": "2027-03-25T15:30:00-04:00",
-    "posts": [
-      "More detail doesn't automatically make meeting minutes more useful.\n\nA long account of every conversation can make important decisions and follow-up responsibilities harder to find.\n\nWhen reviewing your draft, look for four things: what was discussed, what was decided, who needs to take action, and what remains unresolved. Give those details the attention they deserve."
-    ],
-    "media": [],
-    "alt": [],
-    "status": "queued"
-  },
-  {
     "id": "community-minutes-not-a-transcript-03",
     "account": "garretts_dev_desk",
     "theme": "meeting_note_workflow",

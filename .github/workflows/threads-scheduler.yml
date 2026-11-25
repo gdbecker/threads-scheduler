@@ -2,7 +2,18 @@ name: Threads Scheduler
 
 on:
   schedule:
-    - cron: "*/15 * * * *"
+    # Morning posting window: 9:17-9:42 AM Eastern
+    - cron: "17-42/5 9 * * *"
+      timezone: "America/New_York"
+
+    # Afternoon posting window: 3:02-3:27 PM Eastern
+    - cron: "2-27/5 15 * * *"
+      timezone: "America/New_York"
+
+    # Backup checks: 12:07 PM and 6:07 PM Eastern
+    - cron: "7 12,18 * * *"
+      timezone: "America/New_York"
+
   workflow_dispatch:
 
 permissions:
