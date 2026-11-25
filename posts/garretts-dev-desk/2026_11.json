@@ -39,7 +39,18 @@
     ],
     "media": [],
     "alt": [],
-    "status": "queued"
+    "status": "posted",
+    "posted_at": "2026-11-25T01:35:01.492Z",
+    "threads_posts": [
+      {
+        "index": 0,
+        "text": "Before judging a support team's performance, look at the workload it's handling.\n\nA rise in ticket volume might reflect a product issue, seasonal demand, or increased customer activity. The total alone won't explain what's happening.\n\nTry breaking ticket volume down by channel, category, and time period. Those comparisons can help you understand whether the team is facing a general increase in demand or a specific problem that needs attention.",
+        "threads_creation_id": "18139250692792961",
+        "threads_post_id": "18095453432204590",
+        "posted_at": "2026-11-25T01:34:58.489Z"
+      }
+    ],
+    "error": null
   },
   {
     "id": "pbi-subscription-health-01",
