@@ -69,7 +69,17 @@
       }
     ],
     "alt": [],
-    "status": "queued"
+    "status": "posted",
+    "posted_at": "2026-11-25T20:41:19.540Z",
+    "threads_posts": [
+      {
+        "text": "MRR is growing. That doesn't automatically mean your subscription business is healthy.\n\nRecurring revenue can increase while customer churn, plan downgrades, or slowing customer growth create problems underneath the headline number. Understanding the full picture means looking beyond revenue alone.\n\nMy Subscription Health Power BI Kit brings these measures together: https://garrettsdevdesk.etsy.com/listing/4595420792/power-bi-subscription-dashboard-template",
+        "threads_creation_id": "18139358119792961",
+        "threads_post_id": "18027423212712827",
+        "posted_at": "2026-11-25T20:41:19.540Z"
+      }
+    ],
+    "error": null
   },
   {
     "id": "pbi-subscription-health-02",
@@ -82,7 +92,18 @@
     ],
     "media": [],
     "alt": [],
-    "status": "queued"
+    "status": "posted",
+    "posted_at": "2026-11-25T20:41:30.194Z",
+    "threads_posts": [
+      {
+        "index": 0,
+        "text": "Monthly recurring revenue gives you a useful starting point for understanding a subscription business.\n\nTrack MRR over time to see whether the recurring revenue base is expanding, contracting, or staying relatively stable. Then look at the size and consistency of those changes rather than focusing only on the latest total.\n\nTry comparing the last six months of MRR. Is growth accelerating, slowing, or becoming more unpredictable?",
+        "threads_creation_id": "18139358149792961",
+        "threads_post_id": "18135791956687156",
+        "posted_at": "2026-11-25T20:41:27.191Z"
+      }
+    ],
+    "error": null
   },
   {
     "id": "pbi-financial-perspectives-01",
