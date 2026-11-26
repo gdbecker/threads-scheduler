@@ -122,7 +122,17 @@
       }
     ],
     "alt": [],
-    "status": "queued"
+    "status": "posted",
+    "posted_at": "2026-11-26T22:58:56.563Z",
+    "threads_posts": [
+      {
+        "text": "A business can report strong profits and still face pressure on its cash flow.\n\nRevenue and profitability help explain financial performance, but they don't always show when money will actually arrive or leave the business. Understanding both perspectives matters when planning ahead.\n\nMy Financial Performance & Cash Flow Power BI Kit brings these views together: https://garrettsdevdesk.etsy.com/listing/4595413257/power-bi-financial-dashboard-template-13",
+        "threads_creation_id": "18139510447792961",
+        "threads_post_id": "17980087596150119",
+        "posted_at": "2026-11-26T22:58:56.563Z"
+      }
+    ],
+    "error": null
   },
   {
     "id": "pbi-financial-perspectives-02",
@@ -135,7 +145,18 @@
     ],
     "media": [],
     "alt": [],
-    "status": "queued"
+    "status": "posted",
+    "posted_at": "2026-11-26T22:59:06.557Z",
+    "threads_posts": [
+      {
+        "index": 0,
+        "text": "Revenue is growing, margins are holding steady, and cash balances are declining. What does that tell you?\n\nEach measure describes a different part of financial performance. The combination may point toward working capital needs, payment timing, or other factors worth investigating.\n\nTry reviewing revenue, profitability, and cash trends side by side for the same reporting periods. Where do the trends agree, and where do they tell different stories?",
+        "threads_creation_id": "18139510480792961",
+        "threads_post_id": "18443564224176476",
+        "posted_at": "2026-11-26T22:59:03.555Z"
+      }
+    ],
+    "error": null
   },
   {
     "id": "pbi-sales-operations-01",
