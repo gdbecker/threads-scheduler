@@ -1,31 +1,5 @@
 [
   {
-    "id": "community-minutes-not-a-transcript-03",
-    "account": "garretts_dev_desk",
-    "theme": "meeting_note_workflow",
-    "series": "community_minutes_not_a_transcript",
-    "scheduled_at": "2027-03-26T09:15:00-04:00",
-    "posts": [
-      "Your working meeting notes don't have to look like polished minutes.\n\nCapture enough detail during the conversation to understand what happened. Afterward, organize the important information into a clear record of topics, decisions, motions, and action items.\n\nCommunity Minutes helps turn that process into a more manageable workflow: https://communityminutes.garrettsdevdesk.com"
-    ],
-    "media": [],
-    "alt": [],
-    "status": "queued"
-  },
-  {
-    "id": "community-minutes-not-a-transcript-04",
-    "account": "garretts_dev_desk",
-    "theme": "recording_board_decisions",
-    "series": "community_minutes_not_a_transcript",
-    "scheduled_at": "2027-03-26T15:30:00-04:00",
-    "posts": [
-      "\"Landscaping approved\" might seem perfectly clear during an HOA board meeting. A month later, someone may wonder what was actually authorized.\n\nWhich vendor was selected? What amount was approved? What work was included?\n\nWhen a decision happens, slow down and capture the details needed to understand it later. A few precise words can prevent a lot of confusion."
-    ],
-    "media": [],
-    "alt": [],
-    "status": "queued"
-  },
-  {
     "id": "community-minutes-not-a-transcript-05",
     "account": "garretts_dev_desk",
     "theme": "decisions_and_action_items",

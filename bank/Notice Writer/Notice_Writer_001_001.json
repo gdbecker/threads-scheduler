@@ -1,57 +1,5 @@
 [
   {
-    "id": "notice-writer-calm-violation-notices-01",
-    "account": "garretts_dev_desk",
-    "theme": "professional_violation_notices",
-    "series": "notice_writer_calm_violation_notices",
-    "scheduled_at": "2027-07-29T09:15:00-04:00",
-    "posts": [
-      "An HOA violation notice doesn't have to sound angry to be taken seriously.\n\nFormality and hostility are different things. A calm message can clearly identify a concern, explain the expectation, and communicate a deadline without making the resident feel personally attacked.\n\nNotice Writer helps community volunteers create clearer, more professional notices: https://noticewriter.garrettsdevdesk.com"
-    ],
-    "media": [],
-    "alt": [],
-    "status": "queued"
-  },
-  {
-    "id": "notice-writer-calm-violation-notices-02",
-    "account": "garretts_dev_desk",
-    "theme": "fact_based_violation_language",
-    "series": "notice_writer_calm_violation_notices",
-    "scheduled_at": "2027-07-29T15:30:00-04:00",
-    "posts": [
-      "When writing a violation notice, describe what was observed rather than how frustrating it feels.\n\nWords like \"unsightly\" or \"unacceptable\" can make a message sound personal. Specific details about the condition, location, and applicable requirement give residents something concrete to understand and address.\n\nTry reviewing your next notice for subjective language. Could you replace it with an observable fact?"
-    ],
-    "media": [],
-    "alt": [],
-    "status": "queued"
-  },
-  {
-    "id": "notice-writer-calm-violation-notices-03",
-    "account": "garretts_dev_desk",
-    "theme": "clear_notice_requirements",
-    "series": "notice_writer_calm_violation_notices",
-    "scheduled_at": "2027-07-30T09:15:00-04:00",
-    "posts": [
-      "A useful violation notice should leave residents knowing exactly what happens next.\n\nWhat was observed? What requirement applies? What needs to change, and by what date? Those details make a notice much easier to understand than a general statement that something is wrong.\n\nNotice Writer helps organize community communications around clear, actionable information: https://noticewriter.garrettsdevdesk.com"
-    ],
-    "media": [],
-    "alt": [],
-    "status": "queued"
-  },
-  {
-    "id": "notice-writer-calm-violation-notices-04",
-    "account": "garretts_dev_desk",
-    "theme": "firm_but_respectful_deadlines",
-    "series": "notice_writer_calm_violation_notices",
-    "scheduled_at": "2027-07-30T15:30:00-04:00",
-    "posts": [
-      "Firm communication doesn't require threatening language.\n\n\"Please correct the issue by September 30\" establishes a clear expectation. If the association's established process includes a follow-up inspection or another step, explain that plainly rather than adding unnecessary warnings.\n\nBefore sending a notice, check whether the deadline, required action, and next steps are understandable without an aggressive tone."
-    ],
-    "media": [],
-    "alt": [],
-    "status": "queued"
-  },
-  {
     "id": "notice-writer-calm-violation-notices-05",
     "account": "garretts_dev_desk",
     "theme": "consistent_hoa_communication",

@@ -1,0 +1,936 @@
+[
+  {
+    "id": "home-systems-record-01",
+    "account": "garretts_dev_desk",
+    "theme": "finding_important_home_information_when_something_breaks",
+    "series": "home_systems_record_home_organization",
+    "scheduled_at": "2026-12-01T09:15:00-05:00",
+    "posts": [
+      "Something in your house breaks. Suddenly, you need information you haven't thought about in years.\n\nThe model number, warranty, last repair, or contact information for whoever serviced it. Those details are easy to overlook until you need them.\n\nI created The Home Systems Record to help homeowners keep important information together in printable worksheets: https://garrettsdevdesk.etsy.com/listing/4596839999/home-maintenance-binder-printable-pdf"
+    ],
+    "media": [
+      {
+        "type": "image",
+        "path": "media/garretts_dev_desk/the_home_systems_record/cover1.png",
+        "alt": "Preview of The Home Systems Record"
+      }
+    ],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "home-systems-record-02",
+    "account": "garretts_dev_desk",
+    "theme": "reducing_the_frustration_of_searching_for_home_maintenance_records",
+    "series": "home_systems_record_home_organization",
+    "scheduled_at": "2026-12-01T15:30:00-05:00",
+    "posts": [
+      "Sometimes the frustrating part of a home repair starts before anyone picks up a tool.\n\nYou're searching for a manual, wondering whether the warranty is still active, or trying to remember who handled the last repair. A little preparation can make those moments easier.\n\nTry choosing one major appliance today. Find its model number, warranty information, and service history, then put those details in one place."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-clear-updates-01",
+    "account": "garretts_dev_desk",
+    "theme": "workplace_productivity",
+    "series": "briefly_clear_updates",
+    "scheduled_at": "2026-12-02T09:15:00-05:00",
+    "posts": [
+      "A project update that should take 15 minutes somehow takes an hour. Sound familiar?\n\nA lot of that time goes into figuring out what matters before you even start writing. Briefly helps you organize those scattered notes into a clear, useful brief.\n\nhttps://briefly.garrettsdevdesk.com"
+    ],
+    "media": [
+      {
+        "type": "image",
+        "path": "media/garretts_dev_desk/briefly/briefly_social_preview.png",
+        "alt": "Preview of the Briefly web app"
+      }
+    ],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-clear-updates-02",
+    "account": "garretts_dev_desk",
+    "theme": "project_communication",
+    "series": "briefly_clear_updates",
+    "scheduled_at": "2026-12-02T15:30:00-05:00",
+    "posts": [
+      "Your next project update is probably hiding in five different places: meeting notes, spreadsheets, messages, deadlines, and your own memory.\n\nGetting everything together is often the hardest part. Briefly gives you a place to turn those scattered details into something useful.\n\nhttps://briefly.garrettsdevdesk.com"
+    ],
+    "media": [
+      {
+        "type": "image",
+        "path": "media/garretts_dev_desk/briefly/briefly_social_preview.png",
+        "alt": "Preview of the Briefly web app"
+      }
+    ],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "budget-snapshot-hoa-clarity-01",
+    "account": "garretts_dev_desk",
+    "theme": "hoa_budget_communication",
+    "series": "budget_snapshot_hoa_clarity",
+    "scheduled_at": "2026-12-03T09:15:00-05:00",
+    "posts": [
+      "An HOA budget can be completely accurate and still leave homeowners confused.\n\nBalancing the numbers is important, but so is helping people understand what their dues support, why expenses are changing, and how the community is preparing for future needs.\n\nI built Budget Snapshot to help make those conversations clearer: https://budgetsnapshot.garrettsdevdesk.com"
+    ],
+    "media": [
+      {
+        "type": "image",
+        "path": "media/garretts_dev_desk/budget_snapshot/budget_snapshot_social_preview.png",
+        "alt": "Preview of the Budget Snapshot web app"
+      }
+    ],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "budget-snapshot-hoa-clarity-02",
+    "account": "garretts_dev_desk",
+    "theme": "homeowner_communication",
+    "series": "budget_snapshot_hoa_clarity",
+    "scheduled_at": "2026-12-03T15:30:00-05:00",
+    "posts": [
+      "Most homeowners aren't looking for an accounting lesson when they review their HOA's annual budget.\n\nThey're wondering why dues changed, where their money goes, and whether the association is preparing for future expenses.\n\nA useful budget summary should answer those questions in everyday language.\n\nWhich question do you think HOA boards hear most often about their budgets?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "community-minutes-not-a-transcript-01",
+    "account": "garretts_dev_desk",
+    "theme": "meeting_minutes_best_practices",
+    "series": "community_minutes_not_a_transcript",
+    "scheduled_at": "2026-12-04T09:15:00-04:00",
+    "posts": [
+      "Meeting minutes aren't supposed to be a transcript of everything everyone said.\n\nFor HOA boards, nonprofits, and volunteer committees, the real value is preserving what the group considered, decided, and agreed to do next.\n\nI built Community Minutes to make organizing that record a little easier: https://communityminutes.garrettsdevdesk.com"
+    ],
+    "media": [
+      {
+        "type": "image",
+        "path": "media/garretts_dev_desk/community_minutes/community_minutes_social_preview.png",
+        "alt": "Preview of the Community Minutes web app"
+      }
+    ],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "community-minutes-not-a-transcript-02",
+    "account": "garretts_dev_desk",
+    "theme": "effective_meeting_documentation",
+    "series": "community_minutes_not_a_transcript",
+    "scheduled_at": "2026-12-04T15:30:00-04:00",
+    "posts": [
+      "More detail doesn't automatically make meeting minutes more useful.\n\nA long account of every conversation can make important decisions and follow-up responsibilities harder to find.\n\nWhen reviewing your draft, look for four things: what was discussed, what was decided, who needs to take action, and what remains unresolved. Give those details the attention they deserve."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "decision-untangler-hidden-tradeoffs-01",
+    "account": "garretts_dev_desk",
+    "theme": "decision_indecision",
+    "series": "decision_untangler_hidden_tradeoffs",
+    "scheduled_at": "2026-12-05T09:15:00-04:00",
+    "posts": [
+      "Ever feel like you've made the same decision five times without actually deciding?\n\nOption A feels right on Monday. Option B looks better on Tuesday. By Wednesday, you're researching everything again and wondering why you can't settle on an answer.\n\nSometimes it helps to look underneath the options. Decision Untangler is designed for that kind of reflection: https://decisionuntangler.garrettsdevdesk.com"
+    ],
+    "media": [
+      {
+        "type": "image",
+        "path": "media/garretts_dev_desk/decision_untangler/decision_untangler_social_preview.png",
+        "alt": "Preview of the Decision Untangler web app"
+      }
+    ],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "decision-untangler-hidden-tradeoffs-02",
+    "account": "garretts_dev_desk",
+    "theme": "overthinking_decisions",
+    "series": "decision_untangler_hidden_tradeoffs",
+    "scheduled_at": "2026-12-05TT15:30:00-04:00",
+    "posts": [
+      "Going back and forth on a decision doesn't always mean you need more information.\n\nSometimes you've already considered the practical details several times. Another round of research may bring you back to the same unanswered questions.\n\nTry writing down what you genuinely don't know yet. If the list is short, the difficulty may have more to do with the tradeoffs than the available facts."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "notice-writer-calm-violation-notices-01",
+    "account": "garretts_dev_desk",
+    "theme": "professional_violation_notices",
+    "series": "notice_writer_calm_violation_notices",
+    "scheduled_at": "2026-12-06T09:15:00-04:00",
+    "posts": [
+      "An HOA violation notice doesn't have to sound angry to be taken seriously.\n\nFormality and hostility are different things. A calm message can clearly identify a concern, explain the expectation, and communicate a deadline without making the resident feel personally attacked.\n\nNotice Writer helps community volunteers create clearer, more professional notices: https://noticewriter.garrettsdevdesk.com"
+    ],
+    "media": [
+      {
+        "type": "image",
+        "path": "media/garretts_dev_desk/notice_writer/notice_writer_social_preview.png",
+        "alt": "Preview of the Notice Writer web app"
+      }
+    ],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "notice-writer-calm-violation-notices-02",
+    "account": "garretts_dev_desk",
+    "theme": "fact_based_violation_language",
+    "series": "notice_writer_calm_violation_notices",
+    "scheduled_at": "2026-12-06T15:30:00-04:00",
+    "posts": [
+      "When writing a violation notice, describe what was observed rather than how frustrating it feels.\n\nWords like \"unsightly\" or \"unacceptable\" can make a message sound personal. Specific details about the condition, location, and applicable requirement give residents something concrete to understand and address.\n\nTry reviewing your next notice for subjective language. Could you replace it with an observable fact?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "thinking-lens-changing-perspectives-01",
+    "account": "garretts_dev_desk",
+    "theme": "changing_perspective_instead_of_overthinking",
+    "series": "thinking_lens_changing_perspectives",
+    "scheduled_at": "2026-12-07T09:15:00-04:00",
+    "posts": [
+      "Sometimes you don't need to think harder about a problem. You may just need to look at it from somewhere else.\n\nIt's easy to spend hours revisiting the same concerns without discovering anything new. A different perspective can reveal questions and possibilities that weren't obvious before.\n\nThat's the idea behind The Thinking Lens, a tool from Garrett's Dev Desk designed to help you explore your thinking from different angles: https://thethinkinglens.garrettsdevdesk.com"
+    ],
+    "media": [
+      {
+        "type": "image",
+        "path": "media/garretts_dev_desk/the_thinking_lens/the_thinking_lens_social_preview.png",
+        "alt": "Preview of The Thinking Lens web app"
+      }
+    ],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "thinking-lens-changing-perspectives-02",
+    "account": "garretts_dev_desk",
+    "theme": "recognizing_repetitive_thinking",
+    "series": "thinking_lens_changing_perspectives",
+    "scheduled_at": "2026-12-07T15:30:00-04:00",
+    "posts": [
+      "Have you ever spent an entire afternoon thinking about something, only to realize you're asking yourself the same questions you started with?\n\nMore time doesn't always produce a better perspective. Sometimes we're simply taking another lap around a familiar problem.\n\nTry writing down the question you've been repeating. Then ask yourself whether answering it would actually help you move forward, or whether there's a more useful question to explore."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-forgotten-exceptions-01",
+    "account": "garretts_dev_desk",
+    "theme": "remembering_items_outside_daily_routines",
+    "series": "waf_forgotten_exceptions",
+    "scheduled_at": "2026-12-08T09:15:00-05:00",
+    "posts": [
+      "The things we forget aren't usually the obvious things.\n\nPhone, wallet, and keys have become part of our routine. It's the lunch waiting in the fridge, the paperwork beside the printer, or the gift sitting by the stairs that gets left behind.\n\nI built What Am I Forgetting? to help catch those everyday oversights before they become inconvenient surprises: https://whatamiforgetting.garrettsdevdesk.com"
+    ],
+    "media": [
+      {
+        "type": "image",
+        "path": "media/garretts_dev_desk/what_am_i_forgetting/what_am_i_forgetting_social_preview.png",
+        "alt": "Preview of the What Am I Forgetting? web app"
+      }
+    ],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-forgotten-exceptions-02",
+    "account": "garretts_dev_desk",
+    "theme": "noticing_temporary_items_before_leaving",
+    "series": "waf_forgotten_exceptions",
+    "scheduled_at": "2026-12-08T15:30:00-05:00",
+    "posts": [
+      "Our routines remember a surprising amount for us. The exceptions are where things get tricky.\n\nYou rarely forget your everyday bag, but you might forget the charger you borrowed, the library book you're returning, or the package that needs to go in the car.\n\nBefore leaving tomorrow, try asking yourself what you're taking that isn't part of your usual routine. That one question can be more useful than mentally reviewing everything you own."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-support-metrics-03",
+    "account": "garretts_dev_desk",
+    "theme": "comparing_first_response_and_resolution_times",
+    "series": "pbi_customer_support_metrics",
+    "scheduled_at": "2026-12-09T09:15:00-05:00",
+    "posts": [
+      "A fast first response doesn't necessarily mean a customer received a fast solution.\n\nFirst response time measures the initial wait. Resolution time measures how long it takes to actually solve the issue. Looking at both helps reveal whether customers are getting meaningful progress after that first interaction.\n\nMy Customer Support Performance Power BI Kit brings these measures together: https://garrettsdevdesk.etsy.com/listing/4593960875/power-bi-customer-support-dashboard"
+    ],
+    "media": [
+      {
+        "type": "image",
+        "path": "media/garretts_dev_desk/power_bi/000a_cover.png",
+        "alt": "Preview of the Customer Support Performance Power BI Kit"
+      }
+    ],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-support-metrics-04",
+    "account": "garretts_dev_desk",
+    "theme": "finding_hidden_service_level_gaps",
+    "series": "pbi_customer_support_metrics",
+    "scheduled_at": "2026-12-09T15:30:00-05:00",
+    "posts": [
+      "An overall SLA achievement rate of 94% might look reassuring. But what if billing tickets are only meeting their targets 87% of the time?\n\nAggregated performance can hide important differences between customer issues, priorities, and support channels. Those differences often point toward more useful operational questions.\n\nTry reviewing SLA performance by category or priority instead of stopping at the overall percentage. Where are expectations being missed most often?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-subscription-health-03",
+    "account": "garretts_dev_desk",
+    "theme": "explaining_mrr_changes_with_revenue_movements",
+    "series": "pbi_subscription_health_foundations",
+    "scheduled_at": "2026-12-10T09:15:00-04:00",
+    "posts": [
+      "Your MRR increased this month. Where did that growth actually come from?\n\nNew subscriptions and expansions add recurring revenue. Contractions and churn reduce it. Looking at those movements separately helps explain whether growth is coming from acquisition, existing customers, or a combination of both.\n\nMy Subscription Health Power BI Kit includes MRR movement reporting: https://garrettsdevdesk.etsy.com/listing/4595420792/power-bi-subscription-dashboard-template"
+    ],
+    "media": [
+      {
+        "type": "image",
+        "path": "media/garretts_dev_desk/power_bi/000b_cover.png",
+        "alt": "Preview of the Subscription Health Power BI Kit"
+      }
+    ],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-subscription-health-04",
+    "account": "garretts_dev_desk",
+    "theme": "connecting_recurring_revenue_with_customer_growth",
+    "series": "pbi_subscription_health_foundations",
+    "scheduled_at": "2026-12-10T15:30:00-04:00",
+    "posts": [
+      "Growing recurring revenue and growing your customer base aren't always the same thing.\n\nMRR might increase because existing customers upgrade, even while the total number of customers declines. That could be worth investigating, especially if churn is also rising.\n\nTry placing MRR, active customers, new customers, and churn side by side for the same period. What does the combination reveal that revenue alone would have missed?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-financial-perspectives-03",
+    "account": "garretts_dev_desk",
+    "theme": "creating_a_consolidated_financial_performance_overview",
+    "series": "pbi_financial_performance_perspectives",
+    "scheduled_at": "2026-12-11T09:15:00-04:00",
+    "posts": [
+      "Financial reporting becomes more useful when you can see how revenue, profitability, and margins move together.\n\nA trailing-twelve-month view can help reveal longer trends, while adjusted EBITDA and margin measures add context to the headline revenue number.\n\nThe Performance Overview page in my Financial Performance & Cash Flow Power BI Kit brings these measures together: https://garrettsdevdesk.etsy.com/listing/4595413257/power-bi-financial-dashboard-template-13"
+    ],
+    "media": [
+      {
+        "type": "image",
+        "path": "media/garretts_dev_desk/power_bi/001_cover.png",
+        "alt": "Preview of the Financial Performance & Cash Flow Power BI Kit"
+      }
+    ],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-financial-perspectives-04",
+    "account": "garretts_dev_desk",
+    "theme": "comparing_financial_performance_across_operating_entities",
+    "series": "pbi_financial_performance_perspectives",
+    "scheduled_at": "2026-12-11T15:30:00-04:00",
+    "posts": [
+      "A consolidated financial result can hide meaningful differences between operating entities.\n\nOne entity might generate strong revenue but lower margins, while another contributes less revenue with stronger profitability. Looking beneath the total helps explain which parts of the business are driving performance.\n\nTry comparing adjusted EBITDA margins across entities. Which differences deserve a closer look, and how have those relationships changed over time?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-sales-operations-03",
+    "account": "garretts_dev_desk",
+    "theme": "analyzing_product_brand_and_category_sales_performance",
+    "series": "pbi_sales_commercial_operations",
+    "scheduled_at": "2026-12-12T09:15:00-04:00",
+    "posts": [
+      "Not every product contributes equally to a business's sales performance.\n\nComparing revenue across products, brands, and categories helps reveal where sales are concentrated. Adding inventory context can make those comparisons even more useful for commercial planning.\n\nMy Sales Performance & Commercial Operations Power BI Kit includes a dedicated Product Performance dashboard: https://garrettsdevdesk.etsy.com/listing/4595438858/power-bi-sales-dashboard-template-sales"
+    ],
+    "media": [
+      {
+        "type": "image",
+        "path": "media/garretts_dev_desk/power_bi/002_cover.png",
+        "alt": "Preview of the Sales Performance & Commercial Operations Power BI Kit"
+      }
+    ],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-sales-operations-04",
+    "account": "garretts_dev_desk",
+    "theme": "reviewing_sales_transactions_payments_and_posting_activity",
+    "series": "pbi_sales_commercial_operations",
+    "scheduled_at": "2026-12-12T15:30:00-04:00",
+    "posts": [
+      "A sales total is the result of many individual transactions, and those details can tell their own story.\n\nTransaction values, taxes, payment methods, and posting activity provide context for how sales appear in the underlying records. Reviewing them can help explain differences between summary figures and transaction-level activity.\n\nTry selecting one reporting period and comparing its sales summary with the transaction records. What questions become easier to answer?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-workforce-performance-03",
+    "account": "garretts_dev_desk",
+    "theme": "comparing_employee_sales_performance_fairly",
+    "series": "pbi_workforce_sales_performance",
+    "scheduled_at": "2026-12-13T09:15:00-04:00",
+    "posts": [
+      "Two employees can generate similar revenue while contributing differently to overall performance.\n\nTarget attainment, gross profit, and productivity can reveal distinctions that revenue alone doesn't capture. Comparisons become more useful when you consider the context behind the numbers.\n\nMy Workforce Performance & Sales Activity Power BI Kit includes a dedicated Employee Performance dashboard: https://garrettsdevdesk.etsy.com/listing/4595444828/power-bi-sales-performance-dashboard"
+    ],
+    "media": [
+      {
+        "type": "image",
+        "path": "media/garretts_dev_desk/power_bi/003_cover.png",
+        "alt": "Preview of the Workforce Performance & Sales Activity Power BI Kit"
+      }
+    ],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-workforce-performance-04",
+    "account": "garretts_dev_desk",
+    "theme": "identifying_product_and_location_sales_drivers",
+    "series": "pbi_workforce_sales_performance",
+    "scheduled_at": "2026-12-13T15:30:00-04:00",
+    "posts": [
+      "A strong sales result can look very different when you examine the products and locations behind it.\n\nOne location might generate more revenue while another produces stronger margins. Product mix and sales volume can also influence the overall picture.\n\nTry comparing your locations using revenue, gross margin, and product mix rather than ranking them on sales alone. What differences become visible?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-field-performance-03",
+    "account": "garretts_dev_desk",
+    "theme": "evaluating_field_employee_performance_beyond_rankings",
+    "series": "pbi_field_team_performance_overview",
+    "scheduled_at": "2026-12-14T09:15:00-04:00",
+    "posts": [
+      "The employee who completes the most jobs isn't automatically the strongest performer.\n\nTeam benchmarks, recent trends, and consistency over time can add important context to individual results. Comparing several measures helps managers ask better questions about performance.\n\nMy Field Team Performance Power BI Kit includes a dedicated Employee Performance dashboard: https://garrettsdevdesk.etsy.com/listing/4595448076/power-bi-field-team-performance"
+    ],
+    "media": [
+      {
+        "type": "image",
+        "path": "media/garretts_dev_desk/power_bi/004_cover.png",
+        "alt": "Preview of the Field Team Performance Power BI Kit"
+      }
+    ],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-field-performance-04",
+    "account": "garretts_dev_desk",
+    "theme": "monitoring_field_service_quality_and_reliability",
+    "series": "pbi_field_team_performance_overview",
+    "scheduled_at": "2026-12-14T15:30:00-04:00",
+    "posts": [
+      "Finishing a field service job is important. Understanding whether the work holds up matters, too.\n\nRepeat visits, restoration time, and customer commitments can help reveal service reliability issues that completion totals alone might miss.\n\nTry reviewing your field team's completed jobs alongside repeat work and service timing. Look for patterns worth investigating, especially where high activity coincides with recurring quality concerns."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-bd-pipeline-03",
+    "account": "garretts_dev_desk",
+    "theme": "comparing_business_development_activity_with_goal_attainment",
+    "series": "pbi_business_development_pipeline_overview",
+    "scheduled_at": "2026-12-15T09:15:00-04:00",
+    "posts": [
+      "A busy business development team isn't necessarily a team that's meeting its goals.\n\nActivity totals can show effort, but contributions, targets, and attainment help explain the results. Reviewing those measures together gives managers a clearer view of where the team stands.\n\nMy Business Development Performance Power BI Kit includes a dedicated team performance view: https://garrettsdevdesk.etsy.com/listing/4595453904/power-bi-business-development-dashboard"
+    ],
+    "media": [
+      {
+        "type": "image",
+        "path": "media/garretts_dev_desk/power_bi/005_cover.png",
+        "alt": "Preview of the Business Development Performance Power BI Kit"
+      }
+    ],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-bd-pipeline-04",
+    "account": "garretts_dev_desk",
+    "theme": "analyzing_opportunity_size_probability_and_service_line_mix",
+    "series": "pbi_business_development_pipeline_overview",
+    "scheduled_at": "2026-12-15T15:30:00-04:00",
+    "posts": [
+      "Two business development pipelines with the same total value can look very different underneath.\n\nOne may depend on a few large, uncertain opportunities. Another may contain smaller opportunities with stronger win probabilities across several service lines. Both deserve a closer look.\n\nTry reviewing your five largest open opportunities. Compare their values, probabilities, service lines, and client relationships to understand what is driving your pipeline."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-clear-updates-03",
+    "account": "garretts_dev_desk",
+    "theme": "writing_workflows",
+    "series": "briefly_clear_updates",
+    "scheduled_at": "2026-12-16T09:15:00-05:00",
+    "posts": [
+      "One small change can make writing work updates easier: stop trying to organize and polish everything at once.\n\nCollect your rough notes first. Figure out the message second. Then worry about the wording.\n\nThat's the kind of workflow I built Briefly to support.\n\nhttps://briefly.garrettsdevdesk.com"
+    ],
+    "media": [
+      {
+        "type": "image",
+        "path": "media/garretts_dev_desk/briefly/briefly_social_preview.png",
+        "alt": "Preview of the Briefly web app"
+      }
+    ],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "briefly-clear-updates-04",
+    "account": "garretts_dev_desk",
+    "theme": "clear_communication",
+    "series": "briefly_clear_updates",
+    "scheduled_at": "2026-12-16T15:30:00-05:00",
+    "posts": [
+      "Before sending your next project update, ask four questions:\n\nWhat changed? What matters now? What's blocked? What happens next?\n\nAnswer those clearly and you've already done much of the important work. Briefly helps put those answers into a structured update.\n\nhttps://briefly.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "budget-snapshot-hoa-clarity-03",
+    "account": "garretts_dev_desk",
+    "theme": "financial_transparency",
+    "series": "budget_snapshot_hoa_clarity",
+    "scheduled_at": "2026-12-17T09:15:00-05:00",
+    "posts": [
+      "Before asking homeowners to work through pages of budget line items, give them the big picture.\n\nStart with annual dues, major expenses, reserve contributions, and the biggest changes from last year. That context makes the detailed numbers easier to understand.\n\nBudget Snapshot helps organize community financial information into a clearer presentation: https://budgetsnapshot.garrettsdevdesk.com"
+    ],
+    "media": [
+      {
+        "type": "image",
+        "path": "media/garretts_dev_desk/budget_snapshot/budget_snapshot_social_preview.png",
+        "alt": "Preview of the Budget Snapshot web app"
+      }
+    ],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "budget-snapshot-hoa-clarity-04",
+    "account": "garretts_dev_desk",
+    "theme": "budget_explanations",
+    "series": "budget_snapshot_hoa_clarity",
+    "scheduled_at": "2026-12-17T15:30:00-05:00",
+    "posts": [
+      "Not every line item deserves the same amount of attention in an HOA budget presentation.\n\nIf insurance costs increased substantially while office supplies barely changed, homeowners probably need more explanation about insurance.\n\nTry identifying the three expenses driving the biggest changes before writing your next budget summary. Those are often good places to start the conversation."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "community-minutes-not-a-transcript-03",
+    "account": "garretts_dev_desk",
+    "theme": "meeting_note_workflow",
+    "series": "community_minutes_not_a_transcript",
+    "scheduled_at": "2026-12-18T09:15:00-04:00",
+    "posts": [
+      "Your working meeting notes don't have to look like polished minutes.\n\nCapture enough detail during the conversation to understand what happened. Afterward, organize the important information into a clear record of topics, decisions, motions, and action items.\n\nCommunity Minutes helps turn that process into a more manageable workflow: https://communityminutes.garrettsdevdesk.com"
+    ],
+    "media": [
+      {
+        "type": "image",
+        "path": "media/garretts_dev_desk/community_minutes/community_minutes_social_preview.png",
+        "alt": "Preview of the Community Minutes web app"
+      }
+    ],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "community-minutes-not-a-transcript-04",
+    "account": "garretts_dev_desk",
+    "theme": "recording_board_decisions",
+    "series": "community_minutes_not_a_transcript",
+    "scheduled_at": "2026-12-18T15:30:00-04:00",
+    "posts": [
+      "\"Landscaping approved\" might seem perfectly clear during an HOA board meeting. A month later, someone may wonder what was actually authorized.\n\nWhich vendor was selected? What amount was approved? What work was included?\n\nWhen a decision happens, slow down and capture the details needed to understand it later. A few precise words can prevent a lot of confusion."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "decision-untangler-hidden-tradeoffs-03",
+    "account": "garretts_dev_desk",
+    "theme": "decision_reflection_questions",
+    "series": "decision_untangler_hidden_tradeoffs",
+    "scheduled_at": "2026-12-19T09:15:00-04:00",
+    "posts": [
+      "Two options can look equally reasonable on paper and still leave you feeling stuck.\n\nMaybe the difficulty isn't figuring out which one has the better features, salary, location, or timeline. Maybe each option represents something important that you don't want to give up.\n\nTry asking, \"What does each choice represent to me?\" That question can reveal more than another pros-and-cons list."
+    ],
+    "media": [
+      {
+        "type": "image",
+        "path": "media/garretts_dev_desk/decision_untangler/decision_untangler_social_preview.png",
+        "alt": "Preview of the Decision Untangler web app"
+      }
+    ],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "decision-untangler-hidden-tradeoffs-04",
+    "account": "garretts_dev_desk",
+    "theme": "values_and_tradeoffs",
+    "series": "decision_untangler_hidden_tradeoffs",
+    "scheduled_at": "2026-12-19T15:30:00-04:00",
+    "posts": [
+      "Choosing between two jobs might really mean weighing stability against possibility.\n\nMoving somewhere new might bring up familiarity versus a fresh start. Starting a project might involve safety, curiosity, or the fear of missing an opportunity.\n\nTry naming what each option represents before comparing the practical details again. Decision Untangler can help you explore those questions: https://decisionuntangler.garrettsdevdesk.com"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "notice-writer-calm-violation-notices-03",
+    "account": "garretts_dev_desk",
+    "theme": "clear_notice_requirements",
+    "series": "notice_writer_calm_violation_notices",
+    "scheduled_at": "2026-12-20T09:15:00-04:00",
+    "posts": [
+      "A useful violation notice should leave residents knowing exactly what happens next.\n\nWhat was observed? What requirement applies? What needs to change, and by what date? Those details make a notice much easier to understand than a general statement that something is wrong.\n\nNotice Writer helps organize community communications around clear, actionable information: https://noticewriter.garrettsdevdesk.com"
+    ],
+    "media": [
+      {
+        "type": "image",
+        "path": "media/garretts_dev_desk/notice_writer/notice_writer_social_preview.png",
+        "alt": "Preview of the Notice Writer web app"
+      }
+    ],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "notice-writer-calm-violation-notices-04",
+    "account": "garretts_dev_desk",
+    "theme": "firm_but_respectful_deadlines",
+    "series": "notice_writer_calm_violation_notices",
+    "scheduled_at": "2026-12-20T15:30:00-04:00",
+    "posts": [
+      "Firm communication doesn't require threatening language.\n\n\"Please correct the issue by September 30\" establishes a clear expectation. If the association's established process includes a follow-up inspection or another step, explain that plainly rather than adding unnecessary warnings.\n\nBefore sending a notice, check whether the deadline, required action, and next steps are understandable without an aggressive tone."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "home-systems-record-03",
+    "account": "garretts_dev_desk",
+    "theme": "creating_a_simple_reference_system_for_home_equipment_and_maintenance",
+    "series": "home_systems_record_home_organization",
+    "scheduled_at": "2026-12-21T09:15:00-05:00",
+    "posts": [
+      "Your home doesn't necessarily need another planner. It needs a reliable place for important information.\n\nEquipment details, warranties, repair records, and service contacts are much easier to use when they're organized together instead of scattered across drawers and inboxes.\n\nThat's the idea behind The Home Systems Record, a printable home reference pack: https://garrettsdevdesk.etsy.com/listing/4596839999/home-maintenance-binder-printable-pdf"
+    ],
+    "media": [
+      {
+        "type": "image",
+        "path": "media/garretts_dev_desk/the_home_systems_record/cover1.png",
+        "alt": "Preview of The Home Systems Record"
+      }
+    ],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "home-systems-record-04",
+    "account": "garretts_dev_desk",
+    "theme": "identifying_the_essential_information_to_include_in_a_home_reference_binder",
+    "series": "home_systems_record_home_organization",
+    "scheduled_at": "2026-12-21T15:30:00-05:00",
+    "posts": [
+      "A useful home maintenance record doesn't have to be complicated.\n\nStart with four categories: equipment and model numbers, warranties and documents, shutoff locations and service contacts, and repair or replacement history. These are the details that become especially valuable when something needs attention.\n\nTry making a one-page reference for your water heater or HVAC system. You can build the rest of your home record gradually."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "thinking-lens-changing-perspectives-03",
+    "account": "garretts_dev_desk",
+    "theme": "exploring_multiple_thinking_lenses",
+    "series": "thinking_lens_changing_perspectives",
+    "scheduled_at": "2026-12-22T09:15:00-04:00",
+    "posts": [
+      "Imagine moving to a different chair every time you reconsider a difficult decision.\n\nFrom one chair, you notice the risks. From another, you see your assumptions. Somewhere else, you recognize what you still don't know. The problem hasn't changed, but your view of it has.\n\nThe Thinking Lens from Garrett's Dev Desk helps you explore those different perspectives without losing sight of your own judgment: https://thethinkinglens.garrettsdevdesk.com"
+    ],
+    "media": [
+      {
+        "type": "image",
+        "path": "media/garretts_dev_desk/the_thinking_lens/the_thinking_lens_social_preview.png",
+        "alt": "Preview of The Thinking Lens web app"
+      }
+    ],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "thinking-lens-changing-perspectives-04",
+    "account": "garretts_dev_desk",
+    "theme": "asking_more_productive_questions",
+    "series": "thinking_lens_changing_perspectives",
+    "scheduled_at": "2026-12-22T15:30:00-04:00",
+    "posts": [
+      "When you're stuck on a problem, changing the question can be more useful than trying to force an answer.\n\nInstead of asking what you should do for the tenth time, consider what information is missing, which assumptions you're making, or what you could test before committing.\n\nTry choosing just one of those questions today. Write down your answer and see whether it reveals a next step you hadn't considered."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-forgotten-exceptions-03",
+    "account": "garretts_dev_desk",
+    "theme": "asking_better_questions_to_prevent_forgetting",
+    "series": "waf_forgotten_exceptions",
+    "scheduled_at": "2026-12-23T09:15:00-05:00",
+    "posts": [
+      "Here's a question worth asking before you walk out the door: What do I need today that I don't normally carry?\n\nIt changes the way you think about getting ready. Instead of checking the familiar essentials again, you start looking for the unusual things that are easy to overlook.\n\nWhat Am I Forgetting? gives you a simple place to think through those details: https://whatamiforgetting.garrettsdevdesk.com"
+    ],
+    "media": [
+      {
+        "type": "image",
+        "path": "media/garretts_dev_desk/what_am_i_forgetting/what_am_i_forgetting_social_preview.png",
+        "alt": "Preview of the What Am I Forgetting? web app"
+      }
+    ],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "waf-forgotten-exceptions-04",
+    "account": "garretts_dev_desk",
+    "theme": "using_physical_locations_as_memory_prompts",
+    "series": "waf_forgotten_exceptions",
+    "scheduled_at": "2026-12-2315:30:00-05:00",
+    "posts": [
+      "Sometimes your house is a better checklist than your memory.\n\nThe fridge holds the lunch you packed. The outlet holds the charger you need. The printer holds the document you meant to bring. And the kitchen counter seems to collect everything else.\n\nBefore heading out, take thirty seconds to scan the places where temporary items tend to wait. It's a small habit that can save you an unnecessary trip back home."
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-support-metrics-05",
+    "account": "garretts_dev_desk",
+    "theme": "connecting_efficiency_metrics_with_customer_satisfaction",
+    "series": "pbi_customer_support_metrics",
+    "scheduled_at": "2026-12-26T09:15:00-05:00",
+    "posts": [
+      "A support team can become more efficient without customers becoming more satisfied.\n\nThat's why CSAT deserves a place beside ticket volume, response time, resolution time, and SLA performance. When the numbers move in different directions, there's usually a useful question worth investigating.\n\nI created a customizable Power BI dashboard kit to help explore those relationships: https://garrettsdevdesk.etsy.com/listing/4593960875/power-bi-customer-support-dashboard"
+    ],
+    "media": [
+      {
+        "type": "image",
+        "path": "media/garretts_dev_desk/power_bi/000a_cover.png",
+        "alt": "Preview of the Customer Support Performance Power BI Kit"
+      }
+    ],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-support-metrics-06",
+    "account": "garretts_dev_desk",
+    "theme": "building_a_complete_picture_of_support_performance",
+    "series": "pbi_customer_support_metrics",
+    "scheduled_at": "2026-12-26T15:30:00-05:00",
+    "posts": [
+      "Good customer support reporting should help you understand the experience behind the numbers.\n\nTicket volume shows demand. Response and resolution times show different parts of the service journey. SLA performance adds expectations, while CSAT brings the customer's perspective into the picture.\n\nIf you could add one metric or comparison to your current support dashboard, what would help you make better decisions?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-subscription-health-05",
+    "account": "garretts_dev_desk",
+    "theme": "identifying_subscription_churn_risks_by_segment",
+    "series": "pbi_subscription_health_foundations",
+    "scheduled_at": "2026-12-27T09:15:00-04:00",
+    "posts": [
+      "An overall churn rate can look manageable while one customer segment is struggling.\n\nA subscription business might be retaining enterprise customers well while losing smaller accounts at a faster rate. Looking at churn by segment or plan can reveal differences hidden by the company-wide average.\n\nMy Subscription Health Power BI Kit helps explore subscription performance across segments: https://garrettsdevdesk.etsy.com/listing/4595420792/power-bi-subscription-dashboard-template"
+    ],
+    "media": [
+      {
+        "type": "image",
+        "path": "media/garretts_dev_desk/power_bi/000b_cover.png",
+        "alt": "Preview of the Subscription Health Power BI Kit"
+      }
+    ],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-subscription-health-06",
+    "account": "garretts_dev_desk",
+    "theme": "evaluating_subscription_business_health_beyond_revenue",
+    "series": "pbi_subscription_health_foundations",
+    "scheduled_at": "2026-12-27T15:30:00-04:00",
+    "posts": [
+      "Subscription health becomes clearer when you examine several measures together.\n\nMRR shows the recurring revenue base. Customer growth shows how the subscriber population is changing. Churn, contraction, and expansion help explain what is happening underneath those totals.\n\nIf you were reviewing a subscription business, which metric would you want to examine immediately after seeing its MRR growth?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-financial-perspectives-05",
+    "account": "garretts_dev_desk",
+    "theme": "using_a_thirteen_week_cash_forecast_for_short_term_planning",
+    "series": "pbi_financial_performance_perspectives",
+    "scheduled_at": "2026-12-28T09:15:00-04:00",
+    "posts": [
+      "A profitable business still needs to know whether it can meet its upcoming cash obligations.\n\nA 13-week cash forecast helps bring projected inflows, outflows, balances, and available credit into view. It gives financial performance a forward-looking perspective that historical results alone cannot provide.\n\nMy Financial Performance & Cash Flow Power BI Kit includes a cash forecast page: https://garrettsdevdesk.etsy.com/listing/4595413257/power-bi-financial-dashboard-template-13"
+    ],
+    "media": [
+      {
+        "type": "image",
+        "path": "media/garretts_dev_desk/power_bi/001_cover.png",
+        "alt": "Preview of the Financial Performance & Cash Flow Power BI Kit"
+      }
+    ],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-financial-perspectives-06",
+    "account": "garretts_dev_desk",
+    "theme": "discussing_the_relationship_between_profitability_and_cash_availability",
+    "series": "pbi_financial_performance_perspectives",
+    "scheduled_at": "2026-12-28T15:30:00-04:00",
+    "posts": [
+      "A good financial dashboard should help people understand several connected questions about the business.\n\nHow profitable are operations? Which entities contribute most to performance? What does the near-term cash position look like? Each perspective helps make the overall picture more useful for planning and discussion.\n\nFor anyone involved in financial reporting, which do you find more challenging to explain to stakeholders: profitability trends or cash flow expectations?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-sales-operations-05",
+    "account": "garretts_dev_desk",
+    "theme": "connecting_sales_reporting_with_purchasing_and_vendor_activity",
+    "series": "pbi_sales_commercial_operations",
+    "scheduled_at": "2026-12-29T09:15:00-04:00",
+    "posts": [
+      "Sales reporting tells you what's coming in. Purchasing activity adds another important perspective.\n\nVendor spending, purchasing trends, invoice status, and overdue amounts help explain another side of commercial operations. Bringing those measures into the reporting process supports more informed discussions.\n\nMy Sales Performance & Commercial Operations Power BI Kit includes a Purchasing & Vendor Activity page: https://garrettsdevdesk.etsy.com/listing/4595438858/power-bi-sales-dashboard-template-sales"
+    ],
+    "media": [
+      {
+        "type": "image",
+        "path": "media/garretts_dev_desk/power_bi/002_cover.png",
+        "alt": "Preview of the Sales Performance & Commercial Operations Power BI Kit"
+      }
+    ],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-sales-operations-06",
+    "account": "garretts_dev_desk",
+    "theme": "discussing_what_makes_commercial_reporting_useful",
+    "series": "pbi_sales_commercial_operations",
+    "scheduled_at": "2026-12-29T15:30:00-04:00",
+    "posts": [
+      "A useful commercial dashboard should help people understand more than how much revenue the business generated.\n\nProduct performance, transaction details, payment activity, and purchasing trends each add context to the overall picture. Together, they can support better questions about how the business operates.\n\nFor anyone who works with sales or commercial reporting, which metric or reporting view do you find most useful beyond total revenue?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-workforce-performance-05",
+    "account": "garretts_dev_desk",
+    "theme": "connecting_workforce_location_and_product_reporting",
+    "series": "pbi_workforce_sales_performance",
+    "scheduled_at": "2026-12-30T09:15:00-04:00",
+    "posts": [
+      "Good sales reporting should help you explore how different parts of the business contribute to results.\n\nA workforce overview establishes context, employee comparisons reveal individual contributions, and location and product analysis helps explain performance drivers.\n\nMy Workforce Performance & Sales Activity Power BI Kit organizes these areas into three editable pages with sample data and documentation: https://garrettsdevdesk.etsy.com/listing/4595444828/power-bi-sales-performance-dashboard"
+    ],
+    "media": [
+      {
+        "type": "image",
+        "path": "media/garretts_dev_desk/power_bi/003_cover.png",
+        "alt": "Preview of the Workforce Performance & Sales Activity Power BI Kit"
+      }
+    ],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-workforce-performance-06",
+    "account": "garretts_dev_desk",
+    "theme": "discussing_what_drives_workforce_and_sales_results",
+    "series": "pbi_workforce_sales_performance",
+    "scheduled_at": "2026-12-30T15:30:00-04:00",
+    "posts": [
+      "Sales performance is shaped by more than the final revenue number.\n\nEmployees, targets, profitability, product mix, and location activity all contribute to the results a business reports. Looking at those dimensions together can make performance discussions more useful.\n\nFor anyone who manages sales teams or builds performance dashboards, which measure has helped you understand results that revenue alone couldn't explain?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-field-performance-05",
+    "account": "garretts_dev_desk",
+    "theme": "connecting_field_activity_labor_hours_and_productivity",
+    "series": "pbi_field_team_performance_overview",
+    "scheduled_at": "2026-12-31T09:15:00-04:00",
+    "posts": [
+      "Where does your field team's workday actually go?\n\nComparing completed activities with labor hours can provide a useful productivity measure. Adding billable output and quality information gives that measure more context, especially when different jobs require different amounts of effort.\n\nMy Field Team Performance Power BI Kit includes a Field Activity & Productivity dashboard: https://garrettsdevdesk.etsy.com/listing/4595448076/power-bi-field-team-performance"
+    ],
+    "media": [
+      {
+        "type": "image",
+        "path": "media/garretts_dev_desk/power_bi/004_cover.png",
+        "alt": "Preview of the Field Team Performance Power BI Kit"
+      }
+    ],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-field-performance-06",
+    "account": "garretts_dev_desk",
+    "theme": "discussing_what_defines_strong_field_team_performance",
+    "series": "pbi_field_team_performance_overview",
+    "scheduled_at": "2026-12-31T15:30:00-04:00",
+    "posts": [
+      "A productive field team needs more than a packed schedule.\n\nCompletion rates, labor efficiency, repeat work, and service reliability each reveal something different about performance. Looking at these measures together can help managers understand whether the team is delivering results sustainably.\n\nFor anyone managing field operations or service teams, which measure tells you the most about whether your team is performing well?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

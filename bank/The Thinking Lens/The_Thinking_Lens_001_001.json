@@ -1,57 +1,5 @@
 [
   {
-    "id": "thinking-lens-changing-perspectives-01",
-    "account": "garretts_dev_desk",
-    "theme": "changing_perspective_instead_of_overthinking",
-    "series": "thinking_lens_changing_perspectives",
-    "scheduled_at": "2027-09-30T09:15:00-04:00",
-    "posts": [
-      "Sometimes you don't need to think harder about a problem. You may just need to look at it from somewhere else.\n\nIt's easy to spend hours revisiting the same concerns without discovering anything new. A different perspective can reveal questions and possibilities that weren't obvious before.\n\nThat's the idea behind The Thinking Lens, a tool from Garrett's Dev Desk designed to help you explore your thinking from different angles: https://thethinkinglens.garrettsdevdesk.com"
-    ],
-    "media": [],
-    "alt": [],
-    "status": "queued"
-  },
-  {
-    "id": "thinking-lens-changing-perspectives-02",
-    "account": "garretts_dev_desk",
-    "theme": "recognizing_repetitive_thinking",
-    "series": "thinking_lens_changing_perspectives",
-    "scheduled_at": "2027-09-30T15:30:00-04:00",
-    "posts": [
-      "Have you ever spent an entire afternoon thinking about something, only to realize you're asking yourself the same questions you started with?\n\nMore time doesn't always produce a better perspective. Sometimes we're simply taking another lap around a familiar problem.\n\nTry writing down the question you've been repeating. Then ask yourself whether answering it would actually help you move forward, or whether there's a more useful question to explore."
-    ],
-    "media": [],
-    "alt": [],
-    "status": "queued"
-  },
-  {
-    "id": "thinking-lens-changing-perspectives-03",
-    "account": "garretts_dev_desk",
-    "theme": "exploring_multiple_thinking_lenses",
-    "series": "thinking_lens_changing_perspectives",
-    "scheduled_at": "2027-10-01T09:15:00-04:00",
-    "posts": [
-      "Imagine moving to a different chair every time you reconsider a difficult decision.\n\nFrom one chair, you notice the risks. From another, you see your assumptions. Somewhere else, you recognize what you still don't know. The problem hasn't changed, but your view of it has.\n\nThe Thinking Lens from Garrett's Dev Desk helps you explore those different perspectives without losing sight of your own judgment: https://thethinkinglens.garrettsdevdesk.com"
-    ],
-    "media": [],
-    "alt": [],
-    "status": "queued"
-  },
-  {
-    "id": "thinking-lens-changing-perspectives-04",
-    "account": "garretts_dev_desk",
-    "theme": "asking_more_productive_questions",
-    "series": "thinking_lens_changing_perspectives",
-    "scheduled_at": "2027-10-01T15:30:00-04:00",
-    "posts": [
-      "When you're stuck on a problem, changing the question can be more useful than trying to force an answer.\n\nInstead of asking what you should do for the tenth time, consider what information is missing, which assumptions you're making, or what you could test before committing.\n\nTry choosing just one of those questions today. Write down your answer and see whether it reveals a next step you hadn't considered."
-    ],
-    "media": [],
-    "alt": [],
-    "status": "queued"
-  },
-  {
     "id": "thinking-lens-changing-perspectives-05",
     "account": "garretts_dev_desk",
     "theme": "small_actions_create_clarity",

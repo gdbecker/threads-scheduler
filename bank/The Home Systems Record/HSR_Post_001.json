@@ -1,31 +1,5 @@
 [
   {
-    "id": "home-systems-record-03",
-    "account": "garretts_dev_desk",
-    "theme": "creating_a_simple_reference_system_for_home_equipment_and_maintenance",
-    "series": "home_systems_record_home_organization",
-    "scheduled_at": "2028-11-24T09:15:00-05:00",
-    "posts": [
-      "Your home doesn't necessarily need another planner. It needs a reliable place for important information.\n\nEquipment details, warranties, repair records, and service contacts are much easier to use when they're organized together instead of scattered across drawers and inboxes.\n\nThat's the idea behind The Home Systems Record, a printable home reference pack: https://garrettsdevdesk.etsy.com/listing/4596839999/home-maintenance-binder-printable-pdf"
-    ],
-    "media": [],
-    "alt": [],
-    "status": "queued"
-  },
-  {
-    "id": "home-systems-record-04",
-    "account": "garretts_dev_desk",
-    "theme": "identifying_the_essential_information_to_include_in_a_home_reference_binder",
-    "series": "home_systems_record_home_organization",
-    "scheduled_at": "2028-11-24T15:30:00-05:00",
-    "posts": [
-      "A useful home maintenance record doesn't have to be complicated.\n\nStart with four categories: equipment and model numbers, warranties and documents, shutoff locations and service contacts, and repair or replacement history. These are the details that become especially valuable when something needs attention.\n\nTry making a one-page reference for your water heater or HVAC system. You can build the rest of your home record gradually."
-    ],
-    "media": [],
-    "alt": [],
-    "status": "queued"
-  },
-  {
     "id": "home-systems-record-05",
     "account": "garretts_dev_desk",
     "theme": "preparing_home_maintenance_information_before_repairs_are_needed",

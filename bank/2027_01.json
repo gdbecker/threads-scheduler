@@ -1,0 +1,34 @@
+[
+  {
+    "id": "pbi-bd-pipeline-05",
+    "account": "garretts_dev_desk",
+    "theme": "connecting_pipeline_team_and_opportunity_reporting",
+    "series": "pbi_business_development_pipeline_overview",
+    "scheduled_at": "2027-01-01T09:15:00-04:00",
+    "posts": [
+      "Business development performance becomes easier to understand when you can see the pipeline, the people, and the opportunities together.\n\nPipeline health provides the overall picture. Team attainment shows contributions against goals. Opportunity analysis helps explain what's behind the totals.\n\nMy Business Development Performance Power BI Kit brings these into three editable report pages: https://garrettsdevdesk.etsy.com/listing/4595453904/power-bi-business-development-dashboard"
+    ],
+    "media": [
+      {
+        "type": "image",
+        "path": "media/garretts_dev_desk/power_bi/005_cover.png",
+        "alt": "Preview of the Business Development Performance Power BI Kit"
+      }
+    ],
+    "alt": [],
+    "status": "queued"
+  },
+  {
+    "id": "pbi-bd-pipeline-06",
+    "account": "garretts_dev_desk",
+    "theme": "discussing_which_metrics_best_explain_business_development_pipeline_health",
+    "series": "pbi_business_development_pipeline_overview",
+    "scheduled_at": "2027-01-01T15:30:00-04:00",
+    "posts": [
+      "A large pipeline can be reassuring until someone asks how much of it is likely to become actual business.\n\nTotal value, weighted value, stage distribution, and won business each reveal something different. Reviewing them together can help teams understand whether the pipeline supports their goals.\n\nFor business development managers and analysts, which metric do you find most useful when assessing pipeline health?"
+    ],
+    "media": [],
+    "alt": [],
+    "status": "queued"
+  }
+]

@@ -1,31 +1,5 @@
 [
   {
-    "id": "briefly-clear-updates-03",
-    "account": "garretts_dev_desk",
-    "theme": "writing_workflows",
-    "series": "briefly_clear_updates",
-    "scheduled_at": "2026-11-19T09:15:00-05:00",
-    "posts": [
-      "One small change can make writing work updates easier: stop trying to organize and polish everything at once.\n\nCollect your rough notes first. Figure out the message second. Then worry about the wording.\n\nThat's the kind of workflow I built Briefly to support.\n\nhttps://briefly.garrettsdevdesk.com"
-    ],
-    "media": [],
-    "alt": [],
-    "status": "queued"
-  },
-  {
-    "id": "briefly-clear-updates-04",
-    "account": "garretts_dev_desk",
-    "theme": "clear_communication",
-    "series": "briefly_clear_updates",
-    "scheduled_at": "2026-11-19T15:30:00-05:00",
-    "posts": [
-      "Before sending your next project update, ask four questions:\n\nWhat changed? What matters now? What's blocked? What happens next?\n\nAnswer those clearly and you've already done much of the important work. Briefly helps put those answers into a structured update.\n\nhttps://briefly.garrettsdevdesk.com"
-    ],
-    "media": [],
-    "alt": [],
-    "status": "queued"
-  },
-  {
     "id": "briefly-clear-updates-05",
     "account": "garretts_dev_desk",
     "theme": "executive_briefs",

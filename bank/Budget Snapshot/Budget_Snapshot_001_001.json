@@ -1,31 +1,5 @@
 [
   {
-    "id": "budget-snapshot-hoa-clarity-03",
-    "account": "garretts_dev_desk",
-    "theme": "financial_transparency",
-    "series": "budget_snapshot_hoa_clarity",
-    "scheduled_at": "2027-01-22T09:15:00-05:00",
-    "posts": [
-      "Before asking homeowners to work through pages of budget line items, give them the big picture.\n\nStart with annual dues, major expenses, reserve contributions, and the biggest changes from last year. That context makes the detailed numbers easier to understand.\n\nBudget Snapshot helps organize community financial information into a clearer presentation: https://budgetsnapshot.garrettsdevdesk.com"
-    ],
-    "media": [],
-    "alt": [],
-    "status": "queued"
-  },
-  {
-    "id": "budget-snapshot-hoa-clarity-04",
-    "account": "garretts_dev_desk",
-    "theme": "budget_explanations",
-    "series": "budget_snapshot_hoa_clarity",
-    "scheduled_at": "2027-01-22T15:30:00-05:00",
-    "posts": [
-      "Not every line item deserves the same amount of attention in an HOA budget presentation.\n\nIf insurance costs increased substantially while office supplies barely changed, homeowners probably need more explanation about insurance.\n\nTry identifying the three expenses driving the biggest changes before writing your next budget summary. Those are often good places to start the conversation."
-    ],
-    "media": [],
-    "alt": [],
-    "status": "queued"
-  },
-  {
     "id": "budget-snapshot-hoa-clarity-05",
     "account": "garretts_dev_desk",
     "theme": "hoa_reserve_planning",
