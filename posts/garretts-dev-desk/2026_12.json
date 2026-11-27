@@ -157,7 +157,7 @@
     "account": "garretts_dev_desk",
     "theme": "overthinking_decisions",
     "series": "decision_untangler_hidden_tradeoffs",
-    "scheduled_at": "2026-12-05TT15:30:00-04:00",
+    "scheduled_at": "2026-12-05T15:30:00-04:00",
     "posts": [
       "Going back and forth on a decision doesn't always mean you need more information.\n\nSometimes you've already considered the practical details several times. Another round of research may bring you back to the same unanswered questions.\n\nTry writing down what you genuinely don't know yet. If the list is short, the difficulty may have more to do with the tradeoffs than the available facts."
     ],
@@ -733,7 +733,7 @@
     "account": "garretts_dev_desk",
     "theme": "using_physical_locations_as_memory_prompts",
     "series": "waf_forgotten_exceptions",
-    "scheduled_at": "2026-12-2315:30:00-05:00",
+    "scheduled_at": "2026-12-23T15:30:00-05:00",
     "posts": [
       "Sometimes your house is a better checklist than your memory.\n\nThe fridge holds the lunch you packed. The outlet holds the charger you need. The printer holds the document you meant to bring. And the kitchen counter seems to collect everything else.\n\nBefore heading out, take thirty seconds to scan the places where temporary items tend to wait. It's a small habit that can save you an unnecessary trip back home."
     ],
