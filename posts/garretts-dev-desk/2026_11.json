@@ -175,7 +175,17 @@
       }
     ],
     "alt": [],
-    "status": "queued"
+    "status": "posted",
+    "posted_at": "2026-11-27T20:18:09.626Z",
+    "threads_posts": [
+      {
+        "text": "Your sales dashboard might only be telling half the story.\n\nRevenue is important, but understanding which products drive sales, how transactions are recorded, and what the business is purchasing adds valuable context. Those details help build a fuller picture of commercial performance.\n\nMy Sales Performance & Commercial Operations Power BI Kit brings these views together: https://garrettsdevdesk.etsy.com/listing/4595438858/power-bi-sales-dashboard-template-sales",
+        "threads_creation_id": "18139639120792961",
+        "threads_post_id": "18087877382358206",
+        "posted_at": "2026-11-27T20:18:09.626Z"
+      }
+    ],
+    "error": null
   },
   {
     "id": "pbi-sales-operations-02",
@@ -188,7 +198,18 @@
     ],
     "media": [],
     "alt": [],
-    "status": "queued"
+    "status": "posted",
+    "posted_at": "2026-11-27T20:18:19.696Z",
+    "threads_posts": [
+      {
+        "index": 0,
+        "text": "Revenue is a useful starting point for sales reporting, but it becomes more meaningful alongside other measures.\n\nOrder counts, units sold, and average order value help explain how sales activity is developing. Looking at these metrics over time can reveal changes that a single revenue figure might miss.\n\nTry comparing revenue growth with changes in order volume and average order value. Is growth coming from more orders, larger orders, or a combination of both?",
+        "threads_creation_id": "18139639165792961",
+        "threads_post_id": "17946938742091807",
+        "posted_at": "2026-11-27T20:18:16.694Z"
+      }
+    ],
+    "error": null
   },
   {
     "id": "pbi-workforce-performance-01",
